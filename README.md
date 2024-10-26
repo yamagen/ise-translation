@@ -47,7 +47,10 @@ Tag sets are written in json format shown as the following:
 
 ### **To process the data**
 
+<!--
 このjsonファイルは、以下のコマンド, jq で操作できる。
+-->
+
 This json file can be manipulated with the following command with jq:
 
 ```bash
