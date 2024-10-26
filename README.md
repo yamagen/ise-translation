@@ -1,6 +1,6 @@
 # **ise-translation**
 
-## The Tale of Ise translation dataset
+## The Tales of Ise translation dataset
 
 [![DOI](https://zenodo.org/badge/878207767.svg)](https://doi.org/10.5281/zenodo.13994482)
 
@@ -9,7 +9,7 @@
 現代語訳および英語訳は、山元啓史によるものです。
 -->
 
-This is a dataset of contemporary translation and English translation of "The Tale of Ise" (author unknown, date of completion unknown).
+This is a dataset of contemporary translation and English translation of "The Tales of Ise" (author unknown, date of completion unknown).
 The contemporary translation and English translation are by Hilofumi Yamamoto.
 
 ### **Introduction**
@@ -21,8 +21,8 @@ The contemporary translation and English translation are by Hilofumi Yamamoto.
 翻刻は、 中川聡氏</a>による翻刻を利用した。
 -->
 
-"The Tale of Ise" is considered to be the oldest Japanese poetic narrative.
-The text is based on the "The Tale of Ise" in the New Edition of Japanese Classical Literature, Volume 12, Shogakukan, edited by Sadanosuke Fukui.
+"The Tales of Ise" is considered to be the oldest Japanese poetic narrative.
+The text is based on the "The Tales of Ise" in the New Edition of Japanese Classical Literature, Volume 12, Shogakukan, edited by Sadanosuke Fukui.
 The contemporary translation and English translation were done by Hilofumi Yamamoto.
 The transcription was done by [Satoshi Nakagawa](https://yatanavi.org/text/ise/index.html#google_vignette).
 
