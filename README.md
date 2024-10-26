@@ -1,7 +1,5 @@
 # **ise-translation**
 
-[![DOI](https://zenodo.org/badge/868652787.svg)](https://zenodo.org/badge/latestdoi/868652787)
-
 ## The Tale of Ise translation dataset
 
 <!--
