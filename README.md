@@ -30,20 +30,20 @@ The transcription was done by [Satoshi Nakagawa](https://yatanavi.org/text/ise/i
 
 Tag sets are written in json format shown as the following:
 
-```plaintext
-"dan" .. stage number
-"title" .. title of the stage
-"romaji" .. romaji of the title
-"paragraph" .. text or poem sentence
-"date" .. date of the revision
-"id" .. id of the text
-"text" .. text of the sentence
-"poem" .. poem sentence
-"kana" .. kana notation of the text/poem sentence
-"honkoku" .. transcription by Satoshi Nakagawa
-"translation-ja" .. contemporary translation by Hilofumi Yamamoto
-"translation-en" .. English translation by Hilofumi Yamamoto
-```
+| tag              | content                                 |
+| ---------------- | --------------------------------------- |
+| "dan"            | stage number                            |
+| "title"          | title of the stage                      |
+| "romaji"         | romaji of the title                     |
+| "paragraph"      | text or poem sentence                   |
+| "date"           | date of the revision                    |
+| "id"             | id of the text                          |
+| "text"           | text of the sentence                    |
+| "poem"           | poem sentence                           |
+| "kana"           | kana notation of the text/poem sentence |
+| "honkoku"        | transcription by Satoshi Nakagawa       |
+| "translation-ja" | contemporary translation                |
+| "translation-en" | English translation                     |
 
 ### **To process the data**
 
