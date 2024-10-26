@@ -108,7 +108,7 @@ $ jq '[.[] | select(.paragraph != null) |
 ### **License**
 
 The source codes for this project are released under the Apache 2.0 License.
-The dataset of this project is released under the Creative Commons 4.0 International By SA ![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) license.
+The dataset of this project is released under the Creative Commons 4.0 International By SA license.
 
 ### **Authors and Acknowledgment**
 
