@@ -3,6 +3,7 @@
 ## The Tales of Ise translation dataset
 
 [![DOI](https://zenodo.org/badge/878207767.svg)](https://doi.org/10.5281/zenodo.13994482)
+![Static Badge](https://img.shields.io/badge/json-passing-brightgreen)
 
 <!--
 これは伊勢物語(作者不詳、成立年代不詳)の現代語訳、英語訳のデータセットです。
