@@ -24,7 +24,7 @@ The contemporary translation and English translation are by Hilofumi Yamamoto.
 "The Tale of Ise" is considered to be the oldest Japanese poetic narrative.
 The text is based on the "The Tale of Ise" in the New Edition of Japanese Classical Literature, Volume 12, Shogakukan, edited by Sadanosuke Fukui.
 The contemporary translation and English translation were done by Hilofumi Yamamoto.
-The transcription was done by Satoshi Nakagawa, <a href="https://yatanavi.org/text/ise/index.html#google_vignette">Ise monogatari</>.
+The transcription was done by [Satoshi Nakagawa](https://yatanavi.org/text/ise/index.html#google_vignette).
 
 ### **Data format**
 
