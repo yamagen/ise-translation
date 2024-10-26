@@ -30,6 +30,7 @@ The transcription was done by Satoshi Nakagawa, <a href="https://yatanavi.org/te
 
 Tag sets are written in json format shown as the following:
 
+```plaintext
 "dan" .. stage number
 "title" .. title of the stage
 "romaji" .. romaji of the title
@@ -42,6 +43,7 @@ Tag sets are written in json format shown as the following:
 "honkoku" .. transcription by Satoshi Nakagawa
 "translation-ja" .. contemporary translation by Hilofumi Yamamoto
 "translation-en" .. English translation by Hilofumi Yamamoto
+```
 
 ### **To process the data**
 
