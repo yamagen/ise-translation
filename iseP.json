@@ -92,7 +92,8 @@
         "kana": "みちのくの/しのぶもじすり/たれゆえに/みだれそめにし/われならなくに",
         "honkoku": "みちのくのしのふもちすりたれゆへに/みたれそめにしわれならなくに/",
         "translation-ja": "陸奥のしのぶもじ摺り、誰のせいで、乱れだしたのでしょうか、この私ではなくて、...",
-        "translation-en": "Whose fault is it that the Shinobuzuri of Michinoku has become disturbed? It's not mine, is it?"
+        "translation-en": "Whose fault is it that the Shinobuzuri of Michinoku has become disturbed? It's not mine, is it?",
+        "translation-en-natural": "Whose fault is it that the patterns of Shinobuzuri in Michinoku have become so chaotic? Surely, it can't be mine..."
       },
       {
         "date": "20240517,20241018",
@@ -101,7 +102,8 @@
         "kana": "といふうたのこころばえなり。",
         "honkoku": "といふうたの心はへなり",
         "translation-ja": "というのが、歌の本心である。",
-        "translation-en": "That is the true meaning of the poem."
+        "translation-en": "That is the true meaning of the poem.",
+        "translation-en-natural": "That's the true intention behind the poem."
       },
       {
         "date": "20240517,20241018",
@@ -110,7 +112,8 @@
         "kana": "むかしびとは、かくいちはやきみやびをなむしける。",
         "honkoku": "むかし人はかく/いちはやきみやひをなんしける/s7l/",
         "translation-ja": "昔の人々は、こういう即興的な趣きあることをしていました。",
-        "translation-en": "People of the past performed such prompt, passionate elegance."
+        "translation-en": "People of the past performed such prompt, passionate elegance.",
+        "translation-en-natural": "People in the past used to display this kind of spontaneous and refined elegance."
       }
     ]
   },
@@ -135,7 +138,8 @@
         "kana": "ならのみやこははなれ、このみやこはひとのいえまださだまらざりけるときに、にしのみやこにおんなありけり。",
         "honkoku": "ならの京ははな/れこの京は人のいゑまたさたまらさり/ける時に西の京に女ありけり",
         "translation-ja": "奈良の京は離れ、この京は人の家がまだ定まらなかった時に、西の京に女がいました。",
-        "translation-en": "The capital of Nara had left, and at the time when people's houses were not yet settled in this capital, there was a woman in the western part of the capital."
+        "translation-en": "The capital of Nara had left, and at the time when people's houses were not yet settled in this capital, there was a woman in the western part of the capital.",
+        "translation-en-natural": "After the capital moved from Nara, when people had yet to settle in their new homes, there was a woman living in the western part of the capital."
       },
       {
         "date": "20240520,20241021",
@@ -144,7 +148,8 @@
         "kana": "そのをんな、よひとにはまされりけり。",
         "honkoku": "かの/女世人にはまされりけり",
         "translation-ja": "その女は、世間の人よりも、すぐれていました。",
-        "translation-en": "That woman was exceptional compared to ordinary people."
+        "translation-en": "That woman was exceptional compared to ordinary people.",
+        "translation-en-natural": "That woman was exceptional compared to ordinary people."
       },
       {
         "date": "20240520,20241021",
@@ -153,7 +158,8 @@
         "kana": "そのひと、かたちよりはこころなむまさりたりける。",
         "honkoku": "その人かたち/よりは心なむまさりたりける",
         "translation-ja": "その人は、外見よりは心がすばらしかった。",
-        "translation-en": "That person's heart was more wonderful than her appearance."
+        "translation-en": "That person's heart was more wonderful than her appearance.",
+        "translation-en-natural": "Her heart was more wonderful than her outward appearance."
       },
       {
         "date": "20240520,20241021",
@@ -162,7 +168,8 @@
         "kana": "ひとりのみもあらざりけらし。",
         "honkoku": "ひとりのみ/s7l/もあらさりけらし",
         "translation-ja": "独身でもなかったようでした。",
-        "translation-en": "It seems that she wasn't single."
+        "translation-en": "It seems that she wasn't single.",
+        "translation-en-natural": "She didn't seem to be single."
       },
       {
         "date": "20240520,20241022",
@@ -196,7 +203,8 @@
         "kana": "むかし、をとこありけり。",
         "honkoku": "むかしおとこありけり",
         "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
         "date": "20240521,20241029",
@@ -204,8 +212,9 @@
         "text": "懸想じける女のもとに、ひじき藻いふものをやるとて、",
         "kana": "けさうじけるをんなのもとに、ひじきもというものをやるとして、",
         "honkoku": "けさうしける女/のもとにひしきもといふ物をやるとて/",
-        "translation-ja": "思いを懸けている女のもとに、ひじき藻というものをやるとして、",
-        "translation-en": "He gave the hijiki seaweed to a woman he loved."
+        "translation-ja": "思いを懸けている女のもとに、ひじき藻というものをやると言って、",
+        "translation-en": "He intended to send hijiki seaweed to the woman he longed for.",
+        "translation-en-natural": "He planned to send some hijiki seaweed to the woman he was infatuated with."
       },
       {
         "date": "20240521,20241029",
@@ -214,7 +223,8 @@
         "kana": "おもいあらば/むぐらのやどに/ねもしなむ/ひじきものには/そでをしつつも",
         "honkoku": "思ひあらはむくらの宿にねもしなん/ひしきものにはそてをしつつも/",
         "translation-ja": "思いがあるなら、葎の宿に寝ましょう、引き敷くものを袖にして。",
-        "translation-en": "If you think of me, we may sleep on your sleeve cloths in the hut of the creeper grass."
+        "translation-en": "If you have feelings for me, we shall sleep in the hut of creeper grass, with our sleeves as bedding.",
+        "translation-en-natural": "If you truly care for me, let's lie together in the overgrown hut, using our sleeves as bedding."
       },
       {
         "date": "20240521",
