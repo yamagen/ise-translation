@@ -74,7 +74,7 @@ $ jq '[.[] | select(.paragraph != null) |
       + (if ."translation-en-natural" != null then {"translation-en-natural": ."translation-en-natural"} else {} end)
     ]
   }
-]' iseP.json
+]' $1
 ```
 
 ### **Example**
@@ -93,7 +93,9 @@ $ jq '[.[] | select(.paragraph != null) |
         "kana": "むかし、をとこ、うゐかうぶりして、ならのみやこかすがのさとに、しるよしして、かりにいにけり。",
         "honkoku": "むかしおとこうゐかうふりしてならの/京かすかの里にしるよししてかりに/いにけり",
         "translation-ja": "昔、ある男が初めて冠をかぶり、縁あって、奈良の京、春日の里に狩りに行った。",
-        "translation-en": "Once upon a time, a man, newly crowned, went hunting in the village of Kasuga in Nara."
+        "translation-ja-natural": "昔、ある男が元服を迎え、縁あって奈良の都、春日の里へ狩りに出かけました。",
+        "translation-en": "Once upon a time, a man, newly crowned, went hunting in the village of Kasuga in Nara.",
+        "translation-en-natural": "Once upon a time, a young man, having just come of age, went hunting in the village of Kasuga in Nara
       },
       {
         "date": "20240516,20241017",
@@ -102,7 +104,9 @@ $ jq '[.[] | select(.paragraph != null) |
         "kana": "そのさとに、いとなまめいたるをんなはらからすみけり。",
         "honkoku": "そのさとにいとなまめいたる女/はらからすみけり",
         "translation-ja": "その里に、非常に美しい姉妹が住んでいた。",
-        "translation-en": "In that village, there lived two very beautiful sisters."
+        "translation-ja-natural": "その里には、とても美しい姉妹が住んでいました。",
+        "translation-en": "In that village, there lived two very beautiful sisters.",
+        "translation-en-natural": "In that village, there were two sisters who were truly beautiful."
       }
     ]
   }
