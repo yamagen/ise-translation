@@ -49,13 +49,15 @@
         "translation-en-natural": "Unexpectedly, he was unsettled, finding these beautiful women strangely out of place in the old capital."
       },
       {
-        "date": "20240516,20241018",
+        "date": "20240516,20241018,20241112",
         "id": 5,
         "text": "男の、着たりける狩衣の裾をきりて、歌を書きてやる。",
         "kana": "をとこの、きたりけるかりごろものすそをきりて、うたをかきてやる。",
         "honkoku": "男のきたりけるかりきぬのすそをきりて/うたをかきてやる",
         "translation-ja": "男は着ていた狩衣の裾を切って、歌を書いて贈った。",
-        "translation-en": "The man cut the hem of the hunting robe he was wearing, wrote a poem on it, and sent it as a gift."
+        "translation-ja-natural": "男は着ていた狩衣の裾を切り取り、そこに歌を書いて贈りました。",
+        "translation-en": "The man cut the hem of the hunting robe he was wearing, wrote a poem on it, and sent it as a gift.",
+        "translation-en-natural": "The man cut off the hem of his hunting robe, wrote a poem on it, and sent it as a gift."
       },
       {
         "date": "20240516,20241018",
@@ -64,7 +66,9 @@
         "kana": "そのをとこ、しのぶずりのかりごろもをなむきたりける。",
         "honkoku": "そのおとこしのふすり/のかりきぬをなむきたりける/s6r/",
         "translation-ja": "その男は、信夫摺の狩衣を着ていた。",
-        "translation-en": "The man was wearing a hunting coat of Shinobuzuri."
+        "translation-ja-natural": "その男は、信夫摺の狩衣を着ていました。",
+        "translation-en": "The man was wearing a hunting coat of Shinobuzuri.",
+        "translation-en-natural": "The man was wearing a hunting robe in the Shinobuzuri pattern."
       },
       {
         "date": "20240516,20241018",
@@ -73,7 +77,9 @@
         "kana": "かすがの/わかむらさきの/すりごろも/しのぶのみだれ/かぎりしられず",
         "honkoku": "かすかののわかむらさきのすり衣/しのふのみたれかきりしられす/",
         "translation-ja": "春日野の若紫で染めた衣、忍ぶ恋の乱れは限りがわかりません。",
-        "translation-en": "The robe dyed with young purple from Kasuga Field, like the disorder of concealed love, knows no limits."
+        "translation-ja-natural": "春日野の若紫で染めた衣のように、美しいあなた方にお逢いして、私の心は、この紫の信夫摺の模様のように、限りなく乱れています。",
+        "translation-en": "The robe dyed with young purple from Kasuga Field, like the disorder of concealed love, knows no limits.",
+        "translation-en-natural": "Meeting you, as beautiful as robes dyed in the young purple of Kasuga Fields, my heart is endlessly tangled, just like the patterns of purple Shinobuzuri."
       },
       {
         "date": "20240517,20241018",
@@ -82,7 +88,9 @@
         "kana": "となむおいつきていいやりける。",
         "honkoku": "となむをいつきていひやりける",
         "translation-ja": "と、追いついて言ってさしあげました。",
-        "translation-en": "that she caught up with him and said."
+        "translation-ja-natural": "そう言って、すぐに追いついて伝えました。",
+        "translation-en": "that she caught up with him and said.",
+        "translation-en-natural": "With that, she quickly caught up to him and conveyed her words."
       },
       {
         "date": "20240517,20241018",
