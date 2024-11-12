@@ -11,7 +11,9 @@
         "kana": "むかし、をとこ、うゐかうぶりして、ならのみやこかすがのさとに、しるよしして、かりにいにけり。",
         "honkoku": "むかしおとこうゐかうふりしてならの/京かすかの里にしるよししてかりに/いにけり",
         "translation-ja": "昔、ある男が初めて冠をかぶり、縁あって、奈良の京、春日の里に狩りに行った。",
-        "translation-en": "Once upon a time, a man, newly crowned, went hunting in the village of Kasuga in Nara."
+        "translation-ja-natural": "昔、ある男が元服を迎え、縁あって奈良の都、春日の里へ狩りに出かけました。",
+        "translation-en": "Once upon a time, a man, newly crowned, went hunting in the village of Kasuga in Nara.",
+        "translation-en-natural": "Once upon a time, a young man, having just come of age, went hunting in the village of Kasuga in Nara."
       },
       {
         "date": "20240516,20241017",
@@ -20,7 +22,9 @@
         "kana": "そのさとに、いとなまめいたるをんなはらからすみけり。",
         "honkoku": "そのさとにいとなまめいたる女/はらからすみけり",
         "translation-ja": "その里に、非常に美しい姉妹が住んでいた。",
-        "translation-en": "In that village, there lived two very beautiful sisters."
+        "translation-ja-natural": "その里には、とても美しい姉妹が住んでいました。",
+        "translation-en": "In that village, there lived two very beautiful sisters.",
+        "translation-en-natural": "In that village, there were two sisters who were truly beautiful."
       },
       {
         "date": "20240516,20241017",
@@ -29,7 +33,9 @@
         "kana": "このをとこかいまみてけり。",
         "honkoku": "このおとこかいまみて/けり",
         "translation-ja": "この男は、のぞき見してしまった。",
-        "translation-en": "This man peeked and saw at them."
+        "translation-ja-natural": "この男は、物陰から二人をのぞき見してしまいました。",
+        "translation-en": "This man peeked and saw at them.",
+        "translation-en-natural": "The man ended up sneaking a peek at the two from behind something."
       },
       {
         "date": "20240516,20241018",
@@ -38,7 +44,9 @@
         "kana": "おもいがけず、ふるさとにいとはしたなくてありければ、ここちまどひにけり。",
         "honkoku": "おもほえすふるさとにいとはした/なくてありけれは心地まとひにけり/",
         "translation-ja": "思いがけず、旧都には不似合いであったので、心が動揺してしまいました。",
-        "translation-en": "It unexpectedly disturbed him because it seemed out of place in the old capital."
+        "translation-ja-natural": "思いがけず、この古い都には不似合いなほど美しい女性たちがいたので、心が揺れてしまいました。",
+        "translation-en": "It unexpectedly disturbed him because it seemed out of place in the old capital.",
+        "translation-en-natural": "Unexpectedly, he was unsettled, finding these beautiful women strangely out of place in the old capital."
       },
       {
         "date": "20240516,20241018",
@@ -138,6 +146,7 @@
         "kana": "ならのみやこははなれ、このみやこはひとのいえまださだまらざりけるときに、にしのみやこにおんなありけり。",
         "honkoku": "ならの京ははな/れこの京は人のいゑまたさたまらさり/ける時に西の京に女ありけり",
         "translation-ja": "奈良の京は離れ、この京は人の家がまだ定まらなかった時に、西の京に女がいました。",
+        "translation-ja-natural": "奈良の都が移り、この新しい都にはまだ人々の家が定まっていなかった頃、西の京に一人の女性がいました。",
         "translation-en": "The capital of Nara had left, and at the time when people's houses were not yet settled in this capital, there was a woman in the western part of the capital.",
         "translation-en-natural": "After the capital moved from Nara, when people had yet to settle in their new homes, there was a woman living in the western part of the capital."
       },
@@ -148,6 +157,7 @@
         "kana": "そのをんな、よひとにはまされりけり。",
         "honkoku": "かの/女世人にはまされりけり",
         "translation-ja": "その女は、世間の人よりも、すぐれていました。",
+        "translation-ja-natural": "その女は、世間の人よりも、すぐれていました。",
         "translation-en": "That woman was exceptional compared to ordinary people.",
         "translation-en-natural": "That woman was exceptional compared to ordinary people."
       },
@@ -207,7 +217,7 @@
         "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240521,20241029",
+        "date": "20240521,20241029,20241109",
         "id": 2,
         "text": "懸想じける女のもとに、ひじき藻いふものをやるとて、",
         "kana": "けさうじけるをんなのもとに、ひじきもというものをやるとして、",
@@ -217,7 +227,7 @@
         "translation-en-natural": "He planned to send some hijiki seaweed to the woman he was infatuated with."
       },
       {
-        "date": "20240521,20241029",
+        "date": "20240521,20241029,20241109",
         "id": 3,
         "poem": "思ひあらば/むぐらの宿に/寝もしなむ/ひじきものには/袖をしつつも",
         "kana": "おもいあらば/むぐらのやどに/ねもしなむ/ひじきものには/そでをしつつも",
@@ -227,13 +237,15 @@
         "translation-en-natural": "If you truly care for me, let's lie together in the overgrown hut, using our sleeves as bedding."
       },
       {
-        "date": "20240521",
+        "date": "20240521,20241111",
         "id": 4,
         "text": "二条の后の、まだ帝にも仕うまつりたまはで、ただ人にておはしましける時のことなり。",
         "kana": "にじやうのきさきの、まだみかどにもつかまつりたまはで、ただひとにておはしましけるときのことなり。",
         "honkoku": "二条のきさきのまたみかとにもつかう/まつり給はてたた人にておはしける/ときのことなり/s9r/",
         "translation-ja": "二条の后がまだ帝にも仕えておらず、普通の人でいらした時のことでした。",
-        "translation-en": "This is the time when the Empress of Nijo was not yet serving the Emperor and was just a person."
+        "translation-ja-natural": "二条の后はまだ天皇に仕えておらず、ただの人として暮らしていた時のことでした。",
+        "translation-en": "This is the time when the Empress of Nijo was not yet serving the Emperor and was just a person.",
+        "translation-en-natural": "This was the time when the Empress of Nijo had not yet served the Emperor and was just an ordinary woman."
       }
     ]
   },
@@ -247,46 +259,62 @@
         "id": 1,
         "text": "むかし、ひんがしの五条に、大后の宮おはしましける、西の対に住む人ありけり。",
         "kana": "むかし、ひんがしのごじょうに、おほきさいのみやおはしましける、にしのたいにすむひとありけり。",
+        "honkoku": "むかし東の五条におほきさいの宮お/はしましけるにしのたいにすむひとあり/けり",
         "translation-ja": "昔、東の五条に、大后の宮がおられた西の対に住む人がいました。",
-        "translation-en": "Once upon a time, there was a woman living in the Western Pair, where the Empress of the East Fifth Avenue resided."
+        "translation-ja-natural": "昔、五条通の東に、大后の宮がおられた西の対に住んでいる人がいました。",
+        "translation-en": "Once upon a time, in the East on Fifth Avenue, there was a person living in the Western Wing of the palace where the Empress Dowager resided.",
+        "translation-en-natural": "Once upon a time, on East Fifth Avenue, there was someone living in the western wing of the palace where the Empress Dowager resided."
       },
       {
-        "date": "20240522",
+        "date": "20240522,20241112",
         "id": 2,
         "text": "それをほいにはあらで、こころざし深かりける人、ゆきとぶらひけるを、正月の十日ばかりのほどに、ほかにかくれにけり。",
         "kana": "それをほいにはあらで、こころざしふかかりけるひと、ゆきとぶらひけるを、むつきのとおかばかりのほどに、ほかにかくれにけり。",
+        "honkoku": "それをほいにはあらて心さしふ/かかりける人行とふらひけるをむ月の/十日はかりのほとにほかにかくれにけり/",
         "translation-ja": "その人を本心からではなかったが、心深く思い慕っていた男が、通ってきていて、正月の十日のころに、ほかのところに隠れていた。",
-        "translation-en": "Although she did not love him from the bottom of her heart, he was deeply in love with her and often visiting and seeing her. Therefore she was hiding somewhere around the tenth day of the New Year."
+        "translation-ja-natural": "その人のことを本気で愛していたわけではなかったが、彼は彼女を深く思い、たびたび通ってきていた。そんな彼から逃れるために、正月十日ごろには彼女は別の場所に隠れていた。",
+        "translation-en": "Although she did not love him from the bottom of her heart, he was deeply in love with her and often visiting and seeing her. Therefore she was hiding somewhere around the tenth day of the New Year.",
+        "translation-en-natural": "She didn't truly love him, but he was deeply infatuated with her and often came to see her. So, around the tenth day of the New Year, she hid herself away somewhere."
       },
       {
-        "date": "20240522",
+        "date": "20240522,20241112",
         "id": 3,
         "text": "ありどころは聞けど、人のいき通ふべき所にもあらざりければ、なほうしと思ひつゝなむありける。",
         "kana": "ありどころはきけど、ひとのいきかよふべきところにもあらざりければ、なほうしとおもいつつなむありける。",
+        "honkoku": "あり所はきけと人のゆきかよふへきところ/にもあらさりけれはなをうしとおもひ/つつなんありける",
         "translation-ja": "ありかどころは聞いていたが、人が通るべきところにもいなかったので、なお悲しいと思いながら過ごしていました。",
-        "translation-en": "Although he had heard where she was, she did not live where people would pass by, so he was still sad."
+        "translation-ja-natural": "彼女がどこにいるかは聞いていたものの、人が通りそうな場所にはいなかったので、彼はそれでもなお寂しさを感じていました。",
+        "translation-en": "Although he had heard where she was, she did not live where people would pass by, so he was still sad.",
+        "translation-en-natural": "He had heard where she was, but since she was in a place where no one would usually pass by, he still felt a lingering sadness."
       },
       {
-        "date": "20240522",
+        "date": "20240522,20241112",
         "id": 4,
         "text": "またの年の睦月に梅の花ざかりに、去年を恋ひていきて、立ちて見、ゐて見、見れど、去年に似るべくもあらず。",
-        "kana": "またのとしのむつきにうめのはなざかりに、きょねんをこひていきて、たちてみ、ゐてみ、みれど、きょねんににるべくもあらず。",
+        "kana": "またのとしのむつきにうめのはなざかりに、こぞをこひていきて、たちてみ、ゐてみ、みれど、こぞににるべくもあらず。",
+        "honkoku": "又のとしのむ月に梅/の花さかりにこそをこひていきてたち/s10r/て見ゐて見々れとこそににるへくも/あらす",
         "translation-ja": "またの年の睦月に梅の花が満開になり、去年を恋しみながら、立って見て、座って見て、見てみたが、去年に似ることもなかった。",
-        "translation-en": "In the following year, in February, when the plum blossoms were in full bloom, he stood and watched, sat and watched, but there was nothing that resembled the previous year."
+        "translation-ja-natural": "また翌年の正月、梅の花が満開になり、彼は去年を懐かしみながら、立って眺めたり、座って眺めたりしてみたが、去年のような雰囲気は感じられなかった。",
+        "translation-en": "In the following year, in January, when the plum blossoms were in full bloom, he stood and watched, sat and watched, but there was nothing that resembled the previous year.",
+        "translation-en-natural": "The next year, in January, when the plum blossoms were in full bloom, he stood and watched, then sat and watched, reminiscing about the previous year, but nothing felt the same."
       },
       {
-        "date": "20240522",
+        "date": "20240522,20241112",
         "id": 5,
         "text": "うち泣て、あばらなる板敷に、月のかたぶくまでふせてりて、去年を思ひいでてよめる。",
         "kana": "うちなきて、あばらなるいたしきに、つきのかたぶくまでふせてりて、きょねんをおもいいでてよめる。",
+        "honkoku": "うちなきてあはらなるいたし/きに月のかたふくまてふせりてこそを/おもひいててよめる/",
         "translation-ja": "ひどく泣いて、薄ら寂しい板敷の間に、月が傾くまで伏せて、去年を思い出して詠んだ。",
-        "translation-en": "He cried bitterly, and lay face down between pale wooden floor, until the moon was set, and remembered last year and sang a poem."
+        "translation-ja-natural": "彼はひどく泣き、薄暗い板敷きの間に伏せて、月が沈むまで去年のことを思い出しながら歌を詠んだ。",
+        "translation-en": "He cried bitterly, and lay face down between pale wooden floor, until the moon was set, and remembered last year and sang a poem.",
+        "translation-en-natural": "He cried deeply, lying face down on the dim wooden floor, and stayed there, remembering last year, until the moon finally set, composing a poem."
       },
       {
         "date": "20240522",
         "id": 6,
         "poem": "月やあらぬ/春や昔の/春ならぬ/わが身は一つ/もとの身にして",
         "kana": "つきやあらぬ/はるやむかしの/はるならぬ/わがみはひとつ/もとのみにして",
+        "honkoku": "月やあらぬ春やむかしのはるならぬ/我身ひとつはもとの身にして/",
         "translation-ja": "月は昔の月ではないのか、春は昔の春ではないのか、わが身は一つもとのままの身なのに",
         "translation-en": "Is the moon not the moon of the past? Is the spring not the spring of the past? Although my body is the same as before,"
       },
@@ -295,6 +323,7 @@
         "id": 7,
         "text": "とよみて、夜のほのぼのと明くるに、泣く泣くかへりにけり。",
         "kana": "とよみて、よのほのぼのとあくるに、なくなくかへりにけり。",
+        "honkoku": "とよみて夜のほのほのとあくるに/なくなくかへりにけり/s10l/",
         "translation-ja": "と詠んで、夜がほのぼの明けるころに、泣きながら帰っていった。",
         "translation-en": "After singing, he returned home crying as the night dawned."
       }
