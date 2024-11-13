@@ -347,76 +347,102 @@
     "romaji": "sekimori",
     "paragraph": [
       {
-        "date": "20240524",
+        "date": "20240524,20241113",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、おとこありけり。",
+        "honkoku": "むかしおとこありけり",
         "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja-natural": "昔、ひとりの男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man"
       },
       {
-        "date": "20240524",
+        "date": "20240524,20241113",
         "id": 2,
         "text": "ひんがしの五条わたりにいと忍びていきけり。",
         "kana": "ひんがしのごじょうわたりにいとしのびていきけり。",
+        "honkoku": "ひんかしの五条わたり/にいとしのひていきけり",
         "translation-ja": "東の五条渡りに、密かに人目を避けて通っていました。",
-        "translation-en": "Avoiding people's eyes, he secretly visit someone in the East Fifth Avenue."
+        "translation-en": "Avoiding people's eyes, he secretly visit someone in the East Fifth Avenue.",
+        "translation-en-natural": "He would secretly pass through the area around East Fifth Avenue, avoiding people's eyes."
       },
       {
-        "date": "20240524",
+        "date": "20240524,20241113",
         "id": 3,
         "text": "みそかなる所なれば、門よりもえ入らで、わらべのふみあけたる築泥のくづれより、通ひけり。",
         "kana": "みそかなるところなれば、かどよりもえいらで、わらべのふみあけたるつちどろのくずれより、かよいけり。",
+        "honkoku": "みそかなる/ところなれはかとよりもえいらてわらは/へのふみあけたるついひちのくつれより/かよひけり",
         "translation-ja": "秘密の場所であるため、門から入れなくて、子供が踏み分けた土塀の泥の崩れたところから通いました。",
-        "translation-en": "Because it was a secret place, he could not enter from the gate, so he passed through the broken mud wall where children had trampled."
+        "translation-ja-natural": "そこは秘密の場所だったので、門からは入れず、子どもたちが踏み開けた土塀の崩れたところから通っていました。",
+        "translation-en": "Because it was a secret place, he could not enter from the gate, so he passed through the broken mud wall where children had trampled.",
+        "translation-en-natural": "Since it was a hidden place, he couldn't enter through the gate, so he slipped in through a break in the mud wall where children had trampled it down."
       },
       {
-        "date": "20240524",
+        "date": "20240524,20241113",
         "id": 4,
         "text": "人しげくもあらねど、たび重なりければ、あるじ聞きつけて、その通ひ路に、夜毎に人をすゑて、まもらせければ、いけどもえ逢はでかへりけり。",
         "kana": "ひとしげくもあらねど、たびかさなりければ、あるじききつけて、そのかよいみちに、よごとにひとをすゑて、まもらせければ、いけどもえあはでかへりけり。",
+        "honkoku": "人しけくもあらねとたひかさ/なりけれはあるしききつけてそのかよひ/ちに夜ことに人をすへてまもらせけれは/いけともえあはてかへりけり",
         "translation-ja": "人通りも頻繁ではないけれども、何度も重なってのことなので、主人が聞きつけて、その通り道に、毎夜に人を置いて、見張らせたので、行っても会えずに帰っていました。",
-        "translation-en": "Although there were not many people passing by, it happened repeatedly, so the master heard about it and had someone guard the path every night. Therefore, he could not meet her and went back."
+        "translation-ja-natural": "人通りは多くなかったものの、通うのが重なったため、主人が気づき、その通り道に毎晩見張りを立てさせたので、行っても会えずに帰ることになりました。",
+        "translation-en": "Although there were not many people passing by, it happened repeatedly, so the master heard about it and had someone guard the path every night. Therefore, he could not meet her and went back.",
+        "translation-en-natural": "Though the area wasn't busy, his visits became frequent enough that the master took notice and placed a guard along the path every night. So, even though he went, he couldn't see her and had to turn back."
       },
       {
-        "date": "20240524",
+        "date": "20240524,20241113",
         "id": 5,
         "text": "さてよめる。",
         "kana": "さてよめる。",
+        "honkoku": "さてよめる/",
         "translation-ja": "そうして、詠んだものとは。",
-        "translation-en": "Then, the poem he sang is.."
+        "translation-ja-natural": "そして、彼が詠んだのは次の歌です。",
+        "translation-en": "Then, the poem he sang is..",
+        "translation-en-natural": "And so, the poem he recited goes as follows."
       },
       {
-        "date": "20240524",
+        "date": "20240524,20241113",
         "id": 6,
         "poem": "人知れぬ/わが通ひ路の/関守は/宵々ごとに/うちも寝ななむ",
         "kana": "ひとしれぬ/わがかよひみちの/せきもりは/よいよごとに/うちもねななむ",
+        "honkoku": "人しれぬわかかよひちのせきもりは/s11l/よひよひことにうちもねななん/",
         "translation-ja": "人目を避けて通る私の通り道の関守は、宵夜毎に寝ないのでしょうか。",
-        "translation-en": "The gatekeeper of my secret path where I avoid people's eyes, does not sleep every night?"
+        "translation-ja-natural": "人目を避けて通う私の通り道の関守は、どうして夜ごとに眠らずにいるのだろうか。",
+        "translation-en": "The gatekeeper of my secret path where I avoid people's eyes, does not sleep every night?",
+        "translation-en-natural": "Why does the gatekeeper of my secret path, where I slip away from prying eyes, stay awake every night?"
       },
       {
-        "date": "20240524",
+        "date": "20240524,20241113",
         "id": 7,
         "text": "とよめりければ、いといたう心やみけり。",
         "kana": "とよめりければ、いといたうこころやみけり。",
+        "honkoku": "とよめりけれはいといたうこころやみけ/り",
         "translation-ja": "と詠んだので、その歌を聞いた彼女の心はひどく病んでしまいました。",
-        "translation-en": "After singing, her heart was deeply hurt."
+        "translation-ja-natural": "そう詠んだので、彼女の心はひどく痛んでしまいました。",
+        "translation-en": "After singing, her heart was deeply hurt.",
+        "translation-en-natural": "Hearing his poem, her heart was deeply troubled."
       },
       {
-        "date": "20240524",
+        "date": "20240524,20241113",
         "id": 8,
         "text": "あるじゆえしてけり。",
         "kana": "あるじゆえしてけり。",
+        "honkoku": "あるしゆるしてけり",
         "translation-ja": "主人は、状況を考慮し、許した。",
-        "translation-en": "The master considered the situation and allow him."
+        "translation-ja-natural": "主人は事情を考慮して、許してくれました。",
+        "translation-en": "The master considered the situation and allow him.",
+        "translation-en-natural": "The master, understanding the circumstances, gave his permission."
       },
       {
-        "date": "20240524",
+        "date": "20240524,20241113",
         "id": 9,
         "text": "二条の后に忍びてまゐりけるを、世の聞えありければ、せうとたちのまもらせ給ひけるとぞ。",
         "kana": "にじょうのごうにしのびてまゐりけるを、よのきこえありければ、せうとたちのまもらせたまひけるとぞ。",
+        "honkoku": "二条のきさきに/しのひてまいりけるを世のきこえあり/けれはせうとたちのまもらせたまひけるとそ/s12r/",
         "translation-ja": "二条の后に忍びてまいりましたが、世間には知られていたので、主人が見張りをしてくれたのです。",
-        "translation-en": "He sneaked into the Empress of Nijo, but it was known to the world, so her brothers guarded her."
+        "translation-ja-natural": "二条の后のもとにこっそりと参上しましたが、その噂は世間に広まっていたので、后の兄たちが見張りをするようになったのです。",
+        "translation-en": "He sneaked into the Empress of Nijo, but it was known to the world, so her brothers guarded her.",
+        "translation-en-natural": "He secretly visited the Empress of Nijo, but as rumors spread, her brothers began to keep a close watch over her."
       }
     ]
   },
