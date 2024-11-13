@@ -5,7 +5,7 @@
     "romaji": "uikouburi",
     "paragraph": [
       {
-        "date": "20240516,20241012",
+        "date": "20240516,20241012,20241112",
         "id": 1,
         "text": "むかし、男、初冠して、平城の京春日の里に、しるよしして、狩にいにけり。",
         "kana": "むかし、をとこ、うゐかうぶりして、ならのみやこかすがのさとに、しるよしして、かりにいにけり。",
@@ -16,7 +16,7 @@
         "translation-en-natural": "Once upon a time, a young man, having just come of age, went hunting in the village of Kasuga in Nara."
       },
       {
-        "date": "20240516,20241017",
+        "date": "20240516,20241017,20241112",
         "id": 2,
         "text": "その里に、いとなまめいたる女はらからすみけり。",
         "kana": "そのさとに、いとなまめいたるをんなはらからすみけり。",
@@ -27,7 +27,7 @@
         "translation-en-natural": "In that village, there were two sisters who were truly beautiful."
       },
       {
-        "date": "20240516,20241017",
+        "date": "20240516,20241017,20241112",
         "id": 3,
         "text": "この男かいまみてけり。",
         "kana": "このをとこかいまみてけり。",
@@ -38,7 +38,7 @@
         "translation-en-natural": "The man ended up sneaking a peek at the two from behind something."
       },
       {
-        "date": "20240516,20241018",
+        "date": "20240516,20241018,20241112",
         "id": 4,
         "text": "思ほえず、ふる里にいとはしたなくてありければ、心地まどひにけり。",
         "kana": "おもいがけず、ふるさとにいとはしたなくてありければ、ここちまどひにけり。",
@@ -60,7 +60,7 @@
         "translation-en-natural": "The man cut off the hem of his hunting robe, wrote a poem on it, and sent it as a gift."
       },
       {
-        "date": "20240516,20241018",
+        "date": "20240516,20241018,20241112",
         "id": 6,
         "text": "その男、信夫摺の狩衣をなむ着たりける。",
         "kana": "そのをとこ、しのぶずりのかりごろもをなむきたりける。",
@@ -71,7 +71,7 @@
         "translation-en-natural": "The man was wearing a hunting robe in the Shinobuzuri pattern."
       },
       {
-        "date": "20240516,20241018",
+        "date": "20240516,20241018,20241112",
         "id": 7,
         "poem": "春日野の/若むらさきの/すりごろも/しのぶの乱れ/かぎりしられず",
         "kana": "かすがの/わかむらさきの/すりごろも/しのぶのみだれ/かぎりしられず",
@@ -82,7 +82,7 @@
         "translation-en-natural": "Meeting you, as beautiful as robes dyed in the young purple of Kasuga Fields, my heart is endlessly tangled, just like the patterns of purple Shinobuzuri."
       },
       {
-        "date": "20240517,20241018",
+        "date": "20240517,20241018,20241112",
         "id": 8,
         "text": "となむ追ひつきて言ひやりける。",
         "kana": "となむおいつきていいやりける。",
@@ -318,22 +318,26 @@
         "translation-en-natural": "He cried deeply, lying face down on the dim wooden floor, and stayed there, remembering last year, until the moon finally set, composing a poem."
       },
       {
-        "date": "20240522",
+        "date": "20240522,20241113",
         "id": 6,
         "poem": "月やあらぬ/春や昔の/春ならぬ/わが身は一つ/もとの身にして",
         "kana": "つきやあらぬ/はるやむかしの/はるならぬ/わがみはひとつ/もとのみにして",
         "honkoku": "月やあらぬ春やむかしのはるならぬ/我身ひとつはもとの身にして/",
         "translation-ja": "月は昔の月ではないのか、春は昔の春ではないのか、わが身は一つもとのままの身なのに",
-        "translation-en": "Is the moon not the moon of the past? Is the spring not the spring of the past? Although my body is the same as before,"
+        "translation-ja-natural": "月はあの昔の月ではないのだろうか、春もあの昔の春ではないのだろうか。変わらないのは、ただ自分の身だけなのに。",
+        "translation-en": "Is the moon not the moon of the past? Is the spring not the spring of the past? Although my body is the same as before,",
+        "translation-en-natural": "Is this not the same moon as in the past? Is this spring not the spring of those days? And yet, the only thing that remains unchanged is myself."
       },
       {
-        "date": "20240522",
+        "date": "20240522,20241113",
         "id": 7,
         "text": "とよみて、夜のほのぼのと明くるに、泣く泣くかへりにけり。",
         "kana": "とよみて、よのほのぼのとあくるに、なくなくかへりにけり。",
         "honkoku": "とよみて夜のほのほのとあくるに/なくなくかへりにけり/s10l/",
         "translation-ja": "と詠んで、夜がほのぼの明けるころに、泣きながら帰っていった。",
-        "translation-en": "After singing, he returned home crying as the night dawned."
+        "translation-ja-natural": "こう詠んで、夜がほのぼのと明けるころ、泣きながら帰っていきました。",
+        "translation-en": "After singing, he returned home crying as the night dawned.",
+        "translation-en-natural": "After reciting the poem, he left in tears as the night slowly gave way to dawn."
       }
     ]
   },
