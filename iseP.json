@@ -452,100 +452,136 @@
     "romaji": "akutagawa",
     "paragraph": [
       {
-        "date": "20240525",
+        "date": "20240525,20241114",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、おとこありけり。",
+        "honkoku": "昔おとこありけり",
         "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja-natural": "昔、男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240525",
+        "date": "20240525,20241114",
         "id": 2,
         "text": "女の得まじかりけるを、年を経てよばひわたりけるを、からうじて盗み出でて、いと暗きにきけり。",
         "kana": "おんなのえまじかりけるを、としをへてよばひわたりけるを、からうじてぬすみいでて、いとくらきにきけり。",
+        "honkoku": "をんなのえうまし/かりけるを年をへてよはひわたりける/をからうしてぬすみ出ていとくらきにき/けり",
         "translation-ja": "手に入らない女を、何年にも渡って、夜這いをし続けて、漸く盗み連れ出して、たいそう暗いところ逃げて来ました。",
-        "translation-en": "For many years, he continued to sneak around at night to find a woman who no one couldn't get, until he finally stole her away and ran away to a very dark place."
+        "translation-ja-natural": "手に入れられそうもない女性に、何年もわたって夜な夜な通い続け、やっとのことで連れ出して、暗闇の中へと逃げて行ったのでした。",
+        "translation-en": "For many years, he continued to sneak around at night to find a woman who no one couldn't get, until he finally stole her away and ran away to a very dark place.",
+        "translation-en-natural": "For years, he kept sneaking around at night to see a woman he could never quite have, until he finally managed to steal her away and escape with her into the darkness."
       },
       {
-        "date": "20240525",
+        "date": "20240525,20241114",
         "id": 3,
         "text": "芥河といふ河を率ていきければ、草のうへにおきたりける露を、「かれは何ぞ」となむ男に問ひける。",
         "kana": "あくたがわといふかわをひきゐいていきければ、くさのうへにおきたりけるつゆを、「かれはなにぞ」となむおとこにとひける。",
+        "honkoku": "あくた河といふかはをゐていきけれ/はくさのうへにをきたりける露をかれ/はなにそとなんおとこにとひける",
         "translation-ja": "芥河という川にその女を連れて行くと、草の上に置かれた露を見て、その女は「これは何でしょうか」と、男に尋ねました。",
-        "translation-en": "Taking the woman to the Akutagawa River, she saw the dew on the grass and asked the man what it was."
+        "translation-ja-natural": "芥川という川にその女を連れて行くと、彼女は草に降りた露を見て、「これは何ですか？」と男に尋ねました。",
+        "translation-en": "Taking the woman to the Akutagawa River, she saw the dew on the grass and asked the man what it was.",
+        "translation-en-natural": "When he took her to the Akutagawa River, she saw the dew resting on the grass and asked him, 'What is this?'"
       },
       {
-        "date": "20240525",
+        "date": "20240525,20241114",
         "id": 4,
         "text": "ゆくさきおほく、夜もふけにければ、鬼ある所とも知らで、神さへいといみじう鳴り、雨もいたう降りければ、あばらなる蔵に、女をば奥におし入れて、男、弓、やなぐひを負ひて、戸口にをり。",
         "kana": "ゆくさきおほく、よもふけにければ、おにあるところともしらで、かみさへいといみじうなり、あめもいたうふりければ、あばらなるくらに、おんなをばおくにおしおれて、おとこ、ゆみ、やなぐひをおひて、とぐちにをり。",
+        "honkoku": "行/さきおほく夜もふけにけれはおにある所/ともしらてかみさへいといみしうなり/雨もいたうふりけれはあはらなるくらに/s13r/女をはおくにをしいれておとこゆみや/なくひをおひてとくちにをり",
         "translation-ja": "進む先は分からず、夜も更けていたので、鬼がいるとも知らず、雷が鳴り響く中、雨も激しく降っていたので、男は、女を蔵の奥に隠し入れ、弓と槍を持って、戸口に立っていました。",
-        "translation-en": "Not knowing where to go, and it was getting late at night, so he did not know that there was a demon, and the thunder was so loud that it was raining, and he was standing at the door with a bow and a spear, hiding the woman in the back of the warehouse."
+        "translation-ja-natural": "男はまだ逃げなければならず、夜もすっかり更けていた。鬼が住んでいるとは知らずに、雷が激しく鳴り、雨がざあざあ降り出したので、途中にあった見張りのいない開け放しの蔵に女を奥へ隠し入れ、男は弓と矢筒を背負って戸口で見張っていました。",
+        "translation-en": "Not knowing where to go, and it was getting late at night, so he did not know that there was a demon, and the thunder was so loud that it was raining, and he was standing at the door with a bow and a spear, hiding the woman in the back of the warehouse.",
+        "translation-en-natural": "The man still had to keep running, and as the night wore on, he didn't realize he was near a demon's lair. With thunder rumbling and rain pouring down, he hid the woman in the back of an abandoned warehouse and stood guard at the entrance, armed with his bow and quiver."
       },
       {
-        "date": "20240525",
+        "date": "20240525,20241114",
         "id": 5,
         "text": "はや夜も明けなむと思ひつゝゐたりけるに、鬼一口に食ひてけり。",
         "kana": "はやよもあけなむとおもひつつゐたりけるに、おにひとくちにくいてけり。",
+        "honkoku": "はや夜/もあけなんとおもひつつゐたりけるに/おにはやひとくちにくひてけり",
         "translation-ja": "早く夜も明けないものだろうか、と思っていたところに、鬼が女を一口で食べてしまいました。",
-        "translation-en": "He was wishing the night over soon, and then the demon ate the woman in one bite."
+        "translation-ja-natural": "早く夜が明ければいいのに、と待っているうちに、鬼がたちまち女を一口で食べてしまいました。",
+        "translation-en": "He was wishing the night over soon, and then the demon ate the woman in one bite.",
+        "translation-en-natural": "He was hoping for dawn to come soon, and in that moment, the demon suddenly devoured the woman in a single bite."
       },
       {
-        "date": "20240525",
+        "date": "20240525,20241114",
         "id": 6,
         "text": "「あなや」といひけれど、神鳴る騒ぎにえ聞かざりけり。",
         "kana": "「あなや」といひけれど、かみなるさわぎにえきかざりけり。",
+        "honkoku": "あなやと/いひけれと神なるさはきにえきかさり/けり",
         "translation-ja": "「ああ」と言いましたが、雷の騒ぎで聞こえなかった。",
-        "translation-en": "She said, 'Oh,' but he could not hear it because of the noise of the thunder."
+        "translation-ja-natural": "「ああ」と言ったものの、雷の騒がしい音にかき消されて、男の耳には届きませんでした。",
+        "translation-en": "She said, 'Oh,' but he could not hear it because of the noise of the thunder.",
+        "translation-en-natural": "She said, 'Oh,' but her voice was drowned out by the loud thunder, and he couldn't hear it."
       },
       {
-        "date": "20240525",
+        "date": "20240525,20241114",
         "id": 7,
         "text": "やうやう夜も明けゆくに、見れば、率て来し女もなし。",
         "kana": "やうやうよもあけゆくに、みれば、ゐてこしおんなもなし。",
+        "honkoku": "やうやう夜もふけゆくにみれは/ゐてこしをんなもなし",
         "translation-ja": "やがて夜が明けてくると、見ると、連れて来た女もいない。",
-        "translation-en": "As the night gradually dawned, he found that the woman he had brought was gone."
+        "translation-ja-natural": "だんだん待ち望んでいた夜明けが来て、その薄明かりの中で見回すと、倉はがらんとしていて、昨夜連れてきた女の姿も見当たらなかった。",
+        "translation-en": "As the night gradually dawned, he found that the woman he had brought was gone.",
+        "translation-en-natural": "As the long-awaited dawn slowly broke, he looked around in the faint light and saw that the warehouse was empty, with no sign of the woman he had brought the night before."
       },
       {
-        "date": "20240525",
+        "date": "20240525,20241114",
         "id": 8,
         "text": "足ずりをして泣けどもかひなし。",
         "kana": "あしずりをしてなけどもかひなし。",
+        "honkoku": "あしすりを/してなけともかひなし/",
         "translation-ja": "じだんだを踏んで泣いても仕方がない。",
-        "translation-en": "There was no use crying and stamping his feet."
+        "translation-ja-natural": "足を引きずりながら泣いても、もうどうしようもない。",
+        "translation-en": "There was no use crying and stamping his feet.",
+        "translation-en-natural": "Dragging his feet and crying, there was nothing he could do."
       },
       {
-        "date": "20240525",
+        "date": "20240525,20241114",
         "id": 9,
         "poem": "白玉か/なにぞと人の/問ひし時/露とこたへて/消えなましものを",
         "kana": "しらたまか/なにぞとひとの/とひしとき/つゆとこたへて/きえなましものを",
+        "honkoku": "しら玉かなにそと人のとひしとき/s13l/露とこたへてきえなましものを/",
         "translation-ja": "白玉か、何かと人が尋ねた時、露と答え、私も消えてしまっていたらよかっただろうに。",
-        "translation-en": "When someone asked, 'Is it a white ball?' and I should have answered 'It's dew,' and I wish that I also have disappeared.'"
+        "translation-ja-natural": "白玉か何かと人が尋ねた時、露だと答えて、私も露のように消えてしまえたらよかったのに。そうすれば、こんな悲しみもなかっただろうに。",
+        "translation-en": "When someone asked, 'Is it a white ball?' and I should have answered 'It's dew,' and I wish that I also have disappeared.'",
+        "translation-en-natural": "When my beloved asked, \"Is it a white gem, or what could it be?\" I wished I had replied, \"It’s dew,\" and vanished like the dew myself. Then perhaps I wouldn't have to feel such sorrow."
       },
       {
-        "date": "20240525",
+        "date": "20240525,20241114",
         "id": 10,
         "text": "これは、二条の后の、いとこの女御の御もとに、仕うまつるやうにてゐ給へりけるを、かたちのいとめでたくおはしければ、盗みて負ひて出でたりけるを、御せうと堀河の大臣、太郎国経の大納言、まだ下臈にて内裏へまゐり給ふに、いみじう泣く人あるを聞きつけて、とゞめてとり返し給うてけり。",
         "kana": "これは、にじょうのきさいの、いとこのにょうごのおんもとに、つかまつるやうにてゐたまへりけるを、かたちのいとめでたくおはしければ、ぬすみておひていでたりけるを、おんせうとほりかわのおほおみ、たろうくにつねのおほなごん、まだしものべにてだいりへまゐりたまふに、いみじうなくひとあるをききつけて、とゞめてとりかへしまうてけり。",
+        "honkoku": "これは二条のきさきのいとこの女御の御/もとにつかうまつるやうにてゐ給へりけ/るをかたちのいとめてたくおはしけれは/ぬすみておひていてたりけるを御せう/とほりかはのおととたらうくにつねの/大納言また下らうにて内へまいり給ふに/いみしうなくひとあるをききつけてとと/めてとりかへしたまうてけり",
         "translation-ja": "これは、二条の后のいとこの女御のもとに仕えていたので、美しい女性であったため、盗んで連れ出してしまったので、御所の大臣である堀川の大臣、太郎国経の大納言が、まだ下級の身分で内裏に出入りしていた時に、泣いている人がいるのを聞いて、取り返しに行きました。",
-        "translation-en": "This is because he had been serving the Empress of Nijo's cousin, and he had stolen and taken her away because she was so beautiful. When the minister of Horikawa, the grand minister of Taro Kunitsune, who was still of a lower rank, heard that someone was crying, he went to get her back."
+        "translation-ja-natural": "これは、二条の后が従姉妹にあたる女御のもとに仕えるような形でいらしたが、后がたいそう美しかったため、男が恋い慕い、盗み出して連れ去ったという話です。ところが、そのときまだ低い位にあった堀川の大臣である基経や、長男の国経大納言が参内している折に、泣き叫ぶ声を聞きつけ、男の連れ去りを引き止め、后を取り戻したのです。",
+        "translation-en": "This is because he had been serving the Empress of Nijo's cousin, and he had stolen and taken her away because she was so beautiful. When the minister of Horikawa, the grand minister of Taro Kunitsune, who was still of a lower rank, heard that someone was crying, he went to get her back.",
+        "translation-en-natural": "This story tells of how the Empress of Nijo, serving under her cousin, the Lady of the Court, was so beautiful that a man fell deeply in love with her and spirited her away. However, upon hearing cries, her elder brother, Minister Horikawa Mototsune, along with his eldest son, Major Counselor Kunitsune, who were of lower rank at the time, intervened and managed to recover her."
       },
       {
-        "date": "20240525",
+        "date": "20240525,20241114",
         "id": 11,
         "text": "それをかく鬼とはいふなりけり。",
         "kana": "それをかくおにとはいふなりけり。",
+        "honkoku": "それをかく/s14r/おにとはいふ也けり",
         "translation-ja": "その事件をこのように鬼の仕業だと言ったのでした。",
-        "translation-en": "This is how the incident was described as the work of a demon."
+        "translation-ja-natural": "その出来事を、このように鬼の仕業だと語ったのでした。",
+        "translation-en": "This is how the incident was described as the work of a demon.",
+        "translation-en-natural": "This is how the event was described as the work of a demon."
       },
       {
-        "date": "20240525",
+        "date": "20240525,20241114",
         "id": 12,
         "text": "まだいと若うて后のたゞにおはしける時とや。",
         "kana": "まだいとわかうてきさいのただにおはしけるときとや。",
+        "honkoku": "またいとわかうて/きさきのたたにおはしけるときとや/s14l/",
         "translation-ja": "まだ二条の后は若くて、普通の身分でいらしたときのことでしたということです。",
-        "translation-en": "This was when the Empress of Nijo was still young and was just a person."
+        "translation-ja-natural": "まだ二条の后がずっと若く、入内などしていなかった頃のことだそうです。",
+        "translation-en": "This was when the Empress of Nijo was still young and was just a person.",
+        "translation-en-natural": "This was back when the Empress of Nijo was still very young and had not yet entered the court."
       }
     ]
   },
@@ -559,32 +595,44 @@
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、おとこありけり。",
+        "honkoku": "むかし男ありけり",
         "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja-natural": "昔、男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
         "date": "20240526",
         "id": 2,
         "text": "京にありわびて東にいきけるに、伊勢・尾張のあはひの海づらを行くに、浪のいと白くたつを見て、",
         "kana": "きょうにありわびてひがしにいきけるに、いせ・おわりのあはひのうみづらをゆくに、なみのいとしろくたつをみて、",
+        "honkoku": "京にありわひて/あつまにいきけるにいせおはりのあはひ/のうみつらをゆくになみのいとしろくた/つを見て/",
         "translation-ja": "京に居辛くなって、東国に行ったが、伊勢と尾張の国境の海岸を行く時に、波がとても白く立つのを見て、",
-        "translation-en": "He was tired of living in Kyoto and went to the east, and when he went to the coast of the border between Ise and Owari, he saw the waves standing very white,"
+        "translation-ja-natural": "京の暮らしに疲れ、東国へ向かう途中、伊勢と尾張の国境の海辺を行くと、波が非常に白く立ち上がっているのを目にしました。",
+        "translation-en": "He was tired of living in Kyoto and went to the east, and when he went to the coast of the border between Ise and Owari, he saw the waves standing very white,",
+        "translation-en-natural": "He grew weary of living in Kyoto and headed east. While traveling along the coast at the border between Ise and Owari, he saw the waves rising brilliantly white."
       },
       {
         "date": "20240526",
         "id": 3,
         "poem": "いとゞしく/過ぎ行く方の/恋しきに/うらやましくも/かへる浪かな",
         "kana": "いとどししく/すぎゆくかたの/こいしきに/うらやましくも/かへるなみかな",
+        "honkoku": "いととしく過行かたの恋しきに/うらやましくもかへるなみかな/",
         "translation-ja": "このようにして過ぎ去って行くと、京の都の方が恋しくなるのに、うらやましいことに、立ち帰る白波よ",
-        "translation-en": "As it passes by like this, I miss the capital city, and it is enviable, the white waves that return."
+        "translation-ja-natural": "こうして過ぎ去っていくと、京の都が恋しくなるのに、うらやましいことだなあ、戻っていく白波よ。",
+        "translation-en": "As it passes by like this, I miss the capital city, and it is enviable, the white waves that return.",
+        "translation-en-natural": "As I move further away, I find myself longing for the capital. How envious I am of the white waves that return."
       },
       {
         "date": "20240526",
         "id": 4,
         "text": "となむよみける。",
         "kana": "となむよみける。",
+        "honkoku": "となんよめりける/s15l/",
         "translation-ja": "と詠んだ。",
-        "translation-en": "He sang."
+        "translation-ja-natural": "と詠んだのでした。",
+        "translation-en": "He sang.",
+        "translation-en-natural": "He sang."
       }
     ]
   },
