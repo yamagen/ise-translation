@@ -646,32 +646,43 @@
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、おとこありけり。",
+        "honkoku": "昔おとこありけり",
         "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja-natural": "昔、男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
         "date": "20240527",
         "id": 2,
         "text": "京や住み憂かりけむ、あづまのかたにゆきて住み所もとむとて、ともとする人、ひとりふたりしてゆきけり。",
         "kana": "きょうやすみうかりけむ、あづまのかたにゆきてすみどころもとむとて、ともとするひと、ひとりふたりしてゆきけり。",
-        "translation-ja": "京に住みづらかったので、東の方に行って住む所を求めて、友人、一人か二人で行った。",
-        "translation-en": "It was difficult to live in Kyoto, so he went east with one or two friends to find a place to live."
+        "honkoku": "京やすみうかりけん/あつまのかたにゆきてすみ所もとむとて/ともとする人ひとりふたりしてゆきけり/",
+        "translation-ja": "京に住みづらかったので、東の方に行って住む所を求めて、友人、一人か二人で行きました。",
+        "translation-ja-natural": "京での生活が辛かったので、東国に住む場所を探しに友達と一緒に2,3人で行きました。",
+        "translation-en": "Kyoto, was it difficult to live in? To the eastern direction he went, saying \"to seek a place to live,\" with a person or two whom he called companions, he went.",
+        "translation-en-natural": "Life in Kyoto must have felt unbearable to him. So, he set out toward the eastern provinces, saying, 'I'll seek a place to live.' With just one or two trusted companions, he began his journey."
       },
       {
         "date": "20240527",
         "id": 3,
         "text": "信濃の国、浅間の嶽に、けぶりの立つを見て、",
         "kana": "しなののくに、あさまのたけに、けぶりのたつをみて、",
+        "honkoku": "しなののくにあさまのたけにけふり/のたつを見て/",
         "translation-ja": "信濃の国、浅間の嶽に、煙が立つのを見て、",
-        "translation-en": "In Shinano Province, looking at the smoke rising from the Asama Mountain,"
+        "translation-ja-natural": "信濃の国、浅間の山に立ち上がる煙を見て、",
+        "translation-en": "In Shinano Province, at Asama Mountain, seeing the smoke rising up,",
+        "translation-en-natural": "While passing through Shinano Province, he noticed smoke rising from Mount Asama."
       },
       {
         "date": "20240527",
         "id": 4,
         "poem": "信濃なる/浅間の嶽に/たつ煙/をちこち人の/見やはとがめぬ",
         "kana": "しなのなる/あさまのたけに/たつけぶり/をちこちひとの/みやはとがめぬ",
+        "honkoku": "しなのなるあさまのたけにたつ煙/をちこち人のみやはとかめぬ/s16l/",
         "translation-ja": "信濃なる浅間の嶽にたつ煙を遠近の人は見て怪しまないだろうか。",
-        "translation-en": "The smoke rising from the Asama Mountain in Shinano Province, will people from afar and near not wonder?"
+        "translation-en": "The smoke that rises from Asama Mountain in Shinano Province-- do people from afar and near not see it and find it strange?",
+        "translation-en-natural": "Smoke rises from Mount Asama in Shinano Province, drifting into the sky. Do those near and far gaze upon it and wonder at its mystery?"
       }
     ]
   },
