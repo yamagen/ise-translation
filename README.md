@@ -32,20 +32,22 @@ The transcription was done by [Satoshi Nakagawa](https://yatanavi.org/text/ise/i
 
 Tag sets are written in json format shown as the following:
 
-| tag              | content                                 |
-| ---------------- | --------------------------------------- |
-| "dan"            | stage number                            |
-| "title"          | title of the stage                      |
-| "romaji"         | romaji of the title                     |
-| "paragraph"      | text or poem sentence                   |
-| "date"           | date of the revision                    |
-| "id"             | id of the text                          |
-| "text"           | text of the sentence                    |
-| "poem"           | poem sentence                           |
-| "kana"           | kana notation of the text/poem sentence |
-| "honkoku"        | transcription by Satoshi Nakagawa       |
-| "translation-ja" | contemporary translation                |
-| "translation-en" | English translation                     |
+| Tag                          | Description                                                           |
+| ---------------------------- | --------------------------------------------------------------------- |
+| **"dan"**                    | The stage number in the text or document.                             |
+| **"title"**                  | The title of the stage or section.                                    |
+| **"romaji"**                 | The romanized representation of the title.                            |
+| **"paragraph"**              | A block of text or a sentence from a poem.                            |
+| **"date"**                   | The date when the text or revision was recorded.                      |
+| **"id"**                     | A unique identifier for the text or section.                          |
+| **"text"**                   | The original text of the sentence.                                    |
+| **"poem"**                   | A poem sentence extracted from the text.                              |
+| **"kana"**                   | The kana notation of the text or poem sentence.                       |
+| **"honkoku"**                | The transcription provided by Satoshi Nakagawa.                       |
+| **"translation-ja"**         | A literal modern Japanese translation, faithful to the original text. |
+| **"translation-en"**         | A literal English translation, faithful to the original text.         |
+| **"translation-ja-natural"** | A modern and natural Japanese translation for contemporary readers.   |
+| **"translation-en-natural"** | A natural English translation, adapted for readability and flow.      |
 
 ### **To process the data**
 
