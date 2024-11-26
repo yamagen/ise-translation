@@ -692,79 +692,128 @@
     "romaji": "yatsuhashi",
     "paragraph": [
       {
-        "date": "20240528",
+        "date": "20240528,20241123",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、おとこありけり。",
+        "honkoku": "昔男ありけり",
         "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja-natural": "昔、ある男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241123",
         "id": 2,
         "text": "その男、身をえうなきものに思ひなして、「京にはあらじ。あづまの方に住むべき国もとめに」とて往きけり。",
         "kana": "そのおとこ、みをえうなきものにおもいなして、「きょうにはあらじ。あづまのほうにすむべきくにもとめに」とていきけり。",
+        "honkoku": "その男身をえうなき物に思ひ/なして京にはあらしあつまのかたにすむ/へきくにもとめにとてゆきけり",
         "translation-ja": "その男、自分を世の中には無用の人間であると思い込んで、「京には住まない。東の方に住むべき国を求めに」といって出かけた。",
-        "translation-en": "The man, thinking himself to be a useless person in the world, set out saying, 'I will not live in Kyoto. I will go to the east to find a country to live in.'"
+        "translation-ja-natural": "その男は、自分を世の中で役に立たない人間だと思い込み、「京には住むまい。東国で住むにふさわしい国を探そう」と言って旅立ちました。",
+        "translation-en": "The man, believing himself to be useless in the world, set out saying, 'I won't live in Kyoto. I'll go east to find a place to settle.'",
+        "translation-en-natural": "This man thought of himself as completely useless in the world. So, he said, \"I'm not staying in Kyoto. I'll head east and find a place where I can live,\" and off he went."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241124",
         "id": 3,
-        "text": "もとより友とする人、ひとりふたりしていきけり。道知れる人もなくてまどひいきけり。",
-        "kana": "もとよりともとするひと、ひとりふたりしていきけり。みちしれるひともなくてまどひいきけり。",
-        "translation-ja": "昔からの友人一人二人と連れて行った。道を知る人もなくてさまよいつつ行きました。",
-        "translation-en": "He set out with one or two friends he had known for a long time. They went without knowing anyone who knew the way."
+        "text": "もとより友とする人、ひとりふたりしていきけり。",
+        "kana": "もとよりともとするひと、ひとりふたりしていきけり。",
+        "honkoku": "もとより/ともとする人ひとりふたりしていきけり/",
+        "translation-ja": "昔からの友人一人二人と連れて行った。",
+        "translation-ja-natural": "昔からの友人一人二人といっしょに連れ立って行きました。",
+        "translation-en": "He set out with one or two friends he had known for a long time. ",
+        "translation-en-natural": "He headed off with one or two old friends by his side."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241124",
         "id": 4,
+        "text": "道知れる人もなくてまどひいきけり。",
+        "kana": "みちしれるひともなくてまどひいきけり。",
+        "honkoku": "みちしれるひともなくてまとひいきけり/",
+        "translation-ja": "道を知っている人もおらず、迷いながら進んで行った。",
+        "translation-ja-natural": "道を知る人もいなくて、迷いながら進んでいきました。",
+        "translation-en": "With no one to know the way, they wandered as they went.",
+        "translation-en-natural": "With no one to guide them, they wandered along, unsure of the way."
+      },
+      {
+        "date": "20240528,20241125",
+        "id": 5,
         "text": "三河の国八橋といふ所にいたりぬ。",
         "kana": "みかわのくにやつはしといふところにいたりぬ。",
-        "translation-ja": "三河の国の八橋という所に着いた。",
-        "translation-en": "They arrived at a place called Yatsuhashi in Mikawa Province."
+        "honkoku": "みかはのくにやつはしといふ所にいたり/ぬ",
+        "translation-ja": "三河の国の八橋という所に至った。",
+        "translation-ja-natural": "三河の国にある八橋という場所にたどり着きました。",
+        "translation-en": "They arrived at a place called Yatsuhashi in Mikawa Province.",
+        "translation-en-natural": "They reached a place called Yatsuhashi in Mikawa Province."
       },
       {
-        "date": "20240528",
-        "id": 5,
+        "date": "20240528,20241125",
+        "id": 6,
         "text": "そこを八橋といひけるは、水ゆく河のくもでなれば、橋を八つわたせるによりてなむ八橋といひける。",
         "kana": "そこをやつはしといひけるは、みずゆくかわのくもでなれば、はしをやつわたせるによりてなむやつはしといひける。",
+        "honkoku": "そこをやつはしといひけるは水行河の/くもてなれははしをやつわたせるにより/てなむやつはしといひける",
         "translation-ja": "そこを八橋というのは、水が流れていく川が蜘蛛の手のように八方に分かれていて、橋を八つ渡してあることから八橋といったのである。",
-        "translation-en": "They arrived at a place called Yatsuhashi in Mikawa Province. It was called Yatsuhashi because the river that flowed like a spider's hand divided into eight directions and had eight bridges."
+        "translation-ja-natural": "そこを八橋と呼ぶのは、水が流れる川が蜘蛛の手のように八方向に分かれていて、そこに八つの橋がかかっているからです。",
+        "translation-en": "They arrived at a place called Yatsuhashi in Mikawa Province. It was called Yatsuhashi because the river that flowed like a spider's hand divided into eight directions and had eight bridges.",
+        "translation-en-natural": "The place was called Yatsuhashi because the river flowing through it split into eight directions like a spider's hand, with eight bridges built over it."
       },
       {
-        "date": "20240528",
-        "id": 6,
-        "text": "その沢のほとりの木のかげにおり居て、餉くひけり。その沢に、燕子花いとおもしろく咲たり。",
-        "kana": "そのさわのほとりのきのかげにおりいて、ふみくひけり。そのさわに、つばめばないとおもしろくさたり。",
-        "translation-ja": "その沢のほとりの木陰に座って、乾飯を食べた。その沢に、かきつばたがとてもきれいに咲いていた。",
-        "translation-en": "He sat under the shade of a tree by the stream and ate his meal. The kaki-tsubata flowers were blooming beautifully by the stream."
-      },
-      {
-        "date": "20240528",
+        "date": "20240528,20241125",
         "id": 7,
+        "text": "その沢のほとりの木のかげにおり居て、餉くひけり。",
+        "kana": "そのさわのほとりのきのかげにおりいて、ふみくひけり。",
+        "honkoku": "そのさはのほ/s17l/とりの木のかけにおりゐてかれいひくひ/けり",
+        "translation-ja": "その沢のほとりの木陰に座って、乾飯を食べた。",
+        "translation-en": "Sitting in the shade of a tree by the marsh, they ate dried rice.",
+        "translation-en-natural": "We sat under the shade of a tree by the stream and ate our meal."
+      },
+      {
+        "date": "20240528,20241125",
+        "id": 8,
+        "text": "その沢に、燕子花いとおもしろく咲たり。",
+        "kana": "そのさわに、つばめばないとおもしろくさたり。",
+        "honkoku": "そのさはにかきつはたいとおもしろ/くさきたり",
+        "translation-ja": "その沢に、かきつばたがとてもきれいに咲いていた。",
+        "translation-ja-natural": "その沢に、かきつばたがとてもきれいに咲いていました。",
+        "translation-en": "The kaki-tsubata flowers were blooming beautifully by the stream.",
+        "translation-en-natural": "The kaki-tsubata flowers were blooming beautifully by the stream."
+      },
+      {
+        "date": "20240528,20241125",
+        "id": 9,
         "text": "それを見て、ある人のいはく、「かきつばたといふ五文字を句のかみにすゑて、旅の心をよめ」といひければ、よめる。",
         "kana": "それをみて、あるひとのいはく、「かきつばたといふごもじをくのかみにすゑて、たびのこころをよめ」といひければ、よめる。",
-        "translation-ja": "それを見て、ある人が言うには、「かきつばたという五文字を句のかみに据えて、旅の心を詠め」と言うので、詠みました。",
-        "translation-en": "Seeing that, someone said, 'Put the five letters called kaki-tsubata at the beginning of the verse and sing the heart of the journey,' so he sang it."
+        "honkoku": "それを見てある人のいはくか/きつはたといふいつもしをくのかみにす/へてたひの心をよめといひけれはよめる/",
+        "translation-ja": "それを見て、ある人が言うには、「『かきつばた』という五文字を句の上に置いて、旅の心を詠め」と言ったので、詠んだ。",
+        "translation-ja-natural": "それを見て、ある人がこう言いました。「『かきつばた』という五文字を句の初めに置いて、旅の気持ちを詠んでみなさい」と言われたので、詠みました。",
+        "translation-en": "Seeing that, someone said, 'Use the five characters \"ka-ki-tsu-ba-ta\" at the beginning of a verse and sing a song about the feelings of travel,' so he sang one.",
+        "translation-en-natural": "Seeing that, someone said, 'Use the five characters \"ka-ki-tsu-ba-ta\" at the beginning of a verse and write about the feelings of travel.' So, he did."
       },
       {
-        "date": "20240528",
-        "id": 8,
+        "date": "20240528,20241126",
+        "id": 10,
         "poem": "唐衣/きつゝ馴にし/つましあれば/はるばる来ぬる/旅をしぞ思ふ",
         "kana": "からころも/きつつなれにし/つましあれば/はるばるきぬる/たびをしぞおもふ",
+        "honkoku": "から衣きつつなれにしつましあれは/はるはるきぬるたひをしそ思ふ/",
         "translation-ja": "唐衣を着ていると馴れる、褄があるので、はるばる来た旅をしたと思います。",
-        "translation-en": "I think I have traveled a long way because I am used to wearing a Chinese robe with sleeves."
+        "translation-ja-natural": "唐衣を着ているうちに馴染んでしまったように、慣れ親しんだ妻が京にいると思うと、はるばると旅をしてきたことがしみじみと思い出される。",
+        "translation-en": "I think I have traveled a long way because I am used to wearing a Chinese robe with sleeves.",
+        "translation-en-natural": "Like how I've grown accustomed to wearing my Tang robe, I think of my beloved wife back in the capital, and I deeply reflect on the long journey I have taken."
       },
       {
-        "date": "20240528",
-        "id": 9,
+        "date": "20240528,20241126",
+        "id": 11,
         "text": "とよめりければ、みな人、かれいひの上に涙おとしてほとびにけり。",
+        "kana": "とよめりければ、みなひと、かれいひのうへになみだおとしてほとびにけり",
+        "honkoku": "とよめりけれはみな人かれいひのうへに/涙おとしてほとひにけり/s18r/",
         "translation-ja": "と詠んだので、みなの人は、乾飯の上にポロポロと涙が落として、乾飯はふやけてしまいました。",
-        "translation-en": "After singing, everyone shed tears on the dry rice, and the dry rice became soggy."
+        "translation-ja-natural": "と詠んだので、みんなが乾飯の上に涙をポロポロと落とし、乾飯はふやけてしまいました。",
+        "translation-en": "After singing, everyone shed tears on the dry rice, and the dry rice became soggy.",
+        "translation-en-natural": "When he recited the poem, everyone shed tears onto their dried rice, making it soggy."
       },
       {
         "date": "20240528",
-        "id": 10,
+        "id": 12,
         "text": "行き行きて駿河の国にいたりぬ。",
         "kana": "ゆきゆきてするがのくににいたりぬ。",
         "translation-ja": "さらに行きに行って、駿河の国に着いた。",
@@ -772,7 +821,7 @@
       },
       {
         "date": "20240528",
-        "id": 11,
+        "id": 13,
         "text": "宇津の山にいたりて、わが入らむとする道はいと暗う細きに、蔦かへでは茂り、もの心ぼそく、すゞろなるめを見ることと思ふに、修行者あひたり。",
         "kana": "うつのやまにいたりて、わがいらむとするみちはいとくらうほそきに、つたかへではしげり、ものこころぼそく、すぞろなるめをみることとおもふに、しゆぎょうしゃあひたり。",
         "translation-ja": "宇津の山に着いて、自分の分け入ろうとする道はひどく暗くまた細い上に、蔦や楓が生い茂り、なんとも心細く、またとんでもない目に遭うことだろうと思っていると、修行者とばったり出くわした。",
@@ -780,7 +829,7 @@
       },
       {
         "date": "20240528",
-        "id": 12,
+        "id": 14,
         "text": "「かゝる道はいかでかいまする」といふを見れば見し人なりけり。",
         "kana": "「かかるみちはいかでかいまする」といふをみればみしひとなりけり。",
         "translation-ja": "「この道はどうですか」と言う人を見ると、見たことのある人でした。",
@@ -788,7 +837,7 @@
       },
       {
         "date": "20240528",
-        "id": 13,
+        "id": 15,
         "text": "京に、その人の御もとにとて、ふみかきてつく。",
         "kana": "きょうに、そのひとのおんもとにとて、ふみかきてつく。",
         "translation-ja": "京にいらっしゃるその方へといって、手紙を書いてことづけた。",
@@ -796,7 +845,7 @@
       },
       {
         "date": "20240528",
-        "id": 14,
+        "id": 16,
         "poem": "駿河なる/うつの山辺の/うつつにも/夢にも人に/あはぬなりけり。",
         "kana": "するがなる/うつのやまべの/うつつにも/ゆめにもひとに/あはぬなりけり。",
         "translation-ja": "駿河にある宇津の山辺のほとりに来てみると、現にも夢にも人に逢いませんでした。",
@@ -804,7 +853,7 @@
       },
       {
         "date": "20240528",
-        "id": 15,
+        "id": 17,
         "text": "富士の山を見れば、五月のつごもりに、雪いとしろう降れり。",
         "kana": "ふじのやまをみれば、さつきのつごもりに、ゆきいとしろうふれり。",
         "translation-ja": "富士の山を見ると、五月も末だというのに、雪がとても白く降り積もっている。",
@@ -812,7 +861,7 @@
       },
       {
         "date": "20240528",
-        "id": 16,
+        "id": 18,
         "poem": "時しらぬ/山は富士の嶺/いつとてか/鹿の子まだらに/雪の降るらむ",
         "kana": "ときしらぬ/やまはふじのね/いつとてか/かのこまだらに/ゆきのふるらむ",
         "translation-ja": "時節というものを知らない山は、この富士の嶺なのだ。一体今がいつだと思って、鹿の子の背のまだら模様のように、雪が降っているでしょうか。",
@@ -820,7 +869,7 @@
       },
       {
         "date": "20240528",
-        "id": 17,
+        "id": 19,
         "text": "その山は、こゝにたとへば、比叡の山を二十ばかり重ねあげたらむほどして、なりは塩尻のやうになむありける。",
         "kana": "そのやまは、ここにたとへば、ひえのやまをはたちばかりかさねあげたらむほどして、なりはしほじりのやうになむありける。",
         "translation-ja": "その山は、この京に例えれば、比叡山を二十個ほど積み重ね上げた程の高さで、恰好は塩尻のようでした。",
@@ -828,7 +877,7 @@
       },
       {
         "date": "20240528",
-        "id": 18,
+        "id": 20,
         "text": "なほゆきゆきて、武蔵の国と下つ総の国との中に、いとおほきなる河あり。",
         "kana": "なほゆきゆきて、むさしのくにとしもつふさのくにとのなかに、いとおほきなるかはあり。",
         "translation-ja": "さらにどんどん行くと、武蔵の国と下総の国との間に、かなり大きな川がある。",
@@ -836,7 +885,7 @@
       },
       {
         "date": "20240528",
-        "id": 19,
+        "id": 21,
         "text": "それをすみだ河といふ。",
         "kana": "それをすみだがはといふ。",
         "translation-ja": "それを隅田川という。",
@@ -844,7 +893,7 @@
       },
       {
         "date": "20240528",
-        "id": 20,
+        "id": 22,
         "text": "その河のほとりにむれゐて、京に思ひをはせれば、かぎりなく遠くも来にけるかなとわびあへるに、",
         "kana": "そのかわのほとりにむれゐて、きょうにおもひをはせれば、かぎりなくとおくもきにけるかなとわびあへるに、",
         "translation-ja": "その川のほとりに群れをなして、京に思いをはせれば、限りなく遠くに来てしまったのだなあと悲しみを分かちあっていると、",
@@ -852,7 +901,7 @@
       },
       {
         "date": "20240528",
-        "id": 21,
+        "id": 23,
         "text": "渡守、「はや舟に乗れ、日も暮れぬ」といふに、乗りて渡らむとするに、",
         "kana": "わたしもり、「はやふねにのれ、ひもくれぬ」といふに、のりてわたらむとするに、",
         "translation-ja": "渡し守が、「早く舟に乗れ。日も暮れてしまう」と言うので、乗って渡ろうとするのだが、",
@@ -860,7 +909,7 @@
       },
       {
         "date": "20240528",
-        "id": 22,
+        "id": 24,
         "text": "みな人、ものわびしくて、京に思ふ人なきにしもあらず。",
         "kana": "みなひと、ものわびしくて、きょうにおもふひとなきにしもあらず。",
         "translation-ja": "人々は皆悲しい思いになって、京に思っている人がいないわけでもありません。",
@@ -868,7 +917,7 @@
       },
       {
         "date": "20240528",
-        "id": 23,
+        "id": 25,
         "text": "さる折りしも、白き鳥の嘴と脚とあかき、鴫のおほきさなる、水のうへに遊びつゝ魚をくふ。",
         "kana": "さるをりしも、しろきとりの、はしとあしとあかき、しぎのおほきさなる、みづのうへにあそびつついををくふ。",
         "translation-ja": "丁度そんな時に、白い鳥でクチバシと脚とが赤く、鴫ぐらいの大きさの鳥が、水の上で遊びながら魚を捕らえて食べている。",
@@ -876,7 +925,7 @@
       },
       {
         "date": "20240528",
-        "id": 24,
+        "id": 26,
         "text": "京には見えぬ鳥なれば、みな人見知らず。",
         "kana": "きょうにはみえぬとりなれば、みなひとみしらず。",
         "translation-ja": "京には見られない鳥なので、誰も知りませんでした。",
@@ -884,7 +933,7 @@
       },
       {
         "date": "20240528",
-        "id": 25,
+        "id": 27,
         "text": "渡守に問ひければ、「これなむ都鳥」といふを聞きて、",
         "kana": "わたしもりにとひければ、「これなむみやこどり」といふをききて、",
         "translation-ja": "渡し守に尋ねたら、「これは都鳥です」と言うのを聞いて、",
@@ -892,7 +941,7 @@
       },
       {
         "date": "20240528",
-        "id": 26,
+        "id": 28,
         "poem": "名にしおはゞ/いざこと問はむ/都鳥/わが思ふ人は/ありやなしやと",
         "kana": "なにしおはば/いざこととはむ/みやこどり/わがおもふひとは/ありやなしやと",
         "translation-ja": "その名に示すように、さてちょっとお尋ねしよう、都鳥、私の思っている人は都で生きているのかいないのか。",
@@ -900,7 +949,7 @@
       },
       {
         "date": "20240528",
-        "id": 27,
+        "id": 29,
         "text": "とよめりければ、舟こぞりて泣きにけり。",
         "kana": "とよめりければ、ふねこぞりてなきにけり。",
         "translation-ja": "と詠んだものだから、舟の一行は皆いっせいに泣いたのでした。",
