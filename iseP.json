@@ -867,28 +867,37 @@
         "translation-en-natural": "At the foot of Mount Utsu in Suruga, I couldn't meet that person, not in reality, nor even in my dreams."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 17,
         "text": "富士の山を見れば、五月のつごもりに、雪いとしろう降れり。",
         "kana": "ふじのやまをみれば、さつきのつごもりに、ゆきいとしろうふれり。",
+        "honkoku": "ふしの山をみれはさ月のつこもりに/雪いとしろうふれり/",
         "translation-ja": "富士の山を見ると、五月も末だというのに、雪がとても白く降り積もっている。",
-        "translation-en": "When looking at Mt. Fuji, although it was the end of May, the snow was falling very white."
+        "translation-ja-natural": "富士山を見ると、五月の末だというのに、真っ白な雪が降り積もっているのが見えました。",
+        "translation-en": "When looking at Mt. Fuji, although it was the end of May, the snow was falling very white.",
+        "translation-en-natural": "Looking at Mt. Fuji, even though it was late May, I saw pure white snow covering the mountain."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 18,
         "poem": "時しらぬ/山は富士の嶺/いつとてか/鹿の子まだらに/雪の降るらむ",
         "kana": "ときしらぬ/やまはふじのね/いつとてか/かのこまだらに/ゆきのふるらむ",
+        "honkoku": "ときしらぬ山は富士のねいつとてか/かのこまたらに雪のふるらん/",
         "translation-ja": "時節というものを知らない山は、この富士の嶺なのだ。一体今がいつだと思って、鹿の子の背のまだら模様のように、雪が降っているでしょうか。",
-        "translation-en": "The mountain that does not know the seasons is this Fuji peak. The mountain wonders what time it is now, and the snow falls in mottled patterns like the spots on the back of a fawn."
+        "translation-ja-natural": "季節をわきまえない山、それがこの富士の山です。一体今が何月だと思っているのか、鹿の子模様のように雪がまだらに降り積もっています。",
+        "translation-en": "The mountain that does not know the seasons is this Fuji peak. The mountain wonders what time it is now, and the snow falls in mottled patterns like the spots on the back of a fawn.",
+        "translation-en-natural": "The mountain that seems unaware of the seasons is Mount Fuji. What time of year does it think it is, with snow falling in mottled patterns like the spots on a fawn?"
       },
       {
         "date": "20240528",
         "id": 19,
         "text": "その山は、こゝにたとへば、比叡の山を二十ばかり重ねあげたらむほどして、なりは塩尻のやうになむありける。",
         "kana": "そのやまは、ここにたとへば、ひえのやまをはたちばかりかさねあげたらむほどして、なりはしほじりのやうになむありける。",
+        "honkoku": "その山はここにたとへはひえのやまをは/たちはかりかさねあけたらんほとしてなり/はしほしりのやうになんありける/s20r/",
         "translation-ja": "その山は、この京に例えれば、比叡山を二十個ほど積み重ね上げた程の高さで、恰好は塩尻のようでした。",
-        "translation-en": "If we compare this mountain to Kyoto, it is as high as twenty Hiei mountains stacked up, and it looks like Shiojiri."
+        "translation-ja-natural": "その山は、京で例えるなら、比叡山を二十個ほど積み重ねたような高さで、形はまるで塩尻のようでした。",
+        "translation-en": "If we compare this mountain to Kyoto, it is as high as twenty Hiei mountains stacked up, and it looks like Shiojiri.",
+        "translation-en-natural": "If you were to compare this mountain to something in Kyoto, it would be as tall as stacking twenty Mount Hiei peaks, and its shape resembled Shiojiri."
       },
       {
         "date": "20240528",
