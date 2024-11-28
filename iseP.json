@@ -812,44 +812,59 @@
         "translation-en-natural": "When he recited the poem, everyone shed tears onto their dried rice, making it soggy."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 12,
         "text": "行き行きて駿河の国にいたりぬ。",
         "kana": "ゆきゆきてするがのくににいたりぬ。",
+        "honkoku": "ゆきゆきてするかのくににいたりぬ",
         "translation-ja": "さらに行きに行って、駿河の国に着いた。",
-        "translation-en": "They went further and arrived in Suruga Province."
+        "translation-ja-natural": "彼らは旅を続けて、駿河の国に到着しました。",
+        "translation-en": "They went further and arrived in Suruga Province.",
+        "translation-en-natural": "They continued their journey and reached Suruga Province."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 13,
         "text": "宇津の山にいたりて、わが入らむとする道はいと暗う細きに、蔦かへでは茂り、もの心ぼそく、すゞろなるめを見ることと思ふに、修行者あひたり。",
         "kana": "うつのやまにいたりて、わがいらむとするみちはいとくらうほそきに、つたかへではしげり、ものこころぼそく、すぞろなるめをみることとおもふに、しゆぎょうしゃあひたり。",
+        "honkoku": "うつの/山にいたりてわかいらんとするみちはい/とくらうほそきにつたかへてはしけり物/心ほそくすすろなるめを見ることと思ふ/にす行者あひたり",
         "translation-ja": "宇津の山に着いて、自分の分け入ろうとする道はひどく暗くまた細い上に、蔦や楓が生い茂り、なんとも心細く、またとんでもない目に遭うことだろうと思っていると、修行者とばったり出くわした。",
-        "translation-en": "Arriving at the Utsu Mountain, the path he was about to enter was very dark and narrow, with ivy and maple growing thickly, making him feel uneasy and thinking that he would see a strange eye, he met a monk."
+        "translation-ja-natural": "宇津の山に着くと、進もうとしていた道はひどく暗く細く、蔦や楓が生い茂っていました。不安な気持ちになり、何かとんでもないことが起きるのではないかと思っていると、修行者にばったり出会いました。",
+        "translation-en": "Arriving at the Utsu Mountain, the path he was about to enter was very dark and narrow, with ivy and maple growing thickly, making him feel uneasy and thinking that he would see a strange eye, he met a monk.",
+        "translation-en-natural": "When he arrived at Utsu Mountain, the path he was about to take was dark and narrow, overgrown with ivy and maple trees. Feeling uneasy and imagining that something terrible might happen, he suddenly came across a monk."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 14,
         "text": "「かゝる道はいかでかいまする」といふを見れば見し人なりけり。",
         "kana": "「かかるみちはいかでかいまする」といふをみればみしひとなりけり。",
-        "translation-ja": "「この道はどうですか」と言う人を見ると、見たことのある人でした。",
-        "translation-en": "When he saw a person who said, 'How is this road?' it was someone he had seen before."
+        "honkoku": "かかるみちはいかてかいま/するといふをみれはみし人なりけり",
+        "translation-ja": "「このような道をどうして通るのですか」と言うのを見れば、以前に見たことのある人であった。",
+        "translation-ja-natural": "「どうしてこんな道を通っているのですか」と言う声がして、ふと見れば、それは以前に会ったことのある人でした。",
+        "translation-en": "\"How can you possibly be traveling on such a path?\" he said, and when I looked, it was someone I had seen before.",
+        "translation-en-natural": "\"Why are you traveling on a path like this?\" someone said, and when I looked, it turned out to be someone I had met before."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 15,
         "text": "京に、その人の御もとにとて、ふみかきてつく。",
         "kana": "きょうに、そのひとのおんもとにとて、ふみかきてつく。",
-        "translation-ja": "京にいらっしゃるその方へといって、手紙を書いてことづけた。",
-        "translation-en": "He asked him to bring a letter to the person living in Kyoto."
+        "honkoku": "京/にその人の御もとにとてふみかきてつく/",
+        "translation-ja": "京のその人のもとへと言って、手紙を書いて送る。",
+        "translation-ja-natural": "京のあの人のところへ届けようと思い、手紙を書いて託しました。",
+        "translation-en": "To the capital, to that person's residence, he writes a letter and sends it.",
+        "translation-en-natural": "He decided to send a letter to that person in the capital, wrote it, and entrusted it to be delivered."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 16,
         "poem": "駿河なる/うつの山辺の/うつつにも/夢にも人に/あはぬなりけり。",
         "kana": "するがなる/うつのやまべの/うつつにも/ゆめにもひとに/あはぬなりけり。",
-        "translation-ja": "駿河にある宇津の山辺のほとりに来てみると、現にも夢にも人に逢いませんでした。",
-        "translation-en": "When I came to the Utsu Mountain in Suruga, I did not meet anyone in reality or in my dreams."
+        "honkoku": "するかなるうつの山辺のうつつにも/夢にもひとにあはぬなりけり/s19r/",
+        "translation-ja": "駿河にある宇津の山のあたりで、現実にも夢の中でも人に会えないのだった。",
+        "translation-ja-natural": "駿河の宇津山あたりで、現実でも夢の中でも、あの人に会うことができませんでした。",
+        "translation-en": "In Suruga, at the area of Mount Utsu, neither in reality nor in dreams could I meet anyone.",
+        "translation-en-natural": "At the foot of Mount Utsu in Suruga, I couldn't meet that person, not in reality, nor even in my dreams."
       },
       {
         "date": "20240528",
