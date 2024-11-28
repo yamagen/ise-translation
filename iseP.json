@@ -889,7 +889,7 @@
         "translation-en-natural": "The mountain that seems unaware of the seasons is Mount Fuji. What time of year does it think it is, with snow falling in mottled patterns like the spots on a fawn?"
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 19,
         "text": "その山は、こゝにたとへば、比叡の山を二十ばかり重ねあげたらむほどして、なりは塩尻のやうになむありける。",
         "kana": "そのやまは、ここにたとへば、ひえのやまをはたちばかりかさねあげたらむほどして、なりはしほじりのやうになむありける。",
@@ -900,84 +900,114 @@
         "translation-en-natural": "If you were to compare this mountain to something in Kyoto, it would be as tall as stacking twenty Mount Hiei peaks, and its shape resembled Shiojiri."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 20,
         "text": "なほゆきゆきて、武蔵の国と下つ総の国との中に、いとおほきなる河あり。",
         "kana": "なほゆきゆきて、むさしのくにとしもつふさのくにとのなかに、いとおほきなるかはあり。",
+        "honkoku": "なほゆきゆきてむさしのくにとしもつふさ/のくにとのなかにいとおほきなる河あり/",
         "translation-ja": "さらにどんどん行くと、武蔵の国と下総の国との間に、かなり大きな川がある。",
-        "translation-en": "Going further and further, there is a very large river between Musashi Province and Shimousa Province."
+        "translation-ja-natural": "一行がさらに旅を進めると、武蔵国と下総国の間に、とても大きな川がありました。",
+        "translation-en": "Going further and further, there is a very large river between Musashi Province and Shimousa Province.",
+        "translation-en-natural": "As the group continued their journey, they came across a very large river between Musashi Province and Shimousa Province."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 21,
         "text": "それをすみだ河といふ。",
         "kana": "それをすみだがはといふ。",
+        "honkoku": "それをすみた川といふ",
         "translation-ja": "それを隅田川という。",
-        "translation-en": "It is called the Sumida River."
+        "translation-ja-natural": "その川は隅田川と呼ばれています。",
+        "translation-en": "It is called the Sumida River.",
+        "translation-en-natural": "That river is called the Sumida River."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 22,
         "text": "その河のほとりにむれゐて、京に思ひをはせれば、かぎりなく遠くも来にけるかなとわびあへるに、",
         "kana": "そのかわのほとりにむれゐて、きょうにおもひをはせれば、かぎりなくとおくもきにけるかなとわびあへるに、",
+        "honkoku": "その川のほとりに/むれゐておもひやれはかきりなくとをく/もきにけるかなとわひあへるに",
         "translation-ja": "その川のほとりに群れをなして、京に思いをはせれば、限りなく遠くに来てしまったのだなあと悲しみを分かちあっていると、",
-        "translation-en": "Gathering by the river, thinking of Kyoto, they shared their sadness at having come so far."
+        "translation-ja-natural": "その川のほとりに集まり、京に思いをはせると、ここまで遠くまで来てしまったことを悲しみ合っていると、",
+        "translation-en": "Gathering by the river, thinking of Kyoto, they shared their sadness at having come so far.",
+        "translation-en-natural": "They gathered by the river, thinking of Kyoto, and shared their sorrow at how far they had come."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 23,
         "text": "渡守、「はや舟に乗れ、日も暮れぬ」といふに、乗りて渡らむとするに、",
         "kana": "わたしもり、「はやふねにのれ、ひもくれぬ」といふに、のりてわたらむとするに、",
+        "honkoku": "わたしも/りはやふねにのれ日もくれぬといふに/のりてわたらんとするに",
         "translation-ja": "渡し守が、「早く舟に乗れ。日も暮れてしまう」と言うので、乗って渡ろうとするのだが、",
-        "translation-en": "The ferryman said, 'Get on the boat quickly, the sun is setting,' and when they tried to cross, but.."
+        "translation-ja-natural": "渡し守が「早く舟に乗れ、日が暮れてしまうぞ」と言うので、舟に乗って渡ろうとしましたが、",
+        "translation-en": "The ferryman said, 'Get on the boat quickly, the sun is setting,' and when they tried to cross, but..",
+        "translation-en-natural": "The ferryman said, \"Hurry and get on the boat, the sun is setting,\" so they got on to cross, but..."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 24,
         "text": "みな人、ものわびしくて、京に思ふ人なきにしもあらず。",
         "kana": "みなひと、ものわびしくて、きょうにおもふひとなきにしもあらず。",
+        "honkoku": "みなひと物わ/ひしくて京に思ふ人なきにしもあらす/",
         "translation-ja": "人々は皆悲しい思いになって、京に思っている人がいないわけでもありません。",
-        "translation-en": "Everyone is feeling sad, and there are indeed people in Kyoto who they are thinking of."
+        "translation-ja-natural": "人々は皆悲しい気持ちになり、京に想う人がいないわけではありませんでした。",
+        "translation-en": "Everyone is feeling sad, and there are indeed people in Kyoto who they are thinking of.",
+        "translation-en-natural": "Everyone felt a deep sadness, for there were indeed people in Kyoto they were thinking of."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 25,
         "text": "さる折りしも、白き鳥の嘴と脚とあかき、鴫のおほきさなる、水のうへに遊びつゝ魚をくふ。",
         "kana": "さるをりしも、しろきとりの、はしとあしとあかき、しぎのおほきさなる、みづのうへにあそびつついををくふ。",
+        "honkoku": "さるおりしもしろき鳥のはしとあしと/s21r/あかきしきのおほきさなる水のうへに/あそひつついををくふ",
         "translation-ja": "丁度そんな時に、白い鳥でクチバシと脚とが赤く、鴫ぐらいの大きさの鳥が、水の上で遊びながら魚を捕らえて食べている。",
-        "translation-en": "Just at that moment, a white bird with a red beak and legs, about the size of a snipe, is playing on the water, catching and eating fish."
+        "translation-ja-natural": "ちょうどその時、白い鳥が水の上で遊びながら、魚を捕まえて食べていました。その鳥は、くちばしと脚が赤く、鴫ほどの大きさでした。",
+        "translation-en": "Just at that moment, a white bird with a red beak and legs, about the size of a snipe, is playing on the water, catching and eating fish.",
+        "translation-en-natural": "At that very moment, a white bird with a red beak and legs, about the size of a snipe, was playing on the water, catching fish and eating them."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 26,
         "text": "京には見えぬ鳥なれば、みな人見知らず。",
         "kana": "きょうにはみえぬとりなれば、みなひとみしらず。",
+        "honkoku": "京にはみえぬとり/なれはみな人見しらす",
         "translation-ja": "京には見られない鳥なので、誰も知りませんでした。",
-        "translation-en": "Since it was a bird that could not be seen in Kyoto, no one knew it."
+        "translation-ja-natural": "京では見られない鳥だったので、誰もその鳥を知りませんでした。",
+        "translation-en": "Since it was a bird that could not be seen in Kyoto, no one knew it.",
+        "translation-en-natural": "It was a bird not found in Kyoto, so no one knew what it was."
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 27,
         "text": "渡守に問ひければ、「これなむ都鳥」といふを聞きて、",
         "kana": "わたしもりにとひければ、「これなむみやこどり」といふをききて、",
+        "honkoku": "わたしもりにとひ/けれはこれなむ宮こ鳥といふをききて/",
         "translation-ja": "渡し守に尋ねたら、「これは都鳥です」と言うのを聞いて、",
-        "translation-en": "When asked the ferryman, heaing that he said 'This is a city bird'"
+        "translation-ja-natural": "渡し守に尋ねると、「これは都鳥だ」と言うのを聞いて、",
+        "translation-en": "When asked the ferryman, heaing that he said 'This is a city bird'",
+        "translation-en-natural": "When they asked the ferryman, they heard him say, 'This is a Miyako bird.'"
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 28,
         "poem": "名にしおはゞ/いざこと問はむ/都鳥/わが思ふ人は/ありやなしやと",
         "kana": "なにしおはば/いざこととはむ/みやこどり/わがおもふひとは/ありやなしやと",
+        "honkoku": "名にしおははいさこととはん宮こ鳥/わか思ふ人はありやなしやと/",
         "translation-ja": "その名に示すように、さてちょっとお尋ねしよう、都鳥、私の思っている人は都で生きているのかいないのか。",
-        "translation-en": "As your name suggests, let me ask you, city bird, is the person I am thinking of living in the city or not?"
+        "translation-ja-natural": "その名前の通り、ちょっと聞きたい。都鳥よ、私が想っているあの人は都で生きているのか、それともいないのか。",
+        "translation-en": "As your name suggests, let me ask you, city bird, is the person I am thinking of living in the city or not?",
+        "translation-en-natural": "As your name implies, let me ask you, Miyako bird: is the person I’m thinking of still living in the capital, or not?"
       },
       {
-        "date": "20240528",
+        "date": "20240528,20241128",
         "id": 29,
         "text": "とよめりければ、舟こぞりて泣きにけり。",
         "kana": "とよめりければ、ふねこぞりてなきにけり。",
+        "honkoku": "とよめりけれはふねこそりてなきにけり/s21l/",
         "translation-ja": "と詠んだものだから、舟の一行は皆いっせいに泣いたのでした。",
-        "translation-en": "Since he sang so, everyone shed tears on the boat."
+        "translation-ja-natural": "そう詠んだものだから、舟の一行はみんなそろって泣き出しました。",
+        "translation-en": "Since he sang so, everyone shed tears on the boat.",
+        "translation-en-natural": "Because he recited the poem, everyone on the boat burst into tears."
       }
     ]
   },
