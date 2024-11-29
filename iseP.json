@@ -1017,100 +1017,136 @@
     "romaji": "tanomunokari",
     "paragraph": [
       {
-        "date": "20240529",
+        "date": "20240529,20241129",
         "id": 1,
         "text": "むかし、男、武蔵の国までまどひありきけり。",
         "kana": "むかし、おとこ、むさしのくにまでまどひありきけり。",
+        "honkoku": "昔おとこむさしの国まてまとひありき/けり",
         "translation-ja": "昔、男が武蔵の国までさ迷い歩いて行った。",
-        "translation-en": "Once upon a time, a man wandered to Musashi Province."
+        "translation-ja-natural": "昔、男が武蔵の国までさまよい歩いて行きました。",
+        "translation-en": "Once upon a time, a man wandered to Musashi Province.",
+        "translation-en-natural": "Long ago, a man wandered all the way to Musashi Province."
       },
       {
-        "date": "20240529",
+        "date": "20240529,20241129",
         "id": 2,
         "text": "さてその国にある女をよばひけり。",
         "kana": "さてそのくににあるおんなをよばひけり。",
+        "honkoku": "さてそのくににある女をよはひけり/",
         "translation-ja": "そうして、その国に住む一人の女に求婚した。",
-        "translation-en": "So he proposed marriage to a woman living in that country."
+        "translation-ja-natural": "そして、その国に住むある女に結婚を申し込みました。",
+        "translation-en": "So he proposed marriage to a woman living in that country.",
+        "translation-en-natural": "Then, he proposed to a woman living in that land."
       },
       {
-        "date": "20240529",
+        "date": "20240529,20241129",
         "id": 3,
         "text": "父はこと人にあはせむといひけるを、母なむあてなる人に心つけたりける。",
         "kana": "ちちはことひとにあはせむといひけるを、ははなむあてなるひとにこころつけたりける。",
+        "honkoku": "ちちはこと人にあはせむといひけるを/ははなんあてなる人に心つけたり/ける",
         "translation-ja": "女の父親は違う男と結婚させようとしていたが、母親は高貴な家柄の人を娘の相手に考えていた。",
-        "translation-en": "The father of the woman was trying to marry her to another man, but the mother was considering a nobleman as her daughter's partner."
+        "translation-ja-natural": "娘の父親は別の男と結婚させようとしていましたが、母親は高貴な家柄の人を娘の結婚相手に考えていました。",
+        "translation-en": "The father of the woman was trying to marry her to another man, but the mother was considering a nobleman as her daughter's partner.",
+        "translation-en-natural": "The woman's father wanted to marry her off to another man, while her mother was hoping for a nobleman as her match."
       },
       {
-        "date": "20240529",
+        "date": "20240529,20241129",
         "id": 4,
         "text": "父はなほびとにて、母なむ藤原なりける。",
         "kana": "ちちはなほびとにて、ははなむふじわらなりける。",
+        "honkoku": "ちちはなを人にてははなむふちはら/なりける",
         "translation-ja": "父親は並の身分の人で、母親は藤原の家柄であった。",
-        "translation-en": "The father was a commoner, and the mother was of the Fujiwara family."
+        "translation-ja-natural": "父親は普通の身分の人でしたが、母親は藤原家の出身でした。",
+        "translation-en": "The father was a commoner, and the mother was of the Fujiwara family.",
+        "translation-en-natural": "The father was of ordinary status, but the mother came from the prestigious Fujiwara family."
       },
       {
-        "date": "20240529",
+        "date": "20240529,20241129",
         "id": 5,
         "text": "さてなむあてなる人にと思ひける。",
         "kana": "さてなむあてなるひとにとおもひける。",
+        "honkoku": "さてなむあてなる人にとおもひ/ける",
         "translation-ja": "そこで、高貴な人にと思った。",
-        "translation-en": "So she thought of a nobleman."
+        "translation-ja-natural": "それで、母親は高貴な人を結婚相手にしようと考えました。",
+        "translation-en": "So she thought of a nobleman.",
+        "translation-en-natural": "And so, she decided to consider a nobleman as her daughter's match."
       },
       {
-        "date": "20240529",
+        "date": "20240529,20241129",
         "id": 6,
         "text": "このむこがねによみておこせたりける。",
         "kana": "このむこがねによみておこせたりける。",
+        "honkoku": "このむこかねによみてをこせたり/ける",
         "translation-ja": "この婿と決めた男に歌を詠んでよこしたのだった。",
-        "translation-en": "She sent a poem to the man she had decided to son-in-law for her daughter."
+        "translation-ja-natural": "母親は、この婿にしようと決めた男に歌を送ったのでした。",
+        "translation-en": "She sent a poem to the man she had decided to son-in-law for her daughter.",
+        "translation-en-natural": "She sent a poem to the man she had chosen to be her daughter's husband."
       },
       {
-        "date": "20240529",
+        "date": "20240529,20241129",
         "id": 7,
         "text": "住む所なむ入間の郡み吉野の里なりける。",
         "kana": "すみどころなむいりまのこおりみよしのさとなりける。",
+        "honkoku": "すむ所なんいるまのこほりみよし/ののさとなりける/s22l/",
         "translation-ja": "住んでいた所は入間の郡三吉野の里であった。",
-        "translation-en": "The place where he lived was in the village of Miyoshino in Iruma County."
+        "translation-ja-natural": "彼が住んでいたのは、入間郡の三吉野の里でした。",
+        "translation-en": "The place where he lived was in the village of Miyoshino in Iruma County.",
+        "translation-en-natural": "He lived in the village of Miyoshino in Iruma County."
       },
       {
-        "date": "20240529",
+        "date": "20240529,20241129",
         "id": 8,
         "poem": "みよし野の/たのむの雁も/ひたぶるに/君が方にぞ/寄ると鳴くなる",
         "kana": "みよしのの/たのむのかりも/ひたぶるに/きみがかたにぞ/よるとなくなる",
+        "honkoku": "みよしののたのむのかりもひたふるに/君かかたにそよるとなくなる/",
         "translation-ja": "三吉野の田の面の雁も、ただひたすらに、あなたに心を寄せているよと鳴いているのです。",
-        "translation-en": "The wild geese that have landed on the fields of Miyoshino are calling out to you, saying that they are just devoted to you."
+        "translation-ja-natural": "三吉野の田んぼに降りた雁たちも、ただひたすらにあなたに心を寄せていると鳴いているのです。",
+        "translation-en": "The wild geese that have landed on the fields of Miyoshino are calling out to you, saying that they are just devoted to you.",
+        "translation-en-natural": "The wild geese resting in the fields of Miyoshino are calling out, saying they are devoted to you with all their hearts."
       },
       {
-        "date": "20240529",
+        "date": "20240529,20241129",
         "id": 9,
         "text": "むこがね、返し、",
         "kana": "むこがね、かえし、",
+        "honkoku": "むこかねかへし/",
         "translation-ja": "婿に決まった男は、歌を返した。",
-        "translation-en": "The man who was decided to be the son-in-law sang back."
+        "translation-ja-natural": "花婿に選ばれた男は、歌を返しました。",
+        "translation-en": "The man who was decided to be the son-in-law sang back.",
+        "translation-en-natural": "The man chosen as the son-in-law replied with a poem."
       },
       {
-        "date": "20240529",
+        "date": "20240529,20241129",
         "id": 10,
         "poem": "わが方に/寄ると鳴くなる/みよし野の/たのむの雁を/いつか忘れむ",
         "kana": "わがかたに/よるとなくなる/みよしのの/たのむのかりを/いつかわすれむ",
+        "honkoku": "我かたによるとなくなるみよしのの/たのむのかりをいつかわすれん/",
         "translation-ja": "私の方に心を寄せているよと、鳴く三吉野の田の面の雁を、いつ私が忘れることがあるでしょうか。",
-        "translation-en": "The wild geese that have landed on the fields of Miyoshino are calling out to me, saying that they are just devoted to me. When will I ever forget them?"
+        "translation-ja-natural": "三吉野の田んぼに降りて、私に心を寄せていると鳴く雁を、いつ私が忘れることがあるでしょうか。",
+        "translation-en": "The wild geese that have landed on the fields of Miyoshino are calling out to me, saying that they are just devoted to me. When will I ever forget them?",
+        "translation-en-natural": "The wild geese resting in the fields of Miyoshino call out to me, saying they are devoted to me. How could I ever forget them?"
       },
       {
-        "date": "20240529",
+        "date": "20240529,20241129",
         "id": 11,
         "text": "となむ。",
         "kana": "となむ。",
+        "honkoku": "となむ",
         "translation-ja": "と詠んだ。",
-        "translation-en": "He sang."
+        "translation-ja-natural": "と詠みました。",
+        "translation-en": "He sang.",
+        "translation-en-natural": "He recited the poem."
       },
       {
-        "date": "20240529",
+        "date": "20240529,20241129",
         "id": 12,
         "text": "人の国にても、なほかゝることなむやまざりける。",
         "kana": "ひとのくににても、なほかかることなむやまざりける。",
+        "honkoku": "人のくににてもなをかかる事/なんやまさりける/s23r/",
         "translation-ja": "他の人が統治する国でも、まだこういうことが止むことはなかったのだった。",
-        "translation-en": "Even in a country ruled by others, such things had not yet ceased."
+        "translation-ja-natural": "他の人が統治する国でも、このようなことはまだなくなっていなかったのです。",
+        "translation-en": "Even in a country ruled by others, such things had not yet ceased.",
+        "translation-en-natural": "Even in a land governed by others, such things had not yet come to an end."
       }
     ]
   },
