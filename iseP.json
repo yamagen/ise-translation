@@ -1160,16 +1160,22 @@
         "id": 1,
         "text": "むかし、男、あづまへゆきけるに、友だちどもに、道よりいひおこせける。",
         "kana": "むかし、おとこ、あづまへゆきけるに、ともだちどもに、みちよりいひおこせける。",
-        "translation-ja": "昔、男が東に行くとき、友達たちに、道から言い送っていた。",
-        "translation-en": "Once upon a time, when a man went east, he sent word to his friends on his way."
+        "honkoku": "むかしおとこあつまへゆきけるにとも/たちともにみちよりいひおこせける/s23r/",
+        "translation-ja": "昔、男が東へ行ったとき、友達たちに、道から言い送った。",
+        "translation-ja-natural": "昔、男が東へ旅をしたとき、友達に旅の途中から手紙を送りました。",
+        "translation-en": "Once upon a time, a man went east and sent word to his friends from the road.",
+        "translation-en-natural": "Once upon a time, a man traveled east and sent a message to his friends from the road."
       },
       {
         "date": "20240530",
         "id": 2,
         "poem": "忘るなよ/ほどは雲居に/なりぬるとも/空ゆく月の/めぐりあふまで",
         "kana": "わすれなよ/ほどはくもいに/なりぬるとも/そらゆくつきの/めぐりあふまで",
-        "translation-ja": "忘れないでよ、雲居ほどになってしまっても、空ゆく月がめぐりあうまで。",
-        "translation-en": "Don't forget, even if it is too far like a cloud in the sky, until the moon in the sky will meet us again."
+        "honkoku": "わするなよほとは雲ゐになりぬとも/そら行月のめくりあふまて/s23l/",
+        "translation-ja": "忘れないでよ、遠く雲居になったとしても、空を行く月が巡り会う時まで。",
+        "translation-ja-natural": "忘れないで、雲の上になっても、空を行く月がまた巡り会うまで。",
+        "translation-en": "Do not forget, even if we are as distant as the heavens, until the moon traveling the sky crosses paths with us again.",
+        "translation-en-natural": "Do not forget, even if we are as distant as the clouds, until the moon traveling the sky crosses our paths again."
       }
     ]
   },
