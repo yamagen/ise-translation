@@ -1156,7 +1156,7 @@
     "romaji": "sorayukutsuki",
     "paragraph": [
       {
-        "date": "20240530",
+        "date": "20240530,20241201",
         "id": 1,
         "text": "むかし、男、あづまへゆきけるに、友だちどもに、道よりいひおこせける。",
         "kana": "むかし、おとこ、あづまへゆきけるに、ともだちどもに、みちよりいひおこせける。",
@@ -1167,15 +1167,15 @@
         "translation-en-natural": "Once upon a time, a man traveled east and sent a message to his friends from the road."
       },
       {
-        "date": "20240530",
+        "date": "20240530,20241201",
         "id": 2,
         "poem": "忘るなよ/ほどは雲居に/なりぬるとも/空ゆく月の/めぐりあふまで",
         "kana": "わすれなよ/ほどはくもいに/なりぬるとも/そらゆくつきの/めぐりあふまで",
         "honkoku": "わするなよほとは雲ゐになりぬとも/そら行月のめくりあふまて/s23l/",
-        "translation-ja": "忘れないでよ、遠く雲居になったとしても、空を行く月が巡り会う時まで。",
-        "translation-ja-natural": "忘れないで、雲の上になっても、空を行く月がまた巡り会うまで。",
-        "translation-en": "Do not forget, even if we are as distant as the heavens, until the moon traveling the sky crosses paths with us again.",
-        "translation-en-natural": "Do not forget, even if we are as distant as the clouds, until the moon traveling the sky crosses our paths again."
+        "translation-ja": "忘れないでよ、遠く雲居になったとしても、空を行く月が巡り会うまで。",
+        "translation-ja-natural": "忘れないでね。たとえ私たちが遠い雲のようになったとしても、空を旅する月がまた巡り会わせてくれるまで。",
+        "translation-en": "Do not forget me, even if we become like the clouds above, until the moon traveling the sky meets again.",
+        "translation-en-natural": "Don't forget me. Even if we become as distant as the clouds, until the moon traveling through the sky brings us back together again."
       }
     ]
   },
