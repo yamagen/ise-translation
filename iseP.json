@@ -1185,60 +1185,80 @@
     "romaji": "nusubito",
     "paragraph": [
       {
-        "date": "20240531",
+        "date": "20240531,20241209",
         "id": 1,
         "text": "むかし、男ありけり。",
-        "kana": "むかし、おとこありけり。",
-        "translation-ja": "昔、ある所に、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "kana": "むかし、をとこありけり。",
+        "honkoku": "昔おとこありけり",
+        "translation-ja": "昔、ある所に、男がいた。",
+        "translation-ja-natural": "昔、あるところに、男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240531",
+        "date": "20240531,20241209",
         "id": 2,
         "text": "人のむすめを盗みて、武蔵野へ率てゆく程に、盗人なりければ、国の守にからめられにけり。",
         "kana": "ひとのむすめをぬすみて、むさしのへそゐてゆくほどに、ぬすびとなりければ、くにのかみにからめられにけり。",
+        "honkoku": "人のむすめをぬすみて/むさし野へゐてゆくほとにぬす人なり/けれはくにのかみにからめられにけり/",
         "translation-ja": "人の娘を盗んで、武蔵野へ連れて行く途中に、盗人であるから、国の守に捕まってしまった。",
-        "translation-en": "He stole a girl and was caught by the country's guard on his way to Musashino because he was a thief."
+        "translation-ja-natural": "ある人の娘を連れ去り、武蔵野へ向かう途中で、盗人だったため国司に捕まってしまいました。",
+        "translation-en": "He stole a girl and was caught by the country's guard on his way to Musashino because he was a thief.",
+        "translation-en-natural": "He kidnapped someone's daughter and was caught by the provincial governor on his way to Musashino because he was a thief."
       },
       {
-        "date": "20240531",
+        "date": "20240531,20241209",
         "id": 3,
         "text": "女をば草むらのなかにおきて逃げにけり。",
         "kana": "おんなをばくさむらのなかにおきてにげにけり。",
+        "honkoku": "女をはくさむらの中にをきてにけ/にけり",
         "translation-ja": "男は女を草むらの中に置いて逃げてしまった。",
-        "translation-en": "He left the girl in the grass and ran away."
+        "translation-ja-natural": "男は女を草むらに置いて逃げてしまいました。",
+        "translation-en": "He left the girl in the grass and ran away.",
+        "translation-en-natural": "The man abandoned the girl in the grass and ran away."
       },
       {
-        "date": "20240531",
+        "date": "20240531,20241209",
         "id": 4,
         "text": "道くる人、「この野はぬすびとあなり」とて火つけむとす。",
         "kana": "みちくるひと、「こののはぬすびとあなり」とてひつけむとす。",
+        "honkoku": "みちくる人この野はぬすひとあ/なりとて火つけんとす",
         "translation-ja": "道をやってきた人は「この野原には盗人がいるようだ」と言って火をつけようとした。",
-        "translation-en": "A passerby said, 'This field seems to have thieves,' and tried to set fire to it."
+        "translation-ja-natural": "通りかかった人が「この野原には盗人がいるようだ」と言って火をつけようとしました。",
+        "translation-en": "A passerby said, 'This field seems to have thieves,' and tried to set fire to it.",
+        "translation-en-natural": "A passerby said, 'It seems there are thieves in this field,' and tried to set it on fire."
       },
       {
-        "date": "20240531",
+        "date": "20240531,20241209",
         "id": 5,
         "text": "女わびて、",
         "kana": "おんなわびて、",
+        "honkoku": "をんなわひて/",
         "translation-ja": "女は嘆願して、",
-        "translation-en": "The woman embarrassedly pleaded."
+        "translation-ja-natural": "女は助けてほしいと必死に訴えました。",
+        "translation-en": "The woman embarrassedly pleaded.",
+        "translation-en-natural": "The woman pleaded desperately for help."
       },
       {
-        "date": "20240531",
+        "date": "20240531,20241209",
         "id": 6,
         "poem": "武蔵野は/今日はな焼きそ/若草の/つまもこもれり/われもこもれり",
         "kana": "むさしのは/けふはなやきそ/わかくさの/つまもこもれり/われもこもれり",
+        "honkoku": "むさし野はけふはなやきそわかくさの/s23l/つまもこもれりわれもこもれり/",
         "translation-ja": "武蔵野は今日は焼かないでください。若草の中には、夫も隠れています、私も隠れています。",
-        "translation-en": "Do not burn Musashino today. Cause my husband is hiding in the young grass, and I am hiding too."
+        "translation-ja-natural": "武蔵野をどうか今日は焼かないでください。若草の中に夫が隠れていますし、私も隠れています。",
+        "translation-en": "Do not burn Musashino today. Cause my husband is hiding in the young grass, and I am hiding too.",
+        "translation-en-natural": "Please don't burn Musashino today. My husband is hiding in the young grass, and so am I."
       },
       {
-        "date": "20240531",
+        "date": "20240531,20241209",
         "id": 7,
         "text": "とよみけるを聞きて、女をばとりて、ともに率てけり。",
         "kana": "とよみけるをききて、おんなをばとりて、ともにそゐてけり。",
         "translation-ja": "と詠むのを聞いて、追手は女を捕まえて、男と共に連れていった。",
-        "translation-en": "Hearing the poem, the pursuers caught the woman and took her husband with her."
+        "translation-ja-natural": "その歌を聞いた追っ手たちは、女を捕まえ、男と一緒に連れ去りました。",
+        "translation-en": "Hearing the poem, the pursuers caught the woman and took her husband with her.",
+        "translation-en-natural": "Hearing the poem, the pursuers captured the woman and took her away along with the man."
       }
     ]
   },
