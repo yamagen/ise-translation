@@ -1268,36 +1268,48 @@
     "romaji": "musashiabumi",
     "paragraph": [
       {
-        "date": "20240601",
+        "date": "20240601,20241213",
         "id": 1,
         "text": "むかし、武蔵なる男、京なる女のもとに、「聞ゆれば、恥し、聞ねば苦し」と書きて、上書に「武蔵鐙 」と書きて、おこせてのち、おともせずなりにければ、京より女、",
-        "kana": "むかし、むさしのなるおとこ、きょうなるおんなのもとに、「きこゆれば、はじし、きこねばくるし」とかきて、うわがきに「むさしあぶみ 」とかきて、おこせてのち、おともせずなりにければ、きょうよりおんな、",
+        "kana": "むかし、むさしのなるをとこ、きょうなるをんなのもとに、「きこゆれば、はじし、きこねばくるし」とかきて、うわがきに「むさしあぶみ 」とかきて、おこせてのち、おともせずなりにければ、きょうよりをんな、",
+        "honkoku": "昔むさしなるおとこ京なる女のもとに/きこゆれははつかしきこえねはくるしと/かきてうはかきにむさしあふみとかきて/をこせてのちをともせすなりにけれは京/よりをんな/",
         "translation-ja": "昔、武蔵に住む男が京にいる女のもとに、「言えば恥しく、言わなければ苦しい」と書いて、上書きに「武蔵鐙」と書いて、送ったのち、何も伝えないでいたので、京より女が、",
-        "translation-en": "Once upon a time, a man in Musashi sent a letter to a woman in Kyoto, writing, 'It is embarrassing to say, but painful not to say,' and wrote 'Musashi Stirrup' on the envelope. After sending it, there was no news from the woman for a while, but one day, the woman wrote from Kyoto.., "
+        "translation-ja-natural": "昔、武蔵に住む男が、京にいる女に手紙を送った。手紙には「言えば恥ずかしいし、言わないのはつらい」と書き、封筒には「武蔵鐙」と記していた。しかし、その後男から何の音沙汰もなかったため、女は京からこう書き送った...。",
+        "translation-en": "Once upon a time, a man in Musashi sent a letter to a woman in Kyoto, writing, 'It is embarrassing to say, but painful not to say,' and wrote 'Musashi Stirrup' on the envelope. After sending it, there was no news from the woman for a while, but one day, the woman wrote from Kyoto.., ",
+        "translation-en-natural": "Once upon a time, a man living in Musashi sent a letter to a woman in Kyoto. The letter read, 'It is embarrassing to say, but painful to keep silent,' and on the envelope, he wrote 'Musashi Stirrup.' However, after that, the man gave no response, so the woman wrote back from Kyoto:"
       },
       {
-        "date": "20240601",
+        "date": "20240601,20241213",
         "id": 2,
         "poem": "武蔵鐙/さすがにかけて/頼むには/問はぬもつらし/問ふもうるさし",
         "kana": "むさしあぶみ/さすがにかけて/たのむには/とはぬもつらし/とふもうるさし",
+        "honkoku": "むさしあふみさすかにかけてたのむには/とはぬもつらしとふもうるさし/",
         "translation-ja": "刺鉄に武蔵鐙をかけて頼むには、問わないのもつらいし、問うのもうるさい。",
-        "translation-en": "Although I have given up, I am still relying on you, so it is sad not to ask, and it is annoying to ask."
+        "translation-ja-natural": "武蔵鐙に頼みをかけた身としては、尋ねずにいるのもつらいし、尋ねるのも気が重い。",
+        "translation-en": "Hanging my hopes on the stirrup of Musashi, it is painful not to ask, yet troublesome to ask.",
+        "translation-en-natural": "Placing my trust in the stirrup of Musashi, it feels painful not to ask, yet burdensome to ask."
       },
       {
-        "date": "20240601",
+        "date": "20240601,20241213",
         "id": 3,
         "text": "とあるを見てなむ、たへがたき心地しける。",
         "kana": "とあるをみてなむ、たへがたきここちしける。",
+        "honkoku": "とあるを見てなんたへかたき心地しける/",
         "translation-ja": "と詠んだのを見て、辛い気持ちになってしまった。",
-        "translation-en": "Seeing the poem she sent, the man felt miserable."
+        "translation-ja-natural": "その歌を見て、男は胸が締め付けられる思いがしました。",
+        "translation-en": "Seeing the poem she sent, the man felt miserable.",
+        "translation-en-natural": "Reading the poem she sent, the man felt his heart ache."
       },
       {
-        "date": "20240601",
+        "date": "20240601,20241213",
         "id": 4,
         "poem": "問へば言ふ/問はねば恨む/武蔵鐙/かゝる折にや/人は死ぬらむ",
         "kana": "とへばいふ/とはねばうらむ/むさしあぶみ/かかるおりにや/ひとはしぬらむ",
+        "honkoku": "とへはいふとはねはうらむむさしあふみ/s25r/かかるおりにや人はしぬらん/s25l/",
         "translation-ja": "問うと言う、問わないと恨む、こういうときに人は死ぬのでしょうか。",
-        "translation-en": "If I ask, you will say, and if I don't ask, you will be resented. At such times, will people die in confusion?"
+        "translation-ja-natural": "尋ねれば文句を言い、尋ねなければ恨まれる。こういう時、人は死んでしまうものなのでしょうか。",
+        "translation-en": "If I ask, you will say, and if I don't ask, you will be resented. At such times, will people die in confusion?",
+        "translation-en-natural": "If I ask, you complain, and if I don't, you hold a grudge. Is this how people end up dying from such turmoil?"
       }
     ]
   },
@@ -1307,90 +1319,101 @@
     "romaji": "michinokuni",
     "paragraph": [
       {
-        "date": "20240602",
+        "date": "20240602,20250105",
         "id": 1,
         "text": "むかし、男、陸奥の国にすゞろに行きいたりけり。",
         "kana": "むかし、おとこ、みちのくににすゞろにゆきいたりけり。",
+        "honkoku": "むかし男みちのくににすすろに行/いたりにけり",
         "translation-ja": "昔、男が陸奥にあてもなく辿り着いた。",
         "translation-en": "Once upon a time, a man wandered to Michinoku Province."
       },
       {
-        "date": "20240602",
+        "date": "20240602,20250105",
         "id": 2,
         "text": "そこなる女、京のひとはめづらかにおぼへけむ、せちに思へる心なむありける。",
         "kana": "そこなるおんな、きょうのひとはめづらかにおぼへけむ、せちにおもへるこころなむありける。",
+        "honkoku": "そこなる女京の人はめつら/かにやおほえけむせちにおもへる心/なんありける",
         "translation-ja": "そこに住む女が京の人を珍しいと思ったのであろう、たいそう思慕の心をいだいたのだった。",
         "translation-en": "A woman living there must have thought of people from Kyoto as rare, and she had a great longing for them."
       },
       {
-        "date": "20240602",
+        "date": "20240602,20250105",
         "id": 3,
         "text": "さてかの女、",
         "kana": "さてかのおんな、",
+        "honkoku": "さてかのをんな/",
         "translation-ja": "そこで、その女は、",
         "translation-en": "Then, the woman,"
       },
       {
-        "date": "20240602",
+        "date": "20240602,20250105",
         "id": 4,
         "poem": "なかなかに/恋に死なずは/桑子にぞ/なるべかりける/玉の緒ばかり",
         "kana": "なかなかに/こひにしなずは/くわこにぞ/なるべかりける/たまのをばかり",
+        "honkoku": "中々に恋にしなすは桑子にそ/なるへかりける玉のをはかり/",
         "translation-ja": "生半可に恋に死なずして、蚕になったらよかった、たとえ玉の緒の短い間であっても。",
         "translation-en": "I wish I had become a silkworm without dying of love, even for a short time like the thread of a cocoon."
       },
       {
-        "date": "20240602",
+        "date": "20240602,20250105",
         "id": 5,
         "text": "歌さへぞ、ひなびたりける。",
         "kana": "うたさへぞ、ひなびたりける。",
+        "honkoku": "うたさへそひなひたりける",
         "translation-ja": "歌までも、田舎くさいものだった",
         "translation-en": "Even the song was old-fashioned."
       },
       {
-        "date": "20240602",
+        "date": "20240602,20250105",
         "id": 6,
         "text": "さすがにあはれとや思ひけむ、いきてねにけり。",
         "kana": "さすがにあはれとやおもひけむ、いきてねにけり。",
+        "honkoku": "さすかにあ/はれとやおもひけんいきてねにけり",
         "translation-ja": "そうは言っても、やはり感動したのだろう、女のもとへ行って、一夜寝た。",
         "translation-en": "Nevertheless, he must have been moved and went to the woman and spent the night."
       },
       {
-        "date": "20240602",
+        "date": "20240602,20250105",
         "id": 7,
         "text": "夜ふかくいでにければ、女、",
-        "kana": "よふかくいでにければ、おんな、",
+        "kana": "よふかくいでにければ、をんな、",
+        "honkoku": "夜ふ/s25l/かくいてにけれは女/",
         "translation-ja": "夜が深いうちに男が起きて女の家を出てしまったので、女は、",
         "translation-en": "As the night grew late, the man woke up and leave, the woman,"
       },
       {
-        "date": "20240602",
+        "date": "20240602,20250105",
         "id": 8,
         "poem": "夜も明けば/きつにはめなで/くたかけの/まだきに鳴きて/せなをやりつる",
         "kana": "よもあけば/きつにはめなで/くたかけの/まだきになきて/せなをやりつる",
+        "honkoku": "夜も明はきつにはめなてくたかけの/またきになきてせなをやりつる/",
         "translation-ja": "夜が明けたら、水槽にはめてしまおう、くたかけの鶏、まだ夜も明けぬうちに鳴いて、私の人を送り出してしまった。",
         "translation-en": "When the night breaks, I will put that rotten chicken in the water tank. It is still crying before dawn, and it has sent my husband away."
       },
       {
-        "date": "20240602",
+        "date": "20240602,20250105",
         "id": 9,
         "text": "といへるに、男、京へなむまかるとて、",
         "kana": "といへるに、おとこ、きょうへなむまかるとて、",
+        "honkoku": "といへるにおとこ京へなむまかるとて/",
         "translation-ja": "と言ったので、男は絶対、京へ帰るといって、",
         "translation-en": "When she said that, the man was amazed and decided to return to Kyoto."
       },
       {
-        "date": "20240602",
+        "date": "20240602,20250105",
         "id": 10,
         "poem": "栗原の/あねはの松の/人ならば/みやこのつとに/いざといはましを",
         "kana": "くりはらの/あねはのまつの/ひとならば/みやこのつとに/いざといはましを",
+        "honkoku": "くりはらのあれはの松の人ならは/宮このつとにいさといはましを/",
         "translation-ja": "栗原のあねはの松が人であったら、京の土産に、いざと言おうものを。",
         "translation-en": "If the pine tree of Aneha in Kuribara was a person, it would take me as a souvenir to Kyoto."
       },
       {
-        "date": "20240602",
+        "date": "20240602,20250105",
         "id": 11,
         "text": "といへりければ、よろこぼひて、「おもひけらし」とぞいひ居りける。",
         "kana": "といへりければ、よろこぼひて、「おもひけらし」とぞいひをりける。",
+        "honkoku": "といへりけれはよろこほひて思ひけらし/とそいひをりける/s26r/",
         "translation-ja": "と言ったので、喜んで、「私を思っていたらしい」と、言って居た。",
         "translation-en": "When he said that, she misunderstood the meaning and said, 'He seems to have thought of me.'"
       }
