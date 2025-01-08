@@ -1425,26 +1425,29 @@
     "romaji": "shinobuyama",
     "paragraph": [
       {
-        "date": "20240603",
+        "date": "20240603,20250108",
         "id": 1,
         "text": "むかし、陸奥の国にて、なでふ事なき人のめに通ひけるに、あやしうさやうにてあるべき女ともあらず見えければ、",
         "kana": "むかし、みちのくににて、なでふことなきひとのめにかよひけるに、あやしうさやうにてあるべきおんなともあらずみえければ、",
+        "honkoku": "昔みちのくににてなてうことなき人のめ/にかよひけるにあやしうさやうにて/あるへき女ともあらすみえけれは/",
         "translation-ja": "昔、陸奥の国で、とりたてて目立つことのない人の妻のところに行き来していましたが、不思議と、そんなふうに暮してよい女でもないように見えたので、",
         "translation-en": "Once upon a time, in the province of Michinoku, a man visited the wife of an ordinary man, and she seemed strange, not like a woman who should be living like that, so he sent a poem."
       },
       {
-        "date": "20240603",
+        "date": "20240603,20250108",
         "id": 2,
         "poem": "しのぶ山/しのびて通ふ/道もがな/人の心の/奥も見るべく",
         "kana": "しのぶやま/しのびてかよふ/みちもがな/ひとのこころの/おくもみるべく",
+        "honkoku": "しのふ山忍ひてかよふみちもかな/人のこころのおくもみるへく/",
         "translation-ja": "しのぶ山、忍んで通う道があればよいなぁ、人の心の奥も見たいので。",
         "translation-en": "I wish there were a hidden path to Shinobu Mountain. I want to see the depths of your heart."
       },
       {
-        "date": "20240603",
+        "date": "20240603,20250108",
         "id": 3,
         "text": "女、かぎりなくめでたしと思へど、さるさがなきえびす心を見ては、いかがはせんは。",
         "kana": "おんな、かぎりなくめでたしとおもへど、さるさがなきえびすごころをみては、いかがはせんは。",
+        "honkoku": "女かきりなくめてたしと思へとさるさ/かなきえひす心を見てはいかかはせむは/s27r/",
         "translation-ja": "女は、限りなくすばらしいと思ったが、そんな性格の良くなく、情趣のわからない心を見ても、どうしたらよいことか。",
         "translation-en": "A man thought that the woman was very wonderful, but when he saw the heart of a countryman who was so rude and unrefined, he must have been at a loss."
       }
