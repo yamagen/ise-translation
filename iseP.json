@@ -1459,130 +1459,137 @@
     "romaji": "kino aritsune",
     "paragraph": [
       {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 1,
         "text": "むかし、紀有常といふ人ありけり。",
         "kana": "むかし、きのありつねといふひとありけり。",
+        "honkoku": "むかし紀のありつねといふひとありけり/",
         "translation-ja": "昔、紀有常という人がいました。",
         "translation-en": "Once upon a time, a man called Kino Aritsune."
       },
       {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 2,
         "text": "三代の帝に仕うまつりて時にあひけれど、のちは世かはり時うつりにければ、世の常の人のごともあらず。",
         "kana": "みよのみかどにつかふまつりてときにあひけれど、のちはよかはりときうつりにければ、よのつねのひとのごともあらず。",
+        "honkoku": "みよのみかとにつかうまつりてときに/s27r/あひけれとのちは世かはり時うつりに/けれはよのつねの人のこともあらす",
         "translation-ja": "三代の天皇に仕えていましたが、その後、世の中が変わってしまったので、世の中の常の人とは違っていました。",
         "translation-en": "He served three emperors, but after that, the world changed, and he was different from ordinary people."
       },
       {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 3,
         "text": "人がらは心うつくしく、あてはかなることを好みて、こと人にもにず。",
         "kana": "ひとがらはこころうつくしく、あてはかなることをこのみて、ことひとにもにず。",
+        "honkoku": "人から/は心うつくしくあてはかなることをこ/のみてことに人にもにす",
         "translation-ja": "人柄は、心がうつくしく、優雅なことを好んで、他の人とは似ていません。",
         "translation-en": "He had a beautiful personality and liked elegant things, unlike other people."
       },
       {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 4,
         "text": "貧しくへても、なほ昔よかりし時の心ながら、世の常のこともしらず。",
         "kana": "まずしくへても、なほむかしよかりしときのこころながら、よのつねのこともしらず。",
+        "honkoku": "まつしくへても/なをむかしよかりし時の心なからよの/つねのこともしらす",
         "translation-ja": "貧しく暮らしても、昔のように豊かだった時の心のままで、世の中の常識も知りませんでした。",
         "translation-en": "Even though he was poor, he lived with the same heart as when he was rich, and he did not know the common way of life in the world."
       },
       {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 5,
         "text": "としごろあひ馴れたる妻、やうやう床はなれて、つひに尼になりて、姉のさきだちてなりたる所へゆくを、",
         "kana": "としごろあひなれたるめ、やうやうとこはなれて、つひにあまになりて、あねのさきだちてなりたるところへゆくを、",
+        "honkoku": "としころあひなれ/たるめやうやうとこはなれてつゐに/あまになりてあねのさきたちてなりたる/所へ行を",
         "translation-ja": "長年互いに暮し馴れた妻が、だんだん夫婦らしいこともしなくなり、ついに尼になって、姉が先に尼になっている所へ行くのを、",
         "translation-en": "His wife, who had been close for many years, gradually became distant, finally became a nun, and went to where her sister had become a nun."
       },
       {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 6,
         "text": "男、まことにむつましきことこそなかりけれ、いまはとゆくをいとあはれと思ひけれど、貧しければするわざもなかりけり。",
         "kana": "おとこ、まことにむつましきことこそなかりけれ、いまはとゆくをいとあはれとおもひけれど、",
+        "honkoku": "おとこまことにむつまし/s27l/き事こそなかりけれ今はとゆくをいと/あはれと思けれと",
         "translation-ja": "男は、ほんとうに心から仲よくしたことはありませんでしたが、今は出ていくのを、たいそうしみじみと思いましたが、",
         "translation-en": "Although the man had never really been close to his wife, he felt deeply affectionate when she left, saying goodbye."
       },
       {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 7,
         "text": "貧しければするわざもなかりけり。",
         "kana": "まずしければするわざもなかりけり。",
+        "honkoku": "まつしけれはするわ/さもなかりけり",
         "translation-ja": "貧しかったので何事もしてやれなかった。",
         "translation-en": "However, he was poor and could not do anything."
       },
       {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 8,
         "text": "思ひわびて、ねむごろにあひ語らひける友だちのもとに、「かうかういまはとてまかるを、なにごともいささなることもえせで、つかはすこと」と書きて、奥に、",
         "kana": "おもひわびて、ねむごろにあひかたらひけるともだちのもとに、「かうかういまはとてまかるを、なにごともいささなることもえせで、つかはすこと」とかきて、おくに、",
+        "honkoku": "おもひわひてねんころ/にあひかたらひけるともたちのもとに/かうかういまはとてまかるをなにこと/もいささかなることもえせてつかはすこ/ととかきておくに/",
         "translation-ja": "思いなやんで、懇ろに心を通わせていた友達のところに、「こうこうの次第で、もはや別れということで、何事もわずかなこともしてやれずに、送り出すことです」と書いて、奥に、",
         "translation-en": "After much thought, he wrote to an old friend with whom he had been talking with, 'My wife will leave, but I cannot do anything for her, so I will just send her off.'"
       },
       {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 9,
         "poem": "手を折りて/あひ見しことを/かぞふれば/十といひつつ/四つはへにけり",
-        "kana": "ゆびをおりて/あひみしことを/かぞふれば/とをいひつつ/よつはへにけり",
+        "kana": "てをおりて/あひみしことを/かぞふれば/とをいひつつ/よつはへにけり",
+        "honkoku": "てをおりてあひみしことをかそふれは/とおといひつつよつはへにけり/s28r/",
         "translation-ja": "指を折って共に暮した年月を数えてみると、四十年にもなっていたのでした。",
         "translation-en": "Counting the years we spent together by folding my fingers, it had been forty years."
       },
       {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 10,
         "text": "かの友だちこれを見て、いとあはれと思ひて、夜の物までおくりてよめる。",
         "kana": "かのともだちこれをみて、いとあはれとおもひて、よるのものまでおくりてよめる。",
+        "honkoku": "かのともたちこれを見ていとあはれと/思ひてよるのものまてをくりてよめる/",
         "translation-ja": "その友達は、これを見て、ひどくしみじみと思って、夜具まで贈って、歌を詠んだ。",
         "translation-en": "Seeing this, the friend was deeply moved and sent bedding and composed a poem."
       },
       {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 11,
         "poem": "年だにも/十とて四つは/経にけるを/いくたび君を/頼み来ぬらむ",
         "kana": "としだにも/とをとてよつは/ふりにけるを/いくたびきみを/たのみきぬらむ",
+        "honkoku": "年たにもとをとてよつはへにけるを/いくたひきみをたのみきぬらん/",
         "translation-ja": "年月でさえも、四十年はお過ごしになったのに、どれほどあなたを頼みに思ってきたことでしょう。",
         "translation-en": "Even after forty years, how much have you been relied on by your wife?"
       },
       {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 12,
+        "text": "かく言ひやりければ、",
+        "kana": "かくいひやりければ、",
+        "honkoku": "かくいひやりけれは/",
+        "translation-ja": "こう詠んでやったところ、",
+        "translation-en": "Having sang this,"
+      },
+      {
+        "date": "20240604,20250114",
+        "id": 13,
         "poem": "これやこの/天の羽衣む/べしこそ/きみがおぎぬ/とまつりけれ",
         "kana": "これやこの/あまのはごろもむ/べしこそ/きみがおぎぬ/とまつりけれ",
+        "honkoku": "これやこのあまのは衣むへしこそ/君かみけしとたてまつりけれ/",
         "translation-ja": "これはなんと、天から降り下った天の羽衣でございます。なるほど、あなたのお召し物としてお着けになったものなのですからね。",
         "translation-en": "This is the heavenly robe that has fallen from heaven. It is something that you have worn as your clothing."
       },
       {
-        "date": "20240604",
-        "id": 13,
-        "text": "かくいひやりたりければ、",
-        "kana": "かくいひやりたりければ、",
-        "translation-ja": "こう詠んでやったところ、",
-        "translation-en": "Having composed this,"
-      },
-      {
-        "date": "20240604",
+        "date": "20240604,20250114",
         "id": 14,
-        "poem": "これやこの/あまの羽衣/むべしこそ/君がみけしとたてつまりけれ",
-        "kana": "これやこの/あまのはごろも/むべしこそ/きみがみけしと/たてつまりけれ",
-        "translation-ja": "これはなんと、天から降り下った天の羽衣でございます。あなたのお召し物としてお着けになったものなのですからね。",
-        "translation-en": "This is the heavenly robe that has fallen from heaven. It is something that you have worn as your clothing."
-      },
-      {
-        "date": "20240604",
-        "id": 15,
         "text": "よろこびに堪へで、又、",
         "kana": "よろこびにたえで、また、",
+        "honkoku": "よろこひにたへて又/",
         "translation-ja": "喜びのあまり、また、",
         "translation-en": "Overwhelmed with joy, again,"
       },
       {
-        "date": "20240604",
-        "id": 16,
+        "date": "20240604,20250114",
+        "id": 15,
         "poem": "秋や来る/露やまがふと/思ふまで/あるは涙の/降るにぞありける",
         "kana": "あきやくる/つゆやまがふと/おもふまで/あるはなみだの/ふるにそありける",
+        "honkoku": "秋やくるつゆやまかふとおもふまて/s28l/あるはなみたのふるにそありける/s29r/",
         "translation-ja": "秋がきたのだろうか、こんなに露か、と見まちがえるほどに、あるのは、涙が降ることでした。",
         "translation-en": "I wonder if autumn has come, and that's why there is so much dew. The sleeves are wet as if I mistook it for dew, but it is my tears of joy."
       }
