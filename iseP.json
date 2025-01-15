@@ -1601,34 +1601,38 @@
     "romaji": "toshinimarenaru hito",
     "paragraph": [
       {
-        "date": "20240605",
+        "date": "20240605,20250115",
         "id": 1,
         "text": "年ごろおとづれざりける人の、桜の盛りに見に来たりければ、あるじ、",
         "kana": "としごろおとづれざりけるひとの、さくらのさかりにみにきたりければ、あるじ、",
+        "honkoku": "としころをとつれさりける人のさくら/のさかりに見にきたりけれはあるし/",
         "translation-ja": "長年、訪れてこなかった人が、桜の花の盛りに花を見にきたので、家の主人、",
         "translation-en": "A person who had not visited for a long time came to see the cherry blossoms in full bloom, and the master of the house..."
       },
       {
-        "date": "20240605",
+        "date": "20240605,20250115",
         "id": 2,
         "poem": "あだなりと/名にこそたてれ/桜花/年にまれなる/人も待けり",
         "kana": "あだなりと/なにこそたてれ/さくらはな/としにまれなる/ひともまちけり",
+        "honkoku": "あたなりと名にこそたてれさくら花/としにまれなる人もまちけり/",
         "translation-ja": "移り気でと評判の桜花ですが、年にまれに訪れる人も、待っていましたよ。",
         "translation-en": "The cherry blossoms are said to be fickle, but it has been waiting for a person who rarely visits in a year."
       },
       {
-        "date": "20240605",
+        "date": "20240605,20250115",
         "id": 3,
         "text": "返し、",
         "kana": "かえし、",
+        "honkoku": "返し/",
         "translation-ja": "返しの歌、",
         "translation-en": "In response,"
       },
       {
-        "date": "20240605",
+        "date": "20240605,20250115",
         "id": 4,
         "poem": "今日来ずは/明日は雪とぞ/降りなまし/消えずはありとも/花と見ましや",
         "kana": "けふこずは/あすはゆきとぞ/ふりなまし/きえずはありとも/はなとみましや",
+        "honkoku": "けふこすはあすは雪とそふりなまし/きえすはありともはなと見ましや/s29r/",
         "translation-ja": "今日来なかったら、明日は雪と降り散ってしまったことでしょう。消えなくても、それを花と見るでしょうか。",
         "translation-en": "If I didn't come today, the cherry blossoms would have fallen like snow tomorrow. Even if the petals do not disappear, who will see them as cherry blossoms?"
       }
