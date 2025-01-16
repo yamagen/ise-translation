@@ -1644,50 +1644,56 @@
     "romaji": "shiragiku",
     "paragraph": [
       {
-        "date": "20240606",
+        "date": "20240606,20250116",
         "id": 1,
-        "text": "むかし、なま心あるありけり。",
-        "kana": "むかし、なまごころあるありけり。",
+        "text": "むかし、なま心ある女ありけり。",
+        "kana": "むかし、なまごころをんなあるありけり。",
+        "honkoku": "むかしなま心ある女ありけり",
         "translation-ja": "昔、未熟な心の女がいた。",
         "translation-en": "Once upon a time, there was a unconsiderable woman."
       },
       {
-        "date": "20240606",
+        "date": "20240606,20250116",
         "id": 2,
         "text": "男ちかうありけり。",
         "kana": "おとこちかうありけり。",
+        "honkoku": "男ちかう有/s29r/けり",
         "translation-ja": "男が近くに住んでいた。",
         "translation-en": "A man lived nearby."
       },
       {
-        "date": "20240606",
+        "date": "20240606,20250116",
         "id": 3,
         "text": "女、歌よむ人なりければ、心みむとて、菊の花のうつろへる折りて、男のもとへやる。",
         "kana": "おんな、うたよむひとなりければ、こころみむとて、きくのはなのうつろへるをりて、おとこのもとへやる。",
+        "honkoku": "女うたよむひとなりけれはこころ/みんとてきくの花のうつろへるをお/りておとこのもとへやる/",
         "translation-ja": "女は、歌を詠む人だったので、歌を詠もうと、菊の花のおとろえかかったものを折って、男のところへ贈りました。",
         "translation-en": "The woman was a poet, so she tried to compose a poem, picked a chrysanthemum that was fading, and sent it to the man."
       },
       {
-        "date": "20240606",
+        "date": "20240606,20250116",
         "id": 4,
         "poem": "紅に/にほふはいづら/白雪の/枝もとををに/降るかとも見ゆ",
         "kana": "くれなゐに/にほふはいづら/しらゆきの/えだもとををに/ふるかともみゆ",
+        "honkoku": "くれなゐににほふはいつら白雪の/えたもとををにふるかとも見ゆ/",
         "translation-ja": "紅の美しい色はどこに、白雪が枝たわわに降っているように見える。",
         "translation-en": "Where is the beautiful red color? It looks as if white snow is piled up on the branches."
       },
       {
-        "date": "20240606",
+        "date": "20240606,20250116",
         "id": 5,
         "text": "男、知らずよみにける。",
         "kana": "おとこ、しらずよみにける。",
+        "honkoku": "おとこしらすよみによみける/",
         "translation-ja": "男は知らぬふりして、返しの歌を詠んだ。",
         "translation-en": "The man pretended not to know and composed a response poem."
       },
       {
-        "date": "20240606",
+        "date": "20240606,20250116",
         "id": 6,
         "poem": "紅に/にほふがうへの/白菊は/折りける人の/袖かとも見ゆ",
         "kana": "くれなゐに/にほふがうへの/しらぎくは/をりけるひとの/そでかともみゆ",
+        "honkoku": "紅ににほふかうへのしら菊は/おりける人のそてかともみゆ/s29l/",
         "translation-ja": "紅美しい上の白菊は、折り取ったあなたの袖かと思われます。",
         "translation-en": "The white chrysanthemum that covers the beautiful red color looks like the color of your sleeve that you picked."
       }
