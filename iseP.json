@@ -1705,42 +1705,47 @@
     "romaji": "amagumo no yoso",
     "paragraph": [
       {
-        "date": "20240607",
+        "date": "20240607,20250117",
         "id": 1,
         "text": "むかし、男、宮仕へしける女の方に、御達なりける人をあひ知りたりける。",
         "kana": "むかし、おとこ、みやつかへしけるおんなのほうに、おたちなりけるひとをあひしりたりける。",
+        "honkoku": "むかし男みやつかへしける女のかたにこ/たちなりける人をあひしりたりける",
         "translation-ja": "昔、男が宮仕えをしていた女の方のなかに、高貴な人がいて、その人と知り合いになりました。",
         "translation-en": "Once upon a time, a man met a noble woman who served the emperor."
       },
       {
-        "date": "20240607",
+        "date": "20240607,20250117",
         "id": 2,
         "text": "ほどもなくかれにけり。",
         "kana": "ほどもなくかれにけり。",
+        "honkoku": "ほと/もなくかれにけり",
         "translation-ja": "まもなくその女と別れてしまいました。",
         "translation-en": "He soon parted with the woman."
       },
       {
-        "date": "20240607",
+        "date": "20240607,20250117",
         "id": 3,
         "text": "おなじ所なれば、女の目には見ゆるものから、男はあるものかと思ひたらず。",
         "kana": "おなじところなれば、おんなのめにはみゆるものから、おとこはあるものかとおもひたらず。",
+        "honkoku": "おなし所なれは女の/めには見ゆる物からおとこはあるもの/かともおもひたらす",
         "translation-ja": "同じ場所にいるのに、女の目には見えるのに、男は、いることに気づかなかった。",
         "translation-en": "Although they were in the same place and the woman saw the man, he did not notice her."
       },
       {
-        "date": "20240607",
+        "date": "20240607,20250117",
         "id": 4,
         "text": "女、",
         "kana": "おんな、",
+        "honkoku": "をんな/",
         "translation-ja": "女は、",
         "translation-en": "The woman,"
       },
       {
-        "date": "20240607",
+        "date": "20240607,20250117",
         "id": 5,
         "poem": "天雲の/よそにも人の/なりゆくか/さすがに目には/見ゆるものから",
         "kana": "あまぐもの/よそにもひとの/なりゆくか/さすがにめには/みゆるものから",
+        "honkoku": "あまくものよそにも人のなりゆくか/さすかにめにはみゆるものから/",
         "translation-ja": "空の雲の向こうにも、人は行くのでしょうか。依然、目に見えるのに。",
         "translation-en": "Will you go beyond the heavenly clouds? Still, I can see you."
       },
@@ -1749,22 +1754,25 @@
         "id": 6,
         "text": "とよめりければ、男、返し、",
         "kana": "とよめりければ、おとこ、かえし、",
+        "honkoku": "とよめりけれはおとこ返し/",
         "translation-ja": "と詠んだので、男は、返しの歌を、",
         "translation-en": "Having sung the song, the man composed a response poem."
       },
       {
-        "date": "20240607",
+        "date": "20240607,20250117",
         "id": 7,
         "poem": "天雲の/よそにのみして/経ることは/わが居る山の/風はやみなり",
         "kana": "あまぐもの/よそにのみして/へることは/わがゐるやまの/かぜはやみなり",
+        "honkoku": "あま雲のよそにのみしてふることは/s30l/わかゐる山のかせはやみなり/",
         "translation-ja": "空の雲の向こうにだけ過ごしているのは、私の居る山の風が早いからなのです。",
         "translation-en": "I am only beyond the heavenly clouds is because the wind on the mountain where I am is very fast."
       },
       {
-        "date": "20240607",
+        "date": "20240607,20250117",
         "id": 8,
         "text": "とよめりけるは、また男ある人となむいひける。",
         "kana": "とよめりけるは、またおとこあるひととなむいひける。",
+        "honkoku": "とよめりけるは又おとこある人となんいひける/s31r/",
         "translation-ja": "と詠んだのは、ほかの男がいる人だからだと、人々が言ったからなのです。",
         "translation-en": "The reason he composed the song was because there was another man with her."
       }
