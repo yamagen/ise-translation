@@ -1750,7 +1750,7 @@
         "translation-en": "Will you go beyond the heavenly clouds? Still, I can see you."
       },
       {
-        "date": "20240607",
+        "date": "20240607,20250117",
         "id": 6,
         "text": "とよめりければ、男、返し、",
         "kana": "とよめりければ、おとこ、かえし、",
@@ -1784,42 +1784,47 @@
     "romaji": "kaede no momiji",
     "paragraph": [
       {
-        "date": "20240608",
+        "date": "20240608,20250119",
         "id": 1,
         "text": "むかし、男、大和にある女を見てよばひてあひにけり。",
         "kana": "むかし、おとこ、やまとにあるおんなをみてよばひてあひにけり。",
+        "honkoku": "むかし男やまとにある女を見てよはひて/あひにけり",
         "translation-ja": "昔、男が大和にいる女を見て求愛して逢っていました。",
         "translation-en": "Once upon a time, a man saw a woman living in Yamato and courted her and met with her."
       },
       {
-        "date": "20240608",
+        "date": "20240608,20250119",
         "id": 2,
         "text": "さてほど経て、宮仕へする人なりければ、かへりくる道に、三月ばかりに、かへでもみぢの、いとおもしろきを折りて、女のもとに道よりいひやる。",
         "kana": "さてほどへて、みやつかへするひとなりければ、かへりくるみちに、さんげつばかりに、かへでもみぢの、いとおもしろきをおりて、おんなのもとにみちよりいひやる。",
+        "honkoku": "さてほとへて宮つかへする人/なりけれはかへりくるみちにやよひはかり/にかえてのもみちのいとおもしろきを/おりて女のもとにみちよりいひやる/",
         "translation-ja": "その後、しばらくして、宮仕えをする人であったので、帰ってくる途中、三月ごろ、楓の紅葉がたいそう美しいのを折って、女のところに、道から詠んで贈る。",
         "translation-en": "After a while, the man was serving the court, and on his way back home, he picked the beautiful maple leaves in March and sang a song to the woman."
       },
       {
-        "date": "20240608",
+        "date": "20240608,20250119",
         "id": 3,
         "poem": "君がため/手折れる枝は/春ながら/かくこそ秋の/紅葉しにけれ",
         "kana": "きみがため/たをれるえだは/はるながら/かくこそあきの/もみじしにけれ",
+        "honkoku": "君かためたおれるえたははるなから/s31r/かくこそ秋のもみちしにけれ/",
         "translation-ja": "あなたのために手折った楓の枝は、春ですが、こんなに秋のような紅葉になってしまいました。",
         "translation-en": "The maple branch I picked for you is even in spring, but it has turned into such an autumn color."
       },
       {
-        "date": "20240608",
+        "date": "20240608,20250119",
         "id": 4,
         "text": "とてやりたりければ返り事は、京にきつきてなむもてきたりける。",
         "kana": "とてやりたりければかえりごとは、みやこにきつきてなむもてきたりける。",
+        "honkoku": "とてやりたりけれは返事は京にきつき/てなんもてきたりける/",
         "translation-ja": "と贈ったところ、返事は、京に着いてから、持ってきたのでした。",
         "translation-en": "Having sung this, the reply was brought to him after he arrived in Kyoto."
       },
       {
-        "date": "20240608",
+        "date": "20240608,20250119",
         "id": 5,
         "poem": "いつの間に/移ろふ色の/つきぬらむ/君が里には/春なかるらし",
         "kana": "いつのまに/うつろふいろの/つきぬらむ/きみがさとには/はるなかるらし",
+        "honkoku": "いつのまにうつろふいろのつきぬ覧/きみかさとには春なかるらし/s31l/",
         "translation-ja": "いつの間に、移ろう色が付いてしまったのでしょうか。あなたの住むところには、春がないのでしょうか。",
         "translation-en": "When did the changing colors stick to it? It seems that there is no spring in the place where you live."
       }
