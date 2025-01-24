@@ -1863,7 +1863,7 @@
         "translation-en": "If I leave here, will people say that I am a shallow since they do not know the state of our relationship?"
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 4,
         "text": "とよみおきて、出でていにけり。",
         "kana": "とよみおきて、いでていにけり。",
@@ -1872,7 +1872,7 @@
         "translation-en": "Having sung this, she left."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 5,
         "text": "この女かく書きおきたるを、けしう、心おくべきことを覚えぬを、",
         "kana": "このおんなかくかきおきたるを、けしう、こころおくべきことをおぼえぬを、",
@@ -2023,82 +2023,92 @@
     "romaji": "chiyo wo hitoyo",
     "paragraph": [
       {
-        "date": "20240610",
+        "date": "20240610,20250124",
         "id": 1,
         "text": "むかし、はかなくて絶えにけるなか、なほや忘れざりけむ、女のもとより、",
         "kana": "むかし、はかなくてたえにけるなか、なほやわすれざりけむ、おんなのもとより、",
+        "honkoku": "昔はかなくてたえにけるなかなをやわ/すれさりけむ女のもとより/s34r/",
         "translation-ja": "昔、はかなく絶えてしまった仲、まだ忘れられないのか、女のもとから、",
         "translation-en": "In the past, the relationship ended without much love, but they still could not forget each other, and from a woman,..."
       },
       {
-        "date": "20240610",
+        "date": "20240610,20250124",
         "id": 2,
         "poem": "憂きながら/人をばえしも/忘れねば/かつ恨みつゝ/なほぞ恋しき",
         "kana": "うきながら/ひとをばえしも/わすれねば/かつうらみつゝ/なほぞこいしき",
+        "honkoku": "うきなから人をはえしもわすれねは/かつうらみつつ猶そ恋しき/",
         "translation-ja": "憂いと思いますが、人を忘れることができなく、恨めしく思ういっばう、やはり恋しく思います。",
         "translation-en": "I think you are cold, but I cannot forget you, so I still feel resentful and miss you."
       },
       {
-        "date": "20240610",
+        "date": "20240610,20250124",
         "id": 3,
         "text": "といへりければ、「さればよ」といひて、男、",
         "kana": "といへりければ、「さればよ」といひて、おとこ、",
+        "honkoku": "といへりけれはされはよといひておとこ/",
         "translation-ja": "と言ったので、「それならば」と言って、男は、",
         "translation-en": "Having sung this, \"If it is so,\" he said, and ..."
       },
       {
-        "date": "20240610",
+        "date": "20240610,20250124",
         "id": 4,
         "poem": "あひ見ては/心ひとつを/かは島の/水の流れて/絶えじとぞ思ふ",
         "kana": "あひみては/こころひとつを/かはしまの/みずのながれて/たえじとぞおもふ",
+        "honkoku": "あひ見ては心ひとつをかはしまの/水のなかれてたえしとそ思ふ/",
         "translation-ja": "逢っては、心一つを、河島の水の流れが絶えないように、と思っています。",
         "translation-en": "Meeting each other, I think that the water of the Kawashima will not cease to flow."
       },
       {
-        "date": "20240610",
+        "date": "20240610,20250124",
         "id": 5,
         "text": "とはいいけれど、その夜いにけり。",
         "kana": "とはいいけれど、そのよいにけり。",
+        "honkoku": "とはいひけれとその夜いにけり",
         "translation-ja": "と言ったけれど、その夜、女のところへ行った。",
         "translation-en": "Although he sang this, he went to the woman's place that night."
       },
       {
-        "date": "20240610",
+        "date": "20240610,20250124",
         "id": 6,
         "text": "いにしへゆくさきのことどもなどいひて、",
         "kana": "いにしへゆくさきのことどもなどいひて、",
+        "honkoku": "いに/しへ行さきのことともなといひて/",
         "translation-ja": "昔のこと、これからのことなど言って、",
         "translation-en": "Talking about the past and the future,"
       },
       {
-        "date": "20240610",
+        "date": "20240610,20250124",
         "id": 7,
         "poem": "秋の夜の/千夜を一夜に/なずらへて/八千夜し寝ばや/飽く時のあらむ",
         "kana": "あきのよの/ちよをひとよに/なずらへて/やちよしねばや/あくときのあらむ",
+        "honkoku": "秋の夜のちよをひとよになすらへて/やちよしねはやあくときのあらん/s34l/",
         "translation-ja": "秋の夜を千夜を一夜にして、八千夜寝ても飽きることがあるのでしょうか。",
         "translation-en": "If you spend a thousand nights in one night, will you ever get tired of sleeping for eight thousand nights?"
       },
       {
-        "date": "20240610",
+        "date": "20240610,20250124",
         "id": 8,
         "text": "返し、",
         "kana": "かえし、",
+        "honkoku": "返し",
         "translation-ja": "返し、",
         "translation-en": "Reply,"
       },
       {
-        "date": "20240610",
+        "date": "20240610,20250124",
         "id": 9,
         "poem": "秋の夜の/千夜を一夜に/なせりとも/ことば残りて/鳥や鳴きなむ",
         "kana": "あきのよの/ちよをひとよに/なせりとも/ことばのこりて/とりやなきなむ",
+        "honkoku": "あきのよのちよを一夜になせりとも/ことはのこりてとりやなきなむ/",
         "translation-ja": "秋の夜の千夜を一夜にしても、言葉が残っているので、鳥が鳴くことでしょう。",
         "translation-en": "Even if you spend a thousand nights in one night, the words of love will not run out, and the rooster will crow."
       },
       {
-        "date": "20240610",
+        "date": "20240610,20250124",
         "id": 10,
         "text": "いにしへよりもあはれにてなむ通ひける。",
         "kana": "いにしへよりもあはれにてなむかよひける。",
+        "honkoku": "いにしへよりもあはれにてなん/かよひける/s35r/",
         "translation-ja": "昔よりも、あわれに思って、通い続けるようになりました。",
         "translation-en": "Thus, the man visited the woman's place with more compassion than before."
       }
