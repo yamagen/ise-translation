@@ -1836,26 +1836,29 @@
     "romaji": "onoga yoyo",
     "paragraph": [
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 1,
         "text": "むかし、男をんな、いとかしこく思ひかはしてこと心なかりけり。",
         "kana": "むかし、おとこをんな、いとかしこくおもひかはしてことこころなかりけり。",
+        "honkoku": "昔男女いとかしこくおもひかはしてこと/心なかりけり",
         "translation-ja": "昔、男と女は、とても深く思い合っていて、他の人を思う心はありませんでした。",
         "translation-en": "Once upon a time, a man and a woman loved each other deeply and did not think of others."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 2,
         "text": "さるを、いかなる事かありけむ、いさゝかなることにつけて、世の中をうしと思ひて、出でていなむと思ひて、かかる歌をなむよみて、ものに書きつけける。",
         "kana": "さるを、いかなることかありけむ、いささかなることにつけて、よのなかをうしとおもひて、いでていなむとおもひて、かかるうたをなむよみて、ものにかきつけける。",
+        "honkoku": "さるをいかなることかあり/けんいささかなることにつけてよのなか/をうしと思ていてていなんと思ひてかかる/うたをなむよみてものにかきつけける/",
         "translation-ja": "それなのに、どんなことがあったのだろう、ちょっとしたことにつけて、夫婦の仲を憂く思い、出て行こうと思って、このような歌を詠んで、物に書きつけました。",
         "translation-en": "However, what happened, she wrote this poem on something, thinking of leaving her husband over a trivial matter."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 3,
         "poem": "いでていなば/心かるしと/言ひやせむ/世のありさまを/人は知らねば",
         "kana": "いでていなば/こころかるしと/いひやせむ/よのありさまを/ひとはしらねば",
+        "honkoku": "いてていなは心かるしといひやせむ/世のありさまを人はしらねは/",
         "translation-ja": "ここを出て行ったら、心が軽いと言われるでしょうか。世の中のありさまを人は知らないから。",
         "translation-en": "If I leave here, will people say that I am a shallow since they do not know the state of our relationship?"
       },
@@ -1864,6 +1867,7 @@
         "id": 4,
         "text": "とよみおきて、出でていにけり。",
         "kana": "とよみおきて、いでていにけり。",
+        "honkoku": "とよみをきていてていにけり",
         "translation-ja": "と詠んで、出て行ってしまいました。",
         "translation-en": "Having sung this, she left."
       },
@@ -1872,125 +1876,142 @@
         "id": 5,
         "text": "この女かく書きおきたるを、けしう、心おくべきことを覚えぬを、",
         "kana": "このおんなかくかきおきたるを、けしう、こころおくべきことをおぼえぬを、",
+        "honkoku": "この女かく/かきをきたるをけしう心をくへきことも/s32l/おほえぬを",
         "translation-ja": "この女が、こう書き残したので、何だかわからず、心を隔てるようなことも思わなかったのに、",
         "translation-en": "Seeing what this woman wrote, the man did not understand, even though he did not think of estranging his heart."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 6,
         "text": "なにによりてかかゝらむと、いといたう泣きて、",
         "kana": "なにによりてかかからむと、いといたうなきて、",
+        "honkoku": "なにによりてかかからんと/いといたうなきて",
         "translation-ja": "どうしてこうなったのだろうと、たいそう泣いて、",
         "translation-en": "He cried bitterly, wondering why this happened."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 7,
         "text": "いづ方に求めゆかむと、門にいでて、とみかうみ、見けれど、",
         "kana": "いづかたにもとめゆかむと、かどにいでて、とみかうみ、みけれど、",
+        "honkoku": "いつかたにもとめゆ/かんとかとにいててとみかう見々けれ/と",
         "translation-ja": "どこに求めて行こうかと、門に出て、見渡しましたが、",
         "translation-en": "He went to the gate to look around, wondering where to go."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 8,
         "text": "いづこをはかりとも覚えざりければ、かへりいりて、",
         "kana": "いづこをはかりともおぼえざりければ、かへりいりて、",
+        "honkoku": "いつこをはかりともおほえさりけれは/かへりいりて/",
         "translation-ja": "どこかとも思いあたらなかったので、家に戻って、",
         "translation-en": "He could not think of anywhere to go, so he returned home."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 9,
         "poem": "思ふかひ/なき世なりけり/年月を/あだに契りて/我や住まひし",
         "kana": "おもふかひ/なきよなりけり/としつきを/あだにちぎりて/われやすまひし",
+        "honkoku": "おもふかひなき世なりけりとし月を/あたにちきりてわれやすまひし/",
         "translation-ja": "思う甲斐のない世の中でした。年月を無駄に縁を結んで、私たちは住んでいたのでしょうか。",
         "translation-en": "It was a world where there was no point in thinking about it. Did we live together by making useless promises over the years?"
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 10,
         "text": "といひてながめをり。",
         "kana": "といひてながめをり。",
+        "honkoku": "といひてなかめをり/",
         "translation-ja": "と言って、ぼんやりと眺めていました。",
         "translation-en": "Having sung this, he gazed blankly."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 11,
         "poem": "人はいさ/思ひやすらむ/玉かづら/面影にのみ/いとゞ見えつゝ",
         "kana": "ひとはいさ/おもひやすらむ/たまかづら/おもかげにのみ/いとどみえつつ",
+        "honkoku": "人はいさおもひやすらんたまかつら/／s33r/おもかけにのみいととみえつつ/",
         "translation-ja": "人はいつも思いをするのだろうか、玉かづらの面影にのみ、たいそう見えているのですが。",
         "translation-en": "I wonder if that person is always thinking of me. I can only see the image of the person in my mind."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 12,
         "text": "この女、いとひさしくありて、念じわびてにやありけむ、いひおこせたる。",
         "kana": "このおんな、いとひさしくありて、ねんじわびてにやありけむ、いひおこせたる。",
+        "honkoku": "この女いとひさしくありてねむしわひて/にやありけむいひをこせたる/",
         "translation-ja": "この女は、のちになって、こらえきれなくなったのでしょうか、歌を詠んでよこしました。",
         "translation-en": "This woman must have been thinking of me for a long time and could not bear it, so she composed a poem."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 13,
         "poem": "今はとて/忘るゝ草の/たねをだに/人の心に/まかせずもがな",
         "kana": "いまはとて/わするるくさの/たねをだに/ひとのこころに/まかせずもがな",
+        "honkoku": "今はとてわするるくさのたねをたに/人の心にまかせすもかな/",
         "translation-ja": "今はと言って、忘れ草の種だけでも、あなたの心に播かせたくないものです。",
         "translation-en": "Now it's over, but I don't want to plant even the seeds of forget-me-nots in your heart."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 14,
         "text": "返し、",
         "kana": "かえし、",
+        "honkoku": "返し/",
         "translation-ja": "返し、",
         "translation-en": "Reply,"
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 15,
         "poem": "忘草/植うとだに聞く/ものならば/思ひけりとは/知りもしなまし",
         "kana": "わすれぐさ/ううとだにきく/ものならば/おもひけりとは/しりもしなまし",
+        "honkoku": "わすれくさうふとたにきく物ならは/おもひけりとはしりもしなまし/",
         "translation-ja": "忘れ草を植えている、とだけでも聞いたなら、あなたを思っていたのだということが、わかるでしょう。",
         "translation-en": "If you just heard that I was planting forget-me-nots, you would understand that I was thinking of you."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 16,
         "text": "またまたありしよりけにいひかはして、をとこ、",
         "kana": "またまたありしよりけにいひかはして、をとこ、",
+        "honkoku": "又々ありしよりけにいひかはして男/s33l/",
         "translation-ja": "またまた昔のように、言葉を交わして、男は、",
         "translation-en": "After that, the two talked more than ever before, and the man..."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 17,
         "poem": "忘るらむ/と思ふ心の/うたがひに/ありしよりけに/ものぞかなしき",
         "kana": "わするらむ/とおもふこころの/うたがひに/ありしよりけに/ものぞかなしき",
+        "honkoku": "わするらんと思ふ心のうたかひに/ありしよりけに物そかなしき/",
         "translation-ja": "忘れるだろうか、と思う心の疑いに、以前にもまして、もの悲しくなります。",
         "translation-en": "I feel more sad than ever before because of the doubt that you will forget me."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 18,
         "text": "返し、",
         "kana": "かえし、",
+        "honkoku": "返し/",
         "translation-ja": "返しとして、",
         "translation-en": "In response,"
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 19,
         "poem": "中空に/立ちゐる雲の/あともなく/身のはかなくも/なりにけるかな",
         "kana": "なかぞらに/たちゐるくもの/あともなく/みのはかなくも/なりにけるかな",
+        "honkoku": "なか空にたちゐる雲のあともなく/身のはかなくもなりにけるかな/",
         "translation-ja": "空の中に立ち浮かぶ雲が、あともなく、身もはかなくなってしまったのでしょうか。",
         "translation-en": "The clouds floating in the sky disappear without a trace, and my body has become so fleeting as well."
       },
       {
-        "date": "20240609",
+        "date": "20240609,20250124",
         "id": 20,
         "text": "とはいひけれど、おのが世々になりにければ、うとくなりにけり。",
+        "kana": "とはいひけれど、おのがよよになりにければ、うとくなりにけり。",
+        "honkoku": "とはいひけれとをのか世々になりに/けれはうとくなりにけり/s34r/",
         "translation-ja": "とは言ったけれど、おのおの人生になってしまったので、うとくなってしまいました。",
         "translation-en": "Although she sang this, they each found their life, and their relationship became distant."
       }
