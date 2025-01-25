@@ -2124,62 +2124,70 @@
         "id": 1,
         "text": "むかし、田舎わたらひしける人の子ども、井のもとに出でてあそびけるを、",
         "kana": "むかし、いなかわたらひしけるひとのこども、いのもとにいでてあそびけるを、",
+        "honkoku": "昔ゐなかわたらひしける人のことも井/のもとにいててあそひけるを",
         "translation-ja": "昔、田舎で暮らしていた人の子供たちが、井戸のそばで遊んでいたが、",
         "translation-en": "Once upon a time, children of people who lived in the countryside played by the well."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250125",
         "id": 2,
         "text": "大人になりければ、男も女も、はぢかはしてありけれど、",
         "kana": "おとなになりければ、おとこもをんなも、はぢかはしてありけれど、",
+        "honkoku": "おとなに/なりにけれはおとこも女もはちかはして/ありけれは",
         "translation-ja": "大人になると、男も女も、恥かしくしていたが、",
         "translation-en": "When they grew, both the man and the woman felt embarrassed,"
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250125",
         "id": 3,
         "text": "男は、この女をこそ得めと思ふ、女はこの男をと思ひつゝ、親のあはすれど聞かでなむありける。",
         "kana": "おとこは、このおんなをこそえめとおもふ、おんなはこのおとこをとおもひつゝ、おやのあはすれどきかでなむありける。",
+        "honkoku": "おとこはこの女をこそえめと/思ふ女はこの男をと思ひつつおやのあは/すれともきかてなむありける",
         "translation-ja": "男はこの女を得たいと思うし、女はこの男をと思っていて、親が他の男にめあわせようとしても、承知しないでいた。",
         "translation-en": "The man wanted to marry the woman, and the woman wanted to marry the man, and even though the parents tried to match them with others, they refused."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250125",
         "id": 4,
         "text": "さて、この隣の男のもとよりかくなむ。",
         "kana": "さて、このとなりのおとこのもとよりかくなむ。",
+        "honkoku": "さてこのと/なりのおとこのもとよりかくなん/",
         "translation-ja": "さて、この隣の男がこう歌を詠んできた。",
         "translation-en": "Now, the man next door sang this song."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250125",
         "id": 5,
         "poem": "筒井つの/井筒にかけし/まろがたけ/過ぎにけらしな/妹見ざる間に",
         "kana": "つついつの/いづつにかけし/まろがたけ/すぎにけらしな/いもとみざるまに",
+        "honkoku": "つつゐつの井つつにかけしまろかたけ/すきにけらしないもみさるまに/s36r/",
         "translation-ja": "井筒にかかる筒井のまろが竹が、過ぎ去ってしまったよ、あなたを見ない間に。",
         "translation-en": "The bamboo pole hanging over the well has passed while I have not seen you."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250125",
         "id": 6,
         "text": "女、返し、",
         "kana": "おんな、かえし、",
+        "honkoku": "返し/",
         "translation-ja": "女は、返し、",
         "translation-en": "The woman replied,"
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250125",
         "id": 7,
         "poem": "くらべこし/ふりわけ髪も/肩過ぎぬ/君ならずして/誰かあぐべき",
         "kana": "くらべこし/ふりわけかみも/かたすぎぬ/きみならずして/たれかあぐべき",
+        "honkoku": "くらへこしふりわけかみもかたすきぬ/きみならすしてたれかあくへき/",
         "translation-ja": "比べてきました振分髪も、肩を過ぎてしまいました。あなたのためでなくて、だれのために髪上げをしましょうか。",
         "translation-en": "The hair I have compared to you has grown past my shoulders. For whom should I tie it up?"
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250125",
         "id": 8,
         "text": "などいひいひて、つひにほいのごとくあひにけり。",
         "kana": "などいひいひて、つひにほいのごとくあひにけり。",
+        "honkoku": "なといひいひてつゐにほいのことく/あひにけり/s36l/",
         "translation-ja": "など言って、ついに、本意のように、結婚しました。",
         "translation-en": "After exchanging songs like this, they finally got married as they had initially wished."
       },
