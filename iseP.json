@@ -2120,7 +2120,7 @@
     "romaji": "tsutsui zutsu",
     "paragraph": [
       {
-        "date": "20240611",
+        "date": "20240611,20250125",
         "id": 1,
         "text": "むかし、田舎わたらひしける人の子ども、井のもとに出でてあそびけるを、",
         "kana": "むかし、いなかわたらひしけるひとのこども、いのもとにいでてあそびけるを、",
@@ -2192,114 +2192,128 @@
         "translation-en": "After exchanging songs like this, they finally got married as they had initially wished."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 9,
         "text": "さて年ごろふるほどに、女、親なく、たよりなくなるままに、「もろともにいふかひなくてあらむやは」とて、",
         "kana": "さてとしごろふるほどに、おんな、おやなく、たよりなくなるままに、「もろともにいふかひなくてあらむやは」とて、",
+        "honkoku": "さてとしころふるほとに女おやなくた/よりなくなるままにもろともにいふかひ/なくてあらんやはとて",
         "translation-ja": "さて、年をとっていくにつれて、女は親を失い、頼りなくなって、「もろともにいふかひなくてあらむやは」と言って、",
         "translation-en": "As the years passed, the woman lost her parents and became helpless, saying, \"I wonder if we can live together without any worries.\""
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 10,
         "text": "河内の国、高安の郡に、いきかよふ所いできにけり。",
         "kana": "かわちのくに、たかやすのこおりに、いきかよふところいできにけり。",
+        "honkoku": "かうちのくにた/かやすのこほりにいきかよふ所いてき/にけり",
         "translation-ja": "河内の国、高安の郡に、行き通う所を作っていました。",
         "translation-en": "He lived in a place where he could come and go in Kawachi Province, Takayasu District."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 11,
         "text": "さりけれど、このもとの女、あしとおもへる気色もなくていだしやりければ、",
         "kana": "さりけれど、このもとのおんな、あしとおもへるけしきもなくていだしやりければ、",
+        "honkoku": "さりけれとこのもとの女あしと思/へるけしきもなくていたしやりけれは/",
         "translation-ja": "しかし、この前の妻は、憎しみを感じる様子もなく、男を送り出してやったので、",
         "translation-en": "However, the former wife did not seem to hate him and sent him off."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 12,
         "text": "男こと心ありて、かゝるにやあらむと思ひうたがひて、前栽の中にかくれゐて、河内へいぬる顔にて見れば、この女いとようけさじて、うちながめて、",
         "kana": "おとこことごころありて、かかるにやあらむとおもいうたがひて、せんざいのなかにかくれゐて、かわちへいぬるかほにてみれば、このおんないとようけさじて、うちながめて、",
+        "honkoku": "男こと心ありてかかるにやあらむとおもひ/うたかひてせむさいのなかにかくれ/ゐてかうちへいぬるかほにてみれはこの/s37l/女いとようけさうしてうちなかめて/",
         "translation-ja": "男は、異なる心があって、このようにしているんだと思い、疑って庭の植え込みの中に隠れて座り、河内へ行ったような顔で見ていると、この女は、たいそう念入りに化粧をして、物思いにふけり、",
         "translation-en": "The man doubted that she was so honest, and hid in the bushes, pretending to go to Kawachi. When he looked at her face, he saw that she was very carefully made up and lost in thought,..."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 13,
         "poem": "風吹けば/沖つ白浪/龍田山/夜半にや君が/ひとり越ゆらむ",
         "kana": "かぜふけば/おきつしらなみ/たつたやま/よはにやきみが/ひとりこゆらむ",
+        "honkoku": "風ふけはおきつしらなみたつた山/夜半にやきみかひとりこゆらん/",
         "translation-ja": "風が吹くと、沖の白波が立つという龍田山を、夜中にあなたが一人で越えていることでしょう。",
         "translation-en": "When the wind blows, you must be crossing the Mount Tatsuta, where the white waves rise in the open sea, alone in the middle of the night."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 14,
         "text": "とよみけるをきゝて、かぎりなくかなしと思ひて、河内へもいかずなりにけり。",
         "kana": "とよみけるをきゝて、かぎりなくかなしとおもひて、かわちへもいかずなりにけり。",
+        "honkoku": "とよみけるをききてかきりなくかなしと/おもひてかうちへもいかすなりにけり/s38r/",
         "translation-ja": "と詠んだのを聞いて、とても愛しいと思って、河内へ行かなくなってしまいました。",
         "translation-en": "Having heard this, the man thought she was very dear, and he stopped to go to Kawachi."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 15,
         "text": "まれまれかの高安に来て見れば、はじめこそ心にくもつくりけれ、",
         "kana": "まれまれかのたかやすにきてみれば、はじめこそこころにくもつくりけれ、",
+        "honkoku": "まれまれかのたかやすにきてみれははし/めこそこころにくくもつくりけれ",
         "translation-ja": "たまたま、高安に来てみると、男の通いはじめのころはおくゆかしくも粧をこらしたのだが、",
         "translation-en": "By chance, when he came to Takayasu and saw her, she was very modestly made up when he first visited her,..."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 16,
         "text": "いまはうちとけて、てづから飯匙とりて笥子のうつはものにもりけるを見て、心うがりていかずなりけり。",
         "kana": "いまはうちとけて、てづからめさじとりてそうこのうつはものにもりけるをみて、こころうがりていかずなりけり。",
+        "honkoku": "いまは/うちとけててつからいゐかひとりてけ/このうつは物にもりけるを見て心う/かりていかすなりにけり",
         "translation-ja": "いまはうち解け、手ずから杓子を取って、飯を盛る器に盛っていたのを見て、男はいやになって、行かなくなってしまった。",
         "translation-en": "Now, she was relaxed, and she took the ladle herself. He looked that she served the rice in the bowl, and he felt disgusted and stopped going."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 17,
         "text": "さりければ、かの女、大和の方を見やりて、",
         "kana": "さりければ、かのおんな、やまとのほうをみやりて、",
+        "honkoku": "さりけれはかの/女やまとのかたを見やりて/",
         "translation-ja": "そこで、その女は、大和の方を見て、",
         "translation-en": "Then, the woman from Kawachi looked toward Yamato,..."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 18,
         "poem": "君があたり/見つゝを居らむ/生駒山/雲な隠しそ/雨は降るとも",
         "kana": "きみがあたり/みつゝををらむ/いこまやま/くもなかくしそ/あめはふるとも",
+        "honkoku": "きみかあたりみつつををらんい駒山/くもなかくしそ雨はふるとも/",
         "translation-ja": "あなたのいらっしゃる生駒山あたりを望み見ていましょう。雲よ、隠さないで、雨は降っても。",
         "translation-en": "I will gaze at the area where you are. Clouds, please do not hide the Ikoma Mountain, even if it rains."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 19,
         "text": "といひて見だすに、からうじて大和人「来む」といへり。",
         "kana": "といひてみだすに、からうじてやまとびと「こむ」といへり。",
+        "honkoku": "といひてみいたすにからうしてやまと/s39r/ひとこんといへり",
         "translation-ja": "と言って見ると、たまたま大和の国の男が「来よう」と言ってきた。",
         "translation-en": "As she sang and looked, a man from Yamato said, \"I will come.\""
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 20,
         "text": "よろこびて待つに、たびたび過ぎぬれば、",
         "kana": "よろこびてまつに、たびたびすぎぬれば、",
+        "honkoku": "よろこひてまつに/たひたひ過ぬれは/",
         "translation-ja": "喜んで待つのですが、たびたび通ってこないので、",
         "translation-en": "She happyly waited, but he did not come often."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 21,
         "poem": "君来むと/言ひし夜毎に/過ぎぬれば/頼まぬものゝ/恋ひつゝぞ経る",
         "kana": "きみこむと/いひしよごとに/すぎぬれば/たのまぬものの/こひつゝぞへる",
+        "honkoku": "君こむといひし夜ことにすきぬれは/たのまぬもののこひつつそふる/",
         "translation-ja": "君が来ようと言ったその夜ごとに、過ぎてしまいますので、あてにはせぬものの、恋しい思いで過ごしております。",
         "translation-en": "Every night you said you would come, but you never did, so I spend my days with unrequited love."
       },
       {
-        "date": "20240611",
+        "date": "20240611,20250127",
         "id": 22,
         "text": "といへけれど、男すまずなりにけり。",
         "kana": "といへけれど、おとこすまずなりにけり。",
+        "honkoku": "といひけれとおとこすますなりにけり/s39l/",
         "translation-ja": "と言ったけれど、男は住まなくなってしまいました。",
         "translation-en": "Although she sang, the man would never come again."
       }
