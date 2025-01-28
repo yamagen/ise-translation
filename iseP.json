@@ -2325,105 +2325,118 @@
     "romaji": "azusa yumi",
     "paragraph": [
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 1,
         "text": "むかし、男かた田舎に住みけり。",
         "kana": "むかし、おとこかたいなかにすみけり。",
+        "honkoku": "むかし男かたゐなかにすみけり",
         "translation-ja": "昔、男が片田舎に住んでいた。",
         "translation-en": "Once upon a time, a man lived in the countryside."
       },
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 2,
         "text": "男宮仕へしにとて、別れ惜しみてゆきにけるまゝに、三とせ来ざりければ、待ちわびたるけるに、いとねむごろにいひける人に、「今宵あはむ」とちぎりたりけるに、この男きたりけり。",
         "kana": "おとこみやつかえしにとて、わかれをしみてゆきにけるまゝに、みとせこざりければ、まちわびたるけるに、いとねむごろにいひけるひとに、「こよいあはむ」とちぎりたりけるに、このおとこきたりけり。",
+        "honkoku": "男宮つか/へしにとてわかれおしみてゆきにける/ままにみとせこさりけれは待わひたりけ/るにいとねんころにいひける人にこよひ/あはんとちきりたりけるにこの男きた/りけり",
         "translation-ja": "男は、宮中勤めをしに行くと言って、別れを惜しんで出かけたまま、三年帰ってこなかったので、待ちくたびれて、強く求婚してきた人に、「今夜逢いましょう」と結婚の約束を交した、そこへ、この男が帰ってきました。",
         "translation-en": "The man said he was going to work at the palace and left, but he did not return for three years. Since that, the woman had been waiting and tired so long for him. and she had promised to marry another man who had proposed very strongly and said \"See you tonight.\" to her. Then, the man came back."
       },
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 3,
         "text": "「この戸あけ給へ」とたゝきけれど、あけで、歌をなむよみていだしたりける。",
         "kana": "「このとあけたまへ」とたたきけれど、あけで、うたをなむよみていだしたりける。",
+        "honkoku": "このとあけたまへとたたきけれと/あけてうたをなむよみていたしたりける/",
         "translation-ja": "「この戸を開けてください」とたたいたが、開けず、歌を詠んで差し出しました。",
         "translation-en": "\"Please open this door.\" he knocked, but she did not open it and sang a song to him."
       },
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 4,
-        "poem": "あらたまの/年の三年を/待ちわびて/新枕すれ/たゞ今宵こそ",
-        "kana": "あらたまの/とせのみとせを/まちわびて/にひまくらすれ/ただこよいこそ",
+        "poem": "あらたまの/年の三年を/待ちわびて/たゞ今宵こそ/新枕すれ",
+        "kana": "あらたまの/とせのみとせを/まちわびて/ただこよいこそ/にひまくらすれ",
+        "honkoku": "あら玉の年のみとせをまちわひて/たたこよひこそにゐまくらすれ/s40l/",
         "translation-ja": "三年を待ちくたびれて、新しい枕をするのは、今夜がはじめてだけです。",
         "translation-en": "I have been waiting for three years, and I will use a new pillow firstly tonight."
       },
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 5,
         "text": "といひだしたりければ、",
         "kana": "といひだしたりければ、",
+        "honkoku": "といひいたしたりけれは/",
         "translation-ja": "と言って差し出したところ、",
         "translation-en": "When she sang and offered the poem,..."
       },
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 6,
         "poem": "梓弓/ま弓つき弓/年を経て/わがせしがごと/うるはしみせよ",
         "kana": "あづさゆみ/まゆみつきゆみ/としをへて/わがせしがごと/うるはしみせよ",
+        "honkoku": "あつさ弓まゆみつきゆみとしをへて/わかせしかことうるはしみせよ/",
         "translation-ja": "梓の弓、真弓つきの弓、年月を経て、私が愛したように、新しい夫に美しく見せてください。",
         "translation-en": "Azusa bow, a bow with a real bow, please show your love to your new husband as I loved you over the years."
       },
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 7,
         "text": "といひて、いなむとしければ、女、",
+        "honkoku": "といひていなんとしけれは女/",
         "translation-ja": "と言って、立ち去ろうとしたので、女は、",
         "translation-en": "When he sang and tried to leave, the woman..."
       },
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 8,
         "poem": "梓弓/引けど引かねど/昔より/心は君に/寄りにしものを",
         "kana": "あづさゆみ/ひけどひかねど/むかしより/こころはきみに/よりにしものを",
+        "honkoku": "あつさ弓ひけとひかねとむかしより/こころはきみによりにし物を/",
         "translation-ja": "梓の弓、引いても引かなくても、昔から私の心はあなたに寄り添っているのです。",
         "translation-en": "Azusa bow, whether you pull it or not, my heart has been close to you since the old days."
       },
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 9,
         "text": "といひけれど、男かへりにけり。",
         "kana": "といひけれど、おとこかへりにけり。",
+        "honkoku": "といひけれとおとこかへりにけり",
         "translation-ja": "と言ったが、男は帰ってしまいました。",
         "translation-en": "Although she said that, the man left."
       },
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 10,
         "text": "女いとかなしくて、後にたちて追ひゆけど、え追ひつかで、清水のある所にふしにけり。",
         "kana": "おんないとかなしくて、あとにたちておひゆけど、えおひつかで、しみずのあるところにふしにけり。",
+        "honkoku": "女いと/かなしくてしりにたちてをひゆけと/えをひつかてし水のある所にふしに/s41l/けり",
         "translation-ja": "女はとても悲しくて、後から追いかけましたが、追いつかず、清水のあるところで倒れてしまいました。",
         "translation-en": "The woman was very sad and tried to follow him, but she could not catch up with him and fell down at a place where there was a spring."
       },
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 11,
         "text": "そこなりける岩に、およびの血して、書きつける。",
         "kana": "そこなりけるいわに、およびのちして、かきつける。",
+        "honkoku": "そこなりけるいはにおよひのちして/かきつけける/",
         "translation-ja": "そこにあった岩に、指の血で書きつけました。",
         "translation-en": "She wrote with her blood on the rock there."
       },
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 12,
         "poem": "あひ思はで/離れぬる人を/とゞめかね/わが身は今ぞ/消え果てぬめる",
         "kana": "あひおもはで/かれぬるひとを/とどめかね/わがみはいまぞ/きえはてぬめる",
+        "honkoku": "あひおもはてかれぬる人をととめかね/わか身はいまそきえはてぬめる/",
         "translation-ja": "思いが通わないで離れてしまった人を、引きとめることができず、私の身は今、消え果てるようです。",
         "translation-en": "I cannot stop the person who has left without my feelings reaching him, and I feel like I am dying now."
       },
       {
-        "date": "20240612",
+        "date": "20240612,20250128",
         "id": 13,
-        "text": "書きて、そこにいたづらになりにけり。",
-        "kana": "かきて、そこにいたづらになりにけり。",
+        "text": "と書きて、そこにいたづらになりにけり。",
+        "kana": "とかきて、そこにいたづらになりにけり。",
+        "honkoku": "とかきてそこにいたつらになりにけり/s42r/",
         "translation-ja": "と書いて、そこでむなしくなってしまいました。",
         "translation-en": "After writing it, the woman became vain there."
       }
