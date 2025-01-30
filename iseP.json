@@ -2448,26 +2448,29 @@
     "romaji": "ahade neruyo",
     "paragraph": [
       {
-        "date": "20240613",
+        "date": "20240613,20250130",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、おとこありけり。",
+        "honkoku": "昔おとこありけり",
         "translation-ja": "昔、男がいました。",
         "translation-en": "Once upon a time, there was a man."
       },
       {
-        "date": "20240613",
+        "date": "20240613,20250130",
         "id": 2,
         "text": "あはじともいはざりける女の、さすがなりけるがもとにいひやりける。",
         "kana": "あはじともいはざりけるおんなの、さすがなりけるがもとにいひやりける。",
+        "honkoku": "あはしともいはさり/けるをんなのさすかなりけるかもとに/いひやりける/",
         "translation-ja": "逢おうとも、逢うまいともはっきり言わなかったが、いざとどうなるというところで、歌を詠んで贈った。",
         "translation-en": "Although she did not clearly say whether she would meet him or not, he sent her a poem when it came to the point."
       },
       {
-        "date": "20240613",
+        "date": "20240613,20250130",
         "id": 3,
         "poem": "秋の野に/笹分けし朝の/袖よりも/あはで寝る夜ぞ/ひぢまさりける",
         "kana": "あきののに/ささわけしあさの/そでよりも/あはでねるよぞ/ひぢまさりける",
+        "honkoku": "秋の野にささわけしあさの袖よりも/s42r/あはてぬるよそひちまさりける/",
         "translation-ja": "秋の野で笹を分けての、朝の袖よりも、逢わないで寝る夜の方が、より濡れました。",
         "translation-en": "I divided the bamboo grass in the autumn field, and the night I sleep without you is wetter than the morning sleeves."
       },
@@ -2476,14 +2479,16 @@
         "id": 4,
         "text": "色好みなる女、返し、",
         "kana": "いろこのみなるをんな、かえし、",
+        "honkoku": "いろこのみなる女返し/",
         "translation-ja": "色好みな女が、返すには、",
         "translation-en": "The woman who liked colors sent back a poem."
       },
       {
-        "date": "20240613",
+        "date": "20240613,20250130",
         "id": 5,
         "poem": "みるめなき/わが身を浦と/知らねばや/離れなで海人の/足たゆく来る",
         "kana": "みるめなき/わがみをうらと/しらねばや/はなれなであまびとの/あしたゆくきたる",
+        "honkoku": "見るめなき我身をうらとしらねはや/かれなてあまのあしたゆくくる/s42l/",
         "translation-ja": "海松布のない、私の身を浦と知らないから、離れもせずに海人の足が疲れて来るのでしょうか。",
         "translation-en": "I wonder if you do not know that I am like seagrass, and that is why you come with tired feet without leaving me."
       }
