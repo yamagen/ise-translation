@@ -2525,42 +2525,47 @@
     "romaji": "tarahi no kage",
     "paragraph": [
       {
-        "date": "20240615",
+        "date": "20240615,20250201",
         "id": 1,
         "text": "むかし、男、女のもとにひと夜いきて、又もいかずなりにければ、",
         "kana": "むかし、をとこ、をんなのもとにひとよいきて、またもいかずなりにければ、",
+        "honkoku": "昔おとこ女のもとにひと夜いきて又もい/s42l/かすなりにけれは",
         "translation-ja": "昔、男が女のもとに一晩行って、また行かずにいると、",
         "translation-en": "Once upon a time, a man went to a woman to spend a night, but he never went there again."
       },
       {
-        "date": "20240615",
+        "date": "20240615,20250201",
         "id": 2,
         "text": "女の手洗ふ所に、貫簀をうちやりて、たらひのかげに見えけるを、みづから、",
         "kana": "をんなのてあらふところに、かんすをうちやりて、たらひのかげにみえけるを、みづから、",
+        "honkoku": "女のてあらふ所に/ぬきすをうちやりてたらひのかけに見え/けるをみつから/",
         "translation-ja": "女が手を洗うところに、貫簀を退けていて、たらいの影が見えたので、自分で、",
         "translation-en": "At the place where women wash their hands, and since the rack was removed, her face was reflected in the water of the basin, and she said to herself..."
       },
       {
-        "date": "20240615",
+        "date": "20240615,20250201",
         "id": 3,
         "poem": "わればかり/もの思ふ人は/またもあらじと/思へば水の/下にもありけり",
         "kana": "わればかり/ものおもふひとは/またもあらじと/おもへばみずの/したにもありけり",
+        "honkoku": "われはかり物思ふ人はまたもあらし/とおもへは水のしたにもありけり/",
         "translation-ja": "私だけで、思い悩む人は、またもいないと、思っていたら、水の下にもいたのでした。",
         "translation-en": "I thought there was no one as sad as me, but there was someone under the water."
       },
       {
-        "date": "20240615",
+        "date": "20240615,20250201",
         "id": 4,
         "text": "とよむを、来ざりける男、立ち聞きて、",
         "kana": "とよむを、きざりけるをとこ、たちききて、",
+        "honkoku": "とよむをこさりけるおとこたちききて/",
         "translation-ja": "と詠むのを、来なかった男が立ち聞いて、",
         "translation-en": "that she sang, the man who did not come and listened to her, sang,"
       },
       {
-        "date": "20240615",
+        "date": "20240615,20250201",
         "id": 5,
         "poem": "水口に/われや見ゆらむ/蛙さへ/水の下にて/もろ声に鳴く",
         "kana": "みなくちに/われやみゆらむ/かはづさへ/みづのしたにて/もろごえになく",
+        "honkoku": "みなくちに我や見ゆらむかはつさへ/水のしたにてもろこゑになく/s43r/",
         "translation-ja": "水口に私があらわれたのでしょう。蛙までもが、水の下で声を合せて鳴いているのです。",
         "translation-en": "I appeared at the water's edge. Even the frogs are singing in unison under the water."
       }
