@@ -2713,26 +2713,29 @@
     "romaji": "shizuno odamaki",
     "paragraph": [
       {
-        "date": "20240620",
+        "date": "20240620,20250203",
         "id": 1,
         "text": "むかし、ものいひける女に、年ごろありて、",
         "kana": "むかし、ものいひけるをんなに、としごろありて、",
+        "honkoku": "むかし物いひける女にとしころありて/",
         "translation-ja": "昔、関係したことのある女に、何年かたって、",
         "translation-en": "Once upon a time, a man sang for a woman who had been in a relationship with him for several years,.."
       },
       {
-        "date": "20240620",
+        "date": "20240620,20250203",
         "id": 2,
         "poem": "古の/しづのをだまき/くりかへし/昔を今に/なすよしもがな",
         "kana": "いにしへの/しづのをだまき/くりかへし/むかしをいまに/なすよしもがな",
+        "honkoku": "いにしへのしつのをたまきくり返し/むかしをいまになすよしもかな/",
         "translation-ja": "昔のしづのをだまきをくりかえして、昔のことを今になっても思い出すことができれば、よいことでしょう。",
         "translation-en": "It is a good thing to be able to remember the past by repeating the spindle of hemp thread for Shitsu fabric of ancient times."
       },
       {
-        "date": "20240620",
+        "date": "20240620,20250203",
         "id": 3,
         "text": "といへりけれど、なにとも思はずやありけむ。",
         "kana": "といへりけれど、なにともおもはずやありけむ。",
+        "honkoku": "といへりけれとなにとも思はすや有けむ/s45l/",
         "translation-ja": "と言ったけれども、女は何も思わなかったのでしょうか。",
         "translation-en": "Although he sang, the woman did not seem to think anything."
       }
