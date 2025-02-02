@@ -2652,50 +2652,56 @@
     "romaji": "yoshiya kusaba yo",
     "paragraph": [
       {
-        "date": "20240619",
+        "date": "20240619,20250202",
         "id": 1,
         "text": "むかし、宮の内にて、ある御達の局のまへをわたりけるに、",
         "kana": "むかし、みやのうちにて、あるおたちのつぼねのまへをわたりけるに、",
+        "honkoku": "むかし宮のうちにてあるこたちのつほね/のまへをわたりけるに/",
         "translation-ja": "昔、宮中で、ある御達の局の前を通り過ぎたときに、",
         "translation-en": "Once upon a time, when a man passed by the office of a certain high-ranking lady-in-waiting in the palace,"
       },
       {
-        "date": "20240619",
+        "date": "20240619,20250202",
         "id": 2,
         "text": "なにのあたにか思ひけむ、",
         "kana": "なにのあたにかおもひけむ、",
+        "honkoku": "なにのあたにか/おもひけん",
         "translation-ja": "どんな恨みある者に思ったのか、",
         "translation-en": "The lady thought the man grudged her,"
       },
       {
-        "date": "20240619",
+        "date": "20240619,20250202",
         "id": 3,
         "text": "「よしや草葉よ、ならむさが見む」といふ。",
         "kana": "「よしやくさばよ、ならむさがみむ」といふ。",
+        "honkoku": "よしやくさはよならんさ/かみむといふ",
         "translation-ja": "「たとえ草葉でも、本性を見ましょう」と言う。",
         "translation-en": "\"Even if you are grass and leaves, I will see your true nature.\""
       },
       {
-        "date": "20240619",
+        "date": "20240619,20250202",
         "id": 4,
         "text": "男、",
         "kana": "をとこ",
+        "honkoku": "おとこ/",
         "translation-ja": "男は、",
         "translation-en": "The man,"
       },
       {
-        "date": "20240619",
+        "date": "20240619,20250202",
         "id": 5,
         "poem": "つみもなき/人をうけへば/忘草/おのがうへにぞ/生ふといふなる",
         "kana": "つみもなき/ひとをうけへば/わすれぐさ/おのがうへにそ/おふといふなる",
+        "honkoku": "つみもなき人をうけへはわすれくさ/をのかうへにそおふといふなる/s45r/",
         "translation-ja": "罪もない人を受け入れると、忘れ草が自分の庭に生えると言われています。",
         "translation-en": "It is said that if you punish an innocent person, forget-me-nots will grow in your garden."
       },
       {
-        "date": "20240619",
+        "date": "20240619,20250202",
         "id": 6,
         "text": "といふを、ねたむ女もありけり。",
         "kana": "といふを、ねたむをんなもありけり。",
+        "honkoku": "といふをねたむ女もありけり/s45l/",
         "translation-ja": "と言ったのを、妬む女もいました。",
         "translation-en": "that he sang, then there was a woman who was jealous."
       }
