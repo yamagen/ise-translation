@@ -2602,7 +2602,7 @@
     "romaji": "hana no ga",
     "paragraph": [
       {
-        "date": "20240617,20250203",
+        "date": "20240617,20250202",
         "id": 1,
         "text": "むかし、春宮の女御の御方の花の賀に、めしあづけられたりけるに、",
         "kana": "むかし、しゅんぐうのにょうごのみかたのはなのがに、めしあづけられたりけるに、",
@@ -2611,7 +2611,7 @@
         "translation-en": "Once upon a time, when a man was invited to the celebration of flowers of the lady of the spring palace,..."
       },
       {
-        "date": "20240617,20250203",
+        "date": "20240617,20250202",
         "id": 2,
         "poem": "花に飽かぬ/なげきはいつも/せしかども/今日のこよひに/似る時はなし",
         "kana": "はなにあかぬ/なげきはいつも/せしかども/きょうのこよひに/にるときはなし",
@@ -2627,18 +2627,20 @@
     "romaji": "hatsukanarikeru onna",
     "paragraph": [
       {
-        "date": "20240618",
+        "date": "20240618,20250202",
         "id": 1,
         "text": "むかし、男、はつかなりける女のもとに、",
         "kana": "むかし、おとこ、はつかなりけるをんなのもとに、",
+        "honkoku": "昔おとこはつかなりける女のもとに/",
         "translation-ja": "昔、男、なかなか逢えない女のところに、",
         "translation-en": "Once upon a time, a man sang a song to a woman who he could not see as he wished."
       },
       {
-        "date": "20240618",
+        "date": "20240618,20250202",
         "id": 2,
         "poem": "あふことは/玉の緒ばかり/おもほえて/つらき心の/ながく見ゆらむ",
         "kana": "あふことは/たまのをばかり/おもほえて/つらきこころの/ながくみゆらむ",
+        "honkoku": "あふ事はたまのをはかりおもほえて/つらきこころのなかく見ゆらむ/s45r/",
         "translation-ja": "逢うことは、玉の緒ほどのほんのわずかの間のように思われて、つらい心が長く感じられるようです。",
         "translation-en": "Meeting you seems like a very short time, but my sad heart lasts long."
       }
