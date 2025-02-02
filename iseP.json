@@ -2602,18 +2602,20 @@
     "romaji": "hana no ga",
     "paragraph": [
       {
-        "date": "20240617",
+        "date": "20240617,20250203",
         "id": 1,
         "text": "むかし、春宮の女御の御方の花の賀に、めしあづけられたりけるに、",
         "kana": "むかし、しゅんぐうのにょうごのみかたのはなのがに、めしあづけられたりけるに、",
+        "honkoku": "むかし東宮の女御の御かたのはなの賀に/めしあつけられたりけるに/",
         "translation-ja": "昔、春宮の女御の御方の花の賀に、召しあずけられましたときに、",
         "translation-en": "Once upon a time, when a man was invited to the celebration of flowers of the lady of the spring palace,..."
       },
       {
-        "date": "20240617",
+        "date": "20240617,20250203",
         "id": 2,
         "poem": "花に飽かぬ/なげきはいつも/せしかども/今日のこよひに/似る時はなし",
         "kana": "はなにあかぬ/なげきはいつも/せしかども/きょうのこよひに/にるときはなし",
+        "honkoku": "花にあかぬなけきはいつもせしかとも/けふのこよひににるときはなし/s44r/",
         "translation-ja": "花に飽きることのない悲しみは、いつも感じていますが、今日の今宵に似た時はございません。",
         "translation-en": "The sadness of parting with flowers is always remembered, but tonight is different from any other night."
       }
