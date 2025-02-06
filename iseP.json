@@ -2852,18 +2852,20 @@
     "romaji": "tamakazura",
     "paragraph": [
       {
-        "date": "20240624",
+        "date": "20240624,20250206",
         "id": 1,
         "text": "むかし、「忘れぬるなめり」と問ひ言しける女のもとに、",
         "kana": "むかし、「わすれぬるなめり」ととひことしけるをんなのもとに、",
+        "honkoku": "むかしわすれぬるなめりととひことし/ける女のもとに/",
         "translation-ja": "昔、「忘れてしまったようね」と、問うてきた女のもとに、",
         "translation-en": "Once upon a time, a man sent a song to a woman who asked, \"Have you forgotten?\""
       },
       {
-        "date": "20240624",
+        "date": "20240624,20250206",
         "id": 2,
         "poem": "谷せばみ/峯まではへる/玉かづら/絶えむと人に/わが思はなくに",
         "kana": "たにせばみ/みねまではへる/たまかづら/たえむとひとに/わがおもはなくに",
+        "honkoku": "谷せはみみねまてはへるたまかつら/たえむと人にわかおもはなくに/s46l/",
         "translation-ja": "谷が狭いので、峯まで這っている玉葛、絶えようという気持ちは人には持っていませんのに。",
         "translation-en": "The beautiful vine that grows from the valley to the peak, I don't have the feeling of ending our relationship though, you.."
       }
