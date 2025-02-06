@@ -2747,7 +2747,7 @@
     "romaji": "komorie",
     "paragraph": [
       {
-        "date": "20240621",
+        "date": "20240621,20250204",
         "id": 1,
         "text": "むかし、男、津の国、菟原の郡にかよひける女、このたびいきては、又は来じと思へる気色なれば、男、",
         "kana": "むかし、をとこ、つのくに、うらのこおりにかよひけるをんな、このたびいきては、またはこじとおもへるけしきなれば、をとこ、",
@@ -2755,7 +2755,7 @@
         "translation-en": "Once upon a time, a man went to see a woman in the Ubara county of Tsu prefecture, the man guessed that the woman would think he would not come again, so he..."
       },
       {
-        "date": "20240621",
+        "date": "20240621,20250204",
         "id": 2,
         "poem": "芦辺より/みち来るしほの/いやましに/君に心を/思ひますかな",
         "kana": "あしべより/みちくるしほの/いやましに/きみにこころを/おもひますかな",
@@ -2763,7 +2763,7 @@
         "translation-en": "Like the tide that comes from the reed shore, my love for you deepens more and more."
       },
       {
-        "date": "20240621",
+        "date": "20240621,20250204",
         "id": 3,
         "text": "返し、",
         "kana": "かへし、",
@@ -2771,7 +2771,7 @@
         "translation-en": "The reply he sang,"
       },
       {
-        "date": "20240621",
+        "date": "20240621,20250204",
         "id": 4,
         "poem": "こもり江に/思ふ心を/いかでかは/舟さす棹の/さして知るべき",
         "kana": "こもりゑに/おもふこころを/いかでかは/ふねさすさをの/さしてしるべき",
@@ -2779,7 +2779,7 @@
         "translation-en": "How can you know my hidden feelings like the inlet? Do you understand my heart like the oar of a boat?"
       },
       {
-        "date": "20240621",
+        "date": "20240621,20250204",
         "id": 5,
         "text": "田舎人のことにては、よしやあしや。",
         "kana": "いなかびとのことにては、よしやあしや。",
@@ -2794,26 +2794,29 @@
     "romaji": "tsurenakarikeru hito",
     "paragraph": [
       {
-        "date": "20240622",
+        "date": "20240622,20250205",
         "id": 1,
         "text": "むかし、男、つれなかりける人のもとに、",
         "kana": "むかし、をとこ、つれなかりけるひとのもとに、",
+        "honkoku": "むかしおとこつれなかりける人のもとに/",
         "translation-ja": "昔、男が、冷たくしている人のところに、",
         "translation-en": "Once upon a time, a man sent a song to a cold person."
       },
       {
-        "date": "20240622",
+        "date": "20240622,20250205",
         "id": 2,
         "poem": "いへばえに/いはねば胸に/騒がれて/心ひとつに/嘆くころかな",
         "kana": "いへばえに/いはねばむねに/さわがれて/こころひとつに/なげくころかな",
+        "honkoku": "いへはえにいはねはむねにさはかれて/心ひとつになけくころかな/",
         "translation-ja": "言おうとすれば言えず、言わなければ胸の中で騒がれて、心一つに嘆くばかりのこのごろです。",
         "translation-en": "If I try to say it, I can't, and if I don't say it, my heart is in turmoil, and I just lament in my heart."
       },
       {
-        "date": "20240622",
+        "date": "20240622,20250205",
         "id": 3,
         "text": "おもなくていへるなるべし。",
         "kana": "おもなくていへるなるべし。",
+        "honkoku": "おもなくていへるなるへし/s46r/",
         "translation-ja": "厚かましく言ったものだろう。",
         "translation-en": "He must have sung his painful heart without hesitation."
       }
