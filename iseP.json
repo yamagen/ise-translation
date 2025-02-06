@@ -2828,15 +2828,16 @@
     "romaji": "awa o",
     "paragraph": [
       {
-        "date": "20240623",
+        "date": "20240623,20250206",
         "id": 1,
         "text": "むかし、心にもあらで絶えたる人のもとに、",
         "kana": "むかし、こころにもあらでたえたるひとのもとに、",
+        "honkoku": "昔心にもあらてたえたる人のもとに/",
         "translation-ja": "昔、意図せず、交流が絶えた人のもとに、",
         "translation-en": "Once upon a time, a man sang a song to a woman with whom he had unintentionally lost contact."
       },
       {
-        "date": "20240623",
+        "date": "20240623,20250206",
         "id": 2,
         "poem": "玉の緒を/沫緒によりて/むすべれば/絶えてののちも/逢はむとぞ思ふ",
         "kana": "たまのをを/あわをによりて/むすべれば/たえてののちも/あはむとぞおもふ",
