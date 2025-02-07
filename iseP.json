@@ -2972,10 +2972,11 @@
     "romaji": "minamoto no itaru",
     "paragraph": [
       {
-        "date": "20240627",
+        "date": "20240627,20250209",
         "id": 1,
         "text": "むかし、西院の帝と申す帝おはしましりけり。",
         "kana": "むかし、さいいんのみかどともいふみかどおはしましりけり。",
+        "honkoku": "昔西院のみかとと申すみかとおはし/ましけり",
         "translation-ja": "昔、西院の帝という天皇がおいでになった。",
         "translation-en": "Once upon a time, there was an emperor called the Emperor of the West Palace."
       },
@@ -2984,88 +2985,98 @@
         "id": 2,
         "text": "その帝のみこ、崇子と申すいまそがりけり。",
         "kana": "そのみかどのみこ、たかいこともうすいまそがりけり。",
+        "honkoku": "そのみかとの御こたかいこと申すいまそかりけり",
         "translation-ja": "その帝の皇女に、崇子とおっしゃる方がいらっしゃった。",
         "translation-en": "There was the emperor's daughter called Princess Takako."
       },
       {
-        "date": "20240627",
+        "date": "20240627,20250209",
         "id": 3,
         "text": "そのみこうせ給ひて、御葬の夜、その宮の隣なりける男、いまそかり見むとて、女車にあひ乗りて出でたりけり。",
         "kana": "そのみこうせたまひて、みそうのよ、そのみやのとなりなりけるをとこ、いまそかりみむとて、をんなくるまにあひのりていでたりけり。",
+        "honkoku": "そのみこうせ給ひて/おほんはふりの夜その宮のとなりなり/けるおとこ御はふり見んとて女車に/あひのりていてたりけり",
         "translation-ja": "その皇女がお亡くなりになって、お見送りの夜、その御殿の隣に住んでいた男が、それを見物しようとして、女車に女といっしょに乗って出かけた。",
         "translation-en": "The emperor's daughter passed away, and on the night of her funeral procession, a man who lived next to the palace went out to see the procession with his woman in a carriage usually ladies ride."
       },
       {
-        "date": "20240627",
+        "date": "20240627,20250209",
         "id": 4,
         "text": "いと久しう率ていでたてまつらず。",
         "kana": "いとひさしうゐていでたてまつらず。",
+        "honkoku": "いとひさしう/s47l/ゐていてたてまつらす",
         "translation-ja": "とても長い間、出ていたが、なかなか棺がでていらっしゃらなかった。",
         "translation-en": "He waited for a long time, but the coffin did not come out."
       },
       {
-        "date": "20240627",
+        "date": "20240627,20250209",
         "id": 5,
         "text": "うち泣きてやみぬべかりけるあひだに、天の下の色好み、源至といふ人、これももの見るに、この車を女車と見て、寄り来て、とかくなまめくあひだに、",
         "kana": "うちなきてやみぬべかりけるあひだに、あまのしたのいろごのみ、みなもといたるといふひと、これもものみるに、このくるまををんなぐるまとみて、よりきて、とかくなまめくあひだに、",
+        "honkoku": "うちなきてやみ/ぬへかりけるあひたにあめのしたの/いろこのみ源のいたるといふ人これも物/見るにこの車を女車と見てよりきて/とかくなまめくあひたに",
         "translation-ja": "泣き続けてやむことなく、天下の色好み、源至という人が、この車を女車だと見て、寄ってきて、この車の中の女の顔が見えるかもしれないと、",
         "translation-en": "He kept crying and did not stop, and in the meantime, Minamoto no Itaru came to see the funeral procession, and he saw the carriage and realized the carriage was for a woman, so he came closer and made a gesture to show his interest."
       },
       {
-        "date": "20240627",
+        "date": "20240627,20250209",
         "id": 6,
         "text": "かの至、蛍をとりて女の車に入れたりけるを、車なりける人、この蛍のともす火にや見ゆらむ、ともし消ちなむずるとて、乗れる男のよめる。",
         "kana": "かのいたる、ほたるをとりてをんなのくるまにいれたりけるを、くるまなりけるひと、このほたるのともすひにやみゆらむ、ともしきちなむずるとて、のれるをとこのよめる。",
+        "honkoku": "かのいたるほ/たるをとりて女のくるまにいれたりける/をくるまなりける人このほたるのともす/火にや見ゆらんともしけちなんする/そののるおとこのよめる/s48r/",
         "translation-ja": "その至は、蛍をとって、女のいる車に入れたので、この蛍のともす灯で見えるかもしれない、この灯を消そうと乗っていた男が詠んだ。",
         "translation-en": "Minamoto no Itaru brought a firefly and put it in the carriage where the man was, so the man who was riding the carriage sang a song to put out the light of the firefly."
       },
       {
-        "date": "20240627",
+        "date": "20240627,20250209",
         "id": 7,
         "poem": "出でていなば/かぎりなるべみ/ともしけち/年へぬるかと/なく声を聞け",
         "kana": "いでていなば/かぎりなるべみ/ともしけち/とせぬるかと/なくこゑをきけ",
+        "honkoku": "いてていなはかきりなるへみともしけち/としへぬるかとなくこゑをきけ/",
         "translation-ja": "出てしまったならば、これが最後でしょうから、灯が消え、命が終ったと、泣く声をお聞きなさい。",
         "translation-en": "The coffin comes out, and then it will be the end, so listen to the voices of the people crying and mourning the end of the life."
       },
       {
-        "date": "20240627",
+        "date": "20240627,20250209",
         "id": 8,
         "text": "かの至、返し、",
         "kana": "かのいたる、かえし、",
+        "honkoku": "かのいたるかへし/",
         "translation-ja": "返し、",
         "translation-en": "The reply he sang,"
       },
       {
-        "date": "20240627",
+        "date": "20240627,20250209",
         "id": 9,
-        "poem": "いとあはれ/なくぞ聞ゆる/ともしけち/消ゆるものとも/我は知らずな",
-        "kana": "いとあはれ/なくぞきゆる/ともしけち/きゆるものとも/わはしらずな",
-        "translation-ja": "とてもあわれなことです。しかし、灯が消えて皇女様の魂が人々の心から消え去ってゆくものとも、私は思いませんね。",
-        "translation-en": "It is a good thing to be able to remember the past by repeating the spindle of hemp thread for Shitsu fabric of ancient times."
-      },
-      {
-        "date": "20240627",
-        "id": 10,
-        "text": "かの至、返し、",
-        "kana": "かのいたる、かえし、",
-        "translation-ja": "かの至の返し、",
-        "translation-en": "The reply that Minamoto no Itaru sang,"
-      },
-      {
-        "date": "20240627",
-        "id": 11,
         "poem": "いとあはれ/なくぞ聞ゆる/ともしけち/消ゆるものとも/我は知らずな",
         "kana": "いとあはれ/なくぞきこゆる/ともしけち/きゆるものとも/わはしらずな",
         "translation-ja": "とてもあわれです。泣き声が聞こえ、灯りが消えても、私は知らない。",
         "translation-en": "It is very sad. Even if I hear the crying voice and the light of the fireflies go out, I will not care."
       },
       {
-        "date": "20240627",
+        "date": "20240627,20250209",
+        "id": 10,
+        "text": "天下の色好みの歌にては、なほぞありける。",
+        "kana": "あまのしたのいろごのみのうたにては、なほぞありける。",
+        "honkoku": "あめのしたのいろこのみのうたにて/は猶そありける/",
+        "translation-ja": "天下の色好みの歌としては、まだまだある。",
+        "translation-en": "It was a common song by one of the best woman lovers in this world. "
+      },
+      {
+        "date": "20240627,20250209",
+        "id": 11,
+        "text": "至は順が祖父なり。",
+        "kana": "いたるはしたがふがそふなり。",
+        "honkoku": "いたるはしたかふかおほちなり",
+        "translation-ja": "至は順の祖父である。",
+        "translation-en": "Itaru's grandfather is Shitagofu."
+      },
+      {
+        "date": "20240627,20250209",
         "id": 12,
-        "text": "天下の色好みの歌にては、なほぞありける。至は順が祖父なり。みこの本意なし。",
-        "kana": "あまのしたのいろごのみのうたにては、なほぞありける。いたるはしたがふがそふなり。みこのほいなし。",
-        "translation-ja": "天下の色好みの歌としては、まだまだある。至は順の祖父である。ご本心ではない。",
-        "translation-en": "It was a common song by one of the best woman lovers in this world. Itaru's grandfather is Shitagofu. This song does not express his true feelings."
+        "text": "みこの本意なし。",
+        "kana": "みこのほいなし。",
+        "honkoku": "みこ/のほいなし/s48l/",
+        "translation-ja": "ご本心ではない。",
+        "translation-en": "This song does not express his true feelings."
       }
     ]
   },
