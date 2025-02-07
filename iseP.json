@@ -3086,162 +3086,182 @@
     "romaji": "sukeru mono omoi",
     "paragraph": [
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 1,
         "text": "むかし、若き男、けしうはあらぬ女を思ひけり。",
         "kana": "むかし、わかきをとこ、けしうはあらぬをんなをおもひけり。",
+        "honkoku": "昔わかきおとこけしうはあらぬ女を/思ひけり",
         "translation-ja": "昔、若い男が、召使いの女に思いを寄せていた。",
         "translation-en": "Once upon a time, a young man was in love with a servant woman."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 2,
         "text": "さかしらする親ありて、思ひもぞつくとて、この女をほかへ追ひやらむとす。",
         "kana": "さかしらするおやありて、おもひもぞつくとて、このをんなをほかへおひやらむとす。",
+        "honkoku": "さかしらするおやありて思ひ/もそつくとてこの女をほかへをひやらん/とす",
         "translation-ja": "出過ぎた親が、娘と男が恋愛関係になるのではないかと心配して、この娘を他の場所へ追いやろうと考えました。",
         "translation-en": "She has parents who are so worried about their daughter who will be in love with a man, so they try to move her to another place."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 3,
         "text": "さこそいへ、まだ追ひやらず。",
         "kana": "さこそいへ、まだおひやらず。",
+        "honkoku": "さこそいへまたをいやらす",
         "translation-ja": "そうは言っても、まだ追い出してはいない。",
         "translation-en": "However, they have not moved her yet."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 4,
         "text": "人の子なれば、まだ心いきほひなかりければ、とどむるいきほひなし。",
         "kana": "ひとのこなれば、まだこころいきほひなかりければ、とどむるいきほひなし。",
+        "honkoku": "ひとのこ/なれはまた心いきおひなかりけれはとと/むるいきおひなし",
         "translation-ja": "人の子であるし、まだ心の勢いはなかったので、引き止める勢いはありませんでした。",
         "translation-en": "As a human being, he has not yet moved his heart, so he has no intention of stopping."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 5,
         "text": "女もいやしければ、すまふ力なし。",
         "kana": "をんなもいやしければ、すまふちからなし。",
+        "honkoku": "をんなもいやし/けれはすまふちからなし",
         "translation-ja": "女も貧しいので、住む力もありませんでした。",
         "translation-en": "The woman is also a low-ranking person, so she has no power to live."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 6,
         "text": "さる間に思ひはいやまさりにまさる。",
         "kana": "さるまにおもひはいやまさりにまさる。",
+        "honkoku": "さるあひたに/おもひはいやまさりにまさる",
         "translation-ja": "その間に思いはだんだん募ってきます。",
         "translation-en": "While he is thinking about her, his love for her grows stronger and stronger."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 7,
         "text": "にはかに親この女を追ひうつ。",
         "kana": "にはかにおやこのをんなをおひうつ。",
+        "honkoku": "にはかにお/やこの女ををひうつ",
         "translation-ja": "急に、親は、この女を追い出してしまいました。",
         "translation-en": "The parents suddenly move her out."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 8,
         "text": "男、血の涙をながせども、とどまるよしなし。",
         "kana": "をとこ、ちのなみたをながせども、とどまるよしなし。",
+        "honkoku": "おとこちの涙をなか/s49r/せともととむるよしなし",
         "translation-ja": "男は、血の涙を流しても、留める理由がありません。",
         "translation-en": "The man shed tears of blood, but there was no way to stop her to leave."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 9,
         "text": "率て出でていぬ。",
         "kana": "ゐていでていぬ。",
+        "honkoku": "ゐていてていぬ/",
         "translation-ja": "誰かに連れられて出ていってしまいました。",
         "translation-en": "Someone took her and left the house."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 10,
         "text": "男泣く泣くよめる。",
         "kana": "をとこなくなくよめる。",
+        "honkoku": "おとこなくなくよめる/",
         "translation-ja": "男は、泣きながら詠んだ。",
         "translation-en": "The man sang while crying."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 11,
         "poem": "いでていなば/誰か別れの/かたからぬ/ありしにまさる/けふは悲しも",
         "kana": "いでていなば/たれかわかれの/かたからぬ/ありしにまさる/けふはかなしも",
+        "honkoku": "いてていなはたれか別のかたからん/ありしにまさるけふはかなしも/",
         "translation-ja": "出て行ってしまったのなら、誰も別れは難しくない。今迄よりもずっと悲しさが勝っています、今日の悲しみは。",
         "translation-en": "If she leaves by herself, it would not be so hard to say goodbye. But, the sadness today is more than ever before."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 12,
         "text": "とてよみて絶え入りにけり。",
         "kana": "とてよみてたえいりにけり。",
+        "honkoku": "とよみてたえいりにけり",
         "translation-ja": "そう詠んで、気を失ってしまいました。",
         "translation-en": "He sang and fainted."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 13,
         "text": "親あわてにけり。",
         "kana": "おやあわてにけり。",
+        "honkoku": "おやあはてに/けり",
         "translation-ja": "親はうろたえてしまいました。",
         "translation-en": "His parents are very embarrassed"
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 14,
         "text": "なほ思ひてこそいひしか、いとかくしもあらじと思ふに、真実に絶え入りにければ、",
         "kana": "なほおもひてこそいひしか、いとかくしもあらじとおもふに、しんじちにたえいりにければ、",
+        "honkoku": "なをおもひてこそいひしかいと/かくしもあらしとおもふにしむしちに/たえいりにけれは",
         "translation-ja": "子を思ってこそ言ったのだが、こんなことにはならないだろうと思ったのに、本当に息絶え絶えになってしまったので、",
         "translation-en": "They suggested that he should break with the woman, and he was really out of breath, so they were embarrassed and made a wish."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 15,
         "text": "まどひて願立てけり。",
         "kana": "まどひてねがいたてけり。",
+        "honkoku": "まとひて願たてけり/",
         "translation-ja": "困ってしまい、願いを立てました。",
         "translation-en": "He was confused and made a wish."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 14,
         "text": "今日の入相ばかりに絶え入りて、",
         "kana": "けふのいりあいばかりにたえいりて、",
+        "honkoku": "けふのいりあひはかりにたえいりて",
         "translation-ja": "今日の日暮れごろに気絶して、",
         "translation-en": "He fainted around sunset today,"
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 15,
         "text": "又の日の戌の時ばかりになむ、",
         "kana": "またのひのいぬのときばかりになむ、",
+        "honkoku": "又の/s49l/日のいぬのときはかりになむ",
         "translation-ja": "翌日の戌の時ごろになって、",
         "translation-en": "around the time of the dog on the next day,"
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 16,
         "text": "辛うじていき出でたりける。",
         "kana": "つらうじていきいでたりける。",
+        "honkoku": "からうして/いきいてたりける",
         "translation-ja": "かろうじて生き返った。",
         "translation-en": "He finally came back to life."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 17,
         "text": "むかしの若人は、さる好けるもの思ひをなむしける。",
         "kana": "むかしのわかうどは、さるすけるものおもひをなむしける。",
+        "honkoku": "むかしのわか人はさる/すける物おもひをなんしける",
         "translation-ja": "昔の若者は、こんないちずな恋をしたものだ。",
         "translation-en": "The young people of the past had such simple love."
       },
       {
-        "date": "20240628",
+        "date": "20240628,20250209",
         "id": 18,
         "text": "今のおきな、まさにしなむや。",
         "kana": "いまのおきな、まさにしなむや。",
+        "honkoku": "いまのお/きなまさにしてんや/s50r/",
         "translation-ja": "今の老人、まさに死んでしまうでしょう。",
         "translation-en": "Old people of today would die."
       }
