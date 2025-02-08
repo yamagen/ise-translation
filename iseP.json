@@ -3356,6 +3356,7 @@
         "id": 1,
         "text": "むかし、男色好みと知る知る女をあひ言へりけり。",
         "kana": "むかし、をとこいろこのみとしるしるをんなをあひいへりけり。",
+        "honkoku": "昔おとこいろこのみとしるしる女を/あひいへりけり",
         "translation-ja": "昔、男が、色好みな女と心得ながら、ある女と語らいあった。",
         "translation-en": "Once upon a time, a man talked to a woman who he knew that she liked men."
       },
@@ -3364,6 +3365,7 @@
         "id": 2,
         "text": "されど憎くはた、あらざりけり。",
         "kana": "されどにくくはた、あらざりけり。",
+        "honkoku": "されとにくくはたあらざ/りけり",
         "translation-ja": "しかし、憎くは思っていなかった。",
         "translation-en": "However, he did not hate her."
       },
@@ -3372,6 +3374,7 @@
         "id": 3,
         "text": "しばしばいきけれどなほいと後めたく、さりとて、いかではた得あるまじかりけり。",
         "kana": "しばしばいきけれどなほいとうしろめたく、さりとて、いかではたえあるまじかりけり。",
+        "honkoku": "しはしはいきけれとなをいとう/しろめたくさりとていかてはたえあるま/しかりけり",
         "translation-ja": "しばしば通ったが、やはり女の心がとても気がかりでいやに思うが、そうかといって、また、行かないではいられませんでした。",
         "translation-en": "He often visited her, but he was very worried about her heart, and he could not help but go to see her."
       },
@@ -3380,6 +3383,7 @@
         "id": 4,
         "text": "なほはた得あらざりけるなかなりければ、二日三日ばかりさはることありて、えいかでかくなむ。",
         "kana": "なほえあらざりけるなかなりければ、ふつかみっかばかりさはることありて、えいかでかくなむ。",
+        "honkoku": "猶はたえあらさりける中/なりけれはふつか三日はかりさはること/ありてえいかてかくなむ/",
         "translation-ja": "なんといっても、行かなくてはいられなかった仲だったので、男は二三日ほど、他用があって、行くことができず、こう詠んでやった。",
         "translation-en": "After all, he could not help but go, so he could not go for two or three days, and he sang like this."
       },
@@ -3388,6 +3392,7 @@
         "id": 5,
         "poem": "出でて来し/あとだに未だ/かはらじを/誰が通ひ路と/今はなるらむ",
         "kana": "いでてこしあとだにまだかはらじを/たがかよひじと/いまはなるらむ",
+        "honkoku": "いててこしあとたにいまたかはらしを/たかかよひちといまはなるらん/s51l/",
         "translation-ja": "出て来た跡でもいまだ変っていないのに、誰の通い路と今はなっているのでしょう。",
         "translation-en": "Even the tracks I left when I departed have not yet changed, Whose path do they now become, I wonder?"
       },
@@ -3396,6 +3401,7 @@
         "id": 6,
         "text": "もの疑はしさに詠めるなり。",
         "kana": "ものうたがわしさにうためるなり。",
+        "honkoku": "ものうたかはしさによめるなりけり/s52r/",
         "translation-ja": "もの疑わしさに詠んだのでした。",
         "translation-en": "He sang with a sense of doubt."
       }
