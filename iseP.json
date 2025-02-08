@@ -3318,7 +3318,7 @@
         "translation-en": "She was helpless and just cried."
       },
       {
-        "date": "20240629",
+        "date": "20240629,20250209",
         "id": 6,
         "text": "これを、かのあてなる男聞きて、いと心苦しかりければ、いと清らかなる録衫の上の衣を見出でてやるとて、",
         "kana": "これを、かのあてなるをとこききて、いとこころくるしかりければ、いときよらかなるろうそうのうえのころもをみいでてやるとて、",
@@ -3327,7 +3327,7 @@
         "translation-en": "The high-ranking man heard about it and felt very sorry, so he found a very beautiful robe and gave it to her."
       },
       {
-        "date": "20240629,  j",
+        "date": "20240629,20250209",
         "id": 7,
         "text": "紫の/色濃き時は/めもはるに/野なる草木ぞ/わかれざりける",
         "kana": "むらさきの/いろこきときは/めもはるに/のなるくさきぞ/わかれざりける",
@@ -3336,7 +3336,7 @@
         "translation-en": "When the color of the purple grass is dark, the grass and trees in the field are indistinguishable."
       },
       {
-        "date": "20240629",
+        "date": "20240629,20250209",
         "id": 8,
         "text": "武蔵野の心なるべし。",
         "kana": "むさしののこころなるべし。",
@@ -3352,7 +3352,7 @@
     "romaji": "taga kayoiji",
     "paragraph": [
       {
-        "date": "20240630",
+        "date": "20240630,20250209",
         "id": 1,
         "text": "むかし、男色好みと知る知る女をあひ言へりけり。",
         "kana": "むかし、をとこいろこのみとしるしるをんなをあひいへりけり。",
@@ -3361,7 +3361,7 @@
         "translation-en": "Once upon a time, a man talked to a woman who he knew that she liked men."
       },
       {
-        "date": "20240630",
+        "date": "20240630,20250209",
         "id": 2,
         "text": "されど憎くはた、あらざりけり。",
         "kana": "されどにくくはた、あらざりけり。",
@@ -3370,7 +3370,7 @@
         "translation-en": "However, he did not hate her."
       },
       {
-        "date": "20240630",
+        "date": "20240630,20250209",
         "id": 3,
         "text": "しばしばいきけれどなほいと後めたく、さりとて、いかではた得あるまじかりけり。",
         "kana": "しばしばいきけれどなほいとうしろめたく、さりとて、いかではたえあるまじかりけり。",
@@ -3379,7 +3379,7 @@
         "translation-en": "He often visited her, but he was very worried about her heart, and he could not help but go to see her."
       },
       {
-        "date": "20240630",
+        "date": "20240630,20250209",
         "id": 4,
         "text": "なほはた得あらざりけるなかなりければ、二日三日ばかりさはることありて、えいかでかくなむ。",
         "kana": "なほえあらざりけるなかなりければ、ふつかみっかばかりさはることありて、えいかでかくなむ。",
@@ -3388,7 +3388,7 @@
         "translation-en": "After all, he could not help but go, so he could not go for two or three days, and he sang like this."
       },
       {
-        "date": "20240630",
+        "date": "20240630,20250209",
         "id": 5,
         "poem": "出でて来し/あとだに未だ/かはらじを/誰が通ひ路と/今はなるらむ",
         "kana": "いでてこしあとだにまだかはらじを/たがかよひじと/いまはなるらむ",
@@ -3397,7 +3397,7 @@
         "translation-en": "Even the tracks I left when I departed have not yet changed, Whose path do they now become, I wonder?"
       },
       {
-        "date": "20240630",
+        "date": "20240630,20250209",
         "id": 6,
         "text": "もの疑はしさに詠めるなり。",
         "kana": "ものうたがわしさにうためるなり。",
@@ -3413,34 +3413,38 @@
     "romaji": "na no mi tatsu",
     "paragraph": [
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 1,
         "text": "むかし、賀陽親王と申す親王おはしましけり。",
         "kana": "むかし、かやのみこともうすみこおはしましけり。",
+        "honkoku": "むかしかやのみこと申すみこおはし/ましけり",
         "translation-ja": "昔、賀陽親王と申す親王がいらっしゃいました。",
         "translation-en": "Once upon a time, there was a prince named Prince Kaya."
       },
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 2,
         "text": "その親王、女をおぼしめして、いと賢う恵みつかう給ひけるを、人なまめきて有りけるを、我のみと思ひけるを、又人聞きつけて、文やる。",
         "kana": "そのみこ、をんなをおぼしめして、いとかしこうめぐみつかうたまひけるを、ひとなまめきてありけるを、われのみとおもひけるを、またひとききつけて、ふみやる。",
+        "honkoku": "そのみこ女をおほしめして/いとかしこくめくみつかう給ひける/を人なまめきてありけるをわれのみと/おもひけるを又ひとききつけてふみやる/",
         "translation-ja": "その親王は、ある女性に思いを寄せ、とてもお恵みをたくさん与えていましたが、ある人がその女に心をかけ、色めかしい振舞を見せていたが、その男が自分だけが その女性を思っている思い込んでいたので、そのことを聞きつけて手紙を送りました。",
         "translation-en": "The prince had fallen in love with a woman and had been very kind to her, but another man had been paying attention to her and behaving in a flirtatious manner. The man secretly thought that only he was close to her."
       },
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 3,
         "text": "ほととぎすの形を書きて、",
         "kana": "ほととぎすのかたちをかきて、",
+        "honkoku": "ほとときすのかたをかきて/",
         "translation-ja": "ほととぎすの形を描いて、",
         "translation-en": "He drew a picture of a cuckoo,"
       },
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 4,
         "text": "歌を詠みて、",
         "kana": "うたをうたみて、",
+        "honkoku": "うたをうたみて/",
         "translation-ja": "歌を詠んで、",
         "translation-en": "and sang a song,"
       },
@@ -3449,38 +3453,43 @@
         "id": 5,
         "text": "ほととぎす/汝が鳴く里の/あまたあれば/なほ疎まれぬ/思ふものから",
         "kana": "ほととぎす/ながなくさとの/あまたあれば/なほうとまれぬ/おもふものから",
+        "honkoku": "郭公なかなくさとのあまたあれは/なをうとまれぬおもふものから/s52r/",
         "translation-ja": "ほととぎす、おまえが鳴く里はたくさんあるから、やはりいやに思われますよ。",
         "translation-en": "Cuckoo, there are many places where you sing, so you are still disliked."
       },
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 6,
         "text": "といへり。",
         "kana": "といへり。",
+        "honkoku": "といへり",
         "translation-ja": "と言いました。",
         "translation-en": "he said."
       },
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 7,
         "text": "この女、気色をとりて、",
         "kana": "このをんな、けしきをとりて、",
+        "honkoku": "この女けしきをとりて/",
         "translation-ja": "この女は、機嫌を取って、",
         "translation-en": "This woman caring the feelings of the man,"
       },
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 8,
         "text": "歌を詠みて、",
         "kana": "うたをうたみて、",
+        "honkoku": "うたをうたみて/",
         "translation-ja": "歌を詠んで、",
         "translation-en": "sang a song,"
       },
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 9,
         "poem": "名のみたつ/しでの田長は/けさぞ鳴く/庵あまた/疎まれぬれば",
         "kana": "なのみたつ/しでのたをさは/けさぞなく/いほりあまた/うとまれぬれば",
+        "honkoku": "名のみたつしてのたおさはけさそなく/いほりあまたとうとまれぬれは/",
         "translation-ja": "名前だけ立つ死出の田長は、今朝、鳴いています。あちこちに巣を持って、浮気な者とうとまれてしまいましたから。",
         "translation-en": "The cuckoo of the death-departing Tanaga, whose reputation is only bad, is crying this morning. He has nests everywhere and is disliked as a flirt."
       },
@@ -3489,14 +3498,16 @@
         "id": 10,
         "text": "時は五月になむありける。",
         "kana": "ときはさつきになむありける。",
+        "honkoku": "時はさ月になむありける",
         "translation-ja": "時は五月でした。",
         "translation-en": "It was May."
       },
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 11,
         "text": "男返し、",
         "kana": "をとこかへし、",
+        "honkoku": "おとこ返し/",
         "translation-ja": "男が歌を返し、",
         "translation-en": "The man replied,"
       },
@@ -3505,6 +3516,7 @@
         "id": 12,
         "poem": "いほり多き/しでの田長は/なほ頼む/わが住む里に/声し絶えずは",
         "kana": "いほりおほき/しでのたをさは/なほたのむ/わがすむさとに/こゑし絶えずは",
+        "honkoku": "いほりおほきしてのたおさはなをたのむ/わかすむさとにこゑしたえすは/s52l/",
         "translation-ja": "巣の多いほととぎすは、やはり頼みにしています。私の住む里に声が絶えなければ。",
         "translation-en": "Cuckoos making nests everywhere, I will rely on you, unless your voice stops in my village."
       },
@@ -3513,6 +3525,7 @@
         "id": 13,
         "text": "もの疑はしさに詠めるなり。",
         "kana": "ものうたがわしさによめるなり。",
+        "honkoku": "ものうたかはしさによめるなりけり/s52r/",
         "translation-ja": "もの疑わしさに詠んだのでした。",
         "translation-en": "He sang with a sense of doubt."
       }
