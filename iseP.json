@@ -3449,7 +3449,7 @@
         "translation-en": "and sang a song,"
       },
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 5,
         "text": "ほととぎす/汝が鳴く里の/あまたあれば/なほ疎まれぬ/思ふものから",
         "kana": "ほととぎす/ながなくさとの/あまたあれば/なほうとまれぬ/おもふものから",
@@ -3494,7 +3494,7 @@
         "translation-en": "The cuckoo of the death-departing Tanaga, whose reputation is only bad, is crying this morning. He has nests everywhere and is disliked as a flirt."
       },
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 10,
         "text": "時は五月になむありける。",
         "kana": "ときはさつきになむありける。",
@@ -3512,7 +3512,7 @@
         "translation-en": "The man replied,"
       },
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 12,
         "poem": "いほり多き/しでの田長は/なほ頼む/わが住む里に/声し絶えずは",
         "kana": "いほりおほき/しでのたをさは/なほたのむ/わがすむさとに/こゑし絶えずは",
@@ -3521,7 +3521,7 @@
         "translation-en": "Cuckoos making nests everywhere, I will rely on you, unless your voice stops in my village."
       },
       {
-        "date": "20240701",
+        "date": "20240701,20250209",
         "id": 13,
         "text": "もの疑はしさに詠めるなり。",
         "kana": "ものうたがわしさによめるなり。",
@@ -3537,34 +3537,38 @@
     "romaji": "uma no hanamuke",
     "paragraph": [
       {
-        "date": "20240702",
+        "date": "20240702,20250209",
         "id": 1,
         "text": "むかし、県へゆく人に馬のはなむけせむとて、呼びて、疎き人にしあらざりければ、家刀自、盃さゝせて女の装束かづけむとす。",
         "kana": "むかし、あがたへゆくひとにうまのはなむけせむとて、よびて、うときひとにしあらざりければ、いへとうじ、さかづきささせてをんなのさうぞくかづけむとす。",
+        "honkoku": "むかしあかたへ行人にむまのはなむ/けせんとてよひてうとき人にしあらさり/けれはいゑとうしさか月ささせて女/s52l/のさうそくかつけんとす",
         "translation-ja": "昔、地方へ行く人に餞を贈ろうとして、呼び寄せて、疎い人ではなかったので、家に入れて、盃をささげて女の装束を贈呈しようとしました。",
         "translation-en": "Once upon a time, a man tried to give a present to a person who will go to the countryside, and called him and offered him a cup of sake, and tried to give a set of kimono clothes to him."
       },
       {
-        "date": "20240702",
+        "date": "20240702,20250209",
         "id": 2,
         "text": "主人の男、歌詠みて、裳の腰に結ひつけさす。",
         "kana": "しゅじんのをとこ、うたよみて、ものこしにむすびつけさす。",
+        "honkoku": "あるしのおとこ/うたによみてものこしにゆひつけさす/",
         "translation-ja": "主人の男が、歌を詠んで、贈物の装束の裳の腰紐に結びつけさせました。",
         "translation-en": "The master sang a song and tied the kimono sash to the waist of the gift."
       },
       {
-        "date": "20240702",
+        "date": "20240702,20250209",
         "id": 3,
         "poem": "いでてゆく/君がためにと/脱ぎつれば/我さへも/なくなりぬべきかな",
         "kana": "いでてゆく/きみがためにと/ぬぎつれば/われさへも/なくなりぬべきかな",
+        "honkoku": "いててゆく君かためにとぬきつれは/われさへもなくなりぬへきかな/",
         "translation-ja": "出でていく君のためにと脱いだので、私までも、いなくなってしまうのでしょうか。",
         "translation-en": "I took off my clothes for you who are leaving, so I wonder if I will disappear too."
       },
       {
-        "date": "20240702",
+        "date": "20240702,20250209",
         "id": 4,
         "text": "この歌は、あるがなかに面白ければ、心とゞめてよまず、 腹に味はひて。",
         "kana": "このうたは、あるがなかにおもしろければ、こころとどめてよまず、はらにあじはひて。",
+        "honkoku": "この哥はあるかなかにおもしろけれは/心とめてよますはらにあちはひて/s53r/",
         "translation-ja": "この歌は、この世にある歌のなかでも、面白いものなので、心に留めておいて、声に出しては読まず、心の中で味わってください。",
         "translation-en": "This song is particularly interesting among many songs, so you should keep it in your heart and taste it in your heart without reciting it."
       }
