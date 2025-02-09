@@ -3781,7 +3781,7 @@
         "translation-en": "However, she heard that the man was a flirt, and her coldness increased, so she sang."
       },
       {
-        "date": "20240705",
+        "date": "20240705,20250209",
         "id": 3,
         "text": "大幣の/ひく手あまたに/なりぬれば/思へどこそ/頼まざりけれ",
         "kana": "おほぬさの/ひくてあまたに/なりぬれば/おもへどこそ/たのまざりけれ",
@@ -3790,7 +3790,7 @@
         "translation-en": "Like a big cloth, there are many hands pulling you, so you can't ask for it even if you think about it."
       },
       {
-        "date": "20240705",
+        "date": "20240705,20250209",
         "id": 4,
         "text": "返し、男、",
         "kana": "かへし、をとこ、",
@@ -3799,7 +3799,7 @@
         "translation-en": "The man replied,"
       },
       {
-        "date": "20240705",
+        "date": "20240705,20250209",
         "id": 5,
         "poem": "大幣と/名にこそたてれ/流れても/つひによる瀬は/ありといふものを",
         "kana": "おほぬさと/なにこそたてれ/ながれても/つひによるせは/ありといふものを",
@@ -3815,10 +3815,11 @@
     "romaji": "hitomatamusato",
     "paragraph": [
       {
-        "date": "20240706",
+        "date": "20240706,20250209",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
+        "honkoku": "昔おとこ有けり",
         "translation-ja": "昔、男がいました。",
         "translation-en": "Once upon a time, there was a man."
       },
@@ -3827,14 +3828,16 @@
         "id": 2,
         "text": "馬のはなむけせむとて、人を待ちけるに、来ざりければ、",
         "kana": "うまのはなむけせむとて、ひとをまちけるに、こざりければ、",
+        "honkoku": "むまのはなむけせんとて/人をまちけるにこさりけれは/",
         "translation-ja": "馬の餞を贈ろうと思って、人を待っていたのに、来なかったので、",
         "translation-en": "He was waiting for a person to give a horse's nose, but he didn't come, so he sang a song to give it."
       },
       {
-        "date": "20240706",
+        "date": "20240706,20250209",
         "id": 3,
         "poem": "今ぞ知る/苦しきものと/人待たむ/里をば離れず/訪ふべかりけり",
         "kana": "いまぞしる/くるしきものと/ひとまたむ/さとをばさなれず/おとふべかりけり",
+        "honkoku": "いまそしるくるしき物と人またむ/さとをはかれすとふへかりけり/s56r/",
         "translation-ja": "今、わかりました。苦しいものということを。人を待つ里は、離れることなく訪ねるべきですね。",
         "translation-en": "Now I know how painful it is to wait for someone who doesn't come. So the house of a woman waiting for a man must be visited without fail."
       }
