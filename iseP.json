@@ -3764,15 +3764,16 @@
     "romaji": "ohonusa",
     "paragraph": [
       {
-        "date": "20240705",
+        "date": "20240705,20250209",
         "id": 1,
         "text": "むかし、男、懇にいかでと思ふ女ありけり。",
         "kana": "むかし、をとこ、ねむごろにいかでとおもふをんなありけり。",
+        "honkoku": "むかしおとこねんころにいかてと思ふ女/ありけり",
         "translation-ja": "昔、男が、心から、なんとかしてと思う女がいました。",
         "translation-en": "Once upon a time, there was a woman who a man wanted to make love with."
       },
       {
-        "date": "20240705",
+        "date": "20240705,20250209",
         "id": 2,
         "text": "されど、この男をあだなりと聞きて、つれなさのみまさりつゝいへる。",
         "kana": "されど、このをとこをあだなりとききて、つれなさのみまさりつゝいへる。",
@@ -3784,6 +3785,7 @@
         "id": 3,
         "text": "大幣の/ひく手あまたに/なりぬれば/思へどこそ/頼まざりけれ",
         "kana": "おほぬさの/ひくてあまたに/なりぬれば/おもへどこそ/たのまざりけれ",
+        "honkoku": "おほぬさのひくてあまたになりぬれは/おもへとえこそたのまさりけれ/",
         "translation-ja": "大幣の引く手がたくさんになっているので、思っても、お願いすることはできません。",
         "translation-en": "Like a big cloth, there are many hands pulling you, so you can't ask for it even if you think about it."
       },
@@ -3792,6 +3794,7 @@
         "id": 4,
         "text": "返し、男、",
         "kana": "かへし、をとこ、",
+        "honkoku": "返しおとこ/",
         "translation-ja": "返し、男、",
         "translation-en": "The man replied,"
       },
@@ -3800,6 +3803,7 @@
         "id": 5,
         "poem": "大幣と/名にこそたてれ/流れても/つひによる瀬は/ありといふものを",
         "kana": "おほぬさと/なにこそたてれ/ながれても/つひによるせは/ありといふものを",
+        "honkoku": "おほぬさと名にこそたてれなかれても/s55l/つゐによるせはありといふものを/s56r/",
         "translation-ja": "大幣と評判になっていますが、流れていっても、おしまいには寄る瀬があるといいます。",
         "translation-en": "Like a big cloth, I am known to be popular, but even if I flow away, there is a place where I will flow in the end."
       }
