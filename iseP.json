@@ -3690,62 +3690,69 @@
         "id": 1,
         "text": "むかし、男、いとうるはしき友ありけり。",
         "kana": "むかし、をとこ、いとうるはしきともありけり。",
+        "honkoku": "むかし男いとうるはしきともありけり",
         "translation-ja": "昔、男に、たいへん仲のよい友がいました。",
         "translation-en": "Once upon a time, a man had a very nice friend."
       },
       {
-        "date": "20240704",
+        "date": "20240704,20250209",
         "id": 2,
         "text": "かた時去らずあひ思ひけるを、人の国へいきけるを、いとあはれと思ひて別れにけり。",
         "kana": "かたときさらずあひおもいけるを、ひとのくにへいきけるを、いとあはれとおもいてわかれにけり。",
+        "honkoku": "か/た時さらすあひおもひけるを人のくにへ/いきけるをいとあはれとおもひてわかれ/にけり",
         "translation-ja": "かた時たりとも、相思っていたのに、他の国へ行ったので、とても悲しく思ってお別れしました。",
         "translation-en": "Although he wanted to be together all the time, he went to another country, so he parted with him with great sorrow."
       },
       {
-        "date": "20240704",
+        "date": "20240704,20250209",
         "id": 3,
         "text": "月日経ておこせたる文に、",
         "kana": "つきひけておこせたるふみに、",
+        "honkoku": "月日へてをこせたるふみに",
         "translation-ja": "月日が経って送られてきた手紙に、",
         "translation-en": "In a letter sent after a long time,"
       },
       {
-        "date": "20240704",
+        "date": "20240704,20250209",
         "id": 4,
         "text": "「あさましく対面せで月日の経にけること。",
         "kana": "「あさましくたいめんせでつきひのへにけること。",
+        "honkoku": "あさ/ましくえたいめんせて月日のへに/けること",
         "translation-ja": "「あさましく対面せずに月日が経ってしまいました。",
         "translation-en": "It is surprising that we have not met for a long time."
       },
       {
-        "date": "20240704",
+        "date": "20240704,20250209",
         "id": 5,
         "text": "忘れやし給ひにけむと、いたく思ひわびてなむ侍る。",
         "kana": "わすれやしたまひにけむと、いたくおもひわびてなむはべる。",
-        "translation-ja": "忘れてしまったのだろうかと、とても悲しく思っています。",
+        "honkoku": "忘やし給ひけんといたく思ひ/わひてなむ侍",
         "translation-en": "I wonder if you have forgotten me, and I am very sad."
       },
       {
-        "date": "20240704",
+        "date": "20240704,20250209",
         "id": 6,
         "text": "世の中の人の心は、目離るれば忘れぬべきものにこそあめれ。",
         "kana": "よのなかのひとのこころは、めはなれればわすれぬべきものにこそあめれ。",
+        "honkoku": "世中の人の心はめかる/れはわすれぬへき物にこそあめれ",
         "translation-ja": "世の中の人の心は、目を離せば忘れてしまうものにちがいありません。",
         "translation-en": "People's hearts in the world are such that they forget when they have not been seeing long time."
       },
       {
-        "date": "20240704",
+        "date": "20240704,20250209",
         "id": 7,
         "text": "といへりければ、よみてやる。",
         "kana": "といへりければ、よみてやる。",
+        "honkoku": "といへ/りけれはよみてやる/s55r/",
         "translation-ja": "と言ったので、読んであげます。",
         "translation-en": "That he said, so I will read it."
       },
       {
-        "date": "20240704",
+        "date": "20240704,20250209",
         "id": 8,
         "poem": "目離るとも/おもほえなくに/忘らるゝ/時しなければ/面影にたつ",
         "kana": "めかるとも/おもほえなくに/わすらるる/ときしなければ/おもかげにたつ",
+        "honkoku": "めかるともおもほえなくにわすらるる/ときしなけれはおもかけにたつ/s55l/",
         "translation-ja": "お目に掛かれずとも思えなく、忘れる時がないので、面影が浮かび上がってきます。",
         "translation-en": "If there is no time to forget, even if you are not seen, the image will appear."
       }
