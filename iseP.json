@@ -3580,50 +3580,56 @@
     "romaji": "yuku hotaru",
     "paragraph": [
       {
-        "date": "20240703",
+        "date": "20240703,20250209",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
+        "honkoku": "むかし男ありけり",
         "translation-ja": "昔、男がいました。",
         "translation-en": "Once upon a time, there was a man."
       },
       {
-        "date": "20240703",
+        "date": "20240703,20250209",
         "id": 2,
         "text": "人の娘のかしづく、いかでこの男にもの言はむと思ひけり。",
         "kana": "ひとのむすめのかしづく、いかでこのをとこにものいはむとおもひけり。",
+        "honkoku": "人のむすめのかしつく/いかてこのおとこにものいはんとおもひ/けり",
         "translation-ja": "人の娘が仕える、この男にどうにかして話をしようと思いました。",
         "translation-en": "A daughter of a person, who served to this man, thought she would somehow talk to the man."
       },
       {
-        "date": "20240703",
+        "date": "20240703,20250209",
         "id": 3,
         "text": "うちいでむこと難くやありけむ、もの病になりて死ぬべきときに、",
         "kana": "うちいでむことかたくやありけむ、ものやまいになりてしぬべきときに、",
+        "honkoku": "うちいてむことかたくやありけん/s53r/ものやみになりてしぬへきときに",
         "translation-ja": "外に出ることが難しかったのだろうか、重い病気になって死ぬべき時に、",
         "translation-en": "It was difficult to go out, and when she was about to die of a serious illness,"
       },
       {
-        "date": "20240703",
+        "date": "20240703,20250209",
         "id": 4,
         "text": "「かくこそ思ひしか」といひけるを、",
         "kana": "「かくこそおもひしか」といひけるを、",
+        "honkoku": "か/くこそおもひしかといひけるを",
         "translation-ja": "「このように思っていました」と行ったのを、",
         "translation-en": "She said, 'I have been thinking like this.'"
       },
       {
-        "date": "20240703",
+        "date": "20240703,20250209",
         "id": 5,
         "text": "親聞きつけて、泣く泣く告げたりければ、",
         "kana": "おやききつけて、なくなくつげたりければ、",
+        "honkoku": "おやきき/つけてなくなくつけたりけれは",
         "translation-ja": "親が聞きつけて、涙ながらに男に告げたものだから、",
         "translation-en": "Since her parents heard about it and told that to the man with crying,"
       },
       {
-        "date": "20240703",
+        "date": "20240703,20250209",
         "id": 6,
         "text": "まどひ来たりけれど、死にければ、つれづれと籠りをりけり。",
         "kana": "まどひきたりけれど、しにければ、つれづれとこもりをりけり。",
+        "honkoku": "まとひ/きたりけれとしにけれはつれつれと/こもりけり",
         "translation-ja": "男は驚いて来たが、死んでしまったので、ただ寂しく籠もっていました。",
         "translation-en": "The man came in a hurry, but she died, so he was just mourning."
       },
@@ -3632,38 +3638,43 @@
         "id": 7,
         "text": "時は水無月のつごもり、いと暑きころほひに、宵はあそびをりて、夜は更けてやゝ涼しき風吹きけり。",
         "kana": "ときはみなづきのつごもり、いとあつきころほひに、よいはあそびをりて、よはふけてやゝすずしきかぜふきけり。",
+        "honkoku": "ときはみな月のつこもり/いとあつきころをひによゐはあそびをり/て夜ふけてややすすしき風ふきけり/",
         "translation-ja": "時は水無月の終わり、とても暑い時期に、夜は遊びをして、夜が更けて涼しい風が吹いていました。",
         "translation-en": "It was the end of June, a very hot time, and in the evening, they played, and the night became cooler with a breeze."
       },
       {
-        "date": "20240703",
+        "date": "20240703,20250209",
         "id": 8,
         "text": "蛍高く飛びあがる。",
         "kana": "ほたるたかくとびあがる。",
+        "honkoku": "ほたるたかくとひあかり",
         "translation-ja": "蛍が高く飛び上がる。",
         "translation-en": "Fireflies fly high."
       },
       {
-        "date": "20240703",
+        "date": "20240703,20250209",
         "id": 9,
         "text": "この男、見ふせりて、",
         "kana": "このをとこ、みふせりて、",
+        "honkoku": "このおとこ見ふ/せりて/s53l/",
         "translation-ja": "この男、じっと見つめて、",
         "translation-en": "This man watched it,.."
       },
       {
-        "date": "20240703",
+        "date": "20240703,20250209",
         "id": 10,
         "poem": "行く蛍/雲の上まで/いぬべくは/秋風吹くと/雁に告げこせ",
         "kana": "ゆくほたる/くものうえまで/いぬべくは/あきかぜふくと/かりにつげこせ",
+        "honkoku": "ゆくほたる雲の上まていぬへくは/秋かせふくとかりにつけこせ/",
         "translation-ja": "行く蛍、雲の上まで飛んで行けるなら、秋風が吹いているよと雁に告げておくれ。",
         "translation-en": "Firefly, if you can fly up to the clouds, tell the geese that the autumn wind is blowing in the lower world."
       },
       {
-        "date": "20240703",
+        "date": "20240703,20250209",
         "id": 11,
         "poem": "暮れがたき/夏のひぐらし/ながむれば/そのことゝなく/ものぞ悲しき",
         "kana": "くれがたき/なつのひぐらし/ながむれば/そのこととなく/ものそかなしき",
+        "honkoku": "くれかたき夏の日くらしなかむれは/そのこととなくものそかなしき/s54r/",
         "translation-ja": "なかなか暮れない夏のひぐらしを聞いていると、理由もなく、悲しい気持ちになります。",
         "translation-en": "When I look at the evening cicadas in the summer, I can't help but remember it, and it's sad."
       }
