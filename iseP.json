@@ -3849,10 +3849,11 @@
     "romaji": "wakakusa",
     "paragraph": [
       {
-        "date": "20240707",
+        "date": "20240707,20250209",
         "id": 1,
         "text": "むかし、男、妹のいとをかしげなりけるを見をりて、",
         "kana": "むかし、をとこ、いもうとのいとをかしげなりけるをみをりて、",
+        "honkoku": "むかしおとこいもうとのいとおかしけ/なりけるを見をりて/",
         "translation-ja": "昔、男が、妹のとても愛らしいさまを見ていて、",
         "translation-en": "Once upon a time, a man saw his sister's lovely appearance and,"
       },
@@ -3861,22 +3862,25 @@
         "id": 2,
         "poem": "うら若み/寝よげに見ゆる/若草を/人の結ばむ/ことをしぞ思ふ",
         "kana": "うらわかみ/ねよげにみゆる/わかくさを/ひとのむすばむ/ことをしそおもふ",
+        "honkoku": "うらわかみねよけにみゆるわか草を/人のむすはんことをしそ思ふ/",
         "translation-ja": "若いので、寝て見る若草を、人が結ばれること、惜しく思います。",
         "translation-en": "Because you are young, I regret that people will marry you, who look like young grass when you sleep."
       },
       {
-        "date": "20240707",
+        "date": "20240707,20250209",
         "id": 3,
         "text": "と聞えけり。返し、",
         "kana": "ときこえけり。かへし、",
+        "honkoku": "ときこえけり返し/",
         "translation-ja": "と申し上げた。返し、",
         "translation-en": "That he said. The reply,"
       },
       {
-        "date": "20240707",
+        "date": "20240707,20250209",
         "id": 4,
         "poem": "初草の/などめづらしき/言の葉ぞ/うらなくものを/思ひけるかな",
         "kana": "はつくさの/などめづらしき/ことのはぞ/うらなくものを/おもひけるかな",
+        "honkoku": "はつ草のなとめつらしきことのはを/うらなくものをおもひけるかな/s60l/",
         "translation-ja": "初草のように、珍しい言葉ですね。心に隔てなく、それを思い出しています。",
         "translation-en": "What a wonderful word like the first grass. I thought about it without any hesitation."
       }
