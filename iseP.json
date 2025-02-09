@@ -3892,34 +3892,38 @@
     "romaji": "torinoko",
     "paragraph": [
       {
-        "date": "20240708",
+        "date": "20240708,20250209",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
+        "honkoku": "むかし男ありけり",
         "translation-ja": "昔、男がいました。",
         "translation-en": "Once upon a time, there was a man."
       },
       {
-        "date": "20240708",
+        "date": "20240708,20250209",
         "id": 2,
         "text": "恨むる人を恨みて、",
         "kana": "うらむるひとをうらみて、",
+        "honkoku": "うらむる人をうらみて/",
         "translation-ja": "恨む人を恨んで、",
         "translation-en": "Hating the person who hated,"
       },
       {
-        "date": "20240708",
+        "date": "20240708,20250209",
         "id": 3,
         "poem": "鳥の子を/十づゝ十は/重ぬとも/思はぬ人を/おもふものかは",
         "kana": "とりのこを/とづつとは/おもぬとも/おもはぬひとを/おもふものかは",
+        "honkoku": "とりのこをとをつつとをはかさぬとも/おもはぬ人をおもふものかは/",
         "translation-ja": "鳥の子を十羽ずつ何度も重ねても、私のことを思ってくれない人を、私が思うことなどありえないでしょう。",
         "translation-en": "Even if you stack ten times the number of round eggs, is it possible to think of someone who doesn't love you?"
       },
       {
-        "date": "20240708",
+        "date": "20240708,20250209",
         "id": 4,
         "text": "といへりければ、",
         "kana": "といへりければ、",
+        "honkoku": "といへりけれは/",
         "translation-ja": "と言ってきたので、",
         "translation-en": "That he said, so"
       },
@@ -3928,62 +3932,70 @@
         "id": 5,
         "poem": "朝露は/消え残りても/ありぬべし/誰かこの世を/頼みはつべき",
         "kana": "あさつゆは/きえのこりても/ありぬべし/たれかこのよを/たのみはつべき",
+        "honkoku": "あさ露はきえのこりてもありぬへし/たれかこのよをたのみはつへき/",
         "translation-ja": "朝露は消え残ってもまだ存在するかもしれません。誰がこの世を頼り切ることができましょうか。",
         "translation-en": "Morning dew may remain. However, who should rely on this world?"
       },
       {
-        "date": "20240708",
+        "date": "20240708,20250209",
         "id": 6,
         "text": "又、男、",
         "kana": "また、をとこ、",
+        "honkoku": "又おとこ/",
         "translation-ja": "又、男、",
         "translation-en": "Again, the man..."
       },
       {
-        "date": "20240708",
+        "date": "20240708,20250209",
         "id": 7,
         "poem": "吹く風に/去年の桜は/散らずとも/あな頼みがた/人の心は",
         "kana": "ふくかぜに/こぞのさくらは/ちらずとも/あなたのみがた/ひとのこころは",
+        "honkoku": "ふく風にこそのさくらはちらすとも/あなたのみかた人のこころは/s61l/",
         "translation-ja": "吹く風に去年の桜が散らないとしても、ああ、なんと頼りがたいものでしょう、人の心は。",
         "translation-en": "Even if the cherry blossoms that bloomed last year did not fall in the wind, how difficult it is to rely on people's hearts."
       },
       {
-        "date": "20240708",
+        "date": "20240708,20250209",
         "id": 8,
         "text": "又、女、返し、",
         "kana": "また、をんな、かへし、",
+        "honkoku": "又女返し/",
         "translation-ja": "また、女が返すには、",
         "translation-en": "And she replied,"
       },
       {
-        "date": "20240708",
+        "date": "20240708,20250209",
         "id": 9,
         "poem": "ゆく水に/数かくよりも/はかなきは/思はぬ人を/思ふなりけり",
         "kana": "ゆくみづに/かずかくよりも/はかなきは/おもはぬひとを/おもふなりけり",
+        "honkoku": "ゆく水にかすかくよりもはかなきは/おもはぬ人をおもふなりけり/",
         "translation-ja": "ゆく水に数を数えるよりも儚いのは、思ってくれない人を思うことです。",
         "translation-en": "It is more fleeting to think of someone who does not think of you than to count the number of drops in flowing water."
       },
       {
-        "date": "20240708",
+        "date": "20240708,20250209",
         "id": 10,
         "text": "又、男、",
         "kana": "また、をとこ、",
+        "honkoku": "またおとこ/",
         "translation-ja": "又、男、",
         "translation-en": "Again, the man sang,"
       },
       {
-        "date": "20240708",
+        "date": "20240708,20250209",
         "id": 11,
         "poem": "ゆく水と/過ぐるよはひと/散る花と/いづれ待ててふ/ことを聞くらむ",
         "kana": "ゆくみづと/すぐるよはひと/ちるはなと/いづれまててふ/ことをきくらむ",
+        "honkoku": "行水と過るよはひとちるはなと/いつれまててふことをきくらむ/",
         "translation-ja": "ゆく水、過ぎてゆく年齢、散る花と、一体どれを待てばよいのかと、そんな話を聞くだろうか。",
         "translation-en": "Who would say to wait for either the flowing water, the passing time, or the falling flowers?"
       },
       {
-        "date": "20240708",
+        "date": "20240708,20250209",
         "id": 12,
         "text": "あだ比べ、かたみにしける男女の、忍びありきしけることなるべし。",
         "kana": "あだくらべ、かたみにしけるをとこをんなの、しのびありきしけることなるべし。",
+        "honkoku": "あたくらへかたみにしけるおとこ女のし/のひありきしけることなるへし/s62r/",
         "translation-ja": "浮気を競り合い、お互いに逢瀬を重ねた男女が密かに会っていたことでしょう。",
         "translation-en": "It seems that the man and woman, who competed in infidelity and secretly met each other, were having clandestine meetings."
       }
