@@ -4074,7 +4074,7 @@
     "romaji": "ahigataki onna",
     "paragraph": [
       {
-        "date": "20240711",
+        "date": "20240711,20250211",
         "id": 1,
         "text": "むかし、男、あひがたき女にあひて、物語などするほどに、鶏の鳴きければ、",
         "kana": "むかし、をとこ、あひがたきをんなにあひて、ものがたりなどするほどに、にわとりのなきければ、",
@@ -4083,7 +4083,7 @@
         "translation-en": "Once upon a time, a man could meet a woman who was hard to meet, and as they talked about their thoughts, the rooster crowed,"
       },
       {
-        "date": "20240711",
+        "date": "20240711,20250211",
         "id": 2,
         "poem": "いかでかは/鶏の鳴くらむ/人しれず/思ふ心は/まだ夜ぶかきに",
         "kana": "いかでかは/とりのなくらむ/ひとしれず/おもふこころは/まだよぶかきに",
@@ -4099,18 +4099,20 @@
     "romaji": "tsurenakarikeru onna",
     "paragraph": [
       {
-        "date": "20240712",
+        "date": "20240712,20250211",
         "id": 1,
         "text": "むかし、男、つれなかりける女に言ひやりける。",
         "kana": "むかし、をとこ、つれなかりけるをんなにいひやりける。",
+        "honkoku": "昔男つれなかりける女にいひやりける/",
         "translation-ja": "昔、男、つれなかった女に言いやった。",
         "translation-en": "Once upon a time, a man sang a song to a cold-hearted woman"
       },
       {
-        "date": "20240712",
+        "date": "20240712,20250211",
         "id": 2,
         "poem": "行きやらぬ/夢路を頼む/たもとには/天つ空なる/露やおくらむ",
         "kana": "ゆきやらぬ/ゆめぢをたのむ/たもとには/あまつそらなる/つゆやおくらむ",
+        "honkoku": "ゆきやらぬ夢ちをたとるたもとには/あまつ空なるつゆやをくらん/s64l/",
         "translation-ja": "行きかねる夢の道を頼りにする袖には、天の空にある露が降りてくるでしょうか。",
         "translation-en": "In my sleeve that relies on the difficult-to-tread dream path, will the dew from the heavenly sky descend?"
       }
