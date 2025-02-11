@@ -4078,6 +4078,7 @@
         "id": 1,
         "text": "むかし、男、あひがたき女にあひて、物語などするほどに、鶏の鳴きければ、",
         "kana": "むかし、をとこ、あひがたきをんなにあひて、ものがたりなどするほどに、にわとりのなきければ、",
+        "honkoku": "むかしおとこあひかたき女にあひて物/かたりなとするほとにとりのなきけれは/",
         "translation-ja": "昔、男が、なかなか逢えない女に逢って、思うことを話しているうちに、鶏が鳴いたので、",
         "translation-en": "Once upon a time, a man could meet a woman who was hard to meet, and as they talked about their thoughts, the rooster crowed,"
       },
@@ -4086,6 +4087,7 @@
         "id": 2,
         "poem": "いかでかは/鶏の鳴くらむ/人しれず/思ふ心は/まだ夜ぶかきに",
         "kana": "いかでかは/とりのなくらむ/ひとしれず/おもふこころは/まだよぶかきに",
+        "honkoku": "いかてかは鳥のなくらん人しれす/思ふこころはまた夜ふかきに/s64r/",
         "translation-ja": "どうして鶏が鳴くのでしょうか、人しれず思う心は、まだ夜が深々として明けないのに。",
         "translation-en": "Why does the rooster crow? My feelings of longing for someone are still deep in the night and have not yet dawned."
       }
