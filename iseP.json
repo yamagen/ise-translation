@@ -4031,34 +4031,38 @@
     "romaji": "kazarichimaki",
     "paragraph": [
       {
-        "date": "20240710",
+        "date": "20240710,20250211",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
+        "honkoku": "昔おとこありけり",
         "translation-ja": "昔、男がいました。",
         "translation-en": "Once upon a time, there was a man."
       },
       {
-        "date": "20240710",
+        "date": "20240710,20250211",
         "id": 2,
         "text": "人のもとより、かざり粽おこせたりける返り事に、",
         "kana": "ひとのもとより、かざりちまきおこせたりけるかへりごとに、",
+        "honkoku": "人のもとよりかさなり/ちまきををこせたりける返ことに/",
         "translation-ja": "人のもとより、かざり粽を贈ってきた返事に、",
         "translation-en": "In response to the decorated Chimaki sent from the person,"
       },
       {
-        "date": "20240710",
+        "date": "20240710,20250211",
         "id": 3,
         "poem": "菖蒲刈り/君は沼にぞ/まどひける/我は野に出でて/かるぞわびしき",
         "kana": "あやめかり/きみはぬまにぞ/まどひける/わはのにいでて/かるぞわびしき",
+        "honkoku": "あやめかり君はぬまにそまとひける/われは野にいててかるそわひしき/",
         "translation-ja": "菖蒲を刈りに沼に入って、私は野に出て、狩るのがつらいことでした。",
         "translation-en": "You went into the swamp to cut the iris, and I went out into the field, which was hard to hunt."
       },
       {
-        "date": "20240710",
+        "date": "20240710,20250211",
         "id": 4,
         "text": "とて、雉子をなむやりける。",
         "kana": "とて、きじをなむやりける。",
+        "honkoku": "とてきしをなむやりける/s64r/",
         "translation-ja": "と詠んで、雉を贈りました。",
         "translation-en": "He sang and gave a bird."
       }
