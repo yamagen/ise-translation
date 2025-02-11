@@ -4007,18 +4007,19 @@
     "romaji": "kiku",
     "paragraph": [
       {
-        "date": "20240709",
+        "date": "20240709,20250210",
         "id": 1,
         "text": "むかし、男、人の前栽に菊植ゑけるに、",
         "kana": "むかし、をとこ、ひとのせんざいにきくうゑけるに、",
+        "honkoku": "むかし男人のせむさいに菊うへけるに/",
         "translation-ja": "昔、男が、人の前栽に菊を植えたときに、",
         "translation-en": "Once upon a time, a man planted chrysanthemums in a person's front garden,"
       },
       {
-        "date": "20240709",
+        "date": "20240709,20250210",
         "id": 2,
         "poem": "植ゑしうゑば/秋なき時や/咲かざらむ/花こそ散らめ/根さへ枯れめや",
-        "kana": "うゑしうゑば/あきなきときや/さかざらむ/はなこそちらめ/ねさへかれめや",
+        "honkoku": "うへしうへはあきなき時やさかさらん/花こそちらめねさへかれめや/s63r/",
         "translation-ja": "植えた木は秋が来ない時でも咲かないのでしょうか。花は散るかもしれませんが、根まで枯れてしまうことがあるんでしょうか。",
         "translation-en": "When I have planted it, will it not bloom even if autumn does not come? The flowers may fall, but will the roots wither as well?"
       }
