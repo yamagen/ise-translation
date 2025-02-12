@@ -4314,42 +4314,47 @@
     "romaji": "Higashiyama",
     "paragraph": [
       {
-        "date": "20240717",
+        "date": "20240717,20250212",
         "id": 1,
         "text": "むかし、男、京をいかゞ思ひけむ。東山に住まむと思ひ入りて、",
         "kana": "むかし、をとこ、みやこをいかぞおもひけむ。ひがしやまにすまむとおもひいりて、",
+        "honkoku": "むかしおとこ京をいかか思ひけむひんかし/山にすまむとおもひいりて/",
         "translation-ja": "昔、ある男が、都をどう思ったのでしょうか。東山に住もうと決心して、",
         "translation-en": "Once upon a time, a man wondered what to think of the capital. He decided to live in Higashiyama,"
       },
       {
-        "date": "20240717",
+        "date": "20240717,20250212",
         "id": 2,
         "poem": "住わびぬ/今はかぎりと/山里に/身をかくすべき/宿をもとめてむ",
         "kana": "すみわびぬ/いまはかぎりと/やまざとに/みをかくすべき/やどをもとめてむ",
+        "honkoku": "すみわひぬいまはかきりと山さとに/身をかくすへきやともとめてむ/s66r/",
         "translation-ja": "住むことができなくなってしまった。今はこれまでと、山里に身を隠すのによい住みかをさがし求めたいなあ。",
         "translation-en": "I can no longer live there. Now I want to find a good place to hide in the mountains."
       },
       {
-        "date": "20240717",
+        "date": "20240717,20250212",
         "id": 3,
         "text": "かくて、ものいたく病みて、死に入りければ、おもてに水そゝぎなどしていきいでて、",
         "kana": "かくて、ものいたくやみて、しにいりければ、おもてにみずそそぎなどしていきいでて、",
+        "honkoku": "かくて物いたくやみてしにいりたりけれ/はおもてに水そそきなとしていきいてて/",
         "translation-ja": "そうして、ひどく病気になって、死にかけたので、顔に水をかけたりなどして、息を吹き返して、",
         "translation-en": "In this way, he became seriously ill and was on the verge of death, so they splashed water on his face and he revived."
       },
       {
-        "date": "20240717",
+        "date": "20240717,20250212",
         "id": 4,
         "poem": "わが上に/露ぞ置くなる/天の河と/渡る船の/かいのしづくか",
         "kana": "わがうえに/つゆぞおくなる/あまのかわと/わたるふねの/かいのしづくか",
+        "honkoku": "わかうへに露そをくなるあまの川/とわたる舟のかひのしつくか/",
         "translation-ja": "私の上に露が置かれているようです。天の川を渡る船の櫂から落ちるしずくなのでしょうか。",
         "translation-en": "It seems that dew is placed upon me. Could this be the drops from the oars of the boat crossing the Milky Way?"
       },
       {
-        "date": "20240717",
+        "date": "20240717,20250212",
         "id": 5,
         "text": "となむいひて、いき出でたりける。",
         "kana": "となむいひて、いきいでたりける。",
+        "honkoku": "となんいひていきいてたりける/s66l/",
         "translation-ja": "そう言って、息を吹き返したのでした。",
         "translation-en": "He said this and then revived."
       }
