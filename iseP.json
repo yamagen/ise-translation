@@ -4149,18 +4149,20 @@
     "romaji": "kusa no ihori",
     "paragraph": [
       {
-        "date": "20240714",
+        "date": "20240714,20250212",
         "id": 1,
         "text": "むかし、男、 臥して思ひ起きて思ひ、思ひあまりて、",
         "kana": "むかし、をとこ、ねしておもひおきておもひ、おもいあまりて、",
+        "honkoku": "むかし男ふしておもひおきておもひおもひ/あまりて/s64l/",
         "translation-ja": "昔、男が、寝て思い、起きて思い、思いあまって、",
         "translation-en": "Once upon a time, a man thought while lying down, thought while getting up, and thought too much,"
       },
       {
-        "date": "20240714",
+        "date": "20240714,20250212",
         "id": 2,
         "poem": "わが袖は/草の庵に/あらねども/暮るれば露の/宿りなりけり",
         "kana": "わがそでは/くさのいほりに/あらねども/くるればつゆの/やどりなりけり",
+        "honkoku": "わか袖はくさのいほりにあらねとも/くるれは露のやとりなりけり/s65r/",
         "translation-ja": "私の袖は、草の庵ではないけれども、暮れると露の宿になりました。",
         "translation-en": "My sleeves are not a grass hut, but when evening falls, they become a dwelling for the dew."
       }
