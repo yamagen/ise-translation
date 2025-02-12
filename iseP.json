@@ -4124,18 +4124,20 @@
     "romaji": "kotonoha",
     "paragraph": [
       {
-        "date": "20240713",
+        "date": "20240713,20250212",
         "id": 1,
         "text": "むかし、男、思ひかけたる女の、え得まじうなりての世に、",
         "kana": "むかし、をとこ、おもひかけたるをんなの、ええまじうなりてのよに、",
+        "honkoku": "むかしおとこおもひかけたる女のえう/ましうなりてのよに/",
         "translation-ja": "昔、男が思いを寄せていた女が、どうしても手に入らない状況になった時に、",
         "translation-en": "Once upon a time, when a man, who had feelings for a woman, found himself in a situation where he could not possibly have her,"
       },
       {
-        "date": "20240713",
+        "date": "20240713,20250212",
         "id": 2,
         "poem": "思はずは/ありもすらめど/言の葉の/をりふしごとに/頼まるゝかな",
         "kana": "おもはずは/ありもすらめど/ことのはの/をりふしごとに/たのまるるかな",
+        "honkoku": "思はすはありもすらめとことの葉の/をりふしことにたのまるるかな/s64l/",
         "translation-ja": "思わないこともあるでしょうが、あなたの言葉の折々に期待してしまうのでしょうか。",
         "translation-en": "You may not think of me, but do I rely on your words every time I hear them?"
       }
