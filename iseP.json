@@ -4174,26 +4174,29 @@
     "romaji": "koiwabinu",
     "paragraph": [
       {
-        "date": "20240715",
+        "date": "20240715,20250212",
         "id": 1,
         "text": "むかし、男、人しれぬもの思ひけり。",
         "kana": "むかし、をとこ、ひとしれぬものおもひけり。",
+        "honkoku": "むかしおとこ人しれぬものおもひけり/",
         "translation-ja": "昔、男が、誰にも知られず、思い悩んでいた。",
         "translation-en": "Once upon a time, there was a man who, without anyone knowing, was deeply troubled."
       },
       {
-        "date": "20240715",
+        "date": "20240715,20250212",
         "id": 2,
         "text": "つれなき人のもとに、",
         "kana": "つれなきひとのもとに、",
+        "honkoku": "つれなき人のもとに/",
         "translation-ja": "冷たい人のもとに、",
         "translation-en": "To a cold-hearted woman,"
       },
       {
-        "date": "20240715",
+        "date": "20240715,20250212",
         "id": 3,
         "poem": "恋ひわびぬ/あまの刈る藻に/やどるてふ/われから身をも/くだきつるかな",
         "kana": "こひわびぬ/あまのかるもに/やどるてふ/われからみをも/くだきつるかな",
+        "honkoku": "恋わひぬあまのかるもにやとるてふ/我から身をもくたきつるかな/s65r/",
         "translation-ja": "恋に疲れてしまって、海人が刈り取る藻に住み着くという私が身をも砕いてしまったのでしょうか。",
         "translation-en": "I have become weary from love. Could it be that I, who is said to dwell in the seaweed harvested by the fishermen, have shattered my own body?"
       }
@@ -4205,90 +4208,101 @@
     "romaji": "aretaru yado",
     "paragraph": [
       {
-        "date": "20240716",
+        "date": "20240716,20250212",
         "id": 1,
         "text": "むかし、心つきて色好みなる男、長岡といふ所に家造りてをりけり。",
         "kana": "むかし、こころつきていろこのみなるをとこ、ながおかといふところにいえつくりてをりけり。",
+        "honkoku": "昔こころつきて色このみなるおとこなか/をかといふ所にいゑつくりてをりけり/",
         "translation-ja": "昔、心底色恋を楽しむ風流な男が、長岡という場所に家を建てて住んでいた。",
         "translation-en": "Once upon a time, a man who deeply enjoyed romantic affairs and was quite dashing built a house and lived in a place called Nagaoka."
       },
       {
-        "date": "20240716",
+        "date": "20240716,20250212",
         "id": 2,
         "text": "そこの隣なりける、宮ばらに、こともなき女どもの、田舎なれければ、",
         "kana": "そこのとなりなりける、みやばらに、こともなきおんなどもの、いなかなれければ、",
+        "honkoku": "そこのとなりなりける宮はらにことも/s65r/なき女とものゐなかなりけれは",
         "translation-ja": "そこの隣に住んでいた、宮の人々に仕える女性たちは、ごく普通の女たちで、田舎育ちだったので、",
         "translation-en": "The women who lived next door, serving the people of the palace, were quite ordinary and were from the countryside, so"
       },
       {
-        "date": "20240716",
+        "date": "20240716,20250212",
         "id": 3,
         "text": "田刈らむとてこの男のあるを見て、",
         "kana": "たからむとてこのをとこのあるをみて、",
+        "honkoku": "田からん/とてこの男のあるを見て",
         "translation-ja": "田の稲を刈ろうとしてこの男がいるのを見て、",
         "translation-en": "Seeing the man there as he was about to harvest the rice fields,"
       },
       {
-        "date": "20240716",
+        "date": "20240716,20250212",
         "id": 4,
         "text": "「いみじのすき者のしわざや」とて集りていり来ければ、",
         "kana": "「いみじのすきもののしわざや」とてつどりていりきけきれば、",
+        "honkoku": "いみしのすきも/ののしわさやとてあつまりていりきけれ/は",
         "translation-ja": "「大変な色好みのやることだなあ」と言って集まって入って来たので、",
         "translation-en": "They said, 'What an amazing act of a passionate person,' and gathered and came in."
       },
       {
-        "date": "20240716",
+        "date": "20240716,20250212",
         "id": 5,
         "text": "この男、逃げて奥にかくれにければ、女、",
         "kana": "このをとこ、にげておくにかくれにければ、をんな、",
+        "honkoku": "この男にけておくにかくれにけれは女/",
         "translation-ja": "この男は、逃げて奥に隠れてしまったので、女は、",
         "translation-en": "The man ran away and hid in the back, so the woman,"
       },
       {
-        "date": "20240716",
+        "date": "20240716,20250212",
         "id": 6,
         "poem": "荒れにけり/あはれいく世の/宿なれや/住みけむ人の/おとづれもせぬ",
         "kana": "あれにけり/あはれいくよの/やどなれや/すみけむひとの/おとづれもせぬ",
+        "honkoku": "あれにけりあはれいく世のやとなれや/すみけん人のをとつれもせぬ/",
         "translation-ja": "荒れてしまったよ。ああ、何代も住み続けた宿だったのだろうか。住んでいた人の訪れもしません。",
         "translation-en": "It has become desolate. Ah, how many generations has this place been a dwelling? There is not even a visit from those who lived here."
       },
       {
-        "date": "20240716",
+        "date": "20240716,20250212",
         "id": 7,
         "text": "といひて、この宮に集り来ゐてありければ、この男、",
         "kana": "といひて、このみやにつどりきゐてありければ、このをとこ、",
+        "honkoku": "といひてこの宮にあつまりきゐてあり/けれはおとこ/",
         "translation-ja": "と言って、この宮様の邸に集まってきていたので、この男は、",
         "translation-en": "Saying this, they gathered at the palace, the man,"
       },
       {
-        "date": "20240716",
+        "date": "20240716,20250212",
         "id": 8,
         "poem": "むぐら生ひて/荒れたる宿の/うれたきは/かりにも鬼の/すだくなり",
         "kana": "むぐらおひて/あれたるやどの/うれたきは/かりにもおにの/すだくなり",
+        "honkoku": "むくらおひてあれたる宿のうれたきは/s65l/かりにもおにのすたくなりけり/",
         "translation-ja": "雑草が生い茂って荒れ果てたこの家の悲しいことは、一時的にでも鬼が集まってくることですよ。",
         "translation-en": "The desolation of this house, overgrown with weeds, is sorrowful because even for a short time, demons gather and make a racket."
       },
       {
-        "date": "20240716",
+        "date": "20240716,20250212",
         "id": 9,
         "text": "とてなむいだしたりける。",
         "kana": "とてなむいだしたりける。",
+        "honkoku": "とてなんいたしたりける",
         "translation-ja": "とて詠みだしました。",
         "translation-en": "He sang a song and offered it."
       },
       {
-        "date": "20240716",
+        "date": "20240716,20250212",
         "id": 10,
         "text": "この女ども、「穂ひろはむ」といひければ、",
         "kana": "このをんなども、「ほひろはむ」といひければ、",
+        "honkoku": "この女ともほ/ひろはんといひけれは/",
         "translation-ja": "この女たちが、「落穂を拾いましょう」と言ったので、",
         "translation-en": "Since the women said, 'Let's pick up the fallen grains,'"
       },
       {
-        "date": "20240716",
+        "date": "20240716,20250212",
         "id": 11,
         "poem": "うちわびて/おち穂ひろふと/きかませば/我も田面に/ゆかましものを",
         "kana": "うちわびて/おちぼひろふと/きかませば/われもたおもに/ゆかましものを",
+        "honkoku": "うちわひておちほひろふときかませは/われもたつらにゆかましものを/s66r/",
         "translation-ja": "すっかり困り果てて落ち穂を拾うと聞いたならば、私も田んぼに行ったでしょうに。",
         "translation-en": "If I had heard that you were in trouble and picking up the fallen grains, I would have gone to the rice field to help."
       }
