@@ -4551,74 +4551,83 @@
     "romaji": "Kokeru kara",
     "paragraph": [
       {
-        "date": "20240720",
+        "date": "20240720,20250214",
         "id": 1,
         "text": "むかし、年ごろ訪れざりける女、心かしこくやあらざりけむ、はかなき人の言につきて、人の国になりける人につかはれて、もと見し人の前にいで来て、もの食はせなどしけり。",
         "kana": "むかし、としごろおとづれざりけるをんな、こころかしこくやあらざりけむ、はかなきひとのことにつきて、ひとのくにになりけるひとにつかはれて、もとみしひとのまえにいできて、ものくはせなどしけり。",
+        "honkoku": "むかし年ころをとつれさりける女心かし/s68r/こくやあらさりけんはかなき人のことに/つきて人のくになりける人につかはれて/もと見し人のまへにいてきてものくは/せなとしけり",
         "translation-ja": "昔、長年訪れなかった女が、どうして賢くなかったのだろうか、つまらない人の言葉に従って、他の国に行ってしまった人に送られて、以前見たことのある人の前に出てきて、食べ物を食べさせたりした。",
         "translation-en": "Once upon a time, a woman who had not visited for many years, perhaps she was not very wise, followed the words of a trivial person and was sent to a person who had gone to another country. She appeared before someone she had seen before and offered them food."
       },
       {
-        "date": "20240720",
+        "date": "20240720,20250214",
         "id": 2,
         "text": "夜さり、",
         "kana": "よさり、",
+        "honkoku": "よさり",
         "translation-ja": "夜になって、",
         "translation-en": "At night,"
       },
       {
-        "date": "20240720",
+        "date": "20240720,20250214",
         "id": 3,
         "text": "「このありつる人たまへ」とあるじにいひければ、おこせたりけり。",
         "kana": "「このありつるひとたまへ」とあるじにいひければ、おこせたりけり。",
+        "honkoku": "この有つるひとたま/へとあるしにいひけれはをこせたりけり/",
         "translation-ja": "「この人を呼んでください」と主人に言ったので、呼ばれた。",
         "translation-en": "\"Please call this person,\" he said to the master, and the woman was called."
       },
       {
-        "date": "20240720",
+        "date": "20240720,20250214",
         "id": 4,
         "text": "男、「われをばしらずや」とて、",
         "kana": "をとこ、「われをばしらずや」とて、",
+        "honkoku": "おとこわれをはしらすやとて/",
         "translation-ja": "「私をご存じではないかね」と言って、",
         "translation-en": "Saying, 'Do you not know me?'"
       },
       {
-        "date": "20240720",
+        "date": "20240720,20250214",
         "id": 5,
         "poem": "いにしへの/にほひはいづら/桜花/こけるからとも/なりにけるかな",
         "kana": "いにしへの/にほひはいづら/さくらばな/こけるからとも/なりにけるかな",
+        "honkoku": "いにしへのにほひはいつらさくら花/こけるからともなりにけるかな/",
         "translation-ja": "昔の美しい姿はどこへ行ってしまったのだろう、桜の花よ。苔むした枯れ木のようになってしまったなあ。",
         "translation-en": "Where has the beauty of the past gone, cherry blossoms? They have become like withered trees covered in moss."
       },
       {
-        "date": "20240720",
+        "date": "20240720,20250214",
         "id": 6,
         "text": "といふを、いとはづかしと思ひて、いらへもせでゐたるを、「などいらへもせぬ」といへば、「涙のこぼるるに目もみえず、ものもいはれず」といふ。",
         "kana": "といふを、いとはづかしとおもひて、いらへもせでゐたるを、「などいらへもせぬ」といへば、「なみたのこぼるるにめもみえず、ものもいはれず」といふ。",
+        "honkoku": "といふをいとはつかしとおもひていらへ/s68l/もせてゐたるをなといらへもせぬといへ/は涙のこほるるにめもみえす物もいは/れすといふ/",
         "translation-ja": "と言うのを、恥ずかしいと思って返事もしないでいたのを、「どうして返事もしないのですか」と言うので、「涙がこぼれて目も見えず、言葉も出ません」と言いました。",
         "translation-en": "Hearing this, she felt very embarrassed and did not respond. When asked why she did not respond, she said, 'Tears are welling up, so I cannot see. I cannot say anything.'"
       },
       {
-        "date": "20240720",
+        "date": "20240720,20250214",
         "id": 7,
         "poem": "これやこの/我にあふみを/のがれつつ/年月経れど/まさりがほなき",
         "kana": "これやこの/われにあふみを/のがれつつ/としつきふれど/まさりがほなき",
+        "honkoku": "これやこの我にあふみをのかれつつ/とし月ふれとまさりかほなき/",
         "translation-ja": "これこそ私に逢うのを逃れてきたのでしょう。年月が経ったけれども、以前のまま誇らしげな様子はありませんね。",
         "translation-en": "Is this the one who has been avoiding meeting me? Though many years have passed, there is no longer a proud expression."
       },
       {
-        "date": "20240720",
+        "date": "20240720,20250214",
         "id": 8,
         "text": "といひて、衣ぬぎてとらせけれど、捨てて逃げにけり。",
         "kana": "といひて、ころもぬぎてとらせけれど、すててにげにけり。",
+        "honkoku": "といひてきぬぬきてとらせけれとすてて/にけにけり",
         "translation-ja": "と言って、衣服を脱いで渡したが、捨てて逃げてしまった。",
         "translation-en": "Though he said this and took off his robe to give it to her, she discarded it and ran away."
       },
       {
-        "date": "20240720",
+        "date": "20240720,20250214",
         "id": 9,
         "text": "いづちいぬらむともしらず。",
         "kana": "いづちいぬらむともしらず。",
+        "honkoku": "いつちいぬらんともしらす/s69r/",
         "translation-ja": "どこへ行ったのかもわかりませんでした。",
         "translation-en": "The man did not know where she had gone."
       }
