@@ -4490,50 +4490,56 @@
     "romaji": "somekawa",
     "paragraph": [
       {
-        "date": "20240719",
+        "date": "20240719,20250214",
         "id": 1,
         "text": "むかし、男、筑紫までいきたるに、",
         "kana": "むかし、をとこ、つくしまでいきたるに、",
+        "honkoku": "昔おとこつくしまていきたりけるに/",
         "translation-ja": "昔、男が、筑紫まで行ったときに、",
         "translation-en": "Once upon a time, when a man went to Tsukushi,"
       },
       {
-        "date": "20240719",
+        "date": "20240719,20250214",
         "id": 2,
         "text": "「これは色好むといふすきもの」",
         "kana": "「これはいろこのむといふすきもの」",
+        "honkoku": "これはいろこのむといふすきもの",
         "translation-ja": "「これは、色好むという好き者ですよ」",
         "translation-en": "\"This man is said to be fond of colors.\""
       },
       {
-        "date": "20240719",
+        "date": "20240719,20250214",
         "id": 3,
         "text": "と、すだれのうちなる人のいひけるを、聞きて、",
         "kana": "と、すだれのうちなるひとのいひけるを、ききて、",
+        "honkoku": "とすた/れのうちなる人のいひけるをききて/",
         "translation-ja": "と簾の中にいた女が言ったのを聞いて、",
         "translation-en": "Hearing what a woman who was inside a blind said,"
       },
       {
-        "date": "20240719",
+        "date": "20240719,20250214",
         "id": 4,
         "poem": "染河を/渡らむ人の/いかでかは/色になるてふ/ことのなからむ",
         "kana": "そめかはを/わたらむひとの/いかでかは/いろになるてふ/ことのなからむ",
+        "honkoku": "そめ川をわたらんひとのいかてかは/色になるてふことのなからん/",
         "translation-ja": "染河を渡る人は、どうして色になるということなしでいられましょうか。",
         "translation-en": "One would cross the dyed river, how can he cross it without being dyed?"
       },
       {
-        "date": "20240719",
+        "date": "20240719,20250214",
         "id": 5,
         "text": "女、返し、",
         "kana": "をんな、かへし、",
+        "honkoku": "女返し/",
         "translation-ja": "女が返し、",
         "translation-en": "The woman replied,"
       },
       {
-        "date": "20240719",
+        "date": "20240719,20250214",
         "id": 6,
         "poem": "名にしおはば/あだにぞあるべき/たはれ島/浪のぬれぎぬ/着るといふなり",
         "kana": "なにしおはば/あだにそあるべき/たはれしま/なみのぬれぎぬ/きるといふなり",
+        "honkoku": "なにしおははあたにそあるへきたはれ嶋/なみのぬれきぬきるといふなり/s68r/",
         "translation-ja": "もし名前が本当であれば、きっと浮気なことでしょう。たはれ島（戯れ島）という名前の島は、波の濡れ衣を着ると言われているのです。",
         "translation-en": "If its name is true, it must be something frivolous. It is said that Tahare Island, as its name suggests, wears the wet clothes of the waves."
       }
