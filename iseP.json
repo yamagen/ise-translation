@@ -4639,130 +4639,128 @@
     "romaji": "Tsukumogami",
     "paragraph": [
       {
-        "date": "20240721",
+        "date": "20240721,20250214",
         "id": 1,
         "text": "むかし、世心つける女、いかで心情けあらむ男にあひ得てしがなと思へど、いひいでむもたよりなさに、まことならぬ夢がたりをす。",
         "kana": "むかし、よごころつけるをんな、いかでこころなさけあらむをとこにあひえてしがなと思へど、いひいでむもたよりなさに、まことならぬ夢がたりをす。",
+        "honkoku": "むかし世心つける女いかて心なさけあらむ/男にあひえてしかなと思へといひ/s69r/いてむたよりもなさにまことならぬ夢/かたりをす",
         "translation-ja": "昔、世間に関心を持っている女性が、どうにかして情け深い男性に巡り会いたいと思うが、打ち明けることもできず、嘘の夢物語を語ります。",
         "translation-en": "Once upon a time, a woman who was interested in worldly matters wanted to somehow meet a kind-hearted man, but since she had no opportunity to express her feelings, she told fictitious tales of dreams."
       },
       {
-        "date": "20240721",
+        "date": "20240721,20250214",
         "id": 2,
         "text": "子三人を呼びて語りけり。",
         "kana": "こさんにんをよびてかたりけり。",
+        "honkoku": "子三人をよひてかたりけり/",
         "translation-ja": "子供三人を呼んでその話をしました。",
         "translation-en": "She called three children and told them the story."
       },
       {
-        "date": "20240721",
+        "date": "20240721,20250214",
         "id": 3,
         "text": "二人の子は、情けなくいらへてやみぬ。",
         "kana": "ふたりのこは、なさけなくいらへてやみぬ。",
+        "honkoku": "ふたりのこはなさけなくいらへてやみぬ/",
         "translation-ja": "二人の子どもは、そっけなく返事をして終わりました。",
         "translation-en": "The two children responded coldly and that was the end of it."
       },
       {
-        "date": "20240721",
+        "date": "20240721,20250214",
         "id": 4,
         "text": "三郎なりけむ子なむ、「よき御男ぞいで来む」とあはするに、この女けしきいとよし。",
         "kana": "さぶらうなりけむこなむ、「よきおとこぞいでこむ」とあはするに、このをんなけしきいとよし。",
+        "honkoku": "さふらふなりける子なむよき御おとこそ/いてこんとあはするにこの女けしき/いとよし",
         "translation-ja": "三郎という子が「立派な男の人が来るよ」とそそのかすと、この女性の様子はとても良かった。",
         "translation-en": "The child named Saburo said, 'A fine gentleman will come,' and this made the woman very pleased."
       },
       {
-        "date": "20240721",
+        "date": "20240721,20250214",
         "id": 5,
         "text": " 「こと人とはいと情けなし。いかでこの在五中将にあはせてしがな」と思ふ心あり。",
         "kana": "「ことひととはいとなさけなし。いかでこのざいごちゆうじやうにあはせてしがな」とおもふこころあり。",
+        "honkoku": "こと人はいとなさけなしいかて/この在五中将にあはせてしかなと思ふ/心あり",
         "translation-ja": "他の人では全く情がない。どうにかしてこの在五中将に会いたいものだと思う気持ちがありました。",
         "translation-en": "The third child thought, 'Other people are not very kind. I want to meet that Fifth-Rank Middle Captain, Zai Go Chujo.'"
       },
       {
-        "date": "20240721",
+        "date": "20240721,20250214",
         "id": 6,
-        "text": "「いかでこの在五中将にあはせてしがな」と思ふ心あり。",
-        "kana": "「いかでこのざいごちゆうじやうにあはせてしがな」とおもふこころあり。",
-        "translation-ja": "「どうにかしてこの在五中将に会いたいものだ」と思う気持ちがありました。",
-        "translation-en": "He had a desire to meet the Fifth-Rank Middle Captain."
-      },
-      {
-        "date": "20240721",
-        "id": 7,
-        "text": "「いかでこの在五中将にあはせてしがな」と思ふ心あり。",
-        "kana": "「いかでこのざいごちゆうじやうにあはせてしがな」とおもふこころあり。",
-        "translation-ja": "「どうにかしてこの在五中将に会いたいものだ」と思う気持ちがありました。",
-        "translation-en": "He had a desire to meet the Fifth-Rank Middle Captain."
-      },
-      {
-        "date": "20240721",
-        "id": 8,
         "text": "狩しありきけるにいきあひて、道にて馬の口をとりて、「かうかうなむ思ふ」といひければ、あはれがりて、来て寝にけり。",
         "kana": "かりしありきけるにいきあひて、みちにてうまのくちをとりて、「かうかうなむおもふ」といひければ、あはれがりて、きてねにけり。",
+        "honkoku": "かりしありきけるにいきあひ/てみちにてむまのくちをとりてかうかう/s69l/なんおもふといひけれはあはれかりて/きてねにけり",
         "translation-ja": "狩りをして歩いているときに出会って、道で馬の口をつかんで、「こうこうと思っています」と言ったので、同情して一緒に寝た。",
         "translation-en": "While out hunting, he met her on the road, took hold of her horse's bridle, and said, 'This is what I am thinking.' Feeling sympathy, she went with him and they slept together."
       },
       {
-        "date": "20240721",
-        "id": 9,
+        "date": "20240721,20250214",
+        "id": 7,
         "text": "さてのち、男見えざりければ、女、男の家にいきてかいまみけるを、男ほのかに見て、",
         "kana": "さてのち、をとこみえざりければ、をんな、をとこのいえにいきてかいまみけるを、をとこほのかにみて、",
+        "honkoku": "さてのち男みえさりけれは/女おとこのいゑにいきてかいまみけるを/おとこほのかに見て/",
         "translation-ja": "その後、男が姿を見せなかったので、女は男の家に行って覗き見したところ、男はそれをぼんやりと見て、",
         "translation-en": "Afterwards, when the man did not appear, the woman went to the man's house and peered in. The man noticed her faintly."
       },
       {
-        "date": "20240721",
-        "id": 10,
+        "date": "20240721,20250214",
+        "id": 8,
         "poem": "百年に/一年たらぬ/つくも髪/われを恋ふらし/おもかげに見ゆ",
         "kana": "ももとせに/ひととせたらぬ/つくもがみ/われをこふらし/おもかげにみゆ",
+        "honkoku": "ももとせに一とせたらぬつくもかみ/われをこふらしおもかけにみゆ/",
         "translation-ja": "百年に一年足りない長い白髪の老人が私を恋しているらしい。その面影が私の目に浮かぶ。",
         "translation-en": "Though a century has not yet passed, with long white hair, it seems she loves me. Her image appears in my mind."
       },
       {
-        "date": "20240721",
-        "id": 11,
+        "date": "20240721,20250214",
+        "id": 9,
         "text": "とて、いで立つけしきを見て、うばら、からたちにかかりて、家にきてうちふせり。",
         "kana": "とて、いでたつけしきをみて、うばら、からたちにかかりて、いへにきてうちふせり。",
+        "honkoku": "とていてたつけしきを見てむはらから/たちにかかりていゑにきてうちふせり/",
         "translation-ja": "そう言って、出かける様子を見て、女は茨や枳殻にひっかかるようにして、家に戻って伏せていた。",
         "translation-en": "Thus, seeing him prepare to leave, she got caught in the reeds and thorny bushes on her way back home, where she lay down in distress."
       },
       {
-        "date": "20240721",
-        "id": 12,
+        "date": "20240721,20250214",
+        "id": 10,
         "text": "「われをばしらずや」とて、",
         "kana": "「われをばしらずや」とて、",
+        "honkoku": "われをはしらすやとて/",
         "translation-ja": "「私をご存じではないかね」と言って、",
         "translation-en": "Saying, 'Do you not know me?'"
       },
       {
-        "date": "20240721",
-        "id": 13,
+        "date": "20240721,20250214",
+        "id": 11,
         "text": "男、かの女のせしやうに、忍びて立てりて見れば、女嘆きて寝とて、",
         "kana": "をとこ、かのをんなのせしやうに、しのびてたてりてみれば、をんななげきてぬとて、",
+        "honkoku": "おとこかの女のせしやうにしのひて/s70r/たてりて見れは女なけきてぬとて/",
         "translation-ja": "男は、あの女のしたように、こっそり立って見ていると、女は嘆いて寝ようとして、",
         "translation-en": "The man, imitating what the woman had done, secretly stood and watched. He saw the woman lamenting and lying down to sleep."
       },
       {
-        "date": "20240721",
-        "id": 14,
+        "date": "20240721,20250214",
+        "id": 12,
         "poem": "さむしろに/衣かたしき/今宵もや/恋しき人に/あはでのみ寝む",
         "kana": "さむしろに/ころもかたしき/こよひもや/こひしきひとに/あはでのみねむ",
+        "honkoku": "さむしろに衣かたしきこよひもや/恋しき人にあはてのみねん/",
         "translation-ja": "むしろの上に衣の片袖を敷いて、今夜もまた恋しい人に会えずに寝るだけなのだろうか。",
         "translation-en": "Tonight, again, will I sleep on a straw mat with my clothes as a pillow, without meeting my beloved?"
       },
       {
-        "date": "20240721",
-        "id": 15,
+        "date": "20240721,20250214",
+        "id": 13,
         "text": "とよみけるを、男、あはれと思ひて、その夜は寝にけり。",
         "kana": "とよみけるを、をとこ、あはれとおもひて、そのよはねにけり。",
+        "honkoku": "とよみけるをおとこあはれと思ひてその/夜はねにけり",
         "translation-ja": "と詠んだのを、男は、あわれと思って、その夜は寝た。",
         "translation-en": "Hearing this, the man felt sorry for her and slept with her that night."
       },
       {
-        "date": "20240721",
-        "id": 16,
+        "date": "20240721,20250214",
+        "id": 14,
         "text": "世の中の例として、思ふをば思ひ、思はぬをば思はぬものを、この人は、思ふをも思はぬをも、けぢめみせぬ心なむありける。",
         "kana": "よのなかのれいとして、おもふをばおもひ、おもはぬをばおもはぬものを、このひとは、おもふをもおもはぬをも、けぢめみせぬこころなむありける。",
+        "honkoku": "世中のれいとして思ふ/をはおもひおもはぬをは思はぬものをこ/の人はおもふをもおもはぬをもけちめみ/せぬ心なんありける／s70l",
         "translation-ja": "世の中の例として、思う相手には思いを寄せ、思わない相手には思いを寄せないものだが、この人は、思う相手にも思わない相手にも区別を見せない心を持っていた。",
         "translation-en": "As is common in the world, one shows affection to those they care for and does not to those they do not. However, this person had a heart that showed no distinction between those they loved and those they did not."
       }
