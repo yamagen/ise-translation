@@ -4815,226 +4815,254 @@
     "romaji": "Ariwara no nari keru otoko",
     "paragraph": [
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 1,
         "text": "むかし、おほやけ思してつかうたまふ女の、色ゆるされたるありけり。",
         "kana": "むかし、おほやけおぼしてつかうたまふをんなの、いろゆるされたるありけり。",
+        "honkoku": "むかしおほやけおほしてつかうたまふ/女の色ゆるされたるありけり",
         "translation-ja": "昔、帝にお仕えしていた女性で、色が許された者がいました。",
         "translation-en": "In the past, there was a woman who served the emperor and was granted permission for a romantic relationship."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 2,
         "text": "大御息所とていますがりけるいとこなりけり。",
         "kana": "おおみやすんどころとていますがりけるいとこなりけり。",
+        "honkoku": "おほみやす/s71l/む所にていますかりけるいとこなりける/",
         "translation-ja": "大御息所と呼ばれていた人のいとこであった。",
         "translation-en": "She was a cousin of the lady known as Omiyasunndokoro."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 3,
         "text": "殿上にさぶらひける在原なりける男の、まだいと若かりけるを、この女あひしりたりけり。",
         "kana": "てんじやうにさぶらひけるありわらなりけるをとこの、まだいとわかかりけるを、このをんなあひしりたりけり。",
+        "honkoku": "殿上にさふらひけるありはらなりける/おとこのまたいとわかかりけるをこの女/あひしりたりけり",
         "translation-ja": "殿上に仕えていた在原姓の男で、まだとても若かったが、この女性は彼と親しくしていた。",
         "translation-en": "There was a young man of the Ariwara clan who served at the court, and although he was still very young, this woman was acquainted with him."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 4,
         "text": "男、女がたゆるされたりければ、女のある所に来てむかひをりければ、",
         "kana": "をとこ、をんながたゆるされたりければ、をんなのあるとこにきてむかひをりければ、",
+        "honkoku": "男女かたゆるされたり/けれは女のある所にきてむかひをりけ/れは",
         "translation-ja": "男は、女から誘いを受けたので、女のいる所に来て向かい合って座っていると、",
         "translation-en": "The man, having been invited by the woman, went to where she was and sat facing her."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 5,
         "text": "女、「いとかたはなり。身も亡びなむ。かくなせそ」といひければ、",
         "kana": "をんな、「いとかたはなり。みもほろびなむ。かくなせそ」といひければ、",
+        "honkoku": "女いとかたはなり身もほろひなん/かくなせそといひけれは/",
         "translation-ja": "女は、「本当に愚かなことです。身の破滅を招くでしょうよ。こんなことはしてはいけません」と言ったので、",
         "translation-en": "she said \"It's truly foolish. We will ruin ourselves. Don't do such a thing.\""
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 6,
         "poem": "思ふには/しのぶることぞ/まけにける/あふにしかへば/さもあらばあれ",
         "kana": "おもふには/しのぶることぞ/まけにける/あふにしかへば/さもあらばあれ",
+        "honkoku": "思ふにはしのふることそまけにける/あふにしかへはさもあらはあれ/s72r/",
         "translation-ja": "恋しく思う気持ちには、我慢することも負けてしまう。いざ会うとなったら、もうどうにでもなれ。",
         "translation-en": "When I think of you, my efforts to endure are defeated. Now that we can meet, let come what may."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 7,
         "text": "といひて、曹司におりたまへれば、例の、このみ曹司には、人の見るをもしらでのぼりゐければ、この女思ひわびて里へゆく。",
         "kana": "といひて、ざうしにおりたまへれば、たとえの、このみざうしには、ひとのみるをもしらでのぼりゐければ、このをんなおもひわびてさとへゆく。",
+        "honkoku": "といひてさうしにおりたまへれはれい/のこのみさうしには人の見るをもしらて/のほりゐけれはこの女おもひわひて里へ/ゆく",
         "translation-ja": "そう言って、部屋に降りて行かれたので、いつものように、この好んでいる部屋には、人が見ていることも知らずに登って行ったので、この女は思い悩んで里へ帰って行った。",
         "translation-en": "Saying this, he went down to his room. As usual, without knowing that people were watching, he went up to the room he favored. This woman, troubled by her thoughts, went back to her home."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 8,
         "text": "されば、なにの、よきこと、と思ひて、いきかよひければ、みな人聞きて笑ひけり。",
         "kana": "されば、なにの、よきこと、とおもひて、いきかよひければ、みなひとききてわらひけり。",
+        "honkoku": "されはなにのよきこととおもひて/いきかよひけれはみな人ききてわらひけ/り",
         "translation-ja": "だから、何が良いことだと思って通っていたのか、皆が聞いて笑った。",
         "translation-en": "Therefore, wondering what good it was, he kept going back and forth, and everyone who heard about it laughed."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 9,
         "text": "つとめて主殿司の見るに、沓はとりて奥になげ入れてのぼりぬ。",
         "kana": "つとめてとのもづかさのみるに、くつはとりておくになけいれてのぼりぬ。",
+        "honkoku": "つとめてとのもつかさのみるにくつは/とりておくになけいれてのほりぬ",
         "translation-ja": "翌朝、主殿司が見ると、靴を取って奥に投げ入れたまま上がってしまった。",
         "translation-en": "In the morning, when the chief of the palace staff looked, he saw that the shoes had been taken and thrown into the inner room, and someone had gone up."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 10,
         "text": "かくかたはにしつつありわたるに、身もいたづらになりぬべければつひに亡びぬべし、とて、",
         "kana": "かくかたはにしつつありわたるに、みもいたづらになりぬべければつひにほろびぬべし、とて、",
+        "honkoku": "かく/かたはにしつつありわたるにみもいた/つらになりぬへけれはつゐにほろひぬ/s72l/へしとて",
         "translation-ja": "このように見苦しい様子で過ごしているうちに、自分の身も役立たずになってしまいそうだと思われたから、いつかは破滅してしまうに違いないと思って、",
         "translation-en": "Seeing himself in such a state, he thought his life would be in vain and he would eventually perish."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 11,
         "text": "この男、「いかにせむ。わがかかる心やめたまへ」と、仏神にも申しけれど、",
         "kana": "このをとこ、「いかにせむ。わがかかるこころやめたまへ」と、ほとけかみにももうしけれど、",
+        "honkoku": "このおとこいかにせむわか/かかる心やめ給へとほとけ神にも申しけ/れと",
         "translation-ja": "この男は、「どうすればよいのだろう。私のこのような心をやめさせてください」と仏や神にさえも言ったが、",
         "translation-en": "This man said, \"What should I do? Please make me stop feeling this way,\" even to the Buddha and the gods, but..."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 12,
         "text": "いやまさりにのみおぼえつつ、なほわりなく恋しうのみおぼえければ、陰陽師、神巫よびて、恋せじといふ祓への具してなむいきける。",
         "kana": "いやまさりにのみおぼえつつ、なほわりなくこひしうのみおぼえければ、おんやうじ、かむなぎよびて、こいせじといふはらへのぐしてなむいきける。",
+        "honkoku": "いやまさりにのみおほえつつなを/わりなく恋しうのみおほえけれはおん/やうしかんなきよひて恋せしといふ/はらへのくしてなんいきける",
         "translation-ja": "ますます恋しさが募るばかりで、やはりどうしようもなく恋しく思われたので、陰陽師と巫女を呼んで、恋を止めるという祓いを行った。",
         "translation-en": "As his feelings of love grew stronger and stronger, and he felt an overwhelming, unmanageable longing, he called upon an onmyoji and a shrine maiden to perform a purification ritual to stop his love."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 13,
         "text": "祓へけるままに、いとど悲しきこと数まさりて、ありしよりけに恋しくのみおぼえければ、",
         "kana": "はらへけるままに、いとどかなしきことかぞまさりて、ありしよりけにこひしくのみおぼえければ、",
+        "honkoku": "はら/へけるままにいととかなしきことかすま/さりてありしよりけにこひしくの/みおほえけれは/s73r/",
         "translation-ja": "ますます恋しさが募るばかりで、やはりどうしようもなく恋しく思ったので、陰陽師と巫女を呼んで、恋を止めるという祓いの儀式を行った。",
         "translation-en": "As his feelings of love grew stronger and stronger, and he felt an overwhelming, unmanageable longing, he called upon an onmyoji and a shrine maiden to perform a purification ritual to stop his love."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 14,
         "poem": "恋せじと/みたらし河に/せしみそぎ/神はうけずも/なりにけるかな",
         "kana": "こいせじと/みたらしがはに/せしみそぎ/かみはうけずも/なりにけるかな",
+        "honkoku": "恋せしとみたらし川にせしみそき/神はうけすもなりにけるかな/",
         "translation-ja": "恋をしないようにと、みたらし川で行った禊（みそぎ）を、神は受け入れてくれなかったようだ。",
         "translation-en": "Though I performed a purification ritual in the Mitarashi River to stop loving, it seems the gods did not accept it."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 15,
         "text": "といひてなむいにける。",
         "kana": "といひてなむいにける。",
+        "honkoku": "といひてなむいにける/s73l/",
         "translation-ja": "そう言って、帰っていった。",
         "translation-en": "Saying this, he left."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 16,
         "text": "この帝は顔かたちよくおはしまして、仏の御名を、御心に入れて、御声はいと尊くて申したまふを聞きて、女はいたう泣きけり。",
         "kana": "このみかどはかほかたちよくおはしまして、ほとけのみなを、おんこころにいれて、おんこえはいとたっとくてもうしさたまふをききて、をんなはいたうなきけり。",
+        "honkoku": "このみかとはかほかたちよくおはし/ましてほとけの御なを御心にいれて御/こゑはいとたうとくて申給ふをききて/女はいたうなきけり",
         "translation-ja": "この帝は容貌が美しく、仏の名前を心に込めて、非常に尊い声で唱えられるのを聞いて、女はひどく泣いた。",
         "translation-en": "This emperor was handsome in appearance, and hearing him chant the name of the Buddha with deep devotion and a profoundly reverent voice, the woman wept greatly."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 17,
         "text": "「かかる君に仕うまつらで、宿世つたなく悲しきこと、この男にほだされて」とてなむ泣きける。",
         "kana": "「かかるきみにつかうまつらで、すくせつたなくかなしきこと、このをとこにほだされて」とてなむなきける。",
+        "honkoku": "かかるきみにつかう/まつらてすくせつたなくかなしきことこ/のおとこにほたされてとてなんなき/ける",
         "translation-ja": "「このような立派な君にお仕えできず、宿命が悪くて悲しいことだ。この男に心を縛られて」と言って泣いたのです。",
         "translation-en": "She said, \"It is so sad that I cannot serve such a noble lord because of my unfortunate fate, being bound to this man,\" and she wept."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 18,
         "text": "かかるほどに帝聞しめして、この男をば流しつかはしてければ、この女のいとこの御息所、女をばまかでさせて、蔵にこめてしをりたまうければ、蔵にこもりて泣く。",
         "kana": "かかるほどにみかどききしめして、このをとこをばながしつかはしてければ、このをんなのいとこのおみやすんどころ、をんなをばまかでさせて、くらにこめてしをりたまうければ、くらにこもりてなく。",
+        "honkoku": "かかるほとにみかときこしめしつけ/てこの男をはなかしつかはしてけれ/はこの女のいとこの宮す所女をはまかて/s74l/させてくらにこめてしおり給ふけれは/くらにこもりてなく/",
         "translation-ja": "こうしているうちに帝がこれを聞き、この男を流刑にしてしまったので、この女のいとこである御息所が、女を退出させて蔵に閉じ込めてしまったので、女は蔵にこもって泣いた。",
         "translation-en": "In the meantime, the emperor heard of this and exiled the man. Consequently, the lady's cousin, who was the consort, had her leave and confined her in a storehouse, where she wept in seclusion."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 19,
         "poem": "あまの刈る/藻にすむ虫の/われからと/音をこそ泣なかめ/世をば恨みじ",
         "kana": "あまのかる/もにすむむしの/われからと/ねをこそなかめ/よをばうらみじ",
+        "honkoku": "あまのかるもにすむ虫のわれからと/ねをこそなかめ世をはうらみし/",
         "translation-ja": "漁師が刈る藻に住む虫のように、自らのせいで泣くのだ。世の中を恨むことはしない。",
         "translation-en": "Like the insects living in the seaweed that the fisherman cuts, I cry out on my own accord. I will not resent the world."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 20,
         "text": "と泣きをれば、この男、人の国より夜ごとに来つつ、笛をいとおもしろく吹きて、声はをしうてぞ、あはれにうたひける。",
         "kana": "となきをれば、このをとこ、ひとのくによりよごとにきつつ、ふえをいとおもしろくふきて、こゑはをしうてぞ、あはれにうたひける。",
+        "honkoku": "となきをれはこのおとこは人のくにより/夜ことにきつつふえをいとおもしろくふ/きてこゑはおかしうてそあはれにう/たひける",
         "translation-ja": "と泣いていると、この男は、他国から毎晩やって来て、笛をとても面白く吹き、声は哀れにして歌った。",
         "translation-en": "As she cried, this man came from another country every night, playing the flute beautifully and singing sorrowfully with a resonant voice."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 21,
         "text": "かかれば、この女は蔵にこもりながら、それにぞあなるとは聞けど、あひ見るべきにもあらでなむありける。",
         "kana": "かかれば、このをんなはくらにこもりながら、それにぞあなるとはきけど、あひみるべきにもあらでなむありける。",
+        "honkoku": "かかれはこの女はくらにこもり/なからそれにそあなるとはきけとあひ/s75r/見るへきにもあらてなむ有ける/",
         "translation-ja": "そういうわけで、この女は蔵に閉じこもりながら、彼がそれであるとは聞いていたが、会うことができないでいた。",
         "translation-en": "Therefore, while the woman stayed confined in the storehouse, she heard that it was indeed him, but she remained unable to meet him."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 22,
         "poem": "さりともと/思ふらむこそ/悲しけれ/あるにもあらぬ/身をしらずして",
         "kana": "さりともと/おもふらむこそ/かなしけれ/あるにもあらぬ/みをしらずして",
+        "honkoku": "さりともと思ふらんこそかなしけれ/あるにもあらぬ身をしらすして/",
         "translation-ja": "そうであってもと思っているのが悲しいことだ。生きる屍である自分を知らずに。",
         "translation-en": "It is sad indeed to think that it might be so, not knowing that I am a mere shadow of my former self."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 23,
         "text": "と思ひをり。",
         "kana": "とおもひをり。",
+        "honkoku": "と思ひおり",
         "translation-ja": "と女は思っている。",
         "translation-en": "And so she thought."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 24,
         "text": "男は、女しあはねば、かくし歩きつつ、人の国に歩きて、かくうたふ。",
         "kana": "をとこは、をんなしあはねば、かくしあるきつつ、ひとのくににあるきて、かくうたふ。",
+        "honkoku": "男は女しあはねはかくしあり/きつつ人のくににありきてかくうたふ/",
         "translation-ja": "男は、女に会うことができず、このように歩き回りながら、他国に行って、このように歌う。",
         "translation-en": "The man, unable to meet the woman, wandered around like this, traveled to other countries, and sang in this manner."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 25,
         "poem": "いたづらに/ゆきては来ぬる/ものゆゑに/見まくほしさに/いざなはれつつ",
         "kana": "いたづらに/ゆきては来ぬる/ものゆゑに/みまくほしさに/いざなはれつつ",
+        "honkoku": "いたつらにゆきてはきぬる物ゆへに/見まくほしさにいさなはれつつ/",
         "translation-ja": "無駄に 行っては戻ってくる ものだから 会いたい気持ちに 誘われ続けます。",
         "translation-en": "In vain, I go and come back again and again, driven by the longing to see you once more."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 26,
         "text": "水の尾の御時なるべし。",
         "kana": "みづのおのみときなるべし。",
+        "honkoku": "水のおの御ときなるへし",
         "translation-ja": "清和天皇の御時のことであろう。",
         "translation-en": "This must have been during the reign of Emperor Seiwa."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 27,
         "text": "大御息所も染殿の后なり。",
         "kana": "おおみやすんどころもそめどのきさきなり。",
+        "honkoku": "おほ宮すむ所も/そめとののきさきなり",
         "translation-ja": "大御息所という方も染殿の后です。",
         "translation-en": "Lady Omiyasundokoro is also the consort of Emperor Koretaka."
       },
       {
-        "date": "20240723",
+        "date": "20240723,20250214",
         "id": 28,
         "text": "五条の后とも。",
         "kana": "ごじよのきさきとも。",
+        "honkoku": "五条のきさきとも/s75l/",
         "translation-ja": "五条の后とも。",
         "translation-en": "She is also said to be the consort of Emperor Gojo."
       }
