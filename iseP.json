@@ -4772,34 +4772,38 @@
     "romaji": "Tamamisudare",
     "paragraph": [
       {
-        "date": "20240722",
+        "date": "20240722,20250214",
         "id": 1,
         "text": "むかし、男、みそかに語らふわざもせざりせば、いづくなりけむ、あやしさによめる。",
         "kana": "むかし、をとこ、みそかにかたらふわざもせざりせば、いづくなりけむ、けしさによめる。",
+        "honkoku": "昔おとこみそかにかたらふわさもせさり/ けれはいつくなりけむあやしさによめる/",
         "translation-ja": "昔、男がひそかに恋を語り合うことをしなかったならば、どうなっていたのだろうか、不思議に思って詠んだ。",
         "translation-en": "Once upon a time, a man wondered what would have happened if he had not secretly spoken of love, and composed a poem in his curiosity."
       },
       {
-        "date": "20240722",
+        "date": "20240722,20250214",
         "id": 2,
         "poem": "吹く風に/わが身をなさば/玉すだれ/ひま求めつつ/入るべきものを",
         "kana": "ふくかぜに/わがみをなさば/たますだれ/ひまもとめつつ/いるべきものを",
+        "honkoku": "吹風にわか身をなさはたますたれ/ひまもとめつついるへきものを/",
         "translation-ja": "吹く風のように私の身を変えることができたなら、玉のような美しいすだれの隙間を探しながら、あなたのもとへ入っていけるのに。",
         "translation-en": "If only I could transform my body into the blowing wind, I would seek out the gaps in the jeweled blinds and slip through to be with you."
       },
       {
-        "date": "20240722",
+        "date": "20240722,20250214",
         "id": 3,
         "text": "返し、",
         "kana": "かへし、",
+        "honkoku": "返し/",
         "translation-ja": "返し、",
         "translation-en": "The reply,"
       },
       {
-        "date": "20240722",
+        "date": "20240722,20250214",
         "id": 4,
         "poem": "とりとめぬ/風にはありとも/玉すだれ/たが許さば/かひ求むべき",
         "kana": "とりとめぬ/かぜにはありとも/たますだれ/たがゆるさば/かひもとむべき",
+        "honkoku": "とりとめぬ風にはありとも玉すたれ/たかゆるさはかひまもとむへき/s71l/",
         "translation-ja": "取り留めのない風であったとしても玉すだれ誰かが許すなら行こうとするだろう。",
         "translation-en": "Even if I were a fleeting wind, if someone allowed me, I would seek to pass through the jeweled blinds to be with them."
       }
