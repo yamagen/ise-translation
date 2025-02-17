@@ -221,6 +221,7 @@
         "kana": "むかし、をとこありけり。",
         "honkoku": "むかしおとこありけり",
         "translation-ja": "昔、男がいました。",
+        "translation-ja-natural": "昔、男がいました。",
         "translation-en": "Once upon a time, there was a man.",
         "translation-en-natural": "Once upon a time, there was a man."
       },
@@ -1319,13 +1320,15 @@
     "romaji": "michinokuni",
     "paragraph": [
       {
-        "date": "20240602,20250105",
+        "date": "20240602,20250105,20250218",
         "id": 1,
         "text": "むかし、男、陸奥の国にすゞろに行きいたりけり。",
         "kana": "むかし、おとこ、みちのくににすゞろにゆきいたりけり。",
         "honkoku": "むかし男みちのくににすすろに行/いたりにけり",
         "translation-ja": "昔、男が陸奥にあてもなく辿り着いた。",
-        "translation-en": "Once upon a time, a man wandered to Michinoku Province."
+        "translation-ja-natural": "昔、ある男が、あてもなく陸奥の国へとさまよい着いた。",
+        "translation-en": "Once upon a time, a man wandered to Michinoku Province.",
+        "translation-en-natural": "Once upon a time, a man found himself in the land of Michinoku, with no destination in mind."
       },
       {
         "date": "20240602,20250105",
