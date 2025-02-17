@@ -1331,22 +1331,26 @@
         "translation-en-natural": "Once upon a time, a man found himself in the land of Michinoku, with no destination in mind."
       },
       {
-        "date": "20240602,20250105",
+        "date": "20240602,20250105,20250218",
         "id": 2,
         "text": "そこなる女、京のひとはめづらかにおぼへけむ、せちに思へる心なむありける。",
         "kana": "そこなるおんな、きょうのひとはめづらかにおぼへけむ、せちにおもへるこころなむありける。",
         "honkoku": "そこなる女京の人はめつら/かにやおほえけむせちにおもへる心/なんありける",
-        "translation-ja": "そこに住む女が京の人を珍しいと思ったのであろう、たいそう思慕の心をいだいたのだった。",
-        "translation-en": "A woman living there must have thought of people from Kyoto as rare, and she had a great longing for them."
+        "translation-ja": "そこに住む女が京の人を珍しいと思ったのであろう、たいそう思慕の心をいだいたのでした。",
+        "translation-ja-natural": "そこに暮らす女は、都の人が珍しかったのか、ひどく心を寄せた。",
+        "translation-en": "A woman living there must have thought of people from Kyoto as rare, and she had a great longing for them.",
+        "translation-en-natural": "A woman living there found people from the capital unusual and felt a deep yearning for them."
       },
       {
-        "date": "20240602,20250105",
+        "date": "20240602,20250105,20250218",
         "id": 3,
         "text": "さてかの女、",
         "kana": "さてかのおんな、",
         "honkoku": "さてかのをんな/",
         "translation-ja": "そこで、その女は、",
-        "translation-en": "Then, the woman,"
+        "translation-ja-natural": "そこで、その女は、",
+        "translation-en": "Then, the woman,",
+        "translation-en-natural": "Then, the woman,"
       },
       {
         "date": "20240602,20250105",
