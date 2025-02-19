@@ -1359,7 +1359,9 @@
         "kana": "なかなかに/こひにしなずは/くわこにぞ/なるべかりける/たまのをばかり",
         "honkoku": "中々に恋にしなすは桑子にそ/なるへかりける玉のをはかり/",
         "translation-ja": "生半可に恋に死なずして、蚕になったらよかった、たとえ玉の緒の短い間であっても。",
-        "translation-en": "I wish I had become a silkworm without dying of love, even for a short time like the thread of a cocoon."
+        "translation-ja-natural": "恋の苦しみで死ぬくらいなら、いっそ蚕になって、ほんの短い命でも糸を紡ぎたかった。",
+        "translation-en": "I wish I had become a silkworm without dying of love, even for a short time like the thread of a cocoon.",
+        "translation-en-natural": "Rather than dying of love, I wish I had been a silkworm, spinning thread, even if my life was brief."
       },
       {
         "date": "20240602,20250105",
