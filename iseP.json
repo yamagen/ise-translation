@@ -1457,13 +1457,15 @@
         "translation-en-natural": "Once upon a time, in the province of Michinoku, a man would secretly visit the wife of an utterly ordinary man. Yet, strangely, she did not seem like a woman who should be living that way, so he sent a poem."
       },
       {
-        "date": "20240603,20250108",
+        "date": "20240603,20250108,20250220",
         "id": 2,
         "poem": "しのぶ山/しのびて通ふ/道もがな/人の心の/奥も見るべく",
         "kana": "しのぶやま/しのびてかよふ/みちもがな/ひとのこころの/おくもみるべく",
         "honkoku": "しのふ山忍ひてかよふみちもかな/人のこころのおくもみるへく/",
         "translation-ja": "しのぶ山、忍んで通う道があればよいなぁ、人の心の奥も見たいので。",
-        "translation-en": "I wish there were a hidden path to Shinobu Mountain. I want to see the depths of your heart."
+        "translation-ja-natural": "忍ぶ山に、人目を忍んで通える道があればいいのに。あなたの心の奥底まで知りたいから。",
+        "translation-en": "I wish there were a hidden path to Shinobu Mountain. I want to see the depths of your heart.",
+        "translation-en-natural": "If only there were a secret path through Shinobu Mountain, where I could come unseen. I long to know the depths of your heart."
       },
       {
         "date": "20240603,20250108",
@@ -1472,7 +1474,9 @@
         "kana": "おんな、かぎりなくめでたしとおもへど、さるさがなきえびすごころをみては、いかがはせんは。",
         "honkoku": "女かきりなくめてたしと思へとさるさ/かなきえひす心を見てはいかかはせむは/s27r/",
         "translation-ja": "女は、限りなくすばらしいと思ったが、そんな性格の良くなく、情趣のわからない心を見ても、どうしたらよいことか。",
-        "translation-en": "A man thought that the woman was very wonderful, but when he saw the heart of a countryman who was so rude and unrefined, he must have been at a loss."
+        "translation-ja-natural": "女は、この上なく素晴らしいと思ったが、そんな無粋で情趣を解さない心を見ても、どうしようもありませんでした。",
+        "translation-en": "A man thought that the woman was very wonderful, but when he saw the heart of a countryman who was so rude and unrefined, he must have been at a loss.",
+        "translation-en-natural": "He thought the woman was truly wonderful, but faced with such a coarse and unrefined heart, he didn't know what to do."
       }
     ]
   },
