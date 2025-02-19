@@ -1446,13 +1446,15 @@
     "romaji": "shinobuyama",
     "paragraph": [
       {
-        "date": "20240603,20250108",
+        "date": "20240603,20250108,20250219",
         "id": 1,
         "text": "むかし、陸奥の国にて、なでふ事なき人のめに通ひけるに、あやしうさやうにてあるべき女ともあらず見えければ、",
         "kana": "むかし、みちのくににて、なでふことなきひとのめにかよひけるに、あやしうさやうにてあるべきおんなともあらずみえければ、",
         "honkoku": "昔みちのくににてなてうことなき人のめ/にかよひけるにあやしうさやうにて/あるへき女ともあらすみえけれは/",
         "translation-ja": "昔、陸奥の国で、とりたてて目立つことのない人の妻のところに行き来していましたが、不思議と、そんなふうに暮してよい女でもないように見えたので、",
-        "translation-en": "Once upon a time, in the province of Michinoku, a man visited the wife of an ordinary man, and she seemed strange, not like a woman who should be living like that, so he sent a poem."
+        "translation-ja-natural": "昔、陸奥の国で、ごく普通の男の妻のもとへ密かに通っていたが、なぜか彼女は、そんな暮らしをしている女性には見えなかったので、",
+        "translation-en": "Once upon a time, in the province of Michinoku, a man visited the wife of an ordinary man, and she seemed strange, not like a woman who should be living like that, so he sent a poem.",
+        "translation-en-natural": "Once upon a time, in the province of Michinoku, a man would secretly visit the wife of an utterly ordinary man. Yet, strangely, she did not seem like a woman who should be living that way, so he sent a poem."
       },
       {
         "date": "20240603,20250108",
