@@ -1353,7 +1353,7 @@
         "translation-en-natural": "Then, the woman,"
       },
       {
-        "date": "20240602,20250105",
+        "date": "20240602,20250105,20250219",
         "id": 4,
         "poem": "なかなかに/恋に死なずは/桑子にぞ/なるべかりける/玉の緒ばかり",
         "kana": "なかなかに/こひにしなずは/くわこにぞ/なるべかりける/たまのをばかり",
@@ -1364,7 +1364,7 @@
         "translation-en-natural": "Rather than dying of love, I wish I had been a silkworm, spinning thread, even if my life was brief."
       },
       {
-        "date": "20240602,20250105",
+        "date": "20240602,20250105,20250219",
         "id": 5,
         "text": "歌さへぞ、ひなびたりける。",
         "kana": "うたさへぞ、ひなびたりける。",
@@ -1375,13 +1375,13 @@
         "translation-en-natural": "Even the song sounded rustic."
       },
       {
-        "date": "20240602,20250105",
+        "date": "20240602,20250105,20250219",
         "id": 6,
         "text": "さすがにあはれとや思ひけむ、いきてねにけり。",
         "kana": "さすがにあはれとやおもひけむ、いきてねにけり。",
         "honkoku": "さすかにあ/はれとやおもひけんいきてねにけり",
-        "translation-ja": "そうは言っても、やはり感動したのだろう、女のもとへ行って、一夜寝た。",
-        "translation-en": "Nevertheless, he must have been moved and went to the woman and spent the night."
+        "translation-ja": "そうは言っても、やはり心を動かされたのでしょう。女のもとへ行き、一夜を共にしました。",
+        "translation-en": "Even so, he must have been deeply moved. He went to the woman and spent the night with her."
       },
       {
         "date": "20240602,20250105",
@@ -1390,25 +1390,29 @@
         "kana": "よふかくいでにければ、をんな、",
         "honkoku": "夜ふ/s25l/かくいてにけれは女/",
         "translation-ja": "夜が深いうちに男が起きて女の家を出てしまったので、女は、",
-        "translation-en": "As the night grew late, the man woke up and leave, the woman,"
+        "translation-ja-natural": "夜がまだ更けぬうちに、男は目を覚まし、女の家を出て行ってしまった。女は...",
+        "translation-en": "As the night grew late, the man woke up and leave, the woman,",
+        "translation-en-natural": "Before the night grew too late, the man woke up and left the woman's house. The woman.."
       },
       {
-        "date": "20240602,20250105",
+        "date": "20240602,20250105,20250219",
         "id": 8,
         "poem": "夜も明けば/きつにはめなで/くたかけの/まだきに鳴きて/せなをやりつる",
         "kana": "よもあけば/きつにはめなで/くたかけの/まだきになきて/せなをやりつる",
         "honkoku": "夜も明はきつにはめなてくたかけの/またきになきてせなをやりつる/",
-        "translation-ja": "夜が明けたら、水槽にはめてしまおう、くたかけの鶏、まだ夜も明けぬうちに鳴いて、私の人を送り出してしまった。",
-        "translation-en": "When the night breaks, I will put that rotten chicken in the water tank. It is still crying before dawn, and it has sent my husband away."
+        "translation-ja": "夜が明けたら、水桶に沈めてしまおう。忌々しい鶏め、まだ夜も明けぬうちに鳴いて、私の大切な人を追い出してしまったのだから。",
+        "translation-en": "When dawn breaks, I will drown that wretched, noisy rooster in the water bucket. It crowed before dawn and sent my beloved away."
       },
       {
-        "date": "20240602,20250105",
+        "date": "20240602,20250105,20250219",
         "id": 9,
         "text": "といへるに、男、京へなむまかるとて、",
         "kana": "といへるに、おとこ、きょうへなむまかるとて、",
         "honkoku": "といへるにおとこ京へなむまかるとて/",
         "translation-ja": "と言ったので、男は絶対、京へ帰るといって、",
-        "translation-en": "When she said that, the man was amazed and decided to return to Kyoto."
+        "translation-ja-natural": "そう言われたので、男は「絶対に京へ帰る」と言い、",
+        "translation-en": "When she said that, the man was amazed and decided to return to Kyoto.",
+        "translation-en-natural": "When she said that, the man firmly declared, 'I will return to Kyoto no matter what.'"
       },
       {
         "date": "20240602,20250105",
