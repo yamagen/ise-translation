@@ -1428,13 +1428,15 @@
         "translation-en-natural": "If the Aneha pine tree in Kuribara were a person, I would say, 'Come, let me take you to Kyoto as a souvenir.'"
       },
       {
-        "date": "20240602,20250105",
+        "date": "20240602,20250105,20250219",
         "id": 11,
         "text": "といへりければ、よろこぼひて、「おもひけらし」とぞいひ居りける。",
         "kana": "といへりければ、よろこぼひて、「おもひけらし」とぞいひをりける。",
         "honkoku": "といへりけれはよろこほひて思ひけらし/とそいひをりける/s26r/",
         "translation-ja": "と言ったので、喜んで、「私を思っていたらしい」と、言って居た。",
-        "translation-en": "When he said that, she misunderstood the meaning and said, 'He seems to have thought of me.'"
+        "translation-ja-natural": "そう言われて、女は意味を取り違え、喜んで、「あの人が私を思っていたらしい」と言っていました。",
+        "translation-en": "When he said that, she misunderstood the meaning and said, 'He seems to have thought of me.'",
+        "translation-en-natural": "Hearing that, she happily said, 'It seems he was thinking of me.'"
       }
     ]
   },
