@@ -1473,10 +1473,10 @@
         "text": "女、かぎりなくめでたしと思へど、さるさがなきえびす心を見ては、いかがはせんは。",
         "kana": "おんな、かぎりなくめでたしとおもへど、さるさがなきえびすごころをみては、いかがはせんは。",
         "honkoku": "女かきりなくめてたしと思へとさるさ/かなきえひす心を見てはいかかはせむは/s27r/",
-        "translation-ja": "女は、限りなくすばらしいと思ったが、そんな性格の良くなく、情趣のわからない心を見ても、どうしたらよいことか。",
-        "translation-ja-natural": "女は、この上なく素晴らしいと思ったが、そんな無粋で情趣を解さない心を見ても、どうしようもありませんでした。",
-        "translation-en": "A man thought that the woman was very wonderful, but when he saw the heart of a countryman who was so rude and unrefined, he must have been at a loss.",
-        "translation-en-natural": "He thought the woman was truly wonderful, but faced with such a coarse and unrefined heart, he didn't know what to do."
+        "translation-ja": "女は、限りなく素晴らしいと思うけれど、そのような性格の悪い田舎者の心を見ては、どうしたらよいだろうか。",
+        "translation-ja-natural": "女は、男のことを一瞬たりともこの上なく素晴らしいと思うには思ったけれど、不誠実で移り気な心を見ても、何の価値もないとも思いました。",
+        "translation-en": "The woman thinks it is infinitely wonderful, but when she sees such an ill-natured, rustic heart, what should she do?",
+        "translation-en-natural": "For a fleeting moment, she did think the man was truly wonderful, but seeing his unfaithful and fickle heart, she felt it was utterly worthless."
       }
     ]
   },
@@ -1486,40 +1486,48 @@
     "romaji": "kino aritsune",
     "paragraph": [
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250220",
         "id": 1,
         "text": "むかし、紀有常といふ人ありけり。",
         "kana": "むかし、きのありつねといふひとありけり。",
         "honkoku": "むかし紀のありつねといふひとありけり/",
         "translation-ja": "昔、紀有常という人がいました。",
-        "translation-en": "Once upon a time, a man called Kino Aritsune."
+        "translation-ja-natural": "昔、紀有常という人がいました。",
+        "translation-en": "Once upon a time, a man called Kino Aritsune.",
+        "translation-en-natural": "Once upon a time, a man called Kino Aritsune."
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250220",
         "id": 2,
         "text": "三代の帝に仕うまつりて時にあひけれど、のちは世かはり時うつりにければ、世の常の人のごともあらず。",
         "kana": "みよのみかどにつかふまつりてときにあひけれど、のちはよかはりときうつりにければ、よのつねのひとのごともあらず。",
         "honkoku": "みよのみかとにつかうまつりてときに/s27r/あひけれとのちは世かはり時うつりに/けれはよのつねの人のこともあらす",
         "translation-ja": "三代の天皇に仕えていましたが、その後、世の中が変わってしまったので、世の中の常の人とは違っていました。",
-        "translation-en": "He served three emperors, but after that, the world changed, and he was different from ordinary people."
+        "translation-ja-natural": "三代の天皇に仕えてきたが、時代が移り変わる中で、世間の普通の人とは違う存在になっていきました。",
+        "translation-en": "He served three emperors, but after that, the world changed, and he was different from ordinary people.",
+        "translation-en-natural": "He had served three emperors, but as times changed, he became different from ordinary people."
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250220",
         "id": 3,
         "text": "人がらは心うつくしく、あてはかなることを好みて、こと人にもにず。",
         "kana": "ひとがらはこころうつくしく、あてはかなることをこのみて、ことひとにもにず。",
         "honkoku": "人から/は心うつくしくあてはかなることをこ/のみてことに人にもにす",
         "translation-ja": "人柄は、心がうつくしく、優雅なことを好んで、他の人とは似ていません。",
-        "translation-en": "He had a beautiful personality and liked elegant things, unlike other people."
+        "translation-ja-natural": "彼は心が美しく、優雅なものを好み、ほかの人とは違った気質を持っていました。",
+        "translation-en": "He had a beautiful personality and liked elegant things, unlike other people.",
+        "translation-en-natural": "He had a pure heart, a love for elegance, and a unique character unlike others."
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250220",
         "id": 4,
         "text": "貧しくへても、なほ昔よかりし時の心ながら、世の常のこともしらず。",
         "kana": "まずしくへても、なほむかしよかりしときのこころながら、よのつねのこともしらず。",
         "honkoku": "まつしくへても/なをむかしよかりし時の心なからよの/つねのこともしらす",
         "translation-ja": "貧しく暮らしても、昔のように豊かだった時の心のままで、世の中の常識も知りませんでした。",
-        "translation-en": "Even though he was poor, he lived with the same heart as when he was rich, and he did not know the common way of life in the world."
+        "translation-ja-natural": "貧しい暮らしをしていても、かつての豊かだった頃の心のままで、世間の常識には疎かったのでした。",
+        "translation-en": "Even though he was poor, he lived with the same heart as when he was rich, and he did not know the common way of life in the world.",
+        "translation-en-natural": "Even though he lived in poverty, he kept the same heart as in his days of wealth and remained unaware of the common ways of the world."
       },
       {
         "date": "20240604,20250114",
