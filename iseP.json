@@ -1881,7 +1881,9 @@
         "kana": "むかし、おとこ、やまとにあるおんなをみてよばひてあひにけり。",
         "honkoku": "むかし男やまとにある女を見てよはひて/あひにけり",
         "translation-ja": "昔、男が大和にいる女を見て求愛して逢っていました。",
-        "translation-en": "Once upon a time, a man saw a woman living in Yamato and courted her and met with her."
+        "translation-ja-natural": "昔、男は大和にいる女性を見初め、求愛して逢っていました。",
+        "translation-en": "Once upon a time, a man saw a woman living in Yamato and courted her and met with her.",
+        "translation-en-natural": "Once upon a time, a man saw a woman living in Yamato, courted her, and met with her."
       },
       {
         "date": "20240608,20250119",
@@ -1890,34 +1892,42 @@
         "kana": "さてほどへて、みやつかへするひとなりければ、かへりくるみちに、さんげつばかりに、かへでもみぢの、いとおもしろきをおりて、おんなのもとにみちよりいひやる。",
         "honkoku": "さてほとへて宮つかへする人/なりけれはかへりくるみちにやよひはかり/にかえてのもみちのいとおもしろきを/おりて女のもとにみちよりいひやる/",
         "translation-ja": "その後、しばらくして、宮仕えをする人であったので、帰ってくる途中、三月ごろ、楓の紅葉がたいそう美しいのを折って、女のところに、道から詠んで贈る。",
-        "translation-en": "After a while, the man was serving the court, and on his way back home, he picked the beautiful maple leaves in March and sang a song to the woman."
+        "translation-ja-natural": "その後、しばらくして、男は宮仕えをしていたため、その行き帰りに、三月ごろの色鮮やかな楓の紅葉を折り、道中で和歌を詠んで女のもとへ贈りました。",
+        "translation-en": "After a while, the man was serving the court, and on his way back home, he picked the beautiful maple leaves in March and sang a song to the woman.",
+        "translation-en-natural": "After a while, as the man was serving at the court, during his travels, he picked brilliantly colored maple leaves in early spring, composed a waka along the way, and sent it to the woman."
       },
       {
-        "date": "20240608,20250119",
+        "date": "20240608,20250119,20250221",
         "id": 3,
         "poem": "君がため/手折れる枝は/春ながら/かくこそ秋の/紅葉しにけれ",
         "kana": "きみがため/たをれるえだは/はるながら/かくこそあきの/もみじしにけれ",
         "honkoku": "君かためたおれるえたははるなから/s31r/かくこそ秋のもみちしにけれ/",
         "translation-ja": "あなたのために手折った楓の枝は、春ですが、こんなに秋のような紅葉になってしまいました。",
-        "translation-en": "The maple branch I picked for you is even in spring, but it has turned into such an autumn color."
+        "translation-ja-natural": "あなたのために手折った楓の枝は、春だというのに、こんなにも秋の紅葉のように色づいてしまいました。",
+        "translation-en": "The maple branch I picked for you is even in spring, but it has turned into such an autumn color.",
+        "translation-en-natural": "The maple branch I picked for you, though it is spring, has turned into such autumn colors."
       },
       {
-        "date": "20240608,20250119",
+        "date": "20240608,20250119,20250221",
         "id": 4,
         "text": "とてやりたりければ返り事は、京にきつきてなむもてきたりける。",
         "kana": "とてやりたりければかえりごとは、みやこにきつきてなむもてきたりける。",
         "honkoku": "とてやりたりけれは返事は京にきつき/てなんもてきたりける/",
         "translation-ja": "と贈ったところ、返事は、京に着いてから、持ってきたのでした。",
-        "translation-en": "Having sung this, the reply was brought to him after he arrived in Kyoto."
+        "translation-ja-natural": "と贈ったところ、返事は京に着いてから届けられました。",
+        "translation-en": "Having sung this, the reply was brought to him after he arrived in Kyoto.",
+        "translation-en-natural": "After he sent it, the reply was brought to him after he arrived in Kyoto."
       },
       {
-        "date": "20240608,20250119",
+        "date": "20240608,20250119,20250221",
         "id": 5,
         "poem": "いつの間に/移ろふ色の/つきぬらむ/君が里には/春なかるらし",
         "kana": "いつのまに/うつろふいろの/つきぬらむ/きみがさとには/はるなかるらし",
         "honkoku": "いつのまにうつろふいろのつきぬ覧/きみかさとには春なかるらし/s31l/",
         "translation-ja": "いつの間に、移ろう色が付いてしまったのでしょうか。あなたの住むところには、春がないのでしょうか。",
-        "translation-en": "When did the changing colors stick to it? It seems that there is no spring in the place where you live."
+        "translation-ja-natural": "いつの間に、こんなにも移ろう色が染まってしまったのでしょうか。あなたの住むところには、春が訪れないのですか。",
+        "translation-en": "When did the changing colors stick to it? It seems that there is no spring in the place where you live.",
+        "translation-en-natural": "When did these fleeting colors settle upon it? Is there no spring where you live?"
       }
     ]
   },
