@@ -1596,49 +1596,59 @@
         "translation-en-natural": "Upon reading this, the friend was deeply moved, sent bedding, and expressed their feelings in verse."
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250221",
         "id": 11,
         "poem": "年だにも/十とて四つは/経にけるを/いくたび君を/頼み来ぬらむ",
         "kana": "としだにも/とをとてよつは/ふりにけるを/いくたびきみを/たのみきぬらむ",
         "honkoku": "年たにもとをとてよつはへにけるを/いくたひきみをたのみきぬらん/",
         "translation-ja": "年月でさえも、四十年はお過ごしになったのに、どれほどあなたを頼みに思ってきたことでしょう。",
-        "translation-en": "Even after forty years, how much have you been relied on by your wife?"
+        "translation-ja-natural": "四十年もの歳月を共に過ごしてきたのに、どれほどあなたを頼りにしていたことでしょう。",
+        "translation-en": "Even after forty years, how much have you been relied on by your wife?",
+        "translation-en-natural": "Even after spending forty years together, how much must she have relied on you?"
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250221",
         "id": 12,
         "text": "かく言ひやりければ、",
         "kana": "かくいひやりければ、",
         "honkoku": "かくいひやりけれは/",
         "translation-ja": "こう詠んでやったところ、",
-        "translation-en": "Having sang this,"
+        "translation-ja-natural": "このように詠んで送ると、",
+        "translation-en": "Having sang this,",
+        "translation-en-natural": "Having composed these verses and sent them,"
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250221",
         "id": 13,
         "poem": "これやこの/天の羽衣む/べしこそ/きみがおぎぬ/とまつりけれ",
         "kana": "これやこの/あまのはごろもむ/べしこそ/きみがおぎぬ/とまつりけれ",
         "honkoku": "これやこのあまのは衣むへしこそ/君かみけしとたてまつりけれ/",
         "translation-ja": "これはなんと、天から降り下った天の羽衣でございます。なるほど、あなたのお召し物としてお着けになったものなのですからね。",
-        "translation-en": "This is the heavenly robe that has fallen from heaven. It is something that you have worn as your clothing."
+        "translation-ja-natural": "これはまさしく、天から舞い降りた天の羽衣でございます。なるほど、あなたが身にまとわれていたものなのですからね。",
+        "translation-en": "This is the heavenly robe that has fallen from heaven. It is something that you have worn as your clothing.",
+        "translation-en-natural": "This is truly the heavenly robe that has descended from the sky. Indeed, it is something you have draped over yourself."
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250221",
         "id": 14,
         "text": "よろこびに堪へで、又、",
         "kana": "よろこびにたえで、また、",
         "honkoku": "よろこひにたへて又/",
         "translation-ja": "喜びのあまり、また、",
-        "translation-en": "Overwhelmed with joy, again,"
+        "translation-ja-natural": "喜びのあまり、さらに、",
+        "translation-en": "Overwhelmed with joy, again,",
+        "translation-en-natural": "Overcome with joy, once more,"
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250221",
         "id": 15,
         "poem": "秋や来る/露やまがふと/思ふまで/あるは涙の/降るにぞありける",
         "kana": "あきやくる/つゆやまがふと/おもふまで/あるはなみだの/ふるにそありける",
         "honkoku": "秋やくるつゆやまかふとおもふまて/s28l/あるはなみたのふるにそありける/s29r/",
         "translation-ja": "秋がきたのだろうか、こんなに露か、と見まちがえるほどに、あるのは、涙が降ることでした。",
-        "translation-en": "I wonder if autumn has come, and that's why there is so much dew. The sleeves are wet as if I mistook it for dew, but it is my tears of joy."
+        "translation-ja-natural": "秋が来たのだろうか、こんなにも露が降りたのか、と見まがうほどに、頬を濡らしているのは、こぼれる涙でした。",
+        "translation-en": "I wonder if autumn has come, and that's why there is so much dew. The sleeves are wet as if I mistook it for dew, but it is my tears of joy.",
+        "translation-en-natural": "Has autumn arrived, bringing so much dew? I almost mistake it for dew, but what truly falls is my overflowing tears."
       }
     ]
   },
