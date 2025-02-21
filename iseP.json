@@ -99,7 +99,9 @@
         "kana": "ついでおもしろきことともやおもいけむ。",
         "honkoku": "ついて/おもしろき事ともやおもひけん/s6l/",
         "translation-ja": "ついで、おもしろいこととも思っていました。",
-        "translation-en": "In addition, she found it amusing."
+        "translation-ja-natural": "そのうえ、興味深いことだとも思っていました。",
+        "translation-en": "In addition, she found it amusing.",
+        "translation-en-natural": "Moreover, she found it intriguing."
       },
       {
         "date": "20240517,20241018",
@@ -108,8 +110,9 @@
         "kana": "みちのくの/しのぶもじすり/たれゆえに/みだれそめにし/われならなくに",
         "honkoku": "みちのくのしのふもちすりたれゆへに/みたれそめにしわれならなくに/",
         "translation-ja": "陸奥のしのぶもじ摺り、誰のせいで、乱れだしたのでしょうか、この私ではなくて、...",
+        "translation-ja-natural": "陸奥のしのぶもじ摺りのように、誰のせいで心が乱れてしまったのでしょうか。私のせいではなくて...。",
         "translation-en": "Whose fault is it that the Shinobuzuri of Michinoku has become disturbed? It's not mine, is it?",
-        "translation-en-natural": "Whose fault is it that the patterns of Shinobuzuri in Michinoku have become so chaotic? Surely, it can't be mine..."
+        "translation-en-natural": "Like the Shinobuzuri of Michinoku, whose fault is it that my heart has become disturbed? Surely, it is not mine..."
       },
       {
         "date": "20240517,20241018",
