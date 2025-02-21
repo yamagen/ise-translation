@@ -1536,52 +1536,64 @@
         "kana": "としごろあひなれたるめ、やうやうとこはなれて、つひにあまになりて、あねのさきだちてなりたるところへゆくを、",
         "honkoku": "としころあひなれ/たるめやうやうとこはなれてつゐに/あまになりてあねのさきたちてなりたる/所へ行を",
         "translation-ja": "長年互いに暮し馴れた妻が、だんだん夫婦らしいこともしなくなり、ついに尼になって、姉が先に尼になっている所へ行くのを、",
-        "translation-en": "His wife, who had been close for many years, gradually became distant, finally became a nun, and went to where her sister had become a nun."
+        "translation-ja-natural": "長年連れ添った妻は、次第に夫婦らしい関係から遠ざかり、ついに尼となって、先に尼になっていた姉のもとへ向かった。",
+        "translation-en": "His wife, who had been close for many years, gradually became distant, finally became a nun, and went to where her sister had become a nun.",
+        "translation-en-natural": "His wife, who had been with him for many years, gradually drifted away from their married life, eventually became a nun, and went to join her sister, who had already taken vows."
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250221",
         "id": 6,
         "text": "男、まことにむつましきことこそなかりけれ、いまはとゆくをいとあはれと思ひけれど、貧しければするわざもなかりけり。",
         "kana": "おとこ、まことにむつましきことこそなかりけれ、いまはとゆくをいとあはれとおもひけれど、",
         "honkoku": "おとこまことにむつまし/s27l/き事こそなかりけれ今はとゆくをいと/あはれと思けれと",
         "translation-ja": "男は、ほんとうに心から仲よくしたことはありませんでしたが、今は出ていくのを、たいそうしみじみと思いましたが、",
-        "translation-en": "Although the man had never really been close to his wife, he felt deeply affectionate when she left, saying goodbye."
+        "translation-ja-natural": "男は、本当に心から親しんだことはなかったが、今こうして妻が去っていくのを見て、しみじみとした思いにとらわれました。",
+        "translation-en": "Although the man had never really been close to his wife, he felt deeply affectionate when she left, saying goodbye.",
+        "translation-en-natural": "The man had never truly felt close to her, but as he watched her leave, he was overcome with deep emotion."
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250221",
         "id": 7,
         "text": "貧しければするわざもなかりけり。",
         "kana": "まずしければするわざもなかりけり。",
         "honkoku": "まつしけれはするわ/さもなかりけり",
         "translation-ja": "貧しかったので何事もしてやれなかった。",
-        "translation-en": "However, he was poor and could not do anything."
+        "translation-ja-natural": "貧しかったので、何もしてやることができませんでした。",
+        "translation-en": "However, he was poor and could not do anything.",
+        "translation-en-natural": "Because he was poor, he could do nothing for her."
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250221",
         "id": 8,
         "text": "思ひわびて、ねむごろにあひ語らひける友だちのもとに、「かうかういまはとてまかるを、なにごともいささなることもえせで、つかはすこと」と書きて、奥に、",
         "kana": "おもひわびて、ねむごろにあひかたらひけるともだちのもとに、「かうかういまはとてまかるを、なにごともいささなることもえせで、つかはすこと」とかきて、おくに、",
         "honkoku": "おもひわひてねんころ/にあひかたらひけるともたちのもとに/かうかういまはとてまかるをなにこと/もいささかなることもえせてつかはすこ/ととかきておくに/",
         "translation-ja": "思いなやんで、懇ろに心を通わせていた友達のところに、「こうこうの次第で、もはや別れということで、何事もわずかなこともしてやれずに、送り出すことです」と書いて、奥に、",
-        "translation-en": "After much thought, he wrote to an old friend with whom he had been talking with, 'My wife will leave, but I cannot do anything for her, so I will just send her off.'"
+        "translation-ja-natural": "思い悩んだ末、心を通わせていた友人に手紙を書いた。『こういう事情で、もう別れなければなりません。何一つしてやることもできずに、ただ送り出すばかりです』と、そしてその奥には、",
+        "translation-en": "After much thought, he wrote to an old friend with whom he had been talking with, 'My wife will leave, but I cannot do anything for her, so I will just send her off.'",
+        "translation-en-natural": "After much contemplation, he wrote to a close friend with whom he had shared his thoughts: 'This is how things have turned out, and now we must part. I can do nothing for her, and all I can do is see her off.' And at the end of the letter,..."
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250221",
         "id": 9,
         "poem": "手を折りて/あひ見しことを/かぞふれば/十といひつつ/四つはへにけり",
         "kana": "てをおりて/あひみしことを/かぞふれば/とをいひつつ/よつはへにけり",
         "honkoku": "てをおりてあひみしことをかそふれは/とおといひつつよつはへにけり/s28r/",
         "translation-ja": "指を折って共に暮した年月を数えてみると、四十年にもなっていたのでした。",
-        "translation-en": "Counting the years we spent together by folding my fingers, it had been forty years."
+        "translation-ja-natural": "指を折って一緒に過ごした年月を数えてみると、もう四十年にもなっていた。",
+        "translation-en": "Counting the years we spent together by folding my fingers, it had been forty years.",
+        "translation-en-natural": "Counting on my fingers, I realized that we had been together for forty years."
       },
       {
-        "date": "20240604,20250114",
+        "date": "20240604,20250114,20250221",
         "id": 10,
         "text": "かの友だちこれを見て、いとあはれと思ひて、夜の物までおくりてよめる。",
         "kana": "かのともだちこれをみて、いとあはれとおもひて、よるのものまでおくりてよめる。",
         "honkoku": "かのともたちこれを見ていとあはれと/思ひてよるのものまてをくりてよめる/",
         "translation-ja": "その友達は、これを見て、ひどくしみじみと思って、夜具まで贈って、歌を詠んだ。",
-        "translation-en": "Seeing this, the friend was deeply moved and sent bedding and composed a poem."
+        "translation-ja-natural": "友人はこれを読んで、ひどく胸を打たれ、寝具を贈り、歌を詠んだ。",
+        "translation-en": "Seeing this, the friend was deeply moved and sent bedding and composed a poem.",
+        "translation-en-natural": "Upon reading this, the friend was deeply moved, sent bedding, and expressed their feelings in verse."
       },
       {
         "date": "20240604,20250114",
