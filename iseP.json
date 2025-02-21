@@ -1658,34 +1658,40 @@
     "romaji": "toshinimarenaru hito",
     "paragraph": [
       {
-        "date": "20240605,20250115",
+        "date": "20240605,20250115,20250221",
         "id": 1,
         "text": "年ごろおとづれざりける人の、桜の盛りに見に来たりければ、あるじ、",
         "kana": "としごろおとづれざりけるひとの、さくらのさかりにみにきたりければ、あるじ、",
         "honkoku": "としころをとつれさりける人のさくら/のさかりに見にきたりけれはあるし/",
         "translation-ja": "長年、訪れてこなかった人が、桜の花の盛りに花を見にきたので、家の主人、",
-        "translation-en": "A person who had not visited for a long time came to see the cherry blossoms in full bloom, and the master of the house..."
+        "translation-ja-natural": "長い間訪れなかった人が、桜が満開の頃になって花見にやって来たので、家の主人は...。",
+        "translation-en": "A person who had not visited for a long time came to see the cherry blossoms in full bloom, and the master of the house...",
+        "translation-en-natural": "Someone who had not visited for a long time came to see the cherry blossoms in full bloom, so the master of the house..."
       },
       {
-        "date": "20240605,20250115",
+        "date": "20240605,20250115,20250221",
         "id": 2,
         "poem": "あだなりと/名にこそたてれ/桜花/年にまれなる/人も待けり",
         "kana": "あだなりと/なにこそたてれ/さくらはな/としにまれなる/ひともまちけり",
         "honkoku": "あたなりと名にこそたてれさくら花/としにまれなる人もまちけり/",
         "translation-ja": "移り気でと評判の桜花ですが、年にまれに訪れる人も、待っていましたよ。",
-        "translation-en": "The cherry blossoms are said to be fickle, but it has been waiting for a person who rarely visits in a year."
+        "translation-ja-natural": "移ろいやすいと評判の桜ですが、年に一度しか訪れないあなたを、ずっと待っていましたよ。",
+        "translation-en": "The cherry blossoms are said to be fickle, but it has been waiting for a person who rarely visits in a year.",
+        "translation-en-natural": "Cherry blossoms are known to be fickle, yet they have been waiting for you, who visits only once a year."
       },
       {
-        "date": "20240605,20250115",
+        "date": "20240605,20250115,20250221",
         "id": 3,
         "text": "返し、",
         "kana": "かえし、",
         "honkoku": "返し/",
         "translation-ja": "返しの歌、",
-        "translation-en": "In response,"
+        "translation-ja-natural": "返歌として、",
+        "translation-en": "In response,",
+        "translation-en-natural": "As a reply,"
       },
       {
-        "date": "20240605,20250115",
+        "date": "20240605,20250115,20250221",
         "id": 4,
         "poem": "今日来ずは/明日は雪とぞ/降りなまし/消えずはありとも/花と見ましや",
         "kana": "けふこずは/あすはゆきとぞ/ふりなまし/きえずはありとも/はなとみましや",
