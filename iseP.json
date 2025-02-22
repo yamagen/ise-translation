@@ -209,13 +209,15 @@
         "translation-en-natural": "I did not know what led him to do so, but on the first day of March, as the rain gently fell, the sincere man composed a waka and sent it to her."
       },
       {
-        "date": "20240520",
+        "date": "20240520,20241022",
         "id": 7,
         "poem": "おきもせず/寝もせで夜を/明かしては/春のものとて/眺めくらしつ",
         "kana": "おきもせず/ねもせでよを/あかしては/はるのものとて/ながめくらしつ",
         "honkoku": "おきもせすねもせてよるを明しては/春のものとてなかめくらしつ/s8r/",
-        "translation-ja": "起きもせず、寝もせず夜を明かしては、春のものとて眺め暮していました。",
-        "translation-en": "Every night I neither awoke nor slept, but only contemplated and gazed upon the things of spring."
+        "translation-ja": "起きもせず、寝もせずに夜を明かしては、春のものだと思いながら眺め暮らしました。",
+        "translation-ja-natural": "眠ることもできず、ただ夜を明かし、春の長雨を眺めながら物思いに沈んでいました。",
+        "translation-en": "Neither awake nor asleep, I spent the night thinking them to be of spring, gazing upon them.",
+        "translation-en-natural": "Unable to sleep, I spent the night simply gazing at the long spring rains, lost in thought."
       }
     ]
   },
