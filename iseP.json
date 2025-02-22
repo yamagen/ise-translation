@@ -1707,13 +1707,15 @@
         "translation-en-natural": "As a reply,"
       },
       {
-        "date": "20240605,20250115,20250221",
+        "date": "20240605,20250115,20250221,",
         "id": 4,
         "poem": "今日来ずは/明日は雪とぞ/降りなまし/消えずはありとも/花と見ましや",
         "kana": "けふこずは/あすはゆきとぞ/ふりなまし/きえずはありとも/はなとみましや",
         "honkoku": "けふこすはあすは雪とそふりなまし/きえすはありともはなと見ましや/s29r/",
-        "translation-ja": "今日来なかったら、明日は雪と降り散ってしまったことでしょう。消えなくても、それを花と見るでしょうか。",
-        "translation-en": "If I didn't come today, the cherry blossoms would have fallen like snow tomorrow. Even if the petals do not disappear, who will see them as cherry blossoms?"
+        "translation-ja": "今日来なかったら、明日は雪のように降り積もったことでしょう。消えなくても、それを花と見るでしょうか。",
+        "translation-ja-natural": "もし今日来なかったら、明日には花びらが雪のように舞い散ってしまったことでしょう。たとえ散らずに残っていても、それをまだ花と呼べるでしょうか。",
+        "translation-en": "If I did not come today, the cherry blossoms would have fallen as snow tomorrow. Even if they do not disappear, would one see them as flowers?",
+        "translation-en-natural": "If I had not come today, by tomorrow the cherry blossoms would have scattered like falling snow. Even if they remained, would they still be called flowers?"
       }
     ]
   },
@@ -1973,31 +1975,37 @@
         "translation-en-natural": "And yet, what could have happened? Troubled by even the smallest of matters, feeling disheartened with life, they thought of leaving and wrote down this poem."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250222",
         "id": 3,
         "poem": "いでていなば/心かるしと/言ひやせむ/世のありさまを/人は知らねば",
         "kana": "いでていなば/こころかるしと/いひやせむ/よのありさまを/ひとはしらねば",
         "honkoku": "いてていなは心かるしといひやせむ/世のありさまを人はしらねは/",
-        "translation-ja": "ここを出て行ったら、心が軽いと言われるでしょうか。世の中のありさまを人は知らないから。",
-        "translation-en": "If I leave here, will people say that I am a shallow since they do not know the state of our relationship?"
+        "translation-ja": "ここを出て行ったならば、心が軽いと言うだろうか。世のありさまを人は知らないので。",
+        "translation-ja-natural": "もしここを去ったなら、薄情だと言われるだろうか。けれど、人はこの世の事情を知ることはないのだから。",
+        "translation-en": "If I go out and leave, will people say my heart is light, since people do not know the state of the world?",
+        "translation-en-natural": "If I were to leave, would people call me heartless? But no one truly understands the ways of the world."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250222",
         "id": 4,
         "text": "とよみおきて、出でていにけり。",
         "kana": "とよみおきて、いでていにけり。",
         "honkoku": "とよみをきていてていにけり",
-        "translation-ja": "と詠んで、出て行ってしまいました。",
-        "translation-en": "Having sung this, she left."
+        "translation-ja": "と詠んでおいて、出て行ってしまいました。",
+        "translation-ja-natural": "そう詠み残して、彼女は立ち去った。",
+        "translation-en": "Having composed this poem and left it behind, she went away.",
+        "translation-en-natural": "Leaving behind those words, she departed."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250222",
         "id": 5,
         "text": "この女かく書きおきたるを、けしう、心おくべきことを覚えぬを、",
         "kana": "このおんなかくかきおきたるを、けしう、こころおくべきことをおぼえぬを、",
         "honkoku": "この女かく/かきをきたるをけしう心をくへきことも/s32l/おほえぬを",
-        "translation-ja": "この女が、こう書き残したので、何だかわからず、心を隔てるようなことも思わなかったのに、",
-        "translation-en": "Seeing what this woman wrote, the man did not understand, even though he did not think of estranging his heart."
+        "translation-ja": "この女がこう書き残したが、特に気にすることもなく、心を隔てるようなことも思わなかったのに、",
+        "translation-ja-natural": "彼女がこう書き残しましたが、特に気に留めることもなく、心を隔てようとも思いませんでした。",
+        "translation-en": "This woman having written this, he found nothing strange, nor did he feel the need to distance his heart.",
+        "translation-en-natural": "She had left these words behind, but he thought nothing of it and felt no need to distance himself from her."
       },
       {
         "date": "20240609,20250124",
