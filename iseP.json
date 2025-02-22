@@ -121,6 +121,7 @@
         "kana": "といふうたのこころばえなり。",
         "honkoku": "といふうたの心はへなり",
         "translation-ja": "というのが、歌の本心である。",
+        "translation-ja-natural": "これが、この和歌の本意なのです。",
         "translation-en": "That is the true meaning of the poem.",
         "translation-en-natural": "That's the true intention behind the poem."
       },
@@ -131,8 +132,9 @@
         "kana": "むかしびとは、かくいちはやきみやびをなむしける。",
         "honkoku": "むかし人はかく/いちはやきみやひをなんしける/s7l/",
         "translation-ja": "昔の人々は、こういう即興的な趣きあることをしていました。",
+        "translation-ja-natural": "昔の人々は、このような即興的で風情のあることをしていました。",
         "translation-en": "People of the past performed such prompt, passionate elegance.",
-        "translation-en-natural": "People in the past used to display this kind of spontaneous and refined elegance."
+        "translation-en-natural": "People in the past used to engage in such spontaneous and refined expressions of elegance."
       }
     ]
   },
@@ -142,16 +144,18 @@
     "romaji": "nishinomiyako",
     "paragraph": [
       {
-        "date": "20240520,20241021",
+        "date": "20240520,20241021,20250221",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
         "honkoku": "むかしおとこありけり",
         "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja-natural": "昔、ある男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240520,20241021",
+        "date": "20240520,20241021,20250221",
         "id": 2,
         "text": "奈良の京は離れ、この京は人の家まだ定まらざりける時に、西の京に女ありけり。",
         "kana": "ならのみやこははなれ、このみやこはひとのいえまださだまらざりけるときに、にしのみやこにおんなありけり。",
@@ -162,13 +166,13 @@
         "translation-en-natural": "After the capital moved from Nara, when people had yet to settle in their new homes, there was a woman living in the western part of the capital."
       },
       {
-        "date": "20240520,20241021",
+        "date": "20240520,20241021,20250221",
         "id": 3,
         "text": "かの女、世人にはまされりけり。",
         "kana": "そのをんな、よひとにはまされりけり。",
         "honkoku": "かの/女世人にはまされりけり",
         "translation-ja": "その女は、世間の人よりも、すぐれていました。",
-        "translation-ja-natural": "その女は、世間の人よりも、すぐれていました。",
+        "translation-ja-natural": "その女性は、世間の人よりも、すぐれていました。",
         "translation-en": "That woman was exceptional compared to ordinary people.",
         "translation-en-natural": "That woman was exceptional compared to ordinary people."
       },
@@ -178,9 +182,10 @@
         "text": "その人、かたちよりは心なむまさりたりける。",
         "kana": "そのひと、かたちよりはこころなむまさりたりける。",
         "honkoku": "その人かたち/よりは心なむまさりたりける",
-        "translation-ja": "その人は、外見よりは心がすばらしかった。",
-        "translation-en": "That person's heart was more wonderful than her appearance.",
-        "translation-en-natural": "Her heart was more wonderful than her outward appearance."
+        "translation-ja": "その人は、外見よりは心がまさっていました。",
+        "translation-ja-natural": "その女性は、見た目よりも心が美しかったのです。",
+        "translation-en": "That person's heart was superior to their appearance.",
+        "translation-en-natural": "Her heart was more beautiful than her outward appearance."
       },
       {
         "date": "20240520,20241021",
@@ -199,7 +204,9 @@
         "kana": "それをかのまめをとこ、うちものがたりらいて、かへりきて、いかがおもいけむ、ときはやよいのついたち、あめそほふるにやりける。",
         "honkoku": "それをかのまめおとこ/うちものかたらひてかへりきていかか/おもひけん時はやよひのついたち雨そを/ふるにやりける/",
         "translation-ja": "その女にかの誠実な男が、物語を語り合って、家に帰ってきて、何を思ったのだろうか、3月の1日、雨がしとしと降る日に、歌を詠んで贈りました。",
-        "translation-en": "A honest man told her a story, and when he came back home, he thought about her. On the first day of March, a rainy day, he wrote a poem to her."
+        "translation-ja-natural": "その誠実な男は、その女性と語り合ったあと、家に帰って何を思ったのでしょうか、3月1日のしとしとと雨が降る日に、和歌を詠んで彼女に贈りました。",
+        "translation-en": "A honest man told her a story, and when he came back home, he thought about her. On the first day of March, a rainy day, he wrote a poem to her.",
+        "translation-en-natural": "I did not know what led him to do so, but on the first day of March, as the rain gently fell, the sincere man composed a waka and sent it to her."
       },
       {
         "date": "20240520",
@@ -1940,22 +1947,24 @@
     "romaji": "onoga yoyo",
     "paragraph": [
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250222",
         "id": 1,
         "text": "むかし、男をんな、いとかしこく思ひかはしてこと心なかりけり。",
         "kana": "むかし、おとこをんな、いとかしこくおもひかはしてことこころなかりけり。",
         "honkoku": "昔男女いとかしこくおもひかはしてこと/心なかりけり",
-        "translation-ja": "昔、男と女は、とても深く思い合っていて、他の人を思う心はありませんでした。",
-        "translation-en": "Once upon a time, a man and a woman loved each other deeply and did not think of others."
+        "translation-ja": "昔、男女、非常に格別に思い交わし、他の心はなかった。",
+        "translation-en": "Once upon a time, a man and a woman very excellently thought-exchanged, and other mind was not-past."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250222",
         "id": 2,
         "text": "さるを、いかなる事かありけむ、いさゝかなることにつけて、世の中をうしと思ひて、出でていなむと思ひて、かかる歌をなむよみて、ものに書きつけける。",
         "kana": "さるを、いかなることかありけむ、いささかなることにつけて、よのなかをうしとおもひて、いでていなむとおもひて、かかるうたをなむよみて、ものにかきつけける。",
         "honkoku": "さるをいかなることかあり/けんいささかなることにつけてよのなか/をうしと思ていてていなんと思ひてかかる/うたをなむよみてものにかきつけける/",
-        "translation-ja": "それなのに、どんなことがあったのだろう、ちょっとしたことにつけて、夫婦の仲を憂く思い、出て行こうと思って、このような歌を詠んで、物に書きつけました。",
-        "translation-en": "However, what happened, she wrote this poem on something, thinking of leaving her husband over a trivial matter."
+        "translation-ja": "そうであるのに、どのようなことがあったのだろうか。ちょっとしたことにつけて、世の中を憂い、出て行こうと思って、このような歌を詠んで、物に書きつけた。",
+        "translation-ja-natural": "それなのに、どんなことがあったというのでしょうか。些細なことをきっかけに、この世を憂い、家を出ようと思い、このような歌を詠んで書き残したのです。",
+        "translation-en": "That being so, what kind of thing might have happened? Over a trivial matter, thinking the world to be grievous, thinking to leave, wrote such a poem and inscribed it on something.",
+        "translation-en-natural": "And yet, what could have happened? Troubled by even the smallest of matters, feeling disheartened with life, they thought of leaving and wrote down this poem."
       },
       {
         "date": "20240609,20250124",
