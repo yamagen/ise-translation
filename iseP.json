@@ -248,13 +248,14 @@
         "translation-en-natural": "He planned to send some hijiki seaweed to the woman he was infatuated with."
       },
       {
-        "date": "20240521,20241029,20241109",
+        "date": "20240521,20241029,20241109,20250222",
         "id": 3,
         "poem": "思ひあらば/むぐらの宿に/寝もしなむ/ひじきものには/袖をしつつも",
         "kana": "おもいあらば/むぐらのやどに/ねもしなむ/ひじきものには/そでをしつつも",
         "honkoku": "思ひあらはむくらの宿にねもしなん/ひしきものにはそてをしつつも/",
-        "translation-ja": "思いがあるなら、葎の宿に寝ましょう、引き敷くものを袖にして。",
-        "translation-en": "If you have feelings for me, we shall sleep in the hut of creeper grass, with our sleeves as bedding.",
+        "translation-ja": "思いがあるなら、葎の宿にきっと寝よう。敷くものには袖をしき続けて。",
+        "translation-ja-natural": "もしあなたに思いがあるのなら、草深い宿で、袖を敷いて共に寝ましょう。",
+        "translation-en": "If you have feelings, we shall indeed sleep in an overgrown hut, continuously using our sleeves as bedding.",
         "translation-en-natural": "If you truly care for me, let's lie together in the overgrown hut, using our sleeves as bedding."
       },
       {
@@ -693,8 +694,9 @@
         "poem": "信濃なる/浅間の嶽に/たつ煙/をちこち人の/見やはとがめぬ",
         "kana": "しなのなる/あさまのたけに/たつけぶり/をちこちひとの/みやはとがめぬ",
         "honkoku": "しなのなるあさまのたけにたつ煙/をちこち人のみやはとかめぬ/s16l/",
-        "translation-ja": "信濃なる浅間の嶽にたつ煙を遠近の人は見て怪しまないだろうか。",
-        "translation-en": "The smoke that rises from Asama Mountain in Shinano Province-- do people from afar and near not see it and find it strange?",
+        "translation-ja": "信濃の浅間の嶽に立つ煙を、遠くの人も近くの人も見て怪しまないだろうか。",
+        "translation-ja-natural": "信濃の浅間山に煙が立っているのを、遠くの人も近くの人も見て不思議に思わないだろうか。",
+        "translation-en": "The smoke rising from Asama Peak in Shinano—do people both near and far not see it and take no notice of it?",
         "translation-en-natural": "Smoke rises from Mount Asama in Shinano Province, drifting into the sky. Do those near and far gaze upon it and wonder at its mystery?"
       }
     ]
@@ -1392,8 +1394,10 @@
         "text": "さすがにあはれとや思ひけむ、いきてねにけり。",
         "kana": "さすがにあはれとやおもひけむ、いきてねにけり。",
         "honkoku": "さすかにあ/はれとやおもひけんいきてねにけり",
-        "translation-ja": "そうは言っても、やはり心を動かされたのでしょう。女のもとへ行き、一夜を共にしました。",
-        "translation-en": "Even so, he must have been deeply moved. He went to the woman and spent the night with her."
+        "translation-ja": "やはりしみじみと思ったのだろうか。行って寝たのだった。",
+        "translation-ja-natural": "やはり心を動かされたのだろうか。彼は思いを抑えきれず、ついに彼女のもとへ行き、一夜を共にした。",
+        "translation-en": "And yet, did he not feel deeply? He went and slept.",
+        "translation-en-natural": "Perhaps he could not help but be moved. Unable to resist his feelings, he finally went to her and spent the night together."
       },
       {
         "date": "20240602,20250105",
