@@ -2019,13 +2019,15 @@
         "translation-en-natural": "Crying bitterly, he wondered how things had come to this."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250222",
         "id": 7,
         "text": "いづ方に求めゆかむと、門にいでて、とみかうみ、見けれど、",
         "kana": "いづかたにもとめゆかむと、かどにいでて、とみかうみ、みけれど、",
         "honkoku": "いつかたにもとめゆ/かんとかとにいててとみかう見々けれ/と",
-        "translation-ja": "どこに求めて行こうかと、門に出て、見渡しましたが、",
-        "translation-en": "He went to the gate to look around, wondering where to go."
+        "translation-ja": "どの方向に求め行こうかと、門に出て、あれこれ見たが、",
+        "translation-ja-natural": "どこへ探しに行けばいいのかと、門を出て、あちこち見回したが、",
+        "translation-en": "Wondering to which direction he should seek and go, he went out to the gate and looked here and there, but...",
+        "translation-en-natural": "He had no idea where to look for it, so he stepped out of the gate and looked around, but..."
       },
       {
         "date": "20240609,20250124",
