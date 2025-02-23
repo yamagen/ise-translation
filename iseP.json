@@ -2008,13 +2008,15 @@
         "translation-en-natural": "She had left these words behind, but he thought nothing of it and felt no need to distance himself from her."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250222",
         "id": 6,
         "text": "なにによりてかかゝらむと、いといたう泣きて、",
         "kana": "なにによりてかかからむと、いといたうなきて、",
         "honkoku": "なにによりてかかからんと/いといたうなきて",
-        "translation-ja": "どうしてこうなったのだろうと、たいそう泣いて、",
-        "translation-en": "He cried bitterly, wondering why this happened."
+        "translation-ja": "何によってこうなったのだろうかと、とてもひどく泣いて、",
+        "translation-ja-natural": "どうしてこんなことになったのだろうと、ひどく泣いて、",
+        "translation-en": "Weeping bitterly, he wondered by what means this had come to be.",
+        "translation-en-natural": "Crying bitterly, he wondered how things had come to this."
       },
       {
         "date": "20240609,20250124",
