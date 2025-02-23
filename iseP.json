@@ -2030,49 +2030,59 @@
         "translation-en-natural": "He had no idea where to look for it, so he stepped out of the gate and looked around, but..."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250223",
         "id": 8,
         "text": "いづこをはかりとも覚えざりければ、かへりいりて、",
         "kana": "いづこをはかりともおぼえざりければ、かへりいりて、",
         "honkoku": "いつこをはかりともおほえさりけれは/かへりいりて/",
-        "translation-ja": "どこかとも思いあたらなかったので、家に戻って、",
-        "translation-en": "He could not think of anywhere to go, so he returned home."
+        "translation-ja": "どこをともはっきりとは思わなかったので、帰り入って、",
+        "translation-ja-natural": "どこへ行けばいいのか分からず、家に戻って中へ入った。",
+        "translation-en": "Not clearly thinking of anywhere, he returned home and entered.",
+        "translation-en-natural": "Not knowing where to go, he went back home and went inside."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250223",
         "id": 9,
         "poem": "思ふかひ/なき世なりけり/年月を/あだに契りて/我や住まひし",
         "kana": "おもふかひ/なきよなりけり/としつきを/あだにちぎりて/われやすまひし",
         "honkoku": "おもふかひなき世なりけりとし月を/あたにちきりてわれやすまひし/",
         "translation-ja": "思う甲斐のない世の中でした。年月を無駄に縁を結んで、私たちは住んでいたのでしょうか。",
-        "translation-en": "It was a world where there was no point in thinking about it. Did we live together by making useless promises over the years?"
+        "translation-ja-natural": "なんとも報われない世の中だった。長い年月を無駄に過ごしながら、私たちは一緒にいたのだろうか。",
+        "translation-en": "It was a world where there was no point in thinking about it. Did we live together by making useless promises over the years?",
+        "translation-en-natural": "The world felt utterly unrewarding. Had we spent all those years together in vain?"
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250222",
         "id": 10,
         "text": "といひてながめをり。",
         "kana": "といひてながめをり。",
         "honkoku": "といひてなかめをり/",
         "translation-ja": "と言って、ぼんやりと眺めていました。",
-        "translation-en": "Having sung this, he gazed blankly."
+        "translation-ja-natural": "そう言って、ぼんやりと眺めていました。",
+        "translation-en": "Having sung this, he gazed blankly.",
+        "translation-en-natural": "Saying this, he stared off into the distance."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250222",
         "id": 11,
         "poem": "人はいさ/思ひやすらむ/玉かづら/面影にのみ/いとゞ見えつゝ",
         "kana": "ひとはいさ/おもひやすらむ/たまかづら/おもかげにのみ/いとどみえつつ",
         "honkoku": "人はいさおもひやすらんたまかつら/／s33r/おもかけにのみいととみえつつ/",
-        "translation-ja": "人はいつも思いをするのだろうか、玉かづらの面影にのみ、たいそう見えているのですが。",
-        "translation-en": "I wonder if that person is always thinking of me. I can only see the image of the person in my mind."
+        "translation-ja": "あの人は、さあ、思って安心しているのだろうか。玉かづらのように、ただ面影ばかりが、ますます見え続けているのに。",
+        "translation-ja-natural": "あの人は私のことなんて、もう気にも留めていないのだろうか。ただ面影ばかりが、ますます目に浮かんでくるのに。",
+        "translation-en": "I wonder if that person is feeling at ease thinking of me. Only their image, like the tamakazura, keeps appearing more and more vividly.",
+        "translation-en-natural": "Has that person already stopped thinking about me? Yet, their image keeps appearing in my mind more and more vividly."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250223",
         "id": 12,
         "text": "この女、いとひさしくありて、念じわびてにやありけむ、いひおこせたる。",
         "kana": "このおんな、いとひさしくありて、ねんじわびてにやありけむ、いひおこせたる。",
         "honkoku": "この女いとひさしくありてねむしわひて/にやありけむいひをこせたる/",
-        "translation-ja": "この女は、のちになって、こらえきれなくなったのでしょうか、歌を詠んでよこしました。",
-        "translation-en": "This woman must have been thinking of me for a long time and could not bear it, so she composed a poem."
+        "translation-ja": "この女は、長い間過ごして、こらえきれなくなったのだろうか、言葉を送ってきた。",
+        "translation-ja-natural": "この女性は、長い間じっと耐えていましたが、ついに我慢しきれなくなったのでしょうか。手紙を送ってきました。",
+        "translation-en": "This woman spent a long time enduring, and perhaps she could not bear it anymore, so she sent a message.",
+        "translation-en-natural": "Perhaps this woman had been enduring for a long time, but eventually, she could bear it no longer. She sent me a message."
       },
       {
         "date": "20240609,20250124",
