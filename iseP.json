@@ -2085,76 +2085,92 @@
         "translation-en-natural": "Perhaps this woman had been enduring for a long time, but eventually, she could bear it no longer. She sent me a message."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250224",
         "id": 13,
         "poem": "今はとて/忘るゝ草の/たねをだに/人の心に/まかせずもがな",
         "kana": "いまはとて/わするるくさの/たねをだに/ひとのこころに/まかせずもがな",
         "honkoku": "今はとてわするるくさのたねをたに/人の心にまかせすもかな/",
-        "translation-ja": "今はと言って、忘れ草の種だけでも、あなたの心に播かせたくないものです。",
-        "translation-en": "Now it's over, but I don't want to plant even the seeds of forget-me-nots in your heart."
+        "translation-ja": "今はと言って、忘れ草の種だけでも、人の心に播かれないでほしい。",
+        "translation-ja-natural": "これで終わりにするとしても、せめて忘れ草の種くらいは、あなたの心に播かれないようにしたいです。",
+        "translation-en": "Now saying, even the seeds of forgetful grass should not be sown in a person's heart.",
+        "translation-en-natural": "Even if this is the end, I just hope that not even the seeds of forgetfulness are sown in your heart."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250224",
         "id": 14,
         "text": "返し、",
         "kana": "かえし、",
         "honkoku": "返し/",
         "translation-ja": "返し、",
-        "translation-en": "Reply,"
+        "translation-ja-natural": "返しの歌は、",
+        "translation-en": "Reply,",
+        "translation-en-natural": "In response,"
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250224",
         "id": 15,
         "poem": "忘草/植うとだに聞く/ものならば/思ひけりとは/知りもしなまし",
         "kana": "わすれぐさ/ううとだにきく/ものならば/おもひけりとは/しりもしなまし",
         "honkoku": "わすれくさうふとたにきく物ならは/おもひけりとはしりもしなまし/",
-        "translation-ja": "忘れ草を植えている、とだけでも聞いたなら、あなたを思っていたのだということが、わかるでしょう。",
-        "translation-en": "If you just heard that I was planting forget-me-nots, you would understand that I was thinking of you."
+        "translation-ja": "忘れ草を植えるとだけでも聞いたなら、あなたを思っていたのだということを、きっと知ったでしょう。",
+        "translation-ja-natural": "もし忘れ草を植えたと聞いたなら、あなたを思っていたことがわかったでしょう。",
+        "translation-en": "If you had just heard that I planted daylilies, you would have known that I was thinking of you.",
+        "translation-en-natural": "If you had heard that I planted daylilies, you would have understood that I was thinking of you."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250224",
         "id": 16,
         "text": "またまたありしよりけにいひかはして、をとこ、",
         "kana": "またまたありしよりけにいひかはして、をとこ、",
         "honkoku": "又々ありしよりけにいひかはして男/s33l/",
         "translation-ja": "またまた昔のように、言葉を交わして、男は、",
-        "translation-en": "After that, the two talked more than ever before, and the man..."
+        "translation-ja-natural": "そして再び、昔のように言葉を交わし、男は...",
+        "translation-en": "After that, the two talked more than ever before, and the man...",
+        "translation-en-natural": "And once again, they spoke as they did in the past, and the man..."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250224",
         "id": 17,
         "poem": "忘るらむ/と思ふ心の/うたがひに/ありしよりけに/ものぞかなしき",
         "kana": "わするらむ/とおもふこころの/うたがひに/ありしよりけに/ものぞかなしき",
         "honkoku": "わするらんと思ふ心のうたかひに/ありしよりけに物そかなしき/",
         "translation-ja": "忘れるだろうか、と思う心の疑いに、以前にもまして、もの悲しくなります。",
-        "translation-en": "I feel more sad than ever before because of the doubt that you will forget me."
+        "translation-ja-natural": "あなたが忘れてしまうのではないかという疑いが、以前にも増して物悲しく感じられます。",
+        "translation-en": "I feel more sad than ever before because of the doubt that you will forget me.",
+        "translation-en-natural": "The thought that you might forget me makes me feel even more sorrowful than before."
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250224",
         "id": 18,
         "text": "返し、",
         "kana": "かえし、",
         "honkoku": "返し/",
         "translation-ja": "返しとして、",
-        "translation-en": "In response,"
+        "translation-ja-natural": "返しとして、",
+        "translation-en": "In response,",
+        "translation-en-natural": "In response,"
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250224",
         "id": 19,
         "poem": "中空に/立ちゐる雲の/あともなく/身のはかなくも/なりにけるかな",
         "kana": "なかぞらに/たちゐるくもの/あともなく/みのはかなくも/なりにけるかな",
         "honkoku": "なか空にたちゐる雲のあともなく/身のはかなくもなりにけるかな/",
         "translation-ja": "空の中に立ち浮かぶ雲が、あともなく、身もはかなくなってしまったのでしょうか。",
-        "translation-en": "The clouds floating in the sky disappear without a trace, and my body has become so fleeting as well."
+        "translation-ja-natural": "空に浮かぶ雲は、あとかたもなく消えてしまい、私の存在も儚くなってしまったのでしょうか。",
+        "translation-en": "The clouds floating in the sky disappear without a trace, and my body has become so fleeting as well.",
+        "translation-en-natural": "The clouds drifting in the sky have vanished without a trace—has my existence also become just as fleeting?"
       },
       {
-        "date": "20240609,20250124",
+        "date": "20240609,20250124,20250224",
         "id": 20,
         "text": "とはいひけれど、おのが世々になりにければ、うとくなりにけり。",
         "kana": "とはいひけれど、おのがよよになりにければ、うとくなりにけり。",
         "honkoku": "とはいひけれとをのか世々になりに/けれはうとくなりにけり/s34r/",
         "translation-ja": "とは言ったけれど、おのおの人生になってしまったので、うとくなってしまいました。",
-        "translation-en": "Although she sang this, they each found their life, and their relationship became distant."
+        "translation-ja-natural": "そうは言ったものの、それぞれの人生を歩むうちに、次第に疎遠になってしまいました。",
+        "translation-en": "Although she sang this, they each found their life, and their relationship became distant.",
+        "translation-en-natural": "Although she said this, as they went on their separate paths in life, they gradually grew distant."
       }
     ]
   },
