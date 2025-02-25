@@ -2180,31 +2180,37 @@
     "romaji": "chiyo wo hitoyo",
     "paragraph": [
       {
-        "date": "20240610,20250124",
+        "date": "20240610,20250124,20250225",
         "id": 1,
         "text": "むかし、はかなくて絶えにけるなか、なほや忘れざりけむ、女のもとより、",
         "kana": "むかし、はかなくてたえにけるなか、なほやわすれざりけむ、おんなのもとより、",
         "honkoku": "昔はかなくてたえにけるなかなをやわ/すれさりけむ女のもとより/s34r/",
         "translation-ja": "昔、はかなく絶えてしまった仲、まだ忘れられないのか、女のもとから、",
-        "translation-en": "In the past, the relationship ended without much love, but they still could not forget each other, and from a woman,..."
+        "translation-ja-natural": "昔、儚くも途絶えてしまった縁。それでもまだ忘れられず、女のもとから...",
+        "translation-en": "In the past, the relationship ended without much love, but they still could not forget each other, and from a woman,...",
+        "translation-en-natural": "The bond that once faded away so fleetingly—yet, still unable to forget, from the woman..."
       },
       {
-        "date": "20240610,20250124",
+        "date": "20240610,20250124,20250225",
         "id": 2,
         "poem": "憂きながら/人をばえしも/忘れねば/かつ恨みつゝ/なほぞ恋しき",
         "kana": "うきながら/ひとをばえしも/わすれねば/かつうらみつゝ/なほぞこいしき",
         "honkoku": "うきなから人をはえしもわすれねは/かつうらみつつ猶そ恋しき/",
         "translation-ja": "憂いと思いますが、人を忘れることができなく、恨めしく思ういっばう、やはり恋しく思います。",
-        "translation-en": "I think you are cold, but I cannot forget you, so I still feel resentful and miss you."
+        "translation-ja-natural": "つらいと思いつつも、あなたを忘れることができず、恨めしさと恋しさが入り混じるのです。",
+        "translation-en": "I think you are cold, but I cannot forget you, so I still feel resentful and miss you.",
+        "translation-en-natural": "I find it painful, yet I cannot forget you. I feel both resentment and longing."
       },
       {
-        "date": "20240610,20250124",
+        "date": "20240610,20250124,20250225",
         "id": 3,
         "text": "といへりければ、「さればよ」といひて、男、",
         "kana": "といへりければ、「さればよ」といひて、おとこ、",
         "honkoku": "といへりけれはされはよといひておとこ/",
         "translation-ja": "と言ったので、「それならば」と言って、男は、",
-        "translation-en": "Having sung this, \"If it is so,\" he said, and ..."
+        "translation-ja-natural": "そう言われたので、「それならば」と男は言い、",
+        "translation-en": "Having sung this, \"If it is so,\" he said, and ...",
+        "translation-en-natural": "Hearing this, the man replied, \"If that is so,\" and..."
       },
       {
         "date": "20240610,20250124",
