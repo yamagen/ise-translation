@@ -2277,13 +2277,15 @@
         "translation-en-natural": "Even if a thousand autumn nights were condensed into a single night, there would still be words left unspoken, and the birds would sing."
       },
       {
-        "date": "20240610,20250124",
+        "date": "20240610,20250124,20250226",
         "id": 10,
         "text": "いにしへよりもあはれにてなむ通ひける。",
         "kana": "いにしへよりもあはれにてなむかよひける。",
         "honkoku": "いにしへよりもあはれにてなん/かよひける/s35r/",
         "translation-ja": "昔よりも、あわれに思って、通い続けるようになりました。",
-        "translation-en": "Thus, the man visited the woman's place with more compassion than before."
+        "translation-ja-natural": "昔よりもいっそう心惹かれ、通い続けるようになりました。",
+        "translation-en": "Thus, the man visited the woman's place with more compassion than before.",
+        "translation-en-natural": "More than ever before, he was drawn to her and continued to visit."
       }
     ]
   },
