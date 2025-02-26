@@ -2372,49 +2372,59 @@
         "translation-en-natural": "The hair I have measured since childhood has now grown past my shoulders. If not for you, then for whom should I arrange it in an adult style?"
       },
       {
-        "date": "20240611,20250125",
+        "date": "20240611,20250125,20250226",
         "id": 8,
         "text": "などいひいひて、つひにほいのごとくあひにけり。",
         "kana": "などいひいひて、つひにほいのごとくあひにけり。",
         "honkoku": "なといひいひてつゐにほいのことく/あひにけり/s36l/",
         "translation-ja": "など言って、ついに、本意のように、結婚しました。",
-        "translation-en": "After exchanging songs like this, they finally got married as they had initially wished."
+        "translation-ja-natural": "そんなやりとりを重ね、ついに念願叶って結婚しました。",
+        "translation-en": "After exchanging songs like this, they finally got married as they had initially wished.",
+        "translation-en-natural": "After exchanging such words, they finally fulfilled their wish and got married."
       },
       {
-        "date": "20240611,20250127",
+        "date": "20240611,20250127,20250226",
         "id": 9,
         "text": "さて年ごろふるほどに、女、親なく、たよりなくなるままに、「もろともにいふかひなくてあらむやは」とて、",
         "kana": "さてとしごろふるほどに、おんな、おやなく、たよりなくなるままに、「もろともにいふかひなくてあらむやは」とて、",
         "honkoku": "さてとしころふるほとに女おやなくた/よりなくなるままにもろともにいふかひ/なくてあらんやはとて",
         "translation-ja": "さて、年をとっていくにつれて、女は親を失い、頼りなくなって、「もろともにいふかひなくてあらむやは」と言って、",
-        "translation-en": "As the years passed, the woman lost her parents and became helpless, saying, \"I wonder if we can live together without any worries.\""
+        "translation-ja-natural": "さて、年を重ねるうちに、女は親を失い、心細くなって、「ふたりとも、むなしく生きることがありましょうか」と言い、",
+        "translation-en": "As the years passed, the woman lost her parents and became helpless, saying, \"I wonder if we can live together without any worries.\"",
+        "translation-en-natural": "As the years went by, the woman lost her parents and felt helpless, saying, 'Could we both truly live in vain?'"
       },
       {
-        "date": "20240611,20250127",
+        "date": "20240611,20250127,20250226",
         "id": 10,
         "text": "河内の国、高安の郡に、いきかよふ所いできにけり。",
         "kana": "かわちのくに、たかやすのこおりに、いきかよふところいできにけり。",
         "honkoku": "かうちのくにた/かやすのこほりにいきかよふ所いてき/にけり",
         "translation-ja": "河内の国、高安の郡に、行き通う所を作っていました。",
-        "translation-en": "He lived in a place where he could come and go in Kawachi Province, Takayasu District."
+        "translation-ja-natural": "河内の国、高安の郡に、通える場所を作っていました。",
+        "translation-en": "He lived in a place where he could come and go in Kawachi Province, Takayasu District.",
+        "translation-en-natural": "He built a place he could frequently visit in Kawachi Province, Takayasu District."
       },
       {
-        "date": "20240611,20250127",
+        "date": "20240611,20250127,20250226",
         "id": 11,
         "text": "さりけれど、このもとの女、あしとおもへる気色もなくていだしやりければ、",
         "kana": "さりけれど、このもとのおんな、あしとおもへるけしきもなくていだしやりければ、",
         "honkoku": "さりけれとこのもとの女あしと思/へるけしきもなくていたしやりけれは/",
         "translation-ja": "しかし、この前の妻は、憎しみを感じる様子もなく、男を送り出してやったので、",
-        "translation-en": "However, the former wife did not seem to hate him and sent him off."
+        "translation-ja-natural": "しかし、前の妻は恨む様子も見せず、男を見送ったので、",
+        "translation-en": "However, the former wife did not seem to hate him and sent him off.",
+        "translation-en-natural": "However, his former wife showed no sign of resentment and saw him off."
       },
       {
-        "date": "20240611,20250127",
+        "date": "20240611,20250127,20250226",
         "id": 12,
         "text": "男こと心ありて、かゝるにやあらむと思ひうたがひて、前栽の中にかくれゐて、河内へいぬる顔にて見れば、この女いとようけさじて、うちながめて、",
         "kana": "おとこことごころありて、かかるにやあらむとおもいうたがひて、せんざいのなかにかくれゐて、かわちへいぬるかほにてみれば、このおんないとようけさじて、うちながめて、",
         "honkoku": "男こと心ありてかかるにやあらむとおもひ/うたかひてせむさいのなかにかくれ/ゐてかうちへいぬるかほにてみれはこの/s37l/女いとようけさうしてうちなかめて/",
         "translation-ja": "男は、異なる心があって、このようにしているんだと思い、疑って庭の植え込みの中に隠れて座り、河内へ行ったような顔で見ていると、この女は、たいそう念入りに化粧をして、物思いにふけり、",
-        "translation-en": "The man doubted that she was so honest, and hid in the bushes, pretending to go to Kawachi. When he looked at her face, he saw that she was very carefully made up and lost in thought,..."
+        "translation-ja-natural": "男は、妻が何か別の思いを抱いているのではないかと疑い、庭の植え込みに身を潜め、河内へ出かけたふりをして様子をうかがった。すると、女はとても念入りに化粧をし、物思いにふけっていた。",
+        "translation-en": "The man doubted that she was so honest, and hid in the bushes, pretending to go to Kawachi. When he looked at her face, he saw that she was very carefully made up and lost in thought,...",
+        "translation-en-natural": "The man suspected that his wife might have had other feelings, so he hid in the bushes and pretended to have left for Kawachi, watching her from a distance. He saw that she carefully applied her makeup and was lost in thought."
       },
       {
         "date": "20240611,20250127",
@@ -2423,61 +2433,75 @@
         "kana": "かぜふけば/おきつしらなみ/たつたやま/よはにやきみが/ひとりこゆらむ",
         "honkoku": "風ふけはおきつしらなみたつた山/夜半にやきみかひとりこゆらん/",
         "translation-ja": "風が吹くと、沖の白波が立つという龍田山を、夜中にあなたが一人で越えていることでしょう。",
-        "translation-en": "When the wind blows, you must be crossing the Mount Tatsuta, where the white waves rise in the open sea, alone in the middle of the night."
+        "translation-ja-natural": "風が吹けば、沖の白波が立つという龍田山を、あなたは今ごろ、一人で夜中に越えていることでしょう。",
+        "translation-en": "When the wind blows, you must be crossing the Mount Tatsuta, where the white waves rise in the open sea, alone in the middle of the night.",
+        "translation-en-natural": "As the wind blows, you are probably crossing Mount Tatsuta alone in the middle of the night, where white waves rise in the open sea."
       },
       {
-        "date": "20240611,20250127",
+        "date": "20240611,20250127,20250226",
         "id": 14,
         "text": "とよみけるをきゝて、かぎりなくかなしと思ひて、河内へもいかずなりにけり。",
         "kana": "とよみけるをきゝて、かぎりなくかなしとおもひて、かわちへもいかずなりにけり。",
         "honkoku": "とよみけるをききてかきりなくかなしと/おもひてかうちへもいかすなりにけり/s38r/",
         "translation-ja": "と詠んだのを聞いて、とても愛しいと思って、河内へ行かなくなってしまいました。",
-        "translation-en": "Having heard this, the man thought she was very dear, and he stopped to go to Kawachi."
+        "translation-ja-natural": "この歌を聞いて、男はますます愛おしく思い、河内へ通わなくなってしまいました。",
+        "translation-en": "Having heard this, the man thought she was very dear, and he stopped to go to Kawachi.",
+        "translation-en-natural": "Upon hearing this poem, the man felt even more affection for her and stopped going to Kawachi."
       },
       {
-        "date": "20240611,20250127",
+        "date": "20240611,20250127,20250226",
         "id": 15,
         "text": "まれまれかの高安に来て見れば、はじめこそ心にくもつくりけれ、",
         "kana": "まれまれかのたかやすにきてみれば、はじめこそこころにくもつくりけれ、",
         "honkoku": "まれまれかのたかやすにきてみれははし/めこそこころにくくもつくりけれ",
         "translation-ja": "たまたま、高安に来てみると、男の通いはじめのころはおくゆかしくも粧をこらしたのだが、",
-        "translation-en": "By chance, when he came to Takayasu and saw her, she was very modestly made up when he first visited her,..."
+        "translation-ja-natural": "たまたま高安を訪れてみると、男が通い始めたころは、奥ゆかしく念入りに化粧をしていたのだが、",
+        "translation-en": "By chance, when he came to Takayasu and saw her, she was very modestly made up when he first visited her,...",
+        "translation-en-natural": "By chance, when he visited Takayasu, he recalled that when he first started seeing her, she had been elegantly and carefully made up, but..."
       },
       {
-        "date": "20240611,20250127",
+        "date": "20240611,20250127,20250226",
         "id": 16,
         "text": "いまはうちとけて、てづから飯匙とりて笥子のうつはものにもりけるを見て、心うがりていかずなりけり。",
         "kana": "いまはうちとけて、てづからめさじとりてそうこのうつはものにもりけるをみて、こころうがりていかずなりけり。",
         "honkoku": "いまは/うちとけててつからいゐかひとりてけ/このうつは物にもりけるを見て心う/かりていかすなりにけり",
         "translation-ja": "いまはうち解け、手ずから杓子を取って、飯を盛る器に盛っていたのを見て、男はいやになって、行かなくなってしまった。",
-        "translation-en": "Now, she was relaxed, and she took the ladle herself. He looked that she served the rice in the bowl, and he felt disgusted and stopped going."
+        "translation-ja-natural": "いまはすっかり打ち解けて、自分で杓子を取ってご飯をよそっているのを見て、男はうんざりし、通わなくなってしまった。",
+        "translation-en": "Now, she was relaxed, and she took the ladle herself. He looked that she served the rice in the bowl, and he felt disgusted and stopped going.",
+        "translation-en-natural": "Now that she had completely relaxed, she took the ladle herself and served the rice. Seeing this, the man grew disillusioned and stopped visiting her."
       },
       {
-        "date": "20240611,20250127",
+        "date": "20240611,20250127,20250226",
         "id": 17,
         "text": "さりければ、かの女、大和の方を見やりて、",
         "kana": "さりければ、かのおんな、やまとのほうをみやりて、",
         "honkoku": "さりけれはかの/女やまとのかたを見やりて/",
         "translation-ja": "そこで、その女は、大和の方を見て、",
-        "translation-en": "Then, the woman from Kawachi looked toward Yamato,..."
+        "translation-ja-natural": "そこで、その女は、大和の方を眺め、",
+        "translation-en": "Then, the woman from Kawachi looked toward Yamato,...",
+        "translation-en-natural": "Then, the woman gazed toward Yamato."
       },
       {
-        "date": "20240611,20250127",
+        "date": "20240611,20250127,20250226",
         "id": 18,
         "poem": "君があたり/見つゝを居らむ/生駒山/雲な隠しそ/雨は降るとも",
         "kana": "きみがあたり/みつゝををらむ/いこまやま/くもなかくしそ/あめはふるとも",
         "honkoku": "きみかあたりみつつををらんい駒山/くもなかくしそ雨はふるとも/",
         "translation-ja": "あなたのいらっしゃる生駒山あたりを望み見ていましょう。雲よ、隠さないで、雨は降っても。",
-        "translation-en": "I will gaze at the area where you are. Clouds, please do not hide the Ikoma Mountain, even if it rains."
+        "translation-ja-natural": "あなたがいる生駒山のあたりを眺めています。雲よ、たとえ雨が降っても、隠さないでおくれ。",
+        "translation-en": "I will gaze at the area where you are. Clouds, please do not hide the Ikoma Mountain, even if it rains.",
+        "translation-en-natural": "I will keep gazing toward Ikoma Mountain, where you are. Clouds, even if it rains, please do not hide it from my sight."
       },
       {
-        "date": "20240611,20250127",
+        "date": "20240611,20250127,20250226",
         "id": 19,
         "text": "といひて見だすに、からうじて大和人「来む」といへり。",
         "kana": "といひてみだすに、からうじてやまとびと「こむ」といへり。",
         "honkoku": "といひてみいたすにからうしてやまと/s39r/ひとこんといへり",
         "translation-ja": "と言って見ると、たまたま大和の国の男が「来よう」と言ってきた。",
-        "translation-en": "As she sang and looked, a man from Yamato said, \"I will come.\""
+        "translation-ja-natural": "そう言って眺めていると、ちょうど大和の国の男が「行くよ」と言ってきました。",
+        "translation-en": "As she sang and looked, a man from Yamato said, \"I will come.\"",
+        "translation-en-natural": "As she said this and gazed into the distance, a man from Yamato happened to say, 'I will come.'"
       },
       {
         "date": "20240611,20250127",
@@ -2486,25 +2510,31 @@
         "kana": "よろこびてまつに、たびたびすぎぬれば、",
         "honkoku": "よろこひてまつに/たひたひ過ぬれは/",
         "translation-ja": "喜んで待つのですが、たびたび通ってこないので、",
-        "translation-en": "She happyly waited, but he did not come often."
+        "translation-ja-natural": "喜んで待っていたものの、あまり通ってこなかったので、",
+        "translation-en": "She happyly waited, but he did not come often.",
+        "translation-en-natural": "She waited happily, but he rarely visited."
       },
       {
-        "date": "20240611,20250127",
+        "date": "20240611,20250127,20250226",
         "id": 21,
         "poem": "君来むと/言ひし夜毎に/過ぎぬれば/頼まぬものゝ/恋ひつゝぞ経る",
         "kana": "きみこむと/いひしよごとに/すぎぬれば/たのまぬものの/こひつゝぞへる",
         "honkoku": "君こむといひし夜ことにすきぬれは/たのまぬもののこひつつそふる/",
         "translation-ja": "君が来ようと言ったその夜ごとに、過ぎてしまいますので、あてにはせぬものの、恋しい思いで過ごしております。",
-        "translation-en": "Every night you said you would come, but you never did, so I spend my days with unrequited love."
+        "translation-ja-natural": "あなたが来ると言った夜が次々と過ぎていくので、あてにはしていませんが、それでも恋しく思いながら過ごしています。",
+        "translation-en": "Every night you said you would come, but you never did, so I spend my days with unrequited love.",
+        "translation-en-natural": "Each night you said you would come passes by, and though I do not place my hopes on it, I still spend my days longing for you."
       },
       {
-        "date": "20240611,20250127",
+        "date": "20240611,20250127,20250226",
         "id": 22,
         "text": "といへけれど、男すまずなりにけり。",
         "kana": "といへけれど、おとこすまずなりにけり。",
         "honkoku": "といひけれとおとこすますなりにけり/s39l/",
         "translation-ja": "と言ったけれど、男は住まなくなってしまいました。",
-        "translation-en": "Although she sang, the man would never come again."
+        "translation-ja-natural": "そう言ったものの、男はもう来なくなってしまった。",
+        "translation-en": "Although she sang, the man would never come again.",
+        "translation-en-natural": "Though she said this, the man never came back."
       }
     ]
   },
