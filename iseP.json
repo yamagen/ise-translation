@@ -2295,67 +2295,81 @@
     "romaji": "tsutsui zutsu",
     "paragraph": [
       {
-        "date": "20240611,20250125",
+        "date": "20240611,20250125,20250226",
         "id": 1,
         "text": "むかし、田舎わたらひしける人の子ども、井のもとに出でてあそびけるを、",
         "kana": "むかし、いなかわたらひしけるひとのこども、いのもとにいでてあそびけるを、",
         "honkoku": "昔ゐなかわたらひしける人のことも井/のもとにいててあそひけるを",
         "translation-ja": "昔、田舎で暮らしていた人の子供たちが、井戸のそばで遊んでいたが、",
-        "translation-en": "Once upon a time, children of people who lived in the countryside played by the well."
+        "translation-ja-natural": "昔、田舎に住んでいた人の子供たちが、井戸のそばで遊んでいましたが、",
+        "translation-en": "Once upon a time, children of people who lived in the countryside played by the well.",
+        "translation-en-natural": "Once upon a time, the children of those who lived in the countryside were playing by the well, but..."
       },
       {
-        "date": "20240611,20250125",
+        "date": "20240611,20250125,20250226",
         "id": 2,
         "text": "大人になりければ、男も女も、はぢかはしてありけれど、",
         "kana": "おとなになりければ、おとこもをんなも、はぢかはしてありけれど、",
         "honkoku": "おとなに/なりにけれはおとこも女もはちかはして/ありけれは",
         "translation-ja": "大人になると、男も女も、恥かしくしていたが、",
-        "translation-en": "When they grew, both the man and the woman felt embarrassed,"
+        "translation-ja-natural": "大人になると、男も女も恥ずかしがるようになりましたが、",
+        "translation-en": "When they grew, both the man and the woman felt embarrassed,",
+        "translation-en-natural": "As they grew older, both the man and the woman became more shy, but..."
       },
       {
-        "date": "20240611,20250125",
+        "date": "20240611,20250125,20250226",
         "id": 3,
         "text": "男は、この女をこそ得めと思ふ、女はこの男をと思ひつゝ、親のあはすれど聞かでなむありける。",
         "kana": "おとこは、このおんなをこそえめとおもふ、おんなはこのおとこをとおもひつゝ、おやのあはすれどきかでなむありける。",
         "honkoku": "おとこはこの女をこそえめと/思ふ女はこの男をと思ひつつおやのあは/すれともきかてなむありける",
         "translation-ja": "男はこの女を得たいと思うし、女はこの男をと思っていて、親が他の男にめあわせようとしても、承知しないでいた。",
-        "translation-en": "The man wanted to marry the woman, and the woman wanted to marry the man, and even though the parents tried to match them with others, they refused."
+        "translation-ja-natural": "男はこの女を妻にしたいと思い、女もこの男を夫にしたいと思っていました。親が他の男と結婚させようとしても、女は承知しませんでした。",
+        "translation-en": "The man wanted to marry the woman, and the woman wanted to marry the man, and even though the parents tried to match them with others, they refused.",
+        "translation-en-natural": "The man wished to take this woman as his wife, and the woman wished to have this man as her husband. Even when her parents tried to marry her off to another man, she refused."
       },
       {
-        "date": "20240611,20250125",
+        "date": "20240611,20250125,20250226",
         "id": 4,
         "text": "さて、この隣の男のもとよりかくなむ。",
         "kana": "さて、このとなりのおとこのもとよりかくなむ。",
         "honkoku": "さてこのと/なりのおとこのもとよりかくなん/",
         "translation-ja": "さて、この隣の男がこう歌を詠んできた。",
-        "translation-en": "Now, the man next door sang this song."
+        "translation-ja-natural": "すると、隣の男がこんな歌を詠んできた。",
+        "translation-en": "Now, the man next door sang this song.",
+        "translation-en-natural": "Then, the man next door composed this poem."
       },
       {
-        "date": "20240611,20250125",
+        "date": "20240611,20250125,20250226",
         "id": 5,
         "poem": "筒井つの/井筒にかけし/まろがたけ/過ぎにけらしな/妹見ざる間に",
         "kana": "つついつの/いづつにかけし/まろがたけ/すぎにけらしな/いもとみざるまに",
         "honkoku": "つつゐつの井つつにかけしまろかたけ/すきにけらしないもみさるまに/s36r/",
         "translation-ja": "井筒にかかる筒井のまろが竹が、過ぎ去ってしまったよ、あなたを見ない間に。",
-        "translation-en": "The bamboo pole hanging over the well has passed while I have not seen you."
+        "translation-ja-natural": "井筒にかかる筒井の竹のように、時は過ぎ去ってしまいました、あなたに会わない間に。",
+        "translation-en": "The bamboo pole hanging over the well has passed while I have not seen you.",
+        "translation-en-natural": "Like the bamboo tube hanging over the well, time has passed while I have not seen you."
       },
       {
-        "date": "20240611,20250125",
+        "date": "20240611,20250125,20250226",
         "id": 6,
         "text": "女、返し、",
         "kana": "おんな、かえし、",
         "honkoku": "返し/",
         "translation-ja": "女は、返し、",
-        "translation-en": "The woman replied,"
+        "translation-ja-natural": "女は、返しの歌は、",
+        "translation-en": "The woman replied,",
+        "translation-en-natural": "The woman replied,"
       },
       {
-        "date": "20240611,20250125",
+        "date": "20240611,20250125,20250226",
         "id": 7,
         "poem": "くらべこし/ふりわけ髪も/肩過ぎぬ/君ならずして/誰かあぐべき",
         "kana": "くらべこし/ふりわけかみも/かたすぎぬ/きみならずして/たれかあぐべき",
         "honkoku": "くらへこしふりわけかみもかたすきぬ/きみならすしてたれかあくへき/",
         "translation-ja": "比べてきました振分髪も、肩を過ぎてしまいました。あなたのためでなくて、だれのために髪上げをしましょうか。",
-        "translation-en": "The hair I have compared to you has grown past my shoulders. For whom should I tie it up?"
+        "translation-ja-natural": "幼い頃から比べてきた振分髪も、もう肩を過ぎてしまいました。あなたのためでなくて、いったい誰のために髪上げをするのでしょうか。",
+        "translation-en": "The hair I have compared to you has grown past my shoulders. For whom should I tie it up?",
+        "translation-en-natural": "The hair I have measured since childhood has now grown past my shoulders. If not for you, then for whom should I arrange it in an adult style?"
       },
       {
         "date": "20240611,20250125",
