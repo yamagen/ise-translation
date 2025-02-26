@@ -2213,7 +2213,7 @@
         "translation-en-natural": "Hearing this, the man replied, \"If that is so,\" and..."
       },
       {
-        "date": "20240610,20250124,20250225",
+        "date": "20240610,20250124,20250226",
         "id": 4,
         "poem": "あひ見ては/心ひとつを/かは島の/水の流れて/絶えじとぞ思ふ",
         "kana": "あひみては/こころひとつを/かはしまの/みずのながれて/たえじとぞおもふ",
@@ -2224,49 +2224,57 @@
         "translation-en-natural": "Whenever we meet, my heart remains unchanged—like the river’s islet waters, flowing endlessly, never ceasing."
       },
       {
-        "date": "20240610,20250124",
+        "date": "20240610,20250124,20250226",
         "id": 5,
         "text": "とはいいけれど、その夜いにけり。",
         "kana": "とはいいけれど、そのよいにけり。",
         "honkoku": "とはいひけれとその夜いにけり",
-        "translation-ja": "と言ったけれど、その夜、女のところへ行った。",
-        "translation-en": "Although he sang this, he went to the woman's place that night."
+        "translation-ja": "とは言ったものの、その夜、出かけて行った。",
+        "translation-ja-natural": "そうは言いましたが、その夜、やはり出かけていきました。",
+        "translation-en": "Although he said this, he went out that night.",
+        "translation-en-natural": "Though he said that, he still went out that night after all."
       },
       {
-        "date": "20240610,20250124",
+        "date": "20240610,20250124,20250226",
         "id": 6,
         "text": "いにしへゆくさきのことどもなどいひて、",
         "kana": "いにしへゆくさきのことどもなどいひて、",
         "honkoku": "いに/しへ行さきのことともなといひて/",
         "translation-ja": "昔のこと、これからのことなど言って、",
-        "translation-en": "Talking about the past and the future,"
+        "translation-ja-natural": "昔のことやこれからのことを語り合い、",
+        "translation-en": "Talking about the past and the future,",
+        "translation-en-natural": "They talked about the past and what lay ahead."
       },
       {
-        "date": "20240610,20250124",
+        "date": "20240610,20250124,20250226",
         "id": 7,
         "poem": "秋の夜の/千夜を一夜に/なずらへて/八千夜し寝ばや/飽く時のあらむ",
         "kana": "あきのよの/ちよをひとよに/なずらへて/やちよしねばや/あくときのあらむ",
         "honkoku": "秋の夜のちよをひとよになすらへて/やちよしねはやあくときのあらん/s34l/",
         "translation-ja": "秋の夜を千夜を一夜にして、八千夜寝ても飽きることがあるのでしょうか。",
-        "translation-en": "If you spend a thousand nights in one night, will you ever get tired of sleeping for eight thousand nights?"
+        "translation-ja-natural": "秋の夜を幾千もの夜のように過ごしても、八千夜眠ったとして飽きることがあるのでしょうか。",
+        "translation-en": "If you spend a thousand nights in one night, will you ever get tired of sleeping for eight thousand nights?",
+        "translation-en-natural": "Even if an autumn night feels like thousands of nights, would one ever grow weary after sleeping for eight thousand nights?"
       },
       {
-        "date": "20240610,20250124",
+        "date": "20240610,20250124,20250226",
         "id": 8,
         "text": "返し、",
         "kana": "かえし、",
         "honkoku": "返し",
-        "translation-ja": "返し、",
-        "translation-en": "Reply,"
+        "translation-ja": "返しの歌は、",
+        "translation-en": "The replay poem is..."
       },
       {
-        "date": "20240610,20250124",
+        "date": "20240610,20250124,20250226",
         "id": 9,
         "poem": "秋の夜の/千夜を一夜に/なせりとも/ことば残りて/鳥や鳴きなむ",
         "kana": "あきのよの/ちよをひとよに/なせりとも/ことばのこりて/とりやなきなむ",
         "honkoku": "あきのよのちよを一夜になせりとも/ことはのこりてとりやなきなむ/",
         "translation-ja": "秋の夜の千夜を一夜にしても、言葉が残っているので、鳥が鳴くことでしょう。",
-        "translation-en": "Even if you spend a thousand nights in one night, the words of love will not run out, and the rooster will crow."
+        "translation-ja-natural": "たとえ秋の夜の千夜を一夜に凝縮したとしても、語り尽くせず、鳥が鳴くことでしょう。",
+        "translation-en": "Even if you spend a thousand nights in one night, the words of love will not run out, and the rooster will crow.",
+        "translation-en-natural": "Even if a thousand autumn nights were condensed into a single night, there would still be words left unspoken, and the birds would sing."
       },
       {
         "date": "20240610,20250124",
