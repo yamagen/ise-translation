@@ -2544,58 +2544,70 @@
     "romaji": "azusa yumi",
     "paragraph": [
       {
-        "date": "20240612,20250128",
+        "date": "20240612,20250128,20250227",
         "id": 1,
         "text": "むかし、男かた田舎に住みけり。",
         "kana": "むかし、おとこかたいなかにすみけり。",
         "honkoku": "むかし男かたゐなかにすみけり",
         "translation-ja": "昔、男が片田舎に住んでいた。",
-        "translation-en": "Once upon a time, a man lived in the countryside."
+        "translation-ja-natural": "昔、ある男が片田舎に住んでいました。",
+        "translation-en": "Once upon a time, a man lived in the countryside.",
+        "translation-en-natural": "Once upon a time, a man lived in a remote village."
       },
       {
-        "date": "20240612,20250128",
+        "date": "20240612,20250128,20250227",
         "id": 2,
         "text": "男宮仕へしにとて、別れ惜しみてゆきにけるまゝに、三とせ来ざりければ、待ちわびたるけるに、いとねむごろにいひける人に、「今宵あはむ」とちぎりたりけるに、この男きたりけり。",
         "kana": "おとこみやつかえしにとて、わかれをしみてゆきにけるまゝに、みとせこざりければ、まちわびたるけるに、いとねむごろにいひけるひとに、「こよいあはむ」とちぎりたりけるに、このおとこきたりけり。",
         "honkoku": "男宮つか/へしにとてわかれおしみてゆきにける/ままにみとせこさりけれは待わひたりけ/るにいとねんころにいひける人にこよひ/あはんとちきりたりけるにこの男きた/りけり",
-        "translation-ja": "男は、宮中勤めをしに行くと言って、別れを惜しんで出かけたまま、三年帰ってこなかったので、待ちくたびれて、強く求婚してきた人に、「今夜逢いましょう」と結婚の約束を交した、そこへ、この男が帰ってきました。",
-        "translation-en": "The man said he was going to work at the palace and left, but he did not return for three years. Since that, the woman had been waiting and tired so long for him. and she had promised to marry another man who had proposed very strongly and said \"See you tonight.\" to her. Then, the man came back."
+        "translation-ja": "男は、宮中に仕えるために行くと言い、別れを惜しみつつ出かけ、そのまま三年間来なかったので、待ちわびて嘆いているうちに、とても熱心に言い寄ってきた人に「今宵逢いましょう」と約束した。すると、そのとき、この男が帰ってきた。",
+        "translation-ja-natural": "男は宮仕えのため都を離れ、別れを惜しみつつ旅立ったが、そのまま三年もの間戻らなかった。待ち続けて嘆くうちに、熱心に言い寄る男が現れ、ついに「今夜お会いしましょう」と約束してしまう。すると、その時、あの男が戻ってきたのだった。",
+        "translation-en": "The man said he was going to serve at the palace and, parting with regret, left and did not return for three years. While she was waiting for him, growing weary, another man, who had been courting her very earnestly, proposed to her, and she promised, 'Tonight, we shall meet.' Just then, the man returned.",
+        "translation-en-natural": "The man left for court service, parting with regret, but never returned for three long years. As she waited and despaired, another man persistently courted her, and at last, she agreed, saying, 'Tonight, we shall meet.' Just then, the man returned."
       },
       {
-        "date": "20240612,20250128",
+        "date": "20240612,20250128,20250227",
         "id": 3,
         "text": "「この戸あけ給へ」とたゝきけれど、あけで、歌をなむよみていだしたりける。",
         "kana": "「このとあけたまへ」とたたきけれど、あけで、うたをなむよみていだしたりける。",
         "honkoku": "このとあけたまへとたたきけれと/あけてうたをなむよみていたしたりける/",
-        "translation-ja": "「この戸を開けてください」とたたいたが、開けず、歌を詠んで差し出しました。",
-        "translation-en": "\"Please open this door.\" he knocked, but she did not open it and sang a song to him."
+        "translation-ja": "「この戸をお開けください」とたたいたけれど、開けないで、歌を詠んで差し上げました。",
+        "translation-ja-natural": "「この戸をお開けください」と戸を叩きましたが、開けてもらえず、代わりに歌を詠んで差し出しました。",
+        "translation-en": "\"Please open this door,\" he knocked, but she did not open it and composed a poem to present to him.",
+        "translation-en-natural": "He knocked on the door, saying, \"Please open the door,\" but she did not. Instead, she composed a poem and presented it to him."
       },
       {
-        "date": "20240612,20250128",
+        "date": "20240612,20250128,20250227",
         "id": 4,
         "poem": "あらたまの/年の三年を/待ちわびて/たゞ今宵こそ/新枕すれ",
         "kana": "あらたまの/とせのみとせを/まちわびて/ただこよいこそ/にひまくらすれ",
         "honkoku": "あら玉の年のみとせをまちわひて/たたこよひこそにゐまくらすれ/s40l/",
-        "translation-ja": "三年を待ちくたびれて、新しい枕をするのは、今夜がはじめてだけです。",
-        "translation-en": "I have been waiting for three years, and I will use a new pillow firstly tonight."
+        "translation-ja": "新たまの年の三年を待ちわびて、ただ今宵こそ新枕を交わすのです。",
+        "translation-ja-natural": "三年もの間待ち続け、ようやく今夜、新たな契りを結ぶのです。",
+        "translation-en": "Having waited for three full years, only tonight will I share a new pillow.",
+        "translation-en-natural": "After waiting for three long years, at last, tonight, I will share a new bond."
       },
       {
-        "date": "20240612,20250128",
+        "date": "20240612,20250128,20250227",
         "id": 5,
         "text": "といひだしたりければ、",
         "kana": "といひだしたりければ、",
         "honkoku": "といひいたしたりけれは/",
         "translation-ja": "と言って差し出したところ、",
-        "translation-en": "When she sang and offered the poem,..."
+        "translation-ja-natural": "そう言って差し出すと、",
+        "translation-en": "When she sang and offered the poem,...",
+        "translation-en-natural": "Saying this, she handed it over..."
       },
       {
-        "date": "20240612,20250128",
+        "date": "20240612,20250128,20250227",
         "id": 6,
         "poem": "梓弓/ま弓つき弓/年を経て/わがせしがごと/うるはしみせよ",
         "kana": "あづさゆみ/まゆみつきゆみ/としをへて/わがせしがごと/うるはしみせよ",
         "honkoku": "あつさ弓まゆみつきゆみとしをへて/わかせしかことうるはしみせよ/",
         "translation-ja": "梓の弓、真弓つきの弓、年月を経て、私が愛したように、新しい夫に美しく見せてください。",
-        "translation-en": "Azusa bow, a bow with a real bow, please show your love to your new husband as I loved you over the years."
+        "translation-ja-natural": "梓弓、真弓の弓よ。長い年月を経ても、私が愛したように、新しい夫にも美しく映ってください。",
+        "translation-en": "Azusa bow, a bow with a real bow, please show your love to your new husband as I loved you over the years.",
+        "translation-en-natural": "Azusa bow... true bow... through the passing years, may you appear just as beautiful to your new husband as you did to me."
       },
       {
         "date": "20240612,20250128",
