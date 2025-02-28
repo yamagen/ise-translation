@@ -2262,8 +2262,10 @@
         "text": "返し、",
         "kana": "かえし、",
         "honkoku": "返し",
-        "translation-ja": "返しの歌は、",
-        "translation-en": "The replay poem is..."
+        "translation-ja": "返し、",
+        "translation-ja-natural": "返しの歌は、",
+        "translation-en": "Reply,",
+        "translation-en-natural": "The replay poem is..."
       },
       {
         "date": "20240610,20250124,20250226",
@@ -2615,7 +2617,9 @@
         "text": "といひて、いなむとしければ、女、",
         "honkoku": "といひていなんとしけれは女/",
         "translation-ja": "と言って、立ち去ろうとしたので、女は、",
-        "translation-en": "When he sang and tried to leave, the woman..."
+        "translation-ja-natural": "そう言って立ち去ろうとすると、女性は...",
+        "translation-en": "When he sang and tried to leave, the woman...",
+        "translation-en-natural": "As he said that and was about to leave, the woman..."
       },
       {
         "date": "20240612,20250128",
@@ -3165,8 +3169,10 @@
         "text": "むかし、紀有常がり行きたるに、歩りきて遅く来けるに、よみてやりける。",
         "kana": "むかし、きありつねがりゆきたるに、ありきておそくきけるに、よみてやりける。",
         "honkoku": "むかし紀のありつねかりいきたるにあり/きてをそくきけるによみてやりける/",
-        "translation-ja": "昔、紀有常のところに行ったときに、歩いて遅く帰って来たので、歌を詠んで贈った。",
-        "translation-en": "Once upon a time, when a man went to see Ki no Aritsune, he came home late by walk, and the man read it for him."
+        "translation-ja": "昔、紀有常のところに行ったときに、出歩いて、なかなか来なかったので、歌を詠んで贈った。",
+        "translation-ja-natural": "あるとき、紀有常のもとを訪ねたが、有常はあちこち歩き回っていて、なかなか来なかった。そこで、男は歌を詠んで贈った。",
+        "translation-en": "Once upon a time, when a man went to see Ki no Aritsune, Aritsune wandered around and did not come for a long time, so the man composed a poem and sent it to him.",
+        "translation-en-natural": "Once, when a man went to visit Ki no Aritsune, Aritsune wandered around and took a long time to arrive. So, the man composed a poem and sent it to him."
       },
       {
         "date": "20240626,20250208",
