@@ -2658,8 +2658,10 @@
         "text": "そこなりける岩に、およびの血して、書きつける。",
         "kana": "そこなりけるいわに、およびのちして、かきつける。",
         "honkoku": "そこなりけるいはにおよひのちして/かきつけける/",
-        "translation-ja": "そこにあった岩に、指の血で書きつけました。",
-        "translation-en": "She wrote with her blood on the rock there."
+        "translation-ja": "そこにあった岩に、指の血を使って書きつけました。",
+        "translation-ja-natural": "彼女は指を傷つけ、その血で岩に書き記しました。",
+        "translation-en": "She wrote using the blood from her finger on the rock there.",
+        "translation-en-natural": "She wounded her finger and wrote on the rock with her blood."
       },
       {
         "date": "20240612,20250128",
