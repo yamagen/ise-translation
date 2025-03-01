@@ -2612,7 +2612,7 @@
         "translation-en-natural": "Azusa bow... true bow... through the passing years, may you appear just as beautiful to your new husband as you did to me."
       },
       {
-        "date": "20240612,20250128",
+        "date": "20240612,20250128,20250228",
         "id": 7,
         "text": "といひて、いなむとしければ、女、",
         "honkoku": "といひていなんとしけれは女/",
@@ -2631,22 +2631,26 @@
         "translation-en": "Azusa bow, whether you pull it or not, my heart has been close to you since the old days."
       },
       {
-        "date": "20240612,20250128",
+        "date": "20240612,20250128,20250301",
         "id": 9,
         "text": "といひけれど、男かへりにけり。",
         "kana": "といひけれど、おとこかへりにけり。",
         "honkoku": "といひけれとおとこかへりにけり",
         "translation-ja": "と言ったが、男は帰ってしまいました。",
-        "translation-en": "Although she said that, the man left."
+        "translation-ja-natural": "と言ったが、男は帰ってしまいました。",
+        "translation-en": "Although she said that, the man left.",
+        "translation-en-natural": "Although she said that, the man left."
       },
       {
-        "date": "20240612,20250128",
+        "date": "20240612,20250128,20250301",
         "id": 10,
         "text": "女いとかなしくて、後にたちて追ひゆけど、え追ひつかで、清水のある所にふしにけり。",
         "kana": "おんないとかなしくて、あとにたちておひゆけど、えおひつかで、しみずのあるところにふしにけり。",
         "honkoku": "女いと/かなしくてしりにたちてをひゆけと/えをひつかてし水のある所にふしに/s41l/けり",
-        "translation-ja": "女はとても悲しくて、後から追いかけましたが、追いつかず、清水のあるところで倒れてしまいました。",
-        "translation-en": "The woman was very sad and tried to follow him, but she could not catch up with him and fell down at a place where there was a spring."
+        "translation-ja": "女はとても悲しくて、後から立ち上がって追いかけましたが、追いつくことができず、清水のあるところで横たわってしまいました。",
+        "translation-ja-natural": "女性はとても悲しくなって、あとを追いかけましたが、とうとう追いつけず、清水のそばで力尽きて倒れてしまいました。",
+        "translation-en": "The woman was very sad and stood up to follow him, but she could not catch up and lay down at a place where there was a spring.",
+        "translation-en-natural": "The woman grew deeply sorrowful and tried to follow him, but she could not catch up and eventually collapsed by the spring."
       },
       {
         "date": "20240612,20250128",
