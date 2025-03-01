@@ -2664,22 +2664,26 @@
         "translation-en-natural": "She wounded her finger and wrote on the rock with her blood."
       },
       {
-        "date": "20240612,20250128",
+        "date": "20240612,20250128,20250301",
         "id": 12,
         "poem": "あひ思はで/離れぬる人を/とゞめかね/わが身は今ぞ/消え果てぬめる",
         "kana": "あひおもはで/かれぬるひとを/とどめかね/わがみはいまぞ/きえはてぬめる",
         "honkoku": "あひおもはてかれぬる人をととめかね/わか身はいまそきえはてぬめる/",
-        "translation-ja": "思いが通わないで離れてしまった人を、引きとめることができず、私の身は今、消え果てるようです。",
-        "translation-en": "I cannot stop the person who has left without my feelings reaching him, and I feel like I am dying now."
+        "translation-ja": "互いに思い合うことなく離れてしまった人を、引きとめることができず、私の身は今、消え果ててしまいそうだ。",
+        "translation-ja-natural": "愛し合うこともなく離れてしまったあの人を、引きとめることもできず、今の私はもう消えてしまいそう。",
+        "translation-en": "I could not stop the person who left without us thinking of each other, and now it seems that I will completely vanish.",
+        "translation-en-natural": "The one I loved left without us ever truly loving each other, and now I feel like I'm fading away."
       },
       {
-        "date": "20240612,20250128",
+        "date": "20240612,20250128,20250301",
         "id": 13,
         "text": "と書きて、そこにいたづらになりにけり。",
         "kana": "とかきて、そこにいたづらになりにけり。",
         "honkoku": "とかきてそこにいたつらになりにけり/s42r/",
-        "translation-ja": "と書いて、そこでむなしくなってしまいました。",
-        "translation-en": "After writing it, the woman became vain there."
+        "translation-ja": "と書いて、そこで命尽きてしまいました。",
+        "translation-ja-natural": "そう書き残して、その場で力尽きてしまいました。",
+        "translation-en": "After writing it, there she perished.",
+        "translation-en-natural": "After leaving those words behind, she collapsed there, never to rise again."
       }
     ]
   },
