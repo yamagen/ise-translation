@@ -2693,22 +2693,26 @@
     "romaji": "ahade neruyo",
     "paragraph": [
       {
-        "date": "20240613,20250130",
+        "date": "20240613,20250130,20250302",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、おとこありけり。",
         "honkoku": "昔おとこありけり",
         "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja-natural": "むかし、ある男がいた。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a certain man."
       },
       {
-        "date": "20240613,20250130",
+        "date": "20240613,20250130,20250302",
         "id": 2,
         "text": "あはじともいはざりける女の、さすがなりけるがもとにいひやりける。",
         "kana": "あはじともいはざりけるおんなの、さすがなりけるがもとにいひやりける。",
         "honkoku": "あはしともいはさり/けるをんなのさすかなりけるかもとに/いひやりける/",
-        "translation-ja": "逢おうとも、逢うまいともはっきり言わなかったが、いざとどうなるというところで、歌を詠んで贈った。",
-        "translation-en": "Although she did not clearly say whether she would meet him or not, he sent her a poem when it came to the point."
+        "translation-ja": "「逢わない」とも言わなかった女で、やはりそうであった女のもとへ詠んで送った。",
+        "translation-ja-natural": "「逢わない」とは言わなかったけれど、本当に会ってくれなかった女のもとへ、男は歌を詠んで送りました。",
+        "translation-en": "A woman who did not say, \"I will not see you,\" and who, after all, was as she was... to her, a poem was composed and sent.",
+        "translation-en-natural": "She never said, \"I won't see you,\" but as expected, she never did. Still, the man composed a poem and sent it to her."
       },
       {
         "date": "20240613,20250130",
