@@ -2715,31 +2715,37 @@
         "translation-en-natural": "She never said, \"I won't see you,\" but as expected, she never did. Still, the man composed a poem and sent it to her."
       },
       {
-        "date": "20240613,20250130",
+        "date": "20240613,20250130,20250302",
         "id": 3,
         "poem": "秋の野に/笹分けし朝の/袖よりも/あはで寝る夜ぞ/ひぢまさりける",
         "kana": "あきののに/ささわけしあさの/そでよりも/あはでねるよぞ/ひぢまさりける",
         "honkoku": "秋の野にささわけしあさの袖よりも/s42r/あはてぬるよそひちまさりける/",
-        "translation-ja": "秋の野で笹を分けての、朝の袖よりも、逢わないで寝る夜の方が、より濡れました。",
-        "translation-en": "I divided the bamboo grass in the autumn field, and the night I sleep without you is wetter than the morning sleeves."
+        "translation-ja": "秋の野で笹を分けた朝の袖よりも、逢わずに寝る夜のほうが、さらに濡れました。",
+        "translation-ja-natural": "秋の野で笹をかき分けて朝露に濡れた袖よりも、あなたに逢えずに過ごす夜のほうが、もっと涙で濡れています。",
+        "translation-en": "In the autumn field, I parted the bamboo grass, and yet the night I sleep alone is even wetter than my sleeves in the morning.",
+        "translation-en-natural": "In the autumn fields, I parted the bamboo grass, and my sleeves were damp with morning dew. But even more than that, the nights I spend without you are soaked with tears."
       },
       {
-        "date": "20240613,20250130",
+        "date": "20240613,20250130,20250302",
         "id": 4,
         "text": "色好みなる女、返し、",
         "kana": "いろこのみなるをんな、かえし、",
         "honkoku": "いろこのみなる女返し/",
-        "translation-ja": "色好みな女が、返すには、",
-        "translation-en": "The woman who liked colors sent back a poem."
+        "translation-ja": "色好みな女が、返して、",
+        "translation-ja-natural": "かの恋多き女は、返歌をよこしてきました。",
+        "translation-en": "The woman who was fond of love sent back.",
+        "translation-en-natural": "That love-loving woman sent back a reply poem."
       },
       {
-        "date": "20240613,20250130",
+        "date": "20240613,20250130,20250302",
         "id": 5,
         "poem": "みるめなき/わが身を浦と/知らねばや/離れなで海人の/足たゆく来る",
         "kana": "みるめなき/わがみをうらと/しらねばや/はなれなであまびとの/あしたゆくきたる",
         "honkoku": "見るめなき我身をうらとしらねはや/かれなてあまのあしたゆくくる/s42l/",
-        "translation-ja": "海松布のない、私の身を浦と知らないから、離れもせずに海人の足が疲れて来るのでしょうか。",
-        "translation-en": "I wonder if you do not know that I am like seagrass, and that is why you come with tired feet without leaving me."
+        "translation-ja": "海松布のない私の身を浦と知らないからでしょうか、離れずに海人の足が疲れてやって来るのは。",
+        "translation-ja-natural": "あらまあ、また私のところにヨロヨロ戻ってきたのね？足を引きずって疲れ果てた顔で。それも、私がただの海辺の女で、しかもあなたに対してまるで無情だってことも知らずに？",
+        "translation-en": "Is it because you do not know that my body is like a shore without seagrass, that you keep coming with weary feet, never leaving?",
+        "translation-en-natural": "So, you keep coming back, dragging your poor, exhausted feet, still unaware that I am nothing more than a shore without seaweed...and that I have no feelings for you?"
       }
     ]
   },
