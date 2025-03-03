@@ -2755,13 +2755,15 @@
     "romaji": "morokoshi fune",
     "paragraph": [
       {
-        "date": "20240614,20250131",
+        "date": "20240614,20250131,20250303",
         "id": 1,
         "text": "むかし、男五条わたりなりける女をえ得ずなりにける事とわびたりける、人の返り事に、",
         "kana": "むかし、をとこごじょうわたりなりけるをんなをええずなりにけることとわびたりける、ひとのかへりごとに、",
         "honkoku": "むかし男五条わたりなりける女をええす/なりけることとわひたりける人の返事に/",
-        "translation-ja": "昔、五条辺りに住む女を、得ることができなくなったことを悲しんでいる男が、ある人への返事に、",
-        "translation-en": "Once upon a time, a man who was sad since he could not marry a woman who lived around Gojo, replied to someone..."
+        "translation-ja": "昔、五条辺りに住んでいた女を、得ることができなくなったことを嘆いていた男が、ある人への返事に、",
+        "translation-ja-natural": "昔、五条のあたりに住んでいた女を手に入れられず、嘆いていた男が、とある人への返歌として、",
+        "translation-en": "Once upon a time, a man who lamented that he could not be with a woman who lived around Gojo replied to someone...",
+        "translation-en-natural": "Once upon a time, a man who lamented losing a woman in Gojo replied to someone with a poem..."
       },
       {
         "date": "20240614,20250131",
