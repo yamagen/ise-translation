@@ -2766,13 +2766,15 @@
         "translation-en-natural": "Once upon a time, a man who lamented losing a woman in Gojo replied to someone with a poem..."
       },
       {
-        "date": "20240614,20250131",
+        "date": "20240614,20250131,20250303",
         "id": 2,
         "poem": "思ほえず/袖にみなとの/騒ぐかな/もろこし舟の/寄りしばかりに",
         "kana": "おもほえず/そでにみなとの/さはぐかな/もろこしふねの/よりしばかりに",
         "honkoku": "おもほえず袖にみなとのさはくかな/もろこし舟のよりしはかりに/s42l/",
-        "translation-ja": "いきなり袖で湊が騒いでいて、唐船が湊に寄ってきたように。",
-        "translation-en": "Suddenly, on my sleeve, the harbor is noisy, as if a Chinese ship had approached the harbor."
+        "translation-ja": "思いがけず、袖が港のように騒いでいる。唐船が港に寄ったくらいで。",
+        "translation-ja-natural": "思いがけず、涙で濡れた袖がまるで港のように騒がしく感じます。まるで唐船が港に寄ったときのようです。",
+        "translation-en": "Unexpectedly, my sleeve is as noisy as a harbor, just because a Chinese ship has approached.",
+        "translation-en-natural": "Unexpectedly, my tear-soaked sleeve feels as noisy as a bustling harbor, just like when a Chinese ship arrives."
       }
     ]
   },
