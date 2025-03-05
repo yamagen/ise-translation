@@ -2784,49 +2784,59 @@
     "romaji": "tarahi no kage",
     "paragraph": [
       {
-        "date": "20240615,20250201",
+        "date": "20240615,20250201,20250305",
         "id": 1,
         "text": "むかし、男、女のもとにひと夜いきて、又もいかずなりにければ、",
         "kana": "むかし、をとこ、をんなのもとにひとよいきて、またもいかずなりにければ、",
         "honkoku": "昔おとこ女のもとにひと夜いきて又もい/s42l/かすなりにけれは",
-        "translation-ja": "昔、男が女のもとに一晩行って、また行かずにいると、",
-        "translation-en": "Once upon a time, a man went to a woman to spend a night, but he never went there again."
+        "translation-ja": "昔、男が女のもとにひと夜だけ行き、またも行かなくなったので、",
+        "translation-ja-natural": "昔、男がある女のもとにひと夜だけ訪れたが、その後はまたも訪れなくなってしまったので、",
+        "translation-en": "Once upon a time, a man went to a woman for one night only, but then again, he stopped going there.",
+        "translation-en-natural": "Once upon a time, a man visited a certain woman for just one night, but after that, he never went back again."
       },
       {
-        "date": "20240615,20250201",
+        "date": "20240615,20250201,20250305",
         "id": 2,
         "text": "女の手洗ふ所に、貫簀をうちやりて、たらひのかげに見えけるを、みづから、",
         "kana": "をんなのてあらふところに、かんすをうちやりて、たらひのかげにみえけるを、みづから、",
         "honkoku": "女のてあらふ所に/ぬきすをうちやりてたらひのかけに見え/けるをみつから/",
-        "translation-ja": "女が手を洗うところに、貫簀を退けていて、たらいの影が見えたので、自分で、",
-        "translation-en": "At the place where women wash their hands, and since the rack was removed, her face was reflected in the water of the basin, and she said to herself..."
+        "translation-ja": "女の手を洗うところで、貫簀を退けると、たらいの影に見えたのを、自分で、",
+        "translation-ja-natural": "女が手を洗う場所で、貫簀をさっと退けると、その影になにかが映るのが見えたので、自ら、",
+        "translation-en": "At the place where a woman washes her hands, when she moved aside the reed screen, something was visible in the shadow of the basin, and by herself,",
+        "translation-en-natural": "At the place where the woman was washing her hands, she swiftly moved aside the reed screen, and at that very moment, she saw something reflected in the shadow of the basin. Because of that, on her own..."
       },
       {
-        "date": "20240615,20250201",
+        "date": "20240615,20250201,20250305",
         "id": 3,
         "poem": "わればかり/もの思ふ人は/またもあらじと/思へば水の/下にもありけり",
         "kana": "わればかり/ものおもふひとは/またもあらじと/おもへばみずの/したにもありけり",
         "honkoku": "われはかり物思ふ人はまたもあらし/とおもへは水のしたにもありけり/",
-        "translation-ja": "私だけで、思い悩む人は、またもいないと、思っていたら、水の下にもいたのでした。",
-        "translation-en": "I thought there was no one as sad as me, but there was someone under the water."
+        "translation-ja": "私だけが、思い悩む人は、またもいないだろうと、そう思ってみると、水の下にもいたのだった。",
+        "translation-ja-natural": "自分だけが思い悩んでいるのだと思っていましたが、水の下にも同じように悩む者がいたのでした。",
+        "translation-en": "I alone thought there would be no one else like me, but when I thought so, I realized there was someone even beneath the water.",
+        "translation-en-natural": "I had thought that I was the only one suffering, but I came to realize that even beneath the water, there was someone else in sorrow."
       },
       {
-        "date": "20240615,20250201",
+        "date": "20240615,20250201,20250305",
         "id": 4,
         "text": "とよむを、来ざりける男、立ち聞きて、",
         "kana": "とよむを、きざりけるをとこ、たちききて、",
         "honkoku": "とよむをこさりけるおとこたちききて/",
         "translation-ja": "と詠むのを、来なかった男が立ち聞いて、",
-        "translation-en": "that she sang, the man who did not come and listened to her, sang,"
+        "translation-ja-natural": "彼女がそう詠んでいるのを、その来なかった男が立ち聞きして、",
+        "translation-en": "that she sang, the man who did not come stood and listened.",
+        "translation-en-natural": "As she sang those words, that man who had not come stood nearby, eavesdropping."
       },
       {
-        "date": "20240615,20250201",
+        "date": "20240615,20250201,20250305",
         "id": 5,
         "poem": "水口に/われや見ゆらむ/蛙さへ/水の下にて/もろ声に鳴く",
         "kana": "みなくちに/われやみゆらむ/かはづさへ/みづのしたにて/もろごえになく",
         "honkoku": "みなくちに我や見ゆらむかはつさへ/水のしたにてもろこゑになく/s43r/",
-        "translation-ja": "水口に私があらわれたのでしょう。蛙までもが、水の下で声を合せて鳴いているのです。",
-        "translation-en": "I appeared at the water's edge. Even the frogs are singing in unison under the water."
+        "translation-ja": "水口に私が見えているのだろうか。蛙までもが、水の下で声を合わせて鳴く。",
+        "translation-ja-natural": "水際に映るのは、もしかして私の姿なのでしょうか。水の下では、蛙たちまでもが声をそろえて鳴いています。",
+        "translation-en": "Am I visible at the water’s edge? Even the frogs sing in unison under the water.",
+        "translation-en-natural": "Could it be my reflection at the water's edge? Even beneath the water, the frogs are calling out in unison."
       }
     ]
   },
