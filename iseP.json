@@ -2846,22 +2846,26 @@
     "romaji": "afugokatami",
     "paragraph": [
       {
-        "date": "20240616,20250202",
+        "date": "20240616,20250202,20250305",
         "id": 1,
         "text": "むかし、色好みなりける女、出でていにければ、",
         "kana": "むかし、いろこのみなりけるをんな、いでていにければ、",
         "honkoku": "昔いろこのみなりける女いてていにけれは/",
-        "translation-ja": "昔、色好みな女が出て行ってしまったとき、",
-        "translation-en": "Once upon a time, a woman who liked colors went out of the house,..."
+        "translation-ja": "昔、色好みであった女が出て行ってしまったので、",
+        "translation-ja-natural": "昔、恋に生きた女が去ってしまったので、",
+        "translation-en": "Once upon a time, because a woman who was passionate in love left and was gone, ...",
+        "translation-en-natural": "Once upon a time, because a woman who lived for love left and was gone, ..."
       },
       {
-        "date": "20240616,20250202",
+        "date": "20240616,20250202,20250305",
         "id": 2,
         "poem": "などてかく/あふごかたみに/なりにけむ/水漏らさじと/結びしものを",
         "kana": "などてかく/あふごかたみに/なりにけむ/みづもらさじと/むすびしものを",
         "honkoku": "なとてかくあふこかたみになりにけん/水もらさしとむすひしものを/s44r/",
-        "translation-ja": "なぜこんなにも、逢うことが難しくなってしまった。水も漏らさないように、結び合わせたものを。",
-        "translation-en": "Why has it become so difficult to meet? We had a firm promise to love each other like not leaking water."
+        "translation-ja": "なぜこんなにも、逢いがたくなってしまったのだろうか。水を漏らすまいと、結んだのに。",
+        "translation-ja-natural": "どうしてこんなにも逢えなくなってしまったのでしょう。決して離れまいと誓い合ったのに。",
+        "translation-en": "Why has meeting become so difficult? We had made a firm vow, vowing not to let even a drop of water leak, and yet...",
+        "translation-en-natural": "Why has it become so hard for us to meet? We vowed never to part, and yet..."
       }
     ]
   },
