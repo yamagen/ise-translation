@@ -2875,13 +2875,15 @@
     "romaji": "hana no ga",
     "paragraph": [
       {
-        "date": "20240617,20250202",
+        "date": "20240617,20250202,20250306",
         "id": 1,
         "text": "むかし、春宮の女御の御方の花の賀に、めしあづけられたりけるに、",
         "kana": "むかし、しゅんぐうのにょうごのみかたのはなのがに、めしあづけられたりけるに、",
         "honkoku": "むかし東宮の女御の御かたのはなの賀に/めしあつけられたりけるに/",
-        "translation-ja": "昔、春宮の女御の御方の花の賀に、召しあずけられましたときに、",
-        "translation-en": "Once upon a time, when a man was invited to the celebration of flowers of the lady of the spring palace,..."
+        "translation-ja": "昔、春宮の女御の花の賀に、（ある人物が）呼ばれて役目を任されたときに、",
+        "translation-ja-natural": "むかし、春宮の女御の花の宴で、業平が呼ばれ、ある役目を任されたときのこと...",
+        "translation-en": "Once upon a time, when (someone) was summoned and entrusted with a role at the celebration of flowers of the lady of the spring palace,...",
+        "translation-en-natural": "Once upon a time, at the flower banquet of the Crown Prince’s consort, Narihira was summoned and given a certain role,..."
       },
       {
         "date": "20240617,20250202",
