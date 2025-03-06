@@ -2886,13 +2886,15 @@
         "translation-en-natural": "Once upon a time, at the flower banquet of the Crown Prince’s consort, Narihira was summoned and given a certain role,..."
       },
       {
-        "date": "20240617,20250202",
+        "date": "20240617,20250202,20250306",
         "id": 2,
         "poem": "花に飽かぬ/なげきはいつも/せしかども/今日のこよひに/似る時はなし",
         "kana": "はなにあかぬ/なげきはいつも/せしかども/きょうのこよひに/にるときはなし",
         "honkoku": "花にあかぬなけきはいつもせしかとも/けふのこよひににるときはなし/s44r/",
-        "translation-ja": "花に飽きることのない悲しみは、いつも感じていますが、今日の今宵に似た時はございません。",
-        "translation-en": "The sadness of parting with flowers is always remembered, but tonight is different from any other night."
+        "translation-ja": "花を見飽きることがない思いは、いつも抱いていましたが、今日の今宵に似た時はありません。",
+        "translation-ja-natural": "花を惜しむ気持ちはいつもありますが、今宵ほど心に残る夜はありません。",
+        "translation-en": "The feeling of never growing weary of flowers has always been with me, but there has never been a night like tonight.",
+        "translation-en-natural": "I have always felt reluctant to part with flowers, but never has a night lingered in my heart like this one."
       }
     ]
   },
