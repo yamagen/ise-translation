@@ -2904,22 +2904,26 @@
     "romaji": "hatsukanarikeru onna",
     "paragraph": [
       {
-        "date": "20240618,20250202",
+        "date": "20240618,20250202,20250307",
         "id": 1,
         "text": "むかし、男、はつかなりける女のもとに、",
         "kana": "むかし、おとこ、はつかなりけるをんなのもとに、",
         "honkoku": "昔おとこはつかなりける女のもとに/",
-        "translation-ja": "昔、男、なかなか逢えない女のところに、",
-        "translation-en": "Once upon a time, a man sang a song to a woman who he could not see as he wished."
+        "translation-ja": "昔、男、ほんの少ししか会えない女のもとに、",
+        "translation-ja-natural": "昔、男、なかなか会えない女のもとに、",
+        "translation-en": "Once upon a time, a man went to a woman whom he could only see for brief moments.",
+        "translation-en-natural": "Once upon a time, a man went to see a woman he longed to meet more often."
       },
       {
-        "date": "20240618,20250202",
+        "date": "20240618,20250202,20250307",
         "id": 2,
         "poem": "あふことは/玉の緒ばかり/おもほえて/つらき心の/ながく見ゆらむ",
         "kana": "あふことは/たまのをばかり/おもほえて/つらきこころの/ながくみゆらむ",
         "honkoku": "あふ事はたまのをはかりおもほえて/つらきこころのなかく見ゆらむ/s45r/",
-        "translation-ja": "逢うことは、玉の緒ほどのほんのわずかの間のように思われて、つらい心が長く感じられるようです。",
-        "translation-en": "Meeting you seems like a very short time, but my sad heart lasts long."
+        "translation-ja": "逢うことは、玉の緒ほどのほんのわずかの間のように思われて、つらい心が長く続いているように見える。",
+        "translation-ja-natural": "あなたと逢える時間は儚く短いのに、このつらい気持ちはいつまでも続くように思えます。",
+        "translation-en": "Meeting feels as brief as a jewel's string, yet a painful heart appears to last long.",
+        "translation-en-natural": "The time I spend with you feels fleeting, yet this pain seems to last forever."
       }
     ]
   },
