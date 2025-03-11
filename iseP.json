@@ -3046,36 +3046,42 @@
     "romaji": "komorie",
     "paragraph": [
       {
-        "date": "20240621,20250204",
+        "date": "20240621,20250204,20250310",
         "id": 1,
         "text": "むかし、男、津の国、菟原の郡にかよひける女、このたびいきては、又は来じと思へる気色なれば、男、",
         "kana": "むかし、をとこ、つのくに、うらのこおりにかよひけるをんな、このたびいきては、またはこじとおもへるけしきなれば、をとこ、",
-        "translation-ja": "昔、男が津の国の菟原の郡の女のところに通っていたが、女は、今度自分が帰ったら、もう二度と来ないと察している様子なので、",
-        "translation-en": "Once upon a time, a man went to see a woman in the Ubara county of Tsu prefecture, the man guessed that the woman would think he would not come again, so he..."
+        "translation-ja": "昔、男が摂津の国の菟原の郡の女のもとに通っていたが、今回訪れたら、もう二度と来ないと思っている様子なので、",
+        "translation-ja-natural": "昔、男は摂津の国の菟原の郡にいる女のもとへ通っていたが、今回訪れたとき、女が『この人はもう二度と来ないだろう』と思っていることに気づいたので、",
+        "translation-en": "Once upon a time, a man used to visit a woman in Ubara County of Settsu Province, and when he visited this time, she seemed to think that he would never come again, so he...",
+        "translation-en-natural": "Once upon a time, a man used to visit a woman in Ubara County of Settsu Province, but when he came this time, he realized that she believed he would never return, so he ..."
       },
       {
-        "date": "20240621,20250204",
+        "date": "20240621,20250204,20250310",
         "id": 2,
         "poem": "芦辺より/みち来るしほの/いやましに/君に心を/思ひますかな",
         "kana": "あしべより/みちくるしほの/いやましに/きみにこころを/おもひますかな",
-        "translation-ja": "蘆辺より満ちてくる潮のように、ますますあなたを思う心が深くなります。",
-        "translation-en": "Like the tide that comes from the reed shore, my love for you deepens more and more."
+        "translation-ja": "蘆辺に満ちる潮のように、いよいよ激しく、君への心を思う火も増していきますよ。",
+        "translation-en": "Like the tide rising from the reed shore, ever more intensely, my heart's flame of love for you grows stronger and stronger."
       },
       {
-        "date": "20240621,20250204",
+        "date": "20240621,20250204,20250311",
         "id": 3,
         "text": "返し、",
         "kana": "かへし、",
         "translation-ja": "返し、",
-        "translation-en": "The reply he sang,"
+        "translation-ja-natural": "返歌として、",
+        "translation-en": "The reply he sang,",
+        "translation-en-natural": "The reply he sang,"
       },
       {
-        "date": "20240621,20250204",
+        "date": "20240621,20250204,20250311",
         "id": 4,
         "poem": "こもり江に/思ふ心を/いかでかは/舟さす棹の/さして知るべき",
         "kana": "こもりゑに/おもふこころを/いかでかは/ふねさすさをの/さしてしるべき",
-        "translation-ja": "こもり江に思う心を、どうして知ることができようか。舟を漕ぐ棹のように、私の心を察しているのでしょうか。",
-        "translation-en": "How can you know my hidden feelings like the inlet? Do you understand my heart like the oar of a boat?"
+        "translation-ja": "こもり江に思う心を、どうして知ることができるでしょうか。舟をさす棹が、さして知ることができるでしょうか。",
+        "translation-ja-natural": "人目につかない入り江に秘めた私の心を、どうしてあなたが知ることができるでしょうか。舟を漕ぐ棹が水を指し示すように、あなたも私の心を察することができるのでしょうか。",
+        "translation-en": "The heart I think in the secluded inlet, how could it be known? Can the oar that guides the boat truly point to it and know?",
+        "translation-en-natural": "How could you ever know the heart I keep hidden in this secluded inlet? Can you truly understand my feelings, just as an oar, guiding a boat, points the way through the water?"
       },
       {
         "date": "20240621,20250204",
