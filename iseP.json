@@ -3084,12 +3084,14 @@
         "translation-en-natural": "How could you ever know the heart I keep hidden in this secluded inlet? Can you truly understand my feelings, just as an oar, guiding a boat, points the way through the water?"
       },
       {
-        "date": "20240621,20250204",
+        "date": "20240621,20250204,20250313",
         "id": 5,
         "text": "田舎人のことにては、よしやあしや。",
         "kana": "いなかびとのことにては、よしやあしや。",
-        "translation-ja": "田舎人の歌としては、よいのか、悪いのか。",
-        "translation-en": "As a countryman's song, is it good or bad?"
+        "translation-ja": "田舎人のこととしては、よいのか、悪いのか。",
+        "translation-ja-natural": "田舎の人の歌として、良いのか悪いのか...。",
+        "translation-en": "As for the matter of country people, is it good or bad?",
+        "translation-en-natural": "As for a country person's poem, is it good or bad...?"
       }
     ]
   },
