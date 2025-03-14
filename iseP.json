@@ -3141,21 +3141,25 @@
     "romaji": "awa o",
     "paragraph": [
       {
-        "date": "20240623,20250206",
+        "date": "20240623,20250206,20250315",
         "id": 1,
         "text": "むかし、心にもあらで絶えたる人のもとに、",
         "kana": "むかし、こころにもあらでたえたるひとのもとに、",
         "honkoku": "昔心にもあらてたえたる人のもとに/",
-        "translation-ja": "昔、意図せず、交流が絶えた人のもとに、",
-        "translation-en": "Once upon a time, a man sang a song to a woman with whom he had unintentionally lost contact."
+        "translation-ja": "昔、本意ではなく絶えた人のもとに、",
+        "translation-ja-natural": "昔、男は本意ではなく関係が途絶えた人のもとへ、",
+        "translation-en": "Once upon a time, a man went to see a woman with whom he had unwillingly lost contact.",
+        "translation-en-natural": "Once upon a time, a man, to someone with whom he had unwillingly lost touch..."
       },
       {
-        "date": "20240623,20250206",
+        "date": "20240623,20250206,20250315",
         "id": 2,
         "poem": "玉の緒を/沫緒によりて/むすべれば/絶えてののちも/逢はむとぞ思ふ",
         "kana": "たまのをを/あわをによりて/むすべれば/たえてののちも/あはむとぞおもふ",
-        "translation-ja": "玉の緒を泡緒に結びつけたように、二人の間が途切れたのちも、また逢いたいと思います。",
-        "translation-en": "Like the thread of a jewel tied to a bubble thread, I hope to meet you again even if our relationship has ended."
+        "translation-ja": "命の糸を、はかない泡の糸に寄せて結ぶので、たとえ途絶えた後も、あなたに逢おうと思います。",
+        "translation-ja-natural": "儚い泡の糸に命の糸を結ぶように、たとえ途切れても、あなたにまた逢いたいと思っています。",
+        "translation-en": "As I tie my life's thread to a fleeting bubble thread, even after it has broken, I still hope to see you again.",
+        "translation-en-natural": "Like tying my life's thread to a fleeting bubble, even if we are separated, I still long to see you again."
       }
     ]
   },
