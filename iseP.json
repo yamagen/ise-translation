@@ -3101,31 +3101,37 @@
     "romaji": "tsurenakarikeru hito",
     "paragraph": [
       {
-        "date": "20240622,20250205",
+        "date": "20240622,20250205,20250314",
         "id": 1,
         "text": "むかし、男、つれなかりける人のもとに、",
         "kana": "むかし、をとこ、つれなかりけるひとのもとに、",
         "honkoku": "むかしおとこつれなかりける人のもとに/",
-        "translation-ja": "昔、男が、冷たくしている人のところに、",
-        "translation-en": "Once upon a time, a man sent a song to a cold person."
+        "translation-ja": "昔、男が、そっけない人のところに、",
+        "translation-ja-natural": "昔、男はそっけない態度をとる人のもとに、",
+        "translation-en": "Once upon a time, a man went to a distant and indifferent person.",
+        "translation-en-natural": "Once upon a time, a man, to someone who treated him indifferently..."
       },
       {
-        "date": "20240622,20250205",
+        "date": "20240622,20250205,20250314",
         "id": 2,
         "poem": "いへばえに/いはねば胸に/騒がれて/心ひとつに/嘆くころかな",
         "kana": "いへばえに/いはねばむねに/さわがれて/こころひとつに/なげくころかな",
         "honkoku": "いへはえにいはねはむねにさはかれて/心ひとつになけくころかな/",
-        "translation-ja": "言おうとすれば言えず、言わなければ胸の中で騒がれて、心一つに嘆くばかりのこのごろです。",
-        "translation-en": "If I try to say it, I can't, and if I don't say it, my heart is in turmoil, and I just lament in my heart."
+        "translation-ja": "言おうとしても言えず、言わなければ、自然と胸に騒がれて、この勝手に騒ぐ心に嘆いている時なのだなあ。",
+        "translation-ja-natural": "言おうとしても言えず、言わなければ、自然と胸に騒がれて、この勝手に騒ぐ心に嘆いてばかりいます。",
+        "translation-en": "Even if I try to speak, I can't. If I stay silent, my heart stirs on its own, and this is truly a time of lamentation.",
+        "translation-en-natural": "Even if I try to speak, I can't. If I stay silent, my heart stirs on its own, and I find myself lamenting this restless heart of mine over and over again."
       },
       {
-        "date": "20240622,20250205",
+        "date": "20240622,20250205,20250314",
         "id": 3,
         "text": "おもなくていへるなるべし。",
         "kana": "おもなくていへるなるべし。",
         "honkoku": "おもなくていへるなるへし/s46r/",
-        "translation-ja": "厚かましく言ったものだろう。",
-        "translation-en": "He must have sung his painful heart without hesitation."
+        "translation-ja": "面目なく言ったのだろう。",
+        "translation-ja-natural": "おそらく、この歌自体も、言い出せないところを恥ずかしそうに切り出したのでしょう。",
+        "translation-en": "He must have spoken with a sense of shame.",
+        "translation-en-natural": "Perhaps, he hesitantly brought up even this poem, unsure if he should say it."
       }
     ]
   },
