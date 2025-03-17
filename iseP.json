@@ -3169,22 +3169,26 @@
     "romaji": "tamakazura",
     "paragraph": [
       {
-        "date": "20240624,20250206",
+        "date": "20240624,20250206,20250317",
         "id": 1,
         "text": "むかし、「忘れぬるなめり」と問ひ言しける女のもとに、",
         "kana": "むかし、「わすれぬるなめり」ととひことしけるをんなのもとに、",
         "honkoku": "むかしわすれぬるなめりととひことし/ける女のもとに/",
-        "translation-ja": "昔、「忘れてしまったようね」と、問うてきた女のもとに、",
-        "translation-en": "Once upon a time, a man sent a song to a woman who asked, \"Have you forgotten?\""
+        "translation-ja": "昔、「忘れてしまったようね」と言った女のもとに、",
+        "translation-ja-natural": "昔、「ねえ、忘れちゃったんでしょう？」と言ってきた女のもとへ、",
+        "translation-en": "Once upon a time, to the woman who said, 'It seems you have forgotten,'",
+        "translation-en-natural": "Once upon a time, to the woman who said, 'Hey, you've forgotten, haven't you?'"
       },
       {
-        "date": "20240624,20250206",
+        "date": "20240624,20250206,20250317",
         "id": 2,
         "poem": "谷せばみ/峯まではへる/玉かづら/絶えむと人に/わが思はなくに",
         "kana": "たにせばみ/みねまではへる/たまかづら/たえむとひとに/わがおもはなくに",
         "honkoku": "谷せはみみねまてはへるたまかつら/たえむと人にわかおもはなくに/s46l/",
-        "translation-ja": "谷が狭いので、峯まで這っている玉葛、絶えようという気持ちは人には持っていませんのに。",
-        "translation-en": "The beautiful vine that grows from the valley to the peak, I don't have the feeling of ending our relationship though, you.."
+        "translation-ja": "谷が狭くて、峯まで這っている玉葛のように、絶えようと思っている人に、私の思いはないのに。",
+        "translation-ja-natural": "谷が狭いからこそ、峰まで伸びていく玉葛のように、縁を断とうとしている人になんか、そもそも私は何とも思っちゃいないのに。",
+        "translation-en": "Because the valley is narrow, like the jewel vine creeping to the peak, to the one who thinks this bond will end, I have no feelings of love.",
+        "translation-en-natural": "Just like the jewel vine that stretches to the peak because the valley is narrow, to the one who speaks of severing our bond... well, I feel nothing at all."
       }
     ]
   },
