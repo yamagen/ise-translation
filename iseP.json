@@ -3198,49 +3198,59 @@
     "romaji": "shitahimo",
     "paragraph": [
       {
-        "date": "20240625,20250207",
+        "date": "20240625,20250207,20250318",
         "id": 1,
         "text": "むかし、男、色好みなりける女に逢へりけり。 ",
         "kana": "むかし、をとこ、いろこのみなりけるをんなにあへりけり。",
         "honkoku": "昔おとこいろこのみなりける女にあへり/けり",
-        "translation-ja": "昔、男が、色好みな女に逢いました。",
-        "translation-en": "Once upon a time, a man met a lustful woman."
+        "translation-ja": "昔、男が、色好みであった女に逢った。",
+        "translation-ja-natural": "昔、男が恋愛好きな女に出会いました。",
+        "translation-en": "Once upon a time, a man met a woman who was fond of romance.",
+        "translation-en-natural": "Once upon a time, a man met a woman who loved romance."
       },
       {
-        "date": "20240625,20250207",
+        "date": "20240625,20250207,20250318",
         "id": 2,
         "text": "うしろめたくや思ひけむ、",
         "kana": "うしろめたくやおもひけむ、",
         "honkoku": "うしろめたくやおもひけん/s46l/",
-        "translation-ja": "男は、後ろめたく思ったのか、",
-        "translation-en": "The man was worried about the woman,.."
+        "translation-ja": "後ろめたく思ったのだろうか。",
+        "translation-ja-natural": "気がかりに思ったのだろうか...",
+        "translation-en": "Did he feel uneasy about it?",
+        "translation-en-natural": "I wonder if he felt uneasy..."
       },
       {
-        "date": "20240625,20250207",
+        "date": "20240625,20250207,20250318",
         "id": 3,
         "poem": "我ならで/下紐解くな/朝顔の/夕影待たぬ/花にはありとも",
         "kana": "われならで/したひもとくな/あさがおの/ゆふかげまたぬ/はなにはありとも",
         "honkoku": "我ならてしたひもとくなあさかほの/ゆふかけまたぬ花にはありとも/",
-        "translation-ja": "私以外の男に、下紐を解いてはなりません。朝顔がタベを待たないの花であっても。",
-        "translation-en": "You must not untie the lower string for anyone other than me, even if your heart is like a morning glory that does not wait for the evening shadow."
+        "translation-ja": "私以外の者に、下紐を解いてはなりません。たとえ、朝顔のように夕影を待たない花であっても。",
+        "translation-ja-natural": "私以外の人に、下紐を解かないでください。たとえ、朝顔の花のように、夜を待たずにしぼむとしても。",
+        "translation-en": "Do not untie your lower sash for anyone but me, even if you are like a morning glory that does not wait for the evening shadow.",
+        "translation-en-natural": "Do not untie your sash for anyone but me, even if, like a morning glory, you wither before night falls."
       },
       {
-        "date": "20240625,20250207",
+        "date": "20240625,20250207,20250318",
         "id": 4,
         "text": "返し、",
         "kana": "かへし、",
         "honkoku": "返し/",
         "translation-ja": "返しの歌、",
-        "translation-en": "The reply she sang,"
+        "translation-ja-natural": "返しの歌、",
+        "translation-en": "The reply she sang,",
+        "translation-en-natural": "The reply she sang,"
       },
       {
-        "date": "20240625,20250207",
+        "date": "20240625,20250207,20250318",
         "id": 5,
         "poem": "ふたりして/結びし紐を/ひとりして/あひ見るまでは/解かじとぞ思ふ",
         "kana": "ふたりして/むすびしひもを/ひとりして/あひみるまでは/とかじとぞおもふ",
         "honkoku": "ふたりしてむすひしひもをひとりして/あひ見るまてはとかしとそ思ふ/s47r/",
-        "translation-ja": "二人で結んだ下紐を、一人では、また逢うまで解かないと思います。",
-        "translation-en": "I think I will never untie the lower string only by myself until we meet again."
+        "translation-ja": "二人で結んだ紐を、一人ではなく、互いに逢うまでは解くまいと強く思う。",
+        "translation-ja-natural": "二人で結んだこの紐は、一人では解きません、あなたとまた逢うまでは。",
+        "translation-en": "The string we tied together, I will not untie it alone until we meet again.",
+        "translation-en-natural": "The string we tied together, I won’t untie it alone—not until I see you again."
       }
     ]
   },
