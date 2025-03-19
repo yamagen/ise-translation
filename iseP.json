@@ -3260,42 +3260,48 @@
     "romaji": "koi to iu",
     "paragraph": [
       {
-        "date": "20240626,20250208",
+        "date": "20240626,20250208,20250319",
         "id": 1,
         "text": "むかし、紀有常がり行きたるに、歩りきて遅く来けるに、よみてやりける。",
         "kana": "むかし、きありつねがりゆきたるに、ありきておそくきけるに、よみてやりける。",
         "honkoku": "むかし紀のありつねかりいきたるにあり/きてをそくきけるによみてやりける/",
         "translation-ja": "昔、紀有常のところに行ったときに、出歩いて、なかなか来なかったので、歌を詠んで贈った。",
-        "translation-ja-natural": "あるとき、紀有常のもとを訪ねたが、有常はあちこち歩き回っていて、なかなか来なかった。そこで、男は歌を詠んで贈った。",
-        "translation-en": "Once upon a time, when a man went to see Ki no Aritsune, Aritsune wandered around and did not come for a long time, so the man composed a poem and sent it to him.",
-        "translation-en-natural": "Once, when a man went to visit Ki no Aritsune, Aritsune wandered around and took a long time to arrive. So, the man composed a poem and sent it to him."
+        "translation-ja-natural": "あるとき、紀有常のもとを訪ねたが、有常は出歩いていて、なかなか戻ってこなかった。そこで、男は歌を詠んで贈った。",
+        "translation-en": "Once upon a time, when a man went to see Ki no Aritsune, Aritsune was out walking and did not come for a long time, so the man composed a poem and sent it to him.",
+        "translation-en-natural": "Once, when a man went to visit Ki no Aritsune, Aritsune was out and took a long time to return. So, the man composed a poem and sent it to him."
       },
       {
-        "date": "20240626,20250208",
+        "date": "20240626,20250208,20250319",
         "id": 2,
         "poem": "君により/思ひならひぬ/世の中は/人はこれをや/恋とやいふらむ",
         "kana": "きみにより/おもひならひぬ/よのなかは/ひとはこれをや/こひとやいふらむ",
         "honkoku": "きみにより思ひならひぬ世の中の/人はこれをやこひといふらむ/／s47r/",
-        "translation-ja": "君によって、思いを習いましたよ。世の中の人はこれを恋と言うのでしょうね。",
-        "translation-en": "I have learned a feeling from you. People in the world call this love."
+        "translation-ja": "あなたによって、思いを習った。世の中は、人はこれを恋というのでだろうか。",
+        "translation-ja-natural": "あなたを想ううちに、この気持ちを知りました。世の中の人はこれを恋と呼ぶのでしょうか。",
+        "translation-en": "Because of you, I have learned this feeling. In this world, do people call this love?",
+        "translation-en-natural": "Through thinking of you, I have come to understand this feeling. Is this what people call love?"
       },
       {
-        "date": "20240626,20250208",
+        "date": "20240626,20250208,20250319",
         "id": 3,
         "text": "返し、",
         "kana": "かへし、",
         "honkoku": "返し/",
         "translation-ja": "返し、",
-        "translation-en": "The reply he sang,"
+        "translation-ja-natural": "返し、",
+        "translation-en": "The reply he sang,",
+        "translation-en-natural": "The reply he sang,"
       },
       {
-        "date": "20240626,20250208",
+        "date": "20240626,20250208,20250319",
         "id": 4,
         "poem": "ならはねば/世の人ごとに/なにをかも/恋とはいふと/問ひし我しも",
         "kana": "ならはねば/よのひとごとに/なにをかも/こひとはいふと/とひしわれしも",
         "honkoku": "ならはねは世の人ことになにをかも/こひとはいふととひしわれしも/s47l/",
-        "translation-ja": "私は恋を経験していないので、世の人が、何を「恋」というのかと、私も、あなたにおたずねしたのです。",
-        "translation-en": "I have not learned love, so I asked you what people call \"love.\""
+        "translation-ja": "恋を習わないので、世の人毎に何を恋というのかと尋ねたのは私だったのに。",
+        "translation-ja-natural": "私は恋というものを知らなかったから、世の人に何を恋と呼ぶのかと、尋ねたのは私の方だったのに。",
+        "translation-en": "Since I have not learned love, I was the one who asked what people call 'love.'",
+        "translation-en-natural": "Since I did not know what love was, I was the one who asked people what they called love."
       }
     ]
   },
