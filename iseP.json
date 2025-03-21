@@ -3366,57 +3366,68 @@
         "translation-en-natural": "As he continued crying, his tears finally began to subside. Meanwhile, Minamoto no Itaru, a notorious womanizer known throughout the land, was also watching. Seeing this carriage as one meant for women, he approached and began flirting, making advances in a suggestive manner."
       },
       {
-        "date": "20240627,20250209",
+        "date": "20240627,20250209,20250321",
         "id": 6,
         "text": "かの至、蛍をとりて女の車に入れたりけるを、車なりける人、この蛍のともす火にや見ゆらむ、ともし消ちなむずるとて、乗れる男のよめる。",
         "kana": "かのいたる、ほたるをとりてをんなのくるまにいれたりけるを、くるまなりけるひと、このほたるのともすひにやみゆらむ、ともしきちなむずるとて、のれるをとこのよめる。",
         "honkoku": "かのいたるほ/たるをとりて女のくるまにいれたりける/をくるまなりける人このほたるのともす/火にや見ゆらんともしけちなんする/そののるおとこのよめる/s48r/",
-        "translation-ja": "その至は、蛍をとって、女のいる車に入れたので、この蛍のともす灯で見えるかもしれない、この灯を消そうと乗っていた男が詠んだ。",
-        "translation-en": "Minamoto no Itaru brought a firefly and put it in the carriage where the man was, so the man who was riding the carriage sang a song to put out the light of the firefly."
+        "translation-ja": "かの至が蛍をとって女の車に入れたのを、車の中にいた人が、この蛍のともす火で中が見えてしまうのだろうかと思い、火を消してしまおうとして、乗っていた男が詠んだ。",
+        "translation-ja-natural": "源の至が蛍をとって女車に入れてきたので、車の中にいた男は、この蛍の光で見られてしまうのではないかと不安になり、火を消そうとして、歌を詠みました。",
+        "translation-en": "When Minamoto no Itaru caught a firefly and placed it into the woman's carriage, the man inside thought, 'Will I be seen by the light of this firefly?' Worried about being exposed, he tried to extinguish the light and composed a poem.",
+        "translation-en-natural": "Minamoto no Itaru caught a firefly and placed it inside the woman's carriage. The man inside, feeling uneasy that he might be seen in its light, tried to put it out and composed a poem."
       },
       {
-        "date": "20240627,20250209",
+        "date": "20240627,20250209,20250321",
         "id": 7,
         "poem": "出でていなば/かぎりなるべみ/ともしけち/年へぬるかと/なく声を聞け",
         "kana": "いでていなば/かぎりなるべみ/ともしけち/とせぬるかと/なくこゑをきけ",
         "honkoku": "いてていなはかきりなるへみともしけち/としへぬるかとなくこゑをきけ/",
-        "translation-ja": "出てしまったならば、これが最後でしょうから、灯が消え、命が終ったと、泣く声をお聞きなさい。",
-        "translation-en": "The coffin comes out, and then it will be the end, so listen to the voices of the people crying and mourning the end of the life."
+        "translation-ja": "出て行ってしまえば、最期であるだろうから、灯を消して、年が過ぎたのかと泣く声を聞いてくれ。",
+        "translation-ja-natural": "これでもう終わりでしょう。だから、灯を消して...年月が過ぎたんだとでも思って、泣き声を聞いていなさい。",
+        "translation-en": "When I go out, that will be the end. So put out the light...and listen to the crying, as if mourning all the years that have passed."
       },
       {
-        "date": "20240627,20250209",
+        "date": "20240627,20250209,20250321",
         "id": 8,
         "text": "かの至、返し、",
         "kana": "かのいたる、かえし、",
         "honkoku": "かのいたるかへし/",
-        "translation-ja": "返し、",
-        "translation-en": "The reply he sang,"
+        "translation-ja": "かの至の返し、",
+        "translation-ja-natural": "そのとき、源至が返した歌は、",
+        "translation-en": "Itaru's reply,",
+        "translation-en-natural": "And then, the poem Itaru sent in return was:"
       },
       {
         "date": "20240627,20250209",
         "id": 9,
         "poem": "いとあはれ/なくぞ聞ゆる/ともしけち/消ゆるものとも/我は知らずな",
         "kana": "いとあはれ/なくぞきこゆる/ともしけち/きゆるものとも/わはしらずな",
-        "translation-ja": "とてもあわれです。泣き声が聞こえ、灯りが消えても、私は知らない。",
-        "translation-en": "It is very sad. Even if I hear the crying voice and the light of the fireflies go out, I will not care."
+        "translation-ja": "とてもあはれに泣く声が聞こえる。灯が消えるというもののことも、私は知らないよ。",
+        "translation-ja-natural": "なんともあわれな泣き声が聞こえてくる。でも、灯が消えたって、そんなこと、僕はもう知らないよ。",
+        "translation-en": "So sorrowful the sound of weeping I hear. Even if the light is extinguished, I will know nothing of it.",
+        "translation-en-natural": "How pitiful the sound of weeping... But the light has gone out—and as for that, I no longer care to know."
       },
       {
-        "date": "20240627,20250209",
+        "date": "20240627,20250209,20250321",
         "id": 10,
         "text": "天下の色好みの歌にては、なほぞありける。",
         "kana": "あまのしたのいろごのみのうたにては、なほぞありける。",
         "honkoku": "あめのしたのいろこのみのうたにて/は猶そありける/",
-        "translation-ja": "天下の色好みの歌としては、まだまだある。",
-        "translation-en": "It was a common song by one of the best woman lovers in this world. "
+        "translation-ja": "天下の色好みの歌としては、やっぱり...だったなあ。",
+        "translation-ja-natural": "あの天下一の色好みの歌だと思えば...まあ、そんなものだったんですね。",
+        "translation-en": "For a song by the greatest lover under the heavens... well, that was how it was.",
+        "translation-en-natural": "So that was his song...coming from the greatest lover under heaven... well, it was what it was."
       },
       {
-        "date": "20240627,20250209",
+        "date": "20240627,20250209,20250321",
         "id": 11,
         "text": "至は順が祖父なり。",
         "kana": "いたるはしたがふがそふなり。",
         "honkoku": "いたるはしたかふかおほちなり",
         "translation-ja": "至は順の祖父である。",
-        "translation-en": "Itaru's grandfather is Shitagofu."
+        "translation-ja-natural": "なお、至は順の祖父にあたる。",
+        "translation-en": "Itaru is Shitagofu's grandfather.",
+        "translation-en-natural": "Itaru was the grandfather of Shitagofu."
       },
       {
         "date": "20240627,20250209",
@@ -3424,8 +3435,10 @@
         "text": "みこの本意なし。",
         "kana": "みこのほいなし。",
         "honkoku": "みこ/のほいなし/s48l/",
-        "translation-ja": "ご本心ではない。",
-        "translation-en": "This song does not express his true feelings."
+        "translation-ja": "皇女の本意ではない。",
+        "translation-ja-natural": "皇女も、こんな騒ぎは望んでおられなかっただろうに。",
+        "translation-en": "This was not the princess's true intention.",
+        "translation-en-natural": "Surely, the princess would never have wanted such nonsense at her own funeral."
       }
     ]
   },
