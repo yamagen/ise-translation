@@ -3398,7 +3398,7 @@
         "translation-en-natural": "And then, the poem Itaru sent in return was:"
       },
       {
-        "date": "20240627,20250209",
+        "date": "20240627,20250209,20250321",
         "id": 9,
         "poem": "いとあはれ/なくぞ聞ゆる/ともしけち/消ゆるものとも/我は知らずな",
         "kana": "いとあはれ/なくぞきこゆる/ともしけち/きゆるものとも/わはしらずな",
@@ -3408,7 +3408,7 @@
         "translation-en-natural": "How pitiful the sound of weeping... But the light has gone out—and as for that, I no longer care to know."
       },
       {
-        "date": "20240627,20250209,20250321",
+        "date": "20240627,20250209,20250322",
         "id": 10,
         "text": "天下の色好みの歌にては、なほぞありける。",
         "kana": "あまのしたのいろごのみのうたにては、なほぞありける。",
@@ -3419,7 +3419,7 @@
         "translation-en-natural": "So that was his song...coming from the greatest lover under heaven... well, it was what it was."
       },
       {
-        "date": "20240627,20250209,20250321",
+        "date": "20240627,20250209,20250322",
         "id": 11,
         "text": "至は順が祖父なり。",
         "kana": "いたるはしたがふがそふなり。",
@@ -3430,7 +3430,7 @@
         "translation-en-natural": "Itaru was the grandfather of Shitagofu."
       },
       {
-        "date": "20240627,20250209",
+        "date": "20240627,20250209,20250322",
         "id": 12,
         "text": "みこの本意なし。",
         "kana": "みこのほいなし。",
@@ -3448,76 +3448,92 @@
     "romaji": "sukeru mono omoi",
     "paragraph": [
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250323",
         "id": 1,
         "text": "むかし、若き男、けしうはあらぬ女を思ひけり。",
         "kana": "むかし、わかきをとこ、けしうはあらぬをんなをおもひけり。",
         "honkoku": "昔わかきおとこけしうはあらぬ女を/思ひけり",
-        "translation-ja": "昔、若い男が、召使いの女に思いを寄せていた。",
-        "translation-en": "Once upon a time, a young man was in love with a servant woman."
+        "translation-ja": "昔、若い男が、悪くはない女を思っていた。",
+        "translation-ja-natural": "昔、若い男が、少々魅力的な女性に心を寄せていました。",
+        "translation-en": "Once upon a time, a young man thought of a woman who was not unattractive.",
+        "translation-en-natural": "Once upon a time, a young man fell for a woman who had a certain charm about her."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250323",
         "id": 2,
         "text": "さかしらする親ありて、思ひもぞつくとて、この女をほかへ追ひやらむとす。",
         "kana": "さかしらするおやありて、おもひもぞつくとて、このをんなをほかへおひやらむとす。",
         "honkoku": "さかしらするおやありて思ひ/もそつくとてこの女をほかへをひやらん/とす",
-        "translation-ja": "出過ぎた親が、娘と男が恋愛関係になるのではないかと心配して、この娘を他の場所へ追いやろうと考えました。",
-        "translation-en": "She has parents who are so worried about their daughter who will be in love with a man, so they try to move her to another place."
+        "translation-ja": "利口ぶる親がいて、思いが通じたりするといけないと言って、この女を他へ追いやろうとした。",
+        "translation-ja-natural": "娘が恋をしてしまうのではと考えた、過保護な親が、自分の娘をどこかへ隠そうとしたのです。",
+        "translation-en": "There were overwise parents who, fearing that love might arise, sought to send the woman away.",
+        "translation-en-natural": "Worried that their daughter might fall in love, her overprotective parents tried to send her away and keep her out of sight."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250323",
         "id": 3,
         "text": "さこそいへ、まだ追ひやらず。",
         "kana": "さこそいへ、まだおひやらず。",
         "honkoku": "さこそいへまたをいやらす",
         "translation-ja": "そうは言っても、まだ追い出してはいない。",
-        "translation-en": "However, they have not moved her yet."
+        "translation-ja-natural": "とはいえ、まだ追い出してはいませんでした。",
+        "translation-en": "However, they have not moved her yet.",
+        "translation-en-natural": "Even so, they hadn't sent her away yet."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250323",
         "id": 4,
         "text": "人の子なれば、まだ心いきほひなかりければ、とどむるいきほひなし。",
         "kana": "ひとのこなれば、まだこころいきほひなかりければ、とどむるいきほひなし。",
         "honkoku": "ひとのこ/なれはまた心いきおひなかりけれはとと/むるいきおひなし",
-        "translation-ja": "人の子であるし、まだ心の勢いはなかったので、引き止める勢いはありませんでした。",
-        "translation-en": "As a human being, he has not yet moved his heart, so he has no intention of stopping."
+        "translation-ja": "人の子であったので、まだ心の勢いもなく、引き止める力もなかった。",
+        "translation-ja-natural": "ただの若者で、まだ心の力も弱く、引き止めることもできなかったのです。",
+        "translation-en": "Being just a man of no standing, and still lacking strength of heart, he had no power to stop it.",
+        "translation-en-natural": "He was just a young man, still lacking the resolve, with no strength to hold her back."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250323",
         "id": 5,
         "text": "女もいやしければ、すまふ力なし。",
         "kana": "をんなもいやしければ、すまふちからなし。",
         "honkoku": "をんなもいやし/けれはすまふちからなし",
-        "translation-ja": "女も貧しいので、住む力もありませんでした。",
-        "translation-en": "The woman is also a low-ranking person, so she has no power to live."
+        "translation-ja": "女も身分が低かったので、逆らう力がなかった。",
+        "translation-ja-natural": "女性も身分が低かったので、抵抗する力がありませんでした。",
+        "translation-en": "The woman, being of low status, had no power to resist.",
+        "translation-en-natural": "The woman, being of low status, had no power to resist as well."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250324",
         "id": 6,
         "text": "さる間に思ひはいやまさりにまさる。",
         "kana": "さるまにおもひはいやまさりにまさる。",
         "honkoku": "さるあひたに/おもひはいやまさりにまさる",
-        "translation-ja": "その間に思いはだんだん募ってきます。",
-        "translation-en": "While he is thinking about her, his love for her grows stronger and stronger."
+        "translation-ja": "そのような間に、思いはますます増していく。",
+        "translation-ja-natural": "そうしているうちに、彼の思いはどんどん募っていった。",
+        "translation-en": "In that time, his feelings increased ever more and more.",
+        "translation-en-natural": "And so, his feelings for her only grew stronger with time."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250324",
         "id": 7,
         "text": "にはかに親この女を追ひうつ。",
         "kana": "にはかにおやこのをんなをおひうつ。",
         "honkoku": "にはかにお/やこの女ををひうつ",
-        "translation-ja": "急に、親は、この女を追い出してしまいました。",
-        "translation-en": "The parents suddenly move her out."
+        "translation-ja": "突然、親がこの女を追い出した。",
+        "translation-ja-natural": "ある日突然、親が彼女を家から追い出してしまったのです。",
+        "translation-en": "Suddenly, her parents drove her out.",
+        "translation-en-natural": "Then one day, out of nowhere, her parents cast her out of the house."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250324",
         "id": 8,
         "text": "男、血の涙をながせども、とどまるよしなし。",
         "kana": "をとこ、ちのなみたをながせども、とどまるよしなし。",
         "honkoku": "おとこちの涙をなか/s49r/せともととむるよしなし",
-        "translation-ja": "男は、血の涙を流しても、留める理由がありません。",
-        "translation-en": "The man shed tears of blood, but there was no way to stop her to leave."
+        "translation-ja": "男は血の涙を流したけれども、引き止める手立てがなかった。",
+        "translation-ja-natural": "男は血の涙を流して悲しみましたが、それでも彼女を引き止めるすべはありませんでした。",
+        "translation-en": "The man shed tears of blood, but he had no means to make her stay.",
+        "translation-en-natural": "The man wept tears of blood in grief, but still, there was nothing he could do to stop her."
       },
       {
         "date": "20240628,20250209",
