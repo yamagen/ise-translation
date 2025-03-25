@@ -3536,22 +3536,26 @@
         "translation-en-natural": "The man wept tears of blood in grief, but still, there was nothing he could do to stop her."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250325",
         "id": 9,
         "text": "率て出でていぬ。",
         "kana": "ゐていでていぬ。",
         "honkoku": "ゐていてていぬ/",
-        "translation-ja": "誰かに連れられて出ていってしまいました。",
-        "translation-en": "Someone took her and left the house."
+        "translation-ja": "連れて出て行ってしまった。",
+        "translation-ja-natural": "誰かに連れられて、出て行ってしまいました。",
+        "translation-en": "Went out taking someone along.",
+        "translation-en-natural": "She was taken away."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250325",
         "id": 10,
         "text": "男泣く泣くよめる。",
         "kana": "をとこなくなくよめる。",
         "honkoku": "おとこなくなくよめる/",
         "translation-ja": "男は、泣きながら詠んだ。",
-        "translation-en": "The man sang while crying."
+        "translation-ja-natural": "男は、涙をこらえながら歌を詠みました。",
+        "translation-en": "The man sang while crying.",
+        "translation-en-natural": "The man composed a poem through tears."
       },
       {
         "date": "20240628,20250209",
@@ -3559,26 +3563,32 @@
         "poem": "いでていなば/誰か別れの/かたからぬ/ありしにまさる/けふは悲しも",
         "kana": "いでていなば/たれかわかれの/かたからぬ/ありしにまさる/けふはかなしも",
         "honkoku": "いてていなはたれか別のかたからん/ありしにまさるけふはかなしも/",
-        "translation-ja": "出て行ってしまったのなら、誰も別れは難しくない。今迄よりもずっと悲しさが勝っています、今日の悲しみは。",
-        "translation-en": "If she leaves by herself, it would not be so hard to say goodbye. But, the sadness today is more than ever before."
+        "translation-ja": "出て行ってしまったなら、誰がこの別れをつらくないと思うだろうか。以前にも増して、今日は悲しい。",
+        "translation-ja-natural": "彼女が出て行ってしまったなら、誰がこの別れを平気でいられるだろうか。これまでよりも、今日はひときわ悲しい。",
+        "translation-en": "If she leaves, who would not find parting hard? Compared to before, today is even more sorrowful.",
+        "translation-en-natural": "If she has left, how could anyone not feel the pain of parting? Today is even sadder than any day before."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250325",
         "id": 12,
         "text": "とてよみて絶え入りにけり。",
         "kana": "とてよみてたえいりにけり。",
         "honkoku": "とよみてたえいりにけり",
         "translation-ja": "そう詠んで、気を失ってしまいました。",
-        "translation-en": "He sang and fainted."
+        "translation-ja-natural": "詠んでいるうちに、気を失ってしまいました。",
+        "translation-en": "He sang and fainted.",
+        "translation-en-natural": "He fainted while singing."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250325",
         "id": 13,
         "text": "親あわてにけり。",
         "kana": "おやあわてにけり。",
         "honkoku": "おやあはてに/けり",
-        "translation-ja": "親はうろたえてしまいました。",
-        "translation-en": "His parents are very embarrassed"
+        "translation-ja": "親はうろたえてしまった。",
+        "translation-ja-natural": "親は驚いて取り乱してしまいました。",
+        "translation-en": "The parent panicked.",
+        "translation-en-natural": "His mother was so shocked, she lost her composure."
       },
       {
         "date": "20240628,20250209",
