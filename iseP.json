@@ -3591,44 +3591,52 @@
         "translation-en-natural": "His mother was so shocked, she lost her composure."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250326",
         "id": 14,
         "text": "なほ思ひてこそいひしか、いとかくしもあらじと思ふに、真実に絶え入りにければ、",
         "kana": "なほおもひてこそいひしか、いとかくしもあらじとおもふに、しんじちにたえいりにければ、",
         "honkoku": "なをおもひてこそいひしかいと/かくしもあらしとおもふにしむしちに/たえいりにけれは",
         "translation-ja": "子を思ってこそ言ったのだが、こんなことにはならないだろうと思ったのに、本当に息絶え絶えになってしまったので、",
-        "translation-en": "They suggested that he should break with the woman, and he was really out of breath, so they were embarrassed and made a wish."
+        "translation-ja-natural": "子どものことを思って言ったのに、まさか本当にこんなことになるなんて...気が遠くなるほどつらそうでした。",
+        "translation-en": "He said it because he still cared, but thinking it would not come to this—he truly became faint with suffering.",
+        "translation-en-natural": "He said it out of love for the child, never imagining things would turn out like this... He looked as if the pain was too much to bear."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250326",
         "id": 15,
         "text": "まどひて願立てけり。",
         "kana": "まどひてねがいたてけり。",
         "honkoku": "まとひて願たてけり/",
         "translation-ja": "困ってしまい、願いを立てました。",
-        "translation-en": "He was confused and made a wish."
+        "translation-ja-natural": "あまりに取り乱して、ついには神さまに願をかけてしまいました。",
+        "translation-en": "He was confused and made a wish.",
+        "translation-en-natural": "Overwhelmed and at a loss, he ended up making a vow to the gods."
       },
       {
-        "date": "20240628,20250209",
-        "id": 14,
+        "date": "20240628,20250209,20250326",
+        "id": 16,
         "text": "今日の入相ばかりに絶え入りて、",
         "kana": "けふのいりあいばかりにたえいりて、",
         "honkoku": "けふのいりあひはかりにたえいりて",
         "translation-ja": "今日の日暮れごろに気絶して、",
-        "translation-en": "He fainted around sunset today,"
+        "translation-ja-natural": "ちょうど今日の日暮れごろ、息も絶え絶えになってしまいまして、",
+        "translation-en": "He fainted around sunset today,",
+        "translation-en-natural": "Around sunset today, he grew faint, as if his breath were slipping away,..."
       },
       {
-        "date": "20240628,20250209",
-        "id": 15,
+        "date": "20240628,20250209,20250326",
+        "id": 17,
         "text": "又の日の戌の時ばかりになむ、",
         "kana": "またのひのいぬのときばかりになむ、",
         "honkoku": "又の/s49l/日のいぬのときはかりになむ",
         "translation-ja": "翌日の戌の時ごろになって、",
-        "translation-en": "around the time of the dog on the next day,"
+        "translation-ja-natural": "翌日の夕方遅く、戌の刻ごろのことでした。",
+        "translation-en": "around the time of the dog on the next day,",
+        "translation-en-natural": "It was late in the evening the next day, around what they called the Hour of the Dog."
       },
       {
         "date": "20240628,20250209",
-        "id": 16,
+        "id": 18,
         "text": "辛うじていき出でたりける。",
         "kana": "つらうじていきいでたりける。",
         "honkoku": "からうして/いきいてたりける",
@@ -3637,7 +3645,7 @@
       },
       {
         "date": "20240628,20250209",
-        "id": 17,
+        "id": 19,
         "text": "むかしの若人は、さる好けるもの思ひをなむしける。",
         "kana": "むかしのわかうどは、さるすけるものおもひをなむしける。",
         "honkoku": "むかしのわか人はさる/すける物おもひをなんしける",
@@ -3646,7 +3654,7 @@
       },
       {
         "date": "20240628,20250209",
-        "id": 18,
+        "id": 20,
         "text": "今のおきな、まさにしなむや。",
         "kana": "いまのおきな、まさにしなむや。",
         "honkoku": "いまのお/きなまさにしてんや/s50r/",
