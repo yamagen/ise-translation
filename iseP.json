@@ -3635,31 +3635,37 @@
         "translation-en-natural": "It was late in the evening the next day, around what they called the Hour of the Dog."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250327",
         "id": 18,
         "text": "辛うじていき出でたりける。",
         "kana": "つらうじていきいでたりける。",
         "honkoku": "からうして/いきいてたりける",
-        "translation-ja": "かろうじて生き返った。",
-        "translation-en": "He finally came back to life."
+        "translation-ja": "かろうじて、息が出た。",
+        "translation-ja-natural": "やっと息を吹き返しました。",
+        "translation-en": "Barely, he breathed.",
+        "translation-en-natural": "He barely managed to breathe again."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250327",
         "id": 19,
         "text": "むかしの若人は、さる好けるもの思ひをなむしける。",
         "kana": "むかしのわかうどは、さるすけるものおもひをなむしける。",
         "honkoku": "むかしのわか人はさる/すける物おもひをなんしける",
-        "translation-ja": "昔の若者は、こんないちずな恋をしたものだ。",
-        "translation-en": "The young people of the past had such simple love."
+        "translation-ja": "昔の若者は、そのような恋をして、もの思いをしてしまったのだ。",
+        "translation-ja-natural": "昔の若者は、好いたはれたのもの思いにふけっていたものでした。",
+        "translation-en": "The young men of old fell in love like that, and found themselves deep in thought.",
+        "translation-en-natural": "Young men in the old days would fall head over heels in love and brood over it in all their passion."
       },
       {
-        "date": "20240628,20250209",
+        "date": "20240628,20250209,20250327",
         "id": 20,
         "text": "今のおきな、まさにしなむや。",
         "kana": "いまのおきな、まさにしなむや。",
         "honkoku": "いまのお/きなまさにしてんや/s50r/",
-        "translation-ja": "今の老人、まさに死んでしまうでしょう。",
-        "translation-en": "Old people of today would die."
+        "translation-ja": "今の老人、まさに...死ぬだろうか。",
+        "translation-ja-natural": "今どきの爺さん、たとえば、このジイが、そんな真似したら、ほんとに死んじまうっての。",
+        "translation-en": "Would old men of today really die?",
+        "translation-en-natural": "These days? An old guy...say, someone like me...tries something like that, and he's dead. No kidding."
       }
     ]
   },
