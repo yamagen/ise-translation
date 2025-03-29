@@ -3675,76 +3675,92 @@
     "romaji": "murasaki",
     "paragraph": [
       {
-        "date": "20240629,20250209",
+        "date": "20240629,20250209,20250328",
         "id": 1,
         "text": "むかし、女はらからふたりありけり。",
         "kana": "むかし、をんなはらからふたりありけり。",
         "honkoku": "むかし女はらからふたり有けり",
-        "translation-ja": "昔、二人の姉妹がいました。",
-        "translation-en": "Once upon a time, there were two sisters."
+        "translation-ja": "昔、二人の姉妹がいた。",
+        "translation-ja-natural": "昔、二人の姉妹がいました。",
+        "translation-en": "Once upon a time, there were two sisters.",
+        "translation-en-natural": "Once upon a time, there were two sisters."
       },
       {
-        "date": "20240629,20250209",
+        "date": "20240629,20250209,20250328",
         "id": 2,
         "text": "ひとりはいやしき男の貧しき、ひとりはあてなる男もちたりけり。",
         "kana": "ひとりはいやしきをとこのまずしき、ひとりはあてなるをとこもちたりけり。",
         "honkoku": "ひとりは/いやしきおとこのまつしきひとりは/あてなる男もたりけり",
-        "translation-ja": "一人は身分が低くて貧しい男を、一人は高貴な男を、夫としていました。",
-        "translation-en": "One married a poor and low status man, and another marieed a wealthy and high status man."
+        "translation-ja": "一人は身分が低くて貧しい男を、一人は高貴な男を、夫としていた。",
+        "translation-ja-natural": "一人は貧しい身分の低い男と、一人は身分の高い男と結婚していました。",
+        "translation-en": "One had a poor man of low status; one had a noble man.",
+        "translation-en-natural": "One had married a poor man of low status, while the other had married a man of high rank."
       },
       {
-        "date": "20240629,20250209",
+        "date": "20240629,20250209,20250328",
         "id": 3,
         "text": "いやしき男もたる、師走のつごもりに上の衣を洗ひて、手づから張りけり。",
         "kana": "いやしきをとこもたる、しわすのつごもりにうえのころもをあらひて、てづからはりけり。",
         "honkoku": "いやしき男もた/るしはすのつこもりにうへのきぬをあ/らひててつからはりけり",
-        "translation-ja": "身分の低い男を夫とした女は、十二月の末に、夫の袍を洗って、自らの手で張る仕事をしました。",
-        "translation-en": "The woman who married a low status man washed and stretched her husband's robe by herself at the end of December."
+        "translation-ja": "身分の低い男を夫とした女は、十二月の末に、上の衣を洗って、手で張っていた。",
+        "translation-ja-natural": "身分の低い男を夫にしていた女は、十二月の終わりに、その男の晴れ着を洗って、自分の手で干していました。",
+        "translation-en": "The woman who had a low-status man, at the end of the twelfth month, washed his upper garment and stretched it out with her own hands.",
+        "translation-en-natural": "The woman who was married to a low-status man washed his formal robe at the end of December and hung it out to dry with her own hands."
       },
       {
-        "date": "20240629,20250209",
+        "date": "20240629,20250209,20250328",
         "id": 4,
         "text": "志はいたしけれど、さる賎しき業も習はざりければ、上の衣の肩を張り破りてけり。",
         "kana": "こころざしはいたしけれど、さるいやしきわざもならざりければ、うへのころものかたをはりやぶりてけり。",
         "honkoku": "心さしはいたし/s50r/けれとさるいやしきわさもならはさり/けれはうへのきぬのかたをはりやりてけ/り",
-        "translation-ja": "心を込めてしたのですが、そのような下女のする仕事も習ってはいないので、上着の肩のところを張り破ってしまいました。",
-        "translation-en": "She did her best, but she had never learned such a lowly job, so she tore the shoulder of the robe."
+        "translation-ja": "志は立てたが、そのような賎しい仕事も習っていなかったので、上の衣の肩を張って破ってしまったのだった。",
+        "translation-ja-natural": "心を込めてやってみたものの、不慣れな仕事だったので、上着の肩のところを引っ張って破ってしまいました。",
+        "translation-en": "She had the will, but since she had not learned such lowly work, she stretched the shoulder of the upper garment and tore it.",
+        "translation-en-natural": "She tried her best, but since she wasn't used to that kind of work, she accidentally tore the shoulder of the robe while stretching it."
       },
       {
-        "date": "20240629,20250209",
+        "date": "20240629,20250209,20250328",
         "id": 5,
         "text": "せむ方もなくてたゞ泣きに泣きけり。",
         "kana": "せむかたもなくてただなきになきけり。",
         "honkoku": "せむかたもなくてたたなきになきけり/",
-        "translation-ja": "どうしようもなくて、ただ泣きに泣くばかりでした。",
-        "translation-en": "She was helpless and just cried."
+        "translation-ja": "どうする手立てもなくて、ただ泣くに泣いたのだった。",
+        "translation-ja-natural": "どうしていいかわからず、ただ泣くしかありませんでした。",
+        "translation-en": "With no way to act, she simply cried and cried.",
+        "translation-en-natural": "Not knowing what else to do, she just cried and cried."
       },
       {
-        "date": "20240629,20250209",
+        "date": "20240629,20250209,20250329",
         "id": 6,
         "text": "これを、かのあてなる男聞きて、いと心苦しかりければ、いと清らかなる録衫の上の衣を見出でてやるとて、",
         "kana": "これを、かのあてなるをとこききて、いとこころくるしかりければ、いときよらかなるろうそうのうえのころもをみいでてやるとて、",
         "honkoku": "これをかのあてなるおとこききていと心/くるしかりけれはいときよらなるろう/さうのうへのきぬを見いててやるとて/",
-        "translation-ja": "これを、かの高貴な男が聞いて、とても気の毒に思ったので、とても美しい録衫の上の衣を見つけ出して贈ることにした。",
-        "translation-en": "The high-ranking man heard about it and felt very sorry, so he found a very beautiful robe and gave it to her."
+        "translation-ja": "これを、あの高貴な男が聞いて、とても気の毒に思ったので、とても清らかな録衫の上の衣をさがし出し、贈ろうとして、",
+        "translation-ja-natural": "それを聞いたあの高貴な男は、とても気の毒に思い、美しい録衫の晴れ着をさがし出し、贈ろうとして、",
+        "translation-en": "Hearing this, that noble man felt very sorry, and so, seeking a very beautiful upper robe of green silk, he prepared to send it and ...",
+        "translation-en-natural": "When the noble man heard about it, he felt sorry for her and looked for a beautiful green ceremonial robe to give her and ..."
       },
       {
-        "date": "20240629,20250209",
+        "date": "20240629,20250209,20250329",
         "id": 7,
         "text": "紫の/色濃き時は/めもはるに/野なる草木ぞ/わかれざりける",
         "kana": "むらさきの/いろこきときは/めもはるに/のなるくさきぞ/わかれざりける",
         "honkoku": "むらさきのいろこき時はめもはるに/野なるくさ木そわかれさりける/",
-        "translation-ja": "紫の色が濃い時は、見分けがつきませんが、野の草木も区別がつきません。",
-        "translation-en": "When the color of the purple grass is dark, the grass and trees in the field are indistinguishable."
+        "translation-ja": "紫の色が濃いときは、目も張るほどに、野にある草木が見分けがつかなかったのだった。",
+        "translation-ja-natural": "紫の色は、濃ければ目立つものですが、春に芽吹く野の草木の中に入ってしまえば、もはや紫も見分けがつかなくなるのです。",
+        "translation-en": "When the color of the purple grass was deep, even when straining the eyes, the grasses and trees in the field could not be distinguished.",
+        "translation-en-natural": "The color purple may stand out when it is deep, but once it blends into the field of budding spring grasses, it can no longer be told apart."
       },
       {
-        "date": "20240629,20250209",
+        "date": "20240629,20250209,20250329",
         "id": 8,
         "text": "武蔵野の心なるべし。",
         "kana": "むさしののこころなるべし。",
         "honkoku": "むさし野の心なるへし/s50l/",
         "translation-ja": "おそらくこれは武蔵野の心でしょう。",
-        "translation-en": "This is probably a song about the heart of Musashino."
+        "translation-ja-natural": "これはきっと、武蔵野の情景を心に描いて詠んだ歌なのでしょう。",
+        "translation-en": "This is probably a song about the heart of Musashino.",
+        "translation-en-natural": "This must be a poem inspired by the image of the Musashino plain."
       }
     ]
   },
