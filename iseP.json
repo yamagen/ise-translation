@@ -3775,8 +3775,10 @@
         "text": "むかし、男色好みと知る知る女をあひ言へりけり。",
         "kana": "むかし、をとこいろこのみとしるしるをんなをあひいへりけり。",
         "honkoku": "昔おとこいろこのみとしるしる女を/あひいへりけり",
-        "translation-ja": "昔、男が、色好みな女と心得ながら、ある女と語らいあった。",
-        "translation-en": "Once upon a time, a man talked to a woman who he knew that she liked men."
+        "translation-ja": "昔、男は、色好みだとよく知る女なのに、互いにことばを交した。",
+        "translation-ja-natural": "昔、ある男がいた。女が色好みなのは重々承知していたのに、その女と語らいを交わしてしまった。",
+        "translation-en": "Once upon a time, a man, though he clearly knew that the woman is fond of love, mutually exchanged words.",
+        "translation-en-natural": "Once upon a time, there was a man. Though he knew full well that the woman was fond of love, he ended up exchanging words of affection with her."
       },
       {
         "date": "20240630,20250209",
