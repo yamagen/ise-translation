@@ -3770,7 +3770,7 @@
     "romaji": "taga kayoiji",
     "paragraph": [
       {
-        "date": "20240630,20250209",
+        "date": "20240630,20250209,20250329",
         "id": 1,
         "text": "むかし、男色好みと知る知る女をあひ言へりけり。",
         "kana": "むかし、をとこいろこのみとしるしるをんなをあひいへりけり。",
@@ -3781,13 +3781,15 @@
         "translation-en-natural": "Once upon a time, there was a man. Though he knew full well that the woman was fond of love, he ended up exchanging words of affection with her."
       },
       {
-        "date": "20240630,20250209",
+        "date": "20240630,20250209,20250330",
         "id": 2,
         "text": "されど憎くはた、あらざりけり。",
         "kana": "されどにくくはた、あらざりけり。",
         "honkoku": "されとにくくはたあらざ/りけり",
-        "translation-ja": "しかし、憎くは思っていなかった。",
-        "translation-en": "However, he did not hate her."
+        "translation-ja": "しかし、憎くはなかった。",
+        "translation-ja-natural": "でも、憎らしいとは思えなかったんです。",
+        "translation-en": "But, not hateful at all.",
+        "translation-en-natural": "Still, not hateful at all."
       },
       {
         "date": "20240630,20250209",
