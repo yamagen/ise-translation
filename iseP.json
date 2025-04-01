@@ -3792,13 +3792,15 @@
         "translation-en-natural": "Still, not hateful at all."
       },
       {
-        "date": "20240630,20250209",
+        "date": "20240630,20250209,20250401",
         "id": 3,
         "text": "しばしばいきけれどなほいと後めたく、さりとて、いかではた得あるまじかりけり。",
         "kana": "しばしばいきけれどなほいとうしろめたく、さりとて、いかではたえあるまじかりけり。",
         "honkoku": "しはしはいきけれとなをいとう/しろめたくさりとていかてはたえあるま/しかりけり",
-        "translation-ja": "しばしば通ったが、やはり女の心がとても気がかりでいやに思うが、そうかといって、また、行かないではいられませんでした。",
-        "translation-en": "He often visited her, but he was very worried about her heart, and he could not help but go to see her."
+        "translation-ja": "何度も行ったけれど、やはりとても未練があって、それでも、なおも行かないでいられなかったのだろう。",
+        "translation-ja-natural": "何度も訪れたけれど、やはり未練があって、それでもどうしても行かずにはいられなかったのだろう。",
+        "translation-en": "He often visited her, but he was very worried about her heart, and he could not help but go to see her.",
+        "translation-en-natural": "He visited her many times, but he was still filled with longing, and he could not help but go to see her again."
       },
       {
         "date": "20240630,20250209",
