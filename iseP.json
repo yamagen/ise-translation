@@ -3803,13 +3803,15 @@
         "translation-en-natural": "He visited her many times, but he was still filled with longing, and he could not help but go to see her again."
       },
       {
-        "date": "20240630,20250209",
+        "date": "20240630,20250209,20250402",
         "id": 4,
         "text": "なほはた得あらざりけるなかなりければ、二日三日ばかりさはることありて、えいかでかくなむ。",
         "kana": "なほえあらざりけるなかなりければ、ふつかみっかばかりさはることありて、えいかでかくなむ。",
         "honkoku": "猶はたえあらさりける中/なりけれはふつか三日はかりさはること/ありてえいかてかくなむ/",
-        "translation-ja": "なんといっても、行かなくてはいられなかった仲だったので、男は二三日ほど、他用があって、行くことができず、こう詠んでやった。",
-        "translation-en": "After all, he could not help but go, so he could not go for two or three days, and he sang like this."
+        "translation-ja": "なおも、また行かなくてはいられない仲になったので、二日か三日ほどあることがあり、行けなかったので、こうしようと...",
+        "translation-ja-natural": "やはり行かずにはいられない仲になったので、二日か三日ほど何かあって、行けなかったので、こう詠んでやったのです。",
+        "translation-en": "After all, since it was a relationship where he could not help but go, and after two or three days of difficulty, he could not go, and thus decided to do this.",
+        "translation-en-natural": "Since it was a relationship where he could not help but go, and after two or three days of something, he could not go, so he decided to do this."
       },
       {
         "date": "20240630,20250209",
