@@ -3814,13 +3814,15 @@
         "translation-en-natural": "Since it was a relationship where he could not help but go, and after two or three days of something, he could not go, so he decided to do this."
       },
       {
-        "date": "20240630,20250209",
+        "date": "20240630,20250209,20250403",
         "id": 5,
         "poem": "出でて来し/あとだに未だ/かはらじを/誰が通ひ路と/今はなるらむ",
         "kana": "いでてこしあとだにまだかはらじを/たがかよひじと/いまはなるらむ",
         "honkoku": "いててこしあとたにいまたかはらしを/たかかよひちといまはなるらん/s51l/",
-        "translation-ja": "出て来た跡でもいまだ変っていないのに、誰の通い路と今はなっているのでしょう。",
-        "translation-en": "Even the tracks I left when I departed have not yet changed, Whose path do they now become, I wonder?"
+        "translation-ja": "出て来た後でもいまだ変わっていないのに、誰の通う道と今はなっているのだろうか。",
+        "translation-ja-natural": "私が出て行った後、いまだにその跡は変わっていないのに、今では誰の通り道になっているのしょうか。",
+        "translation-en": "Even the tracks I left when I departed have not yet changed, Whose path do they now become?",
+        "translation-en-natural": "Even though the tracks I left behind have not changed, I wonder whose path they have become now."
       },
       {
         "date": "20240630,20250209",
