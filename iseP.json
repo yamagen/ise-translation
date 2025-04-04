@@ -3825,13 +3825,15 @@
         "translation-en-natural": "Even though the tracks I left behind have not changed, I wonder whose path they have become now."
       },
       {
-        "date": "20240630,20250209",
+        "date": "20240630,20250209,20250404",
         "id": 6,
         "text": "もの疑はしさに詠めるなり。",
         "kana": "ものうたがわしさにうためるなり。",
         "honkoku": "ものうたかはしさによめるなりけり/s52r/",
-        "translation-ja": "もの疑わしさに詠んだのでした。",
-        "translation-en": "He sang with a sense of doubt."
+        "translation-ja": "物事の疑わしさに詠んだのでした。",
+        "translation-ja-natural": "物事の疑わしさを感じて、詠んだのです。",
+        "translation-en": "He sang with a sense of doubt.",
+        "translation-en-natural": "He sang, feeling a sense of doubt about things."
       }
     ]
   },
