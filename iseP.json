@@ -3865,76 +3865,92 @@
         "translation-en-natural": "The prince had feelings for a woman and had been very generous toward her. However, when he noticed another man behaving flirtatiously toward her, he realized that he had been the only one with feelings for her. Upon hearing this, he decided to send her a letter."
       },
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 3,
         "text": "ほととぎすの形を書きて、",
         "kana": "ほととぎすのかたちをかきて、",
         "honkoku": "ほとときすのかたをかきて/",
         "translation-ja": "ほととぎすの形を描いて、",
-        "translation-en": "He drew a picture of a cuckoo,"
+        "translation-ja-natural": "ほととぎすの絵を描いて、",
+        "translation-en": "He drew the shape of a cuckoo,",
+        "translation-en-natural": "He drew an image of a cuckoo,"
       },
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 4,
         "text": "歌を詠みて、",
         "kana": "うたをうたみて、",
         "honkoku": "うたをうたみて/",
         "translation-ja": "歌を詠んで、",
-        "translation-en": "and sang a song,"
+        "translation-ja-natural": "歌を詠んで、",
+        "translation-en": "and sang a song,",
+        "translation-en-natural": "and sang a song,"
       },
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 5,
         "text": "ほととぎす/汝が鳴く里の/あまたあれば/なほ疎まれぬ/思ふものから",
         "kana": "ほととぎす/ながなくさとの/あまたあれば/なほうとまれぬ/おもふものから",
         "honkoku": "郭公なかなくさとのあまたあれは/なをうとまれぬおもふものから/s52r/",
-        "translation-ja": "ほととぎす、おまえが鳴く里はたくさんあるから、やはりいやに思われますよ。",
-        "translation-en": "Cuckoo, there are many places where you sing, so you are still disliked."
+        "translation-ja": "ほととぎすよ、おまえが鳴く里がたくさんあるので、やはり疎まれないと思うけれども、",
+        "translation-ja-natural": "ほととぎすよ、お前が鳴く里はたくさんあるのだから、きっと嫌われたりはしないと思っていたのに...",
+        "translation-en": "Cuckoo, since there are many villages where you sing, I think you are still not shunned..., but...",
+        "translation-en-natural": "Cuckoo, since there are many villages where you sing, I thought you wouldn't be disliked..., but still..."
       },
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 6,
         "text": "といへり。",
         "kana": "といへり。",
         "honkoku": "といへり",
-        "translation-ja": "と言いました。",
-        "translation-en": "he said."
+        "translation-ja": "と言った。",
+        "translation-ja-natural": "と言いました。",
+        "translation-en": "he said.",
+        "translation-en-natural": "he said."
       },
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 7,
         "text": "この女、気色をとりて、",
         "kana": "このをんな、けしきをとりて、",
         "honkoku": "この女けしきをとりて/",
-        "translation-ja": "この女は、機嫌を取って、",
-        "translation-en": "This woman caring the feelings of the man,"
+        "translation-ja": "この女は、気配を察して、",
+        "translation-ja-natural": "この女性は、親王の気持ちを察して、",
+        "translation-en": "This woman, perceiving his mood,",
+        "translation-en-natural": "This woman sensed the prince's feelings,"
       },
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 8,
         "text": "歌を詠みて、",
         "kana": "うたをうたみて、",
         "honkoku": "うたをうたみて/",
         "translation-ja": "歌を詠んで、",
-        "translation-en": "sang a song,"
+        "translation-ja-natural": "歌を詠んで、",
+        "translation-en": "sang a song,",
+        "translation-en-natural": "sang a song,"
       },
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 9,
         "poem": "名のみたつ/しでの田長は/けさぞ鳴く/庵あまた/疎まれぬれば",
         "kana": "なのみたつ/しでのたをさは/けさぞなく/いほりあまた/うとまれぬれば",
         "honkoku": "名のみたつしてのたおさはけさそなく/いほりあまたとうとまれぬれは/",
-        "translation-ja": "名前だけ立つ死出の田長は、今朝、鳴いています。あちこちに巣を持って、浮気な者とうとまれてしまいましたから。",
-        "translation-en": "The cuckoo of the death-departing Tanaga, whose reputation is only bad, is crying this morning. He has nests everywhere and is disliked as a flirt."
+        "translation-ja": "名前ばかりが広まっている死出の田長は、今朝こそ鳴いている。あちこちに庵が多く、疎まれてしまったので。",
+        "translation-ja-natural": "名前ばかりが広まった、死出の田長が、今朝も鳴いています。あちこちに庵を構えて、疎まれるようになってしまいましたから。",
+        "translation-en": "The Shide no Taosa, whose name alone spreads, cries this morning..., because he has many huts and has been shunned.",
+        "translation-en-natural": "The Shide no Taosa, whose name alone is known, sings again this morning...after building too many huts, he is now shunned."
       },
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 10,
         "text": "時は五月になむありける。",
         "kana": "ときはさつきになむありける。",
         "honkoku": "時はさ月になむありける",
-        "translation-ja": "時は五月でした。",
-        "translation-en": "It was May."
+        "translation-ja": "時は五月であった。",
+        "translation-ja-natural": "時は五月でした。",
+        "translation-en": "It was May.",
+        "translation-en-natural": "It was May."
       },
       {
         "date": "20240701,20250209",
@@ -3942,20 +3958,24 @@
         "text": "男返し、",
         "kana": "をとこかへし、",
         "honkoku": "おとこ返し/",
-        "translation-ja": "男が歌を返し、",
-        "translation-en": "The man replied,"
+        "translation-ja": "男返し、",
+        "translation-ja-natural": "男の返し、",
+        "translation-en": "The man replied,",
+        "translation-en-natural": "The man replied,"
       },
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 12,
         "poem": "いほり多き/しでの田長は/なほ頼む/わが住む里に/声し絶えずは",
         "kana": "いほりおほき/しでのたをさは/なほたのむ/わがすむさとに/こゑし絶えずは",
         "honkoku": "いほりおほきしてのたおさはなをたのむ/わかすむさとにこゑしたえすは/s52l/",
-        "translation-ja": "巣の多いほととぎすは、やはり頼みにしています。私の住む里に声が絶えなければ。",
-        "translation-en": "Cuckoos making nests everywhere, I will rely on you, unless your voice stops in my village."
+        "translation-ja": "庵が多い死出の田長は、やはり頼もしい。私の住む里で声が絶えなければ。",
+        "translation-ja-natural": "あちこちに巣をもつほととぎすだけど、それでも私は信じているのです。私の住む里で、その声が絶えさえしなければ。",
+        "translation-en": "The Shide no Taosa, with many huts, I still depend on him...if his voice does not cease in the village where I live.",
+        "translation-en-natural": "Even if you build nests everywhere, cuckoo, I still believe in you...as long as your voice doesn't vanish from the village where I live."
       },
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 13,
         "text": "もの疑はしさに詠めるなり。",
         "kana": "ものうたがわしさによめるなり。",
