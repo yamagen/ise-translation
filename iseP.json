@@ -3843,22 +3843,26 @@
     "romaji": "na no mi tatsu",
     "paragraph": [
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 1,
         "text": "むかし、賀陽親王と申す親王おはしましけり。",
         "kana": "むかし、かやのみこともうすみこおはしましけり。",
         "honkoku": "むかしかやのみこと申すみこおはし/ましけり",
-        "translation-ja": "昔、賀陽親王と申す親王がいらっしゃいました。",
-        "translation-en": "Once upon a time, there was a prince named Prince Kaya."
+        "translation-ja": "昔、賀陽親王と名乗る親王がいらっしゃった。",
+        "translation-ja-natural": "昔、賀陽親王と名乗る親王がいらっしゃいました。",
+        "translation-en": "Once upon a time, there was a prince called Prince Kaya.",
+        "translation-en-natural": "Once upon a time, there was a prince called Prince Kaya."
       },
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 2,
         "text": "その親王、女をおぼしめして、いと賢う恵みつかう給ひけるを、人なまめきて有りけるを、我のみと思ひけるを、又人聞きつけて、文やる。",
         "kana": "そのみこ、をんなをおぼしめして、いとかしこうめぐみつかうたまひけるを、ひとなまめきてありけるを、われのみとおもひけるを、またひとききつけて、ふみやる。",
         "honkoku": "そのみこ女をおほしめして/いとかしこくめくみつかう給ひける/を人なまめきてありけるをわれのみと/おもひけるを又ひとききつけてふみやる/",
-        "translation-ja": "その親王は、ある女性に思いを寄せ、とてもお恵みをたくさん与えていましたが、ある人がその女に心をかけ、色めかしい振舞を見せていたが、その男が自分だけが その女性を思っている思い込んでいたので、そのことを聞きつけて手紙を送りました。",
-        "translation-en": "The prince had fallen in love with a woman and had been very kind to her, but another man had been paying attention to her and behaving in a flirtatious manner. The man secretly thought that only he was close to her."
+        "translation-ja": "その親王は、女をお思いになって、とても賢く恵みを与えていたが、誰かが色めかしい振舞をしており、自分だけが思っていたことに気づいて、また他の人がそのことを聞きつけて、手紙を送った。",
+        "translation-ja-natural": "その親王は、ある女性に心を寄せ、非常に賢明に恵みを与えていました。しかし、他の男性がその女性に色めかしい振舞いを見せているのを知り、彼だけが思っていたことに気づいた彼は、そのことを聞いて、手紙を送ることにしました。",
+        "translation-en": "The prince had fallen in love with a woman and had been very kind to her, but someone else had been behaving in a flirtatious manner. He thought that only he had feelings for her, and upon hearing this, another person sent her a letter.",
+        "translation-en-natural": "The prince had feelings for a woman and had been very generous toward her. However, when he noticed another man behaving flirtatiously toward her, he realized that he had been the only one with feelings for her. Upon hearing this, he decided to send her a letter."
       },
       {
         "date": "20240701,20250209",
