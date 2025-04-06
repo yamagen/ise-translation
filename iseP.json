@@ -4042,22 +4042,26 @@
     "romaji": "yuku hotaru",
     "paragraph": [
       {
-        "date": "20240703,20250209",
+        "date": "20240703,20250209,20250406",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
         "honkoku": "むかし男ありけり",
-        "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja": "昔、男がいた。",
+        "translation-ja-natural": "昔、男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240703,20250209",
+        "date": "20240703,20250209,20250406",
         "id": 2,
         "text": "人の娘のかしづく、いかでこの男にもの言はむと思ひけり。",
         "kana": "ひとのむすめのかしづく、いかでこのをとこにものいはむとおもひけり。",
         "honkoku": "人のむすめのかしつく/いかてこのおとこにものいはんとおもひ/けり",
-        "translation-ja": "人の娘が仕える、この男にどうにかして話をしようと思いました。",
-        "translation-en": "A daughter of a person, who served to this man, thought she would somehow talk to the man."
+        "translation-ja": "ある人に大切に育てられている娘が、どうにかしてこの男に話しかけたいと思っていた。",
+        "translation-ja-natural": "ある人に大切に育てられてきた娘が、なんとかこの男に話しかけられないかと、心の中で思い悩んでいました。",
+        "translation-en": "A girl who was being carefully raised by her family wondered how she might be able to speak to this man.",
+        "translation-en-natural": "A young girl, carefully raised in a good family, quietly wondered if there was any way she might speak to this man."
       },
       {
         "date": "20240703,20250209",
