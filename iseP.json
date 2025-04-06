@@ -3953,7 +3953,7 @@
         "translation-en-natural": "It was May."
       },
       {
-        "date": "20240701,20250209",
+        "date": "20240701,20250209,20250404",
         "id": 11,
         "text": "男返し、",
         "kana": "をとこかへし、",
@@ -3991,40 +3991,48 @@
     "romaji": "uma no hanamuke",
     "paragraph": [
       {
-        "date": "20240702,20250209",
+        "date": "20240702,20250209,20250405",
         "id": 1,
         "text": "むかし、県へゆく人に馬のはなむけせむとて、呼びて、疎き人にしあらざりければ、家刀自、盃さゝせて女の装束かづけむとす。",
         "kana": "むかし、あがたへゆくひとにうまのはなむけせむとて、よびて、うときひとにしあらざりければ、いへとうじ、さかづきささせてをんなのさうぞくかづけむとす。",
         "honkoku": "むかしあかたへ行人にむまのはなむ/けせんとてよひてうとき人にしあらさり/けれはいゑとうしさか月ささせて女/s52l/のさうそくかつけんとす",
-        "translation-ja": "昔、地方へ行く人に餞を贈ろうとして、呼び寄せて、疎い人ではなかったので、家に入れて、盃をささげて女の装束を贈呈しようとしました。",
-        "translation-en": "Once upon a time, a man tried to give a present to a person who will go to the countryside, and called him and offered him a cup of sake, and tried to give a set of kimono clothes to him."
+        "translation-ja": "昔、県へ行く人に馬の餞をしようとして、呼んで、疎遠な人ではなかったので、家の女主人が、盃をささせて、女の装束を贈ろうとした。",
+        "translation-ja-natural": "昔、地方に赴任する男に餞別を贈ろうとして、親しくしていたので家に招き入れ、家の女主人が盃をすすめ、女物の装束を贈ろうとしたのです。",
+        "translation-en": "Once upon a time, intending to offer a farewell gift to a man going to the provinces, they called him, and since he was not a distant person, the lady of the house had a cup offered and tried to bestow a woman's robe on him.",
+        "translation-en-natural": "Once upon a time, they tried to send off a man who was going to take a provincial post. Since he was not a stranger, they invited him into the house. The lady of the household offered him a cup of sake and was about to present him with a woman's robe."
       },
       {
-        "date": "20240702,20250209",
+        "date": "20240702,20250209,20250406",
         "id": 2,
         "text": "主人の男、歌詠みて、裳の腰に結ひつけさす。",
         "kana": "しゅじんのをとこ、うたよみて、ものこしにむすびつけさす。",
         "honkoku": "あるしのおとこ/うたによみてものこしにゆひつけさす/",
-        "translation-ja": "主人の男が、歌を詠んで、贈物の装束の裳の腰紐に結びつけさせました。",
-        "translation-en": "The master sang a song and tied the kimono sash to the waist of the gift."
+        "translation-ja": "主人の男が、歌を詠んで、裳の腰の部分に結びつけさせた。",
+        "translation-ja-natural": "主人の男が、歌を詠んで、贈り物の裳をその腰に結ばせました。",
+        "translation-en": "The man composed a poem and had it tied to the waist of the mo.",
+        "translation-en-natural": "The master composed a poem and had the sash of the garment tied at the waist."
       },
       {
-        "date": "20240702,20250209",
+        "date": "20240702,20250209,20250406",
         "id": 3,
         "poem": "いでてゆく/君がためにと/脱ぎつれば/我さへも/なくなりぬべきかな",
         "kana": "いでてゆく/きみがためにと/ぬぎつれば/われさへも/なくなりぬべきかな",
         "honkoku": "いててゆく君かためにとぬきつれは/われさへもなくなりぬへきかな/",
-        "translation-ja": "出でていく君のためにと脱いだので、私までも、いなくなってしまうのでしょうか。",
-        "translation-en": "I took off my clothes for you who are leaving, so I wonder if I will disappear too."
+        "translation-ja": "出て行くあなたのためにと思って脱いだので、私さえも、いなくなってしまうのだろうか。",
+        "translation-ja-natural": "出て行くあなたのためにと思って脱いだら、私までいなくなってしまいそうです。",
+        "translation-en": "Because I undressed thinking it was for you who are leaving, even I too must now disappear, mustn't I?",
+        "translation-en-natural": "I undressed for you as you were leaving—and now I feel as if I might disappear too."
       },
       {
-        "date": "20240702,20250209",
+        "date": "20240702,20250209,20250406",
         "id": 4,
-        "text": "この歌は、あるがなかに面白ければ、心とゞめてよまず、 腹に味はひて。",
+        "text": "この歌は、あるがなかに面白ければ、心とどめてよまず、腹に味はひて。",
         "kana": "このうたは、あるがなかにおもしろければ、こころとどめてよまず、はらにあじはひて。",
         "honkoku": "この哥はあるかなかにおもしろけれは/心とめてよますはらにあちはひて/s53r/",
-        "translation-ja": "この歌は、この世にある歌のなかでも、面白いものなので、心に留めておいて、声に出しては読まず、心の中で味わってください。",
-        "translation-en": "This song is particularly interesting among many songs, so you should keep it in your heart and taste it in your heart without reciting it."
+        "translation-ja": "この歌は、多くある中でも面白いので、心にとどめて読まずに、腹で味わいべきだろう。",
+        "translation-ja-natural": "この歌は数ある中でもとても趣があるので、声に出して読むのではなく、心にとどめて、静かに味わってください。",
+        "translation-en": "This poem is especially interesting among those that exist, so keep it in your mind, do not read it aloud, and savor it in your belly.",
+        "translation-en-natural": "This poem is especially moving among many, so instead of reading it aloud, keep it in your heart and quietly savor it."
       }
     ]
   },
