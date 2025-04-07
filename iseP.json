@@ -4064,43 +4064,51 @@
         "translation-en-natural": "A young girl, carefully raised in a good family, quietly wondered if there was any way she might speak to this man."
       },
       {
-        "date": "20240703,20250209",
+        "date": "20240703,20250209,20250407",
         "id": 3,
         "text": "うちいでむこと難くやありけむ、もの病になりて死ぬべきときに、",
         "kana": "うちいでむことかたくやありけむ、ものやまいになりてしぬべきときに、",
         "honkoku": "うちいてむことかたくやありけん/s53r/ものやみになりてしぬへきときに",
-        "translation-ja": "外に出ることが難しかったのだろうか、重い病気になって死ぬべき時に、",
-        "translation-en": "It was difficult to go out, and when she was about to die of a serious illness,"
+        "translation-ja": "外に出ようとすることが難しかったのだろうか、病になって死ぬはずの時に、",
+        "translation-ja-natural": "外に出ようにも出られなかったのだろうか...そんな中で、病に倒れ、命の危うい時に、",
+        "translation-en": "Was it that going out was difficult for her, when she fell ill and it was the time she was to die?",
+        "translation-en-natural": "Could it be that she simply couldn't go out... And then, as she fell ill, the moment came...when her life hung by a thread..."
       },
       {
-        "date": "20240703,20250209",
+        "date": "20240703,20250209,20250407",
         "id": 4,
         "text": "「かくこそ思ひしか」といひけるを、",
         "kana": "「かくこそおもひしか」といひけるを、",
         "honkoku": "か/くこそおもひしかといひけるを",
-        "translation-ja": "「このように思っていました」と行ったのを、",
-        "translation-en": "She said, 'I have been thinking like this.'"
+        "translation-ja": "「このようにこそ思っておりました」と言ったのを、",
+        "translation-ja-natural": "「私はずっと、こう思っていたのよ」と彼女が言ったのです。",
+        "translation-en": "'Indeed, that is what I had been thinking,' she said.",
+        "translation-en-natural": "'I've always felt this way,' she said softly."
       },
       {
-        "date": "20240703,20250209",
+        "date": "20240703,20250209,20250407",
         "id": 5,
         "text": "親聞きつけて、泣く泣く告げたりければ、",
         "kana": "おやききつけて、なくなくつげたりければ、",
         "honkoku": "おやきき/つけてなくなくつけたりけれは",
-        "translation-ja": "親が聞きつけて、涙ながらに男に告げたものだから、",
-        "translation-en": "Since her parents heard about it and told that to the man with crying,"
+        "translation-ja": "親が聞きつけて、泣きながら告げたので、",
+        "translation-ja-natural": "それを聞きつけた親が、涙ながらに男に知らせたので、",
+        "translation-en": "Her parents heard of it and tearfully told of it, so...",
+        "translation-en-natural": "Her parents eventually heard about it...and with tears in their eyes, they told him, so..."
       },
       {
-        "date": "20240703,20250209",
+        "date": "20240703,20250209,20250407",
         "id": 6,
         "text": "まどひ来たりけれど、死にければ、つれづれと籠りをりけり。",
         "kana": "まどひきたりけれど、しにければ、つれづれとこもりをりけり。",
         "honkoku": "まとひ/きたりけれとしにけれはつれつれと/こもりけり",
-        "translation-ja": "男は驚いて来たが、死んでしまったので、ただ寂しく籠もっていました。",
-        "translation-en": "The man came in a hurry, but she died, so he was just mourning."
+        "translation-ja": "取り乱して来たが、死んでしまったので、つれづれと籠もっていた。",
+        "translation-ja-natural": "男はあわてて駆けつけましたが、すでに彼女は亡くなっていて、彼は寂しくひとり籠もって過ごしました。",
+        "translation-en": "He rushed in a flurry, but as she had died, he shut himself away in lonely idleness.",
+        "translation-en-natural": "He came in confusion, but she had already passed away. After that, he remained alone in quiet seclusion."
       },
       {
-        "date": "20240703",
+        "date": "20240703,20250209",
         "id": 7,
         "text": "時は水無月のつごもり、いと暑きころほひに、宵はあそびをりて、夜は更けてやゝ涼しき風吹きけり。",
         "kana": "ときはみなづきのつごもり、いとあつきころほひに、よいはあそびをりて、よはふけてやゝすずしきかぜふきけり。",
