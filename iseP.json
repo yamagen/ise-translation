@@ -4108,13 +4108,15 @@
         "translation-en-natural": "He came in confusion, but she had already passed away. After that, he remained alone in quiet seclusion."
       },
       {
-        "date": "20240703,20250209",
+        "date": "20240703,20250209,20250408",
         "id": 7,
         "text": "時は水無月のつごもり、いと暑きころほひに、宵はあそびをりて、夜は更けてやゝ涼しき風吹きけり。",
         "kana": "ときはみなづきのつごもり、いとあつきころほひに、よいはあそびをりて、よはふけてやゝすずしきかぜふきけり。",
         "honkoku": "ときはみな月のつこもり/いとあつきころをひによゐはあそびをり/て夜ふけてややすすしき風ふきけり/",
-        "translation-ja": "時は水無月の終わり、とても暑い時期に、夜は遊びをして、夜が更けて涼しい風が吹いていました。",
-        "translation-en": "It was the end of June, a very hot time, and in the evening, they played, and the night became cooler with a breeze."
+        "translation-ja": "時は水無月の晦日、とても暑い時期で、宵は遊んでいて、夜が更けて、少し涼しい風が吹いた。",
+        "translation-ja-natural": "時は六月の末、とても暑い盛りのことでした。宵のうちは遊びに興じていましたが、夜も更けると、少し涼しい風が吹いてきました。",
+        "translation-en": "It was the end of the sixth month, during a very hot time; in the early evening, they were playing, and as the night deepened, a slightly cool breeze blew.",
+        "translation-en-natural": "It was late June, in the height of summer. They had been enjoying music and games in the early evening, but as the night grew late, a faintly cool breeze began to blow."
       },
       {
         "date": "20240703,20250209",
