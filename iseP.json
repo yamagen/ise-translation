@@ -4119,22 +4119,26 @@
         "translation-en-natural": "It was late June, in the height of summer. They had been enjoying music and games in the early evening, but as the night grew late, a faintly cool breeze began to blow."
       },
       {
-        "date": "20240703,20250209",
+        "date": "20240703,20250209,20250409",
         "id": 8,
         "text": "蛍高く飛びあがる。",
         "kana": "ほたるたかくとびあがる。",
         "honkoku": "ほたるたかくとひあかり",
         "translation-ja": "蛍が高く飛び上がる。",
-        "translation-en": "Fireflies fly high."
+        "translation-ja-natural": "蛍がふわりと空へ舞い上がっていきました。",
+        "translation-en": "Fireflies fly high.",
+        "translation-en-natural": "Fireflies flew upward into the air."
       },
       {
-        "date": "20240703,20250209",
+        "date": "20240703,20250209,20250410",
         "id": 9,
         "text": "この男、見ふせりて、",
         "kana": "このをとこ、みふせりて、",
         "honkoku": "このおとこ見ふ/せりて/s53l/",
-        "translation-ja": "この男、じっと見つめて、",
-        "translation-en": "This man watched it,.."
+        "translation-ja": "この男、見て、伏して、",
+        "translation-ja-natural": "男は、静かにそれを見つめ、そっと横になり、",
+        "translation-en": "This man watched it, and lay down...",
+        "translation-en-natural": "The man gazed at it in silence, then gently lay down..."
       },
       {
         "date": "20240703,20250209",
