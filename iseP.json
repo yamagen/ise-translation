@@ -4147,7 +4147,9 @@
         "kana": "ゆくほたる/くものうえまで/いぬべくは/あきかぜふくと/かりにつげこせ",
         "honkoku": "ゆくほたる雲の上まていぬへくは/秋かせふくとかりにつけこせ/",
         "translation-ja": "行く蛍、雲の上まで飛んで行けるなら、秋風が吹いているよと雁に告げておくれ。",
-        "translation-en": "Firefly, if you can fly up to the clouds, tell the geese that the autumn wind is blowing in the lower world."
+        "translation-ja-natural": "蛍よ、もし雲の上まで飛んでいけるなら、秋風が吹いていることを、雁に伝えておくれ。",
+        "translation-en": "Firefly, if you can fly up to the clouds, tell the geese that the autumn wind is blowing in the lower world.",
+        "translation-en-natural": "O firefly, if you can reach beyond the clouds, tell the geese that the autumn wind has begun to blow."
       },
       {
         "date": "20240703,20250209",
@@ -4155,8 +4157,10 @@
         "poem": "暮れがたき/夏のひぐらし/ながむれば/そのことゝなく/ものぞ悲しき",
         "kana": "くれがたき/なつのひぐらし/ながむれば/そのこととなく/ものそかなしき",
         "honkoku": "くれかたき夏の日くらしなかむれは/そのこととなくものそかなしき/s54r/",
-        "translation-ja": "なかなか暮れない夏のひぐらしを聞いていると、理由もなく、悲しい気持ちになります。",
-        "translation-en": "When I look at the evening cicadas in the summer, I can't help but remember it, and it's sad."
+        "translation-ja": "なかなか暮れない夏のひぐらしを聞いていると、理由もなく、悲しい気持ちになる。",
+        "translation-ja-natural": "夏の夕暮れ、ひぐらしの声を聞いていると、これといった理由もないのに、ふと悲しさが胸にこみあげてくるのです。",
+        "translation-en": "As I listen to the evening cicadas in the long summer twilight, I find myself sad for no particular reason.",
+        "translation-en-natural": "In the lingering light of summer dusk, the cry of evening cicadas fills the air... and for no real reason, a quiet sadness wells up inside me."
       }
     ]
   },
