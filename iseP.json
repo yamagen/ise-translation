@@ -4170,13 +4170,15 @@
     "romaji": "uruhashiki tomo",
     "paragraph": [
       {
-        "date": "20240704",
+        "date": "20240704,20250209,20250410",
         "id": 1,
         "text": "むかし、男、いとうるはしき友ありけり。",
         "kana": "むかし、をとこ、いとうるはしきともありけり。",
         "honkoku": "むかし男いとうるはしきともありけり",
-        "translation-ja": "昔、男に、たいへん仲のよい友がいました。",
-        "translation-en": "Once upon a time, a man had a very nice friend."
+        "translation-ja": "昔、男にとても礼儀正しい友がいた。",
+        "translation-ja-natural": "昔、ある男に、とても気の合う立派な友人がいました。",
+        "translation-en": "Once upon a time, a man had a very courteous friend.",
+        "translation-en-natural": "Once upon a time, there was a man who had a close and honorable friend."
       },
       {
         "date": "20240704,20250209",
@@ -4184,26 +4186,32 @@
         "text": "かた時去らずあひ思ひけるを、人の国へいきけるを、いとあはれと思ひて別れにけり。",
         "kana": "かたときさらずあひおもいけるを、ひとのくにへいきけるを、いとあはれとおもいてわかれにけり。",
         "honkoku": "か/た時さらすあひおもひけるを人のくにへ/いきけるをいとあはれとおもひてわかれ/にけり",
-        "translation-ja": "かた時たりとも、相思っていたのに、他の国へ行ったので、とても悲しく思ってお別れしました。",
-        "translation-en": "Although he wanted to be together all the time, he went to another country, so he parted with him with great sorrow."
+        "translation-ja": "片時も離れず、思い合っていたのに、友が他国へ行ってしまったので、とてもあわれに思って別れた。",
+        "translation-ja-natural": "片時も離れずに親しくしていた友が、遠い国へ行くことになり、男は名残惜しさに胸が詰まるような思いで、別れを告げたのでした。",
+        "translation-en": "Though they were always together and thought fondly of each other, one went off to another province, so the other felt deep sorrow and parted from him.",
+        "translation-en-natural": "They had never spent a moment apart, but when his friend had to leave for a distant province, he felt a deep ache of farewell and quietly let him go."
       },
       {
-        "date": "20240704,20250209",
+        "date": "20240704,20250209,20250410",
         "id": 3,
         "text": "月日経ておこせたる文に、",
         "kana": "つきひけておこせたるふみに、",
         "honkoku": "月日へてをこせたるふみに",
-        "translation-ja": "月日が経って送られてきた手紙に、",
-        "translation-en": "In a letter sent after a long time,"
+        "translation-ja": "月日が経って、送ってきた手紙に、",
+        "translation-ja-natural": "しばらくして届いた手紙には、",
+        "translation-en": "In a letter he sent after some time had passed,",
+        "translation-en-natural": "In the letter that reached him some time later,"
       },
       {
-        "date": "20240704,20250209",
+        "date": "20240704,20250209,20250410",
         "id": 4,
         "text": "「あさましく対面せで月日の経にけること。",
         "kana": "「あさましくたいめんせでつきひのへにけること。",
         "honkoku": "あさ/ましくえたいめんせて月日のへに/けること",
-        "translation-ja": "「あさましく対面せずに月日が経ってしまいました。",
-        "translation-en": "It is surprising that we have not met for a long time."
+        "translation-ja": "「あきれるほど、会わないままに月日が経ってしまった。",
+        "translation-ja-natural": "気がつけば、あきれるほど長い月日が、あなたと顔を合わせずに過ぎてしまいました。",
+        "translation-en": "It is disheartening that so many days have passed without our seeing each other.",
+        "translation-en-natural": "I am astonished that so many days have passed without our meeting."
       },
       {
         "date": "20240704,20250209",
@@ -4214,13 +4222,15 @@
         "translation-en": "I wonder if you have forgotten me, and I am very sad."
       },
       {
-        "date": "20240704,20250209",
+        "date": "20240704,20250209,20250410",
         "id": 6,
         "text": "世の中の人の心は、目離るれば忘れぬべきものにこそあめれ。",
         "kana": "よのなかのひとのこころは、めはなれればわすれぬべきものにこそあめれ。",
         "honkoku": "世中の人の心はめかる/れはわすれぬへき物にこそあめれ",
-        "translation-ja": "世の中の人の心は、目を離せば忘れてしまうものにちがいありません。",
-        "translation-en": "People's hearts in the world are such that they forget when they have not been seeing long time."
+        "translation-ja": "世間の人の心というものは、会わないままでいると、忘れてしまうものなのだろう。",
+        "translation-ja-natural": "人の心なんて、しばらく会わないだけで、たちまち忘れてしまうものなのですね。",
+        "translation-en": "It seems that people's hearts are made in such a way that, once they are apart, they tend to forget.",
+        "translation-en-natural": "It seems that people's hearts forget so easily, just from being apart for a little while."
       },
       {
         "date": "20240704,20250209",
@@ -4228,17 +4238,19 @@
         "text": "といへりければ、よみてやる。",
         "kana": "といへりければ、よみてやる。",
         "honkoku": "といへ/りけれはよみてやる/s55r/",
-        "translation-ja": "と言ったので、読んであげます。",
-        "translation-en": "That he said, so I will read it."
+        "translation-ja": "そう言ったので、歌を詠んで送った。",
+        "translation-ja-natural": "そんなふうに言ってきたので、私は一首詠んで、お返ししました。",
+        "translation-en": "Since he said so, I composed a poem and sent it.",
+        "translation-en-natural": "Since he wrote to me like that, I replied with a poem of my own."
       },
       {
-        "date": "20240704,20250209",
+        "date": "20240704,20250209,20250410",
         "id": 8,
         "poem": "目離るとも/おもほえなくに/忘らるゝ/時しなければ/面影にたつ",
         "kana": "めかるとも/おもほえなくに/わすらるる/ときしなければ/おもかげにたつ",
         "honkoku": "めかるともおもほえなくにわすらるる/ときしなけれはおもかけにたつ/s55l/",
-        "translation-ja": "お目に掛かれずとも思えなく、忘れる時がないので、面影が浮かび上がってきます。",
-        "translation-en": "If there is no time to forget, even if you are not seen, the image will appear."
+        "translation-ja": "たとえ目にかからなくても、不思議とそう思われることもなく、忘れられる時もないので、あなたの面影となって立ち上ってきます。",
+        "translation-en": "Even if I no longer see you, I don't even feel that way...and since there is no time I forget, your image rises before me."
       }
     ]
   },
