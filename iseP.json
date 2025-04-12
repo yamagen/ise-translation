@@ -4321,22 +4321,26 @@
     "romaji": "hitomatamusato",
     "paragraph": [
       {
-        "date": "20240706,20250209",
+        "date": "20240706,20250209,20250412",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
         "honkoku": "昔おとこ有けり",
-        "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja": "昔、男がいた。",
+        "translation-ja-natural": "昔、男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240706",
+        "date": "20240706,20250209,20250412",
         "id": 2,
         "text": "馬のはなむけせむとて、人を待ちけるに、来ざりければ、",
         "kana": "うまのはなむけせむとて、ひとをまちけるに、こざりければ、",
         "honkoku": "むまのはなむけせんとて/人をまちけるにこさりけれは/",
-        "translation-ja": "馬の餞を贈ろうと思って、人を待っていたのに、来なかったので、",
-        "translation-en": "He was waiting for a person to give a horse's nose, but he didn't come, so he sang a song to give it."
+        "translation-ja": "馬の餞をしようと思って、人を待っていたのに、来なかったので、",
+        "translation-ja-natural": "餞別を贈ろうと思って、ある人を待っていたのに、来なかったので、",
+        "translation-en": "He was waiting for someone to offer a farewell (send-off), but the person did not come.",
+        "translation-en-natural": "He had planned to give someone a farewell gift and was waiting, but they never came."
       },
       {
         "date": "20240706,20250209",
@@ -4344,8 +4348,10 @@
         "poem": "今ぞ知る/苦しきものと/人待たむ/里をば離れず/訪ふべかりけり",
         "kana": "いまぞしる/くるしきものと/ひとまたむ/さとをばさなれず/おとふべかりけり",
         "honkoku": "いまそしるくるしき物と人またむ/さとをはかれすとふへかりけり/s56r/",
-        "translation-ja": "今、わかりました。苦しいものということを。人を待つ里は、離れることなく訪ねるべきですね。",
-        "translation-en": "Now I know how painful it is to wait for someone who doesn't come. So the house of a woman waiting for a man must be visited without fail."
+        "translation-ja": "今、わかった。苦しいものということを。人を待つ里を離れることなく訪ねるべきだった。",
+        "translation-ja-natural": "今になってようやくわかりました。人を待つというのが、こんなにもつらいものだったなんて...。あの人が待つ里を離れずに、訪ねていけばよかったのです。",
+        "translation-en": "Now I know how painful it is to wait for someone. I should have stayed and visited the village where they wait.",
+        "translation-en-natural": "Now I truly understand how painful it is to wait for someone... I should never have left the village where they were waiting."
       }
     ]
   },
