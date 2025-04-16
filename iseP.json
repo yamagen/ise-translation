@@ -4292,7 +4292,7 @@
         "translation-en-natural": "Like a sacred offering, too many people are reaching for you now... I still think of you a little, maybe, but honestly...I just can't trust you anymore."
       },
       {
-        "date": "20240705,20250209",
+        "date": "20240705,20250209,20250412",
         "id": 4,
         "text": "返し、男、",
         "kana": "かへし、をとこ、",
@@ -4343,7 +4343,7 @@
         "translation-en-natural": "He had planned to give someone a farewell gift and was waiting, but they never came."
       },
       {
-        "date": "20240706,20250209",
+        "date": "20240706,20250209,20250412",
         "id": 3,
         "poem": "今ぞ知る/苦しきものと/人待たむ/里をば離れず/訪ふべかりけり",
         "kana": "いまぞしる/くるしきものと/ひとまたむ/さとをばさなれず/おとふべかりけり",
@@ -4361,40 +4361,46 @@
     "romaji": "wakakusa",
     "paragraph": [
       {
-        "date": "20240707,20250209",
+        "date": "20240707,20250209,20250413",
         "id": 1,
         "text": "むかし、男、妹のいとをかしげなりけるを見をりて、",
         "kana": "むかし、をとこ、いもうとのいとをかしげなりけるをみをりて、",
         "honkoku": "むかしおとこいもうとのいとおかしけ/なりけるを見をりて/",
         "translation-ja": "昔、男が、妹のとても愛らしいさまを見ていて、",
-        "translation-en": "Once upon a time, a man saw his sister's lovely appearance and,"
+        "translation-ja-natural": "昔、ある男が、妹のあまりに可愛らしい様子を見ていて、",
+        "translation-en": "Once upon a time, a man saw his sister's lovely appearance and,",
+        "translation-en-natural": "Once upon a time, a man was watching his younger sister, who looked very lovely,"
       },
       {
-        "date": "20240707",
+        "date": "20240707,20250209,20250413",
         "id": 2,
         "poem": "うら若み/寝よげに見ゆる/若草を/人の結ばむ/ことをしぞ思ふ",
-        "kana": "うらわかみ/ねよげにみゆる/わかくさを/ひとのむすばむ/ことをしそおもふ",
+        "kana": "うらわかみ/ねよげにみゆる/わかくさを/ひとのむすばむ/ことをしぞおもふ",
         "honkoku": "うらわかみねよけにみゆるわか草を/人のむすはんことをしそ思ふ/",
-        "translation-ja": "若いので、寝て見る若草を、人が結ばれること、惜しく思います。",
-        "translation-en": "Because you are young, I regret that people will marry you, who look like young grass when you sleep."
+        "translation-ja": "若くて、寝やすそうに見える若草を、人が結ぶだろうことを、惜しいと思う。",
+        "translation-ja-natural": "まだ初々しくて寝そべるのもやっとの若草を、誰かが結んでしまうのかと思うと、なんだか惜しい気がします。",
+        "translation-en": "Being tender and young, the young grass that looks easy to lie upon—about someone binding it, I do feel it is a pity.",
+        "translation-en-natural": "Seeing that tender young grass, still too delicate to lie upon, I couldn't help feeling it was a pity that someone might tie it down."
       },
       {
-        "date": "20240707,20250209",
+        "date": "20240707,20250209,20250413",
         "id": 3,
         "text": "と聞えけり。返し、",
         "kana": "ときこえけり。かへし、",
         "honkoku": "ときこえけり返し/",
-        "translation-ja": "と申し上げた。返し、",
+        "translation-ja": "と申し上げました。その返しとして、",
         "translation-en": "That he said. The reply,"
       },
       {
-        "date": "20240707,20250209",
+        "date": "20240707,20250209,20250413",
         "id": 4,
         "poem": "初草の/などめづらしき/言の葉ぞ/うらなくものを/思ひけるかな",
         "kana": "はつくさの/などめづらしき/ことのはぞ/うらなくものを/おもひけるかな",
         "honkoku": "はつ草のなとめつらしきことのはを/うらなくものをおもひけるかな/s60l/",
-        "translation-ja": "初草のように、珍しい言葉ですね。心に隔てなく、それを思い出しています。",
-        "translation-en": "What a wonderful word like the first grass. I thought about it without any hesitation."
+        "translation-ja": "初草のことで、なぜ珍しい言葉なのか。心に隔てなく物を思っていたのだなあ。",
+        "translation-ja-natural": "若草にたとえるなんて、どうしてそんな特別なことばを？　私は何も知らずに、ただ素直に過ごしていただけなのに、そんなふうに思っていてくれたのね。",
+        "translation-en": "Concerning the first grass, why is it a rare word? I had been thinking things without reserve, I realize.",
+        "translation-en-natural": "You compared me to young grass...why such special words? I was just being open and honest, not knowing you felt that way about me."
       }
     ]
   },
@@ -4404,67 +4410,81 @@
     "romaji": "torinoko",
     "paragraph": [
       {
-        "date": "20240708,20250209",
+        "date": "20240708,20250209,20250414",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
         "honkoku": "むかし男ありけり",
-        "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja": "昔、男がいた。",
+        "translation-ja-natural": "昔、男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240708,20250209",
+        "date": "20240708,20250209,20250414",
         "id": 2,
         "text": "恨むる人を恨みて、",
         "kana": "うらむるひとをうらみて、",
         "honkoku": "うらむる人をうらみて/",
         "translation-ja": "恨む人を恨んで、",
-        "translation-en": "Hating the person who hated,"
+        "translation-ja-natural": "恨み言をいう人を恨んで、",
+        "translation-en": "Hating the person who hated,",
+        "translation-en-natural": "Hating the person who hated,"
       },
       {
-        "date": "20240708,20250209",
+        "date": "20240708,20250209,20250414",
         "id": 3,
         "poem": "鳥の子を/十づゝ十は/重ぬとも/思はぬ人を/おもふものかは",
         "kana": "とりのこを/とづつとは/おもぬとも/おもはぬひとを/おもふものかは",
         "honkoku": "とりのこをとをつつとをはかさぬとも/おもはぬ人をおもふものかは/",
         "translation-ja": "鳥の子を十羽ずつ何度も重ねても、私のことを思ってくれない人を、私が思うことなどありえないでしょう。",
-        "translation-en": "Even if you stack ten times the number of round eggs, is it possible to think of someone who doesn't love you?"
+        "translation-ja-natural": "たとえ鳥の卵を百も積み上げたとしても、思ってくれない人のことを、誰が思うというのでしょうか。",
+        "translation-en": "Even if one piles ten bird eggs ten times over, would one think of a person who doesn't think of them?",
+        "translation-en-natural": "Even if one were to stack a hundred bird eggs, who in their right mind would think of someone who doesn't think of them?"
       },
       {
-        "date": "20240708,20250209",
+        "date": "20240708,20250209,20250415",
         "id": 4,
         "text": "といへりければ、",
         "kana": "といへりければ、",
         "honkoku": "といへりけれは/",
         "translation-ja": "と言ってきたので、",
-        "translation-en": "That he said, so"
+        "translation-ja-natural": "と言ってきたので、",
+        "translation-en": "That he said, so",
+        "translation-en-natural": "That he said, so"
       },
       {
-        "date": "20240708",
+        "date": "20240708,20250209,20250416",
         "id": 5,
         "poem": "朝露は/消え残りても/ありぬべし/誰かこの世を/頼みはつべき",
         "kana": "あさつゆは/きえのこりても/ありぬべし/たれかこのよを/たのみはつべき",
         "honkoku": "あさ露はきえのこりてもありぬへし/たれかこのよをたのみはつへき/",
-        "translation-ja": "朝露は消え残ってもまだ存在するかもしれません。誰がこの世を頼り切ることができましょうか。",
-        "translation-en": "Morning dew may remain. However, who should rely on this world?"
+        "translation-ja": "朝露は消え残ってもなお在るかもしれない。誰がこの世を頼り切ることができようか。",
+        "translation-ja-natural": "朝露は消え残ることもあるかもしれませんが、誰がこの世を頼りにできるというのでしょうか。",
+        "translation-en": "Even if the morning dew remains and still exists, who could fully rely on this world?",
+        "translation-en-natural": "Even if the morning dew lingers a little longer, who can truly place their trust in this fleeting world?"
       },
       {
-        "date": "20240708,20250209",
+        "date": "20240708,20250209,20250416",
         "id": 6,
         "text": "又、男、",
         "kana": "また、をとこ、",
         "honkoku": "又おとこ/",
         "translation-ja": "又、男、",
-        "translation-en": "Again, the man..."
+        "translation-ja-natural": "また、男が、",
+        "translation-en": "Again, the man...",
+        "translation-en-natural": "Again, the man..."
       },
       {
-        "date": "20240708,20250209",
+        "date": "20240708,20250209,20250416",
         "id": 7,
         "poem": "吹く風に/去年の桜は/散らずとも/あな頼みがた/人の心は",
         "kana": "ふくかぜに/こぞのさくらは/ちらずとも/あなたのみがた/ひとのこころは",
         "honkoku": "ふく風にこそのさくらはちらすとも/あなたのみかた人のこころは/s61l/",
-        "translation-ja": "吹く風に去年の桜が散らないとしても、ああ、なんと頼りがたいものでしょう、人の心は。",
-        "translation-en": "Even if the cherry blossoms that bloomed last year did not fall in the wind, how difficult it is to rely on people's hearts."
+        "translation-ja": "吹く風に去年の桜が散らなくても、ああ、頼りがたい、人の心は。",
+        "translation-ja-natural": "風が吹いても散らなかった去年の桜よりも、人の心のほうがよほど頼りないものですね。",
+        "translation-en": "Even if last year's cherry blossoms did not scatter in the blowing wind, ah, how unreliable the human heart is.",
+        "translation-en-natural": "Even last year's cherry blossoms held on through the wind—but the human heart is far less reliable."
       },
       {
         "date": "20240708,20250209",
