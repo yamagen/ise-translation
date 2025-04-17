@@ -4503,8 +4503,10 @@
         "poem": "ゆく水に/数かくよりも/はかなきは/思はぬ人を/思ふなりけり",
         "kana": "ゆくみづに/かずかくよりも/はかなきは/おもはぬひとを/おもふなりけり",
         "honkoku": "ゆく水にかすかくよりもはかなきは/おもはぬ人をおもふなりけり/",
-        "translation-ja": "流れる水の数を数えるよりも、儚いのは、思ってくれない人を思うということであった。",
-        "translation-en": "It is more fleeting to think of someone who does not think of you than to count the number of drops in flowing water."
+        "translation-ja": "ゆく水に数を書くよりも儚いのは、思わない人を思うことだ。",
+        "translation-ja-natural": "流れ去って二度と戻ってこない水の表面に、ひとつ、ふたつ、と数を書く。これは当然、無為ですが、その明らかに無為なことよりも無為なことは、私を思わない人を思う——そんな馬鹿なことをしている私ですよ。",
+        "translation-en": "It is more fleeting to think of someone who does not think of you than to count the number of drops in flowing water.",
+        "translation-en-natural": "Writing numbers—one, two—on the surface of a stream that flows away and never returns. Clearly a useless thing to do. But even more pointless than that is thinking about someone who doesn't think of me. And yet, here I am, doing just that."
       },
       {
         "date": "20240708,20250209",
