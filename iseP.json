@@ -4487,21 +4487,23 @@
         "translation-en-natural": "Even last year's cherry blossoms held on through the wind—but the human heart is far less reliable."
       },
       {
-        "date": "20240708,20250209",
+        "date": "20240708,20250209,20250417",
         "id": 8,
         "text": "又、女、返し、",
         "kana": "また、をんな、かへし、",
         "honkoku": "又女返し/",
-        "translation-ja": "また、女が返すには、",
-        "translation-en": "And she replied,"
+        "translation-ja": "また、女の返し、",
+        "translation-ja-natural": "また、女が返すには、",
+        "translation-en": "And she replied,",
+        "translation-en-natural": "And she replied,"
       },
       {
-        "date": "20240708,20250209",
+        "date": "20240708,20250209,20250417",
         "id": 9,
         "poem": "ゆく水に/数かくよりも/はかなきは/思はぬ人を/思ふなりけり",
         "kana": "ゆくみづに/かずかくよりも/はかなきは/おもはぬひとを/おもふなりけり",
         "honkoku": "ゆく水にかすかくよりもはかなきは/おもはぬ人をおもふなりけり/",
-        "translation-ja": "ゆく水に数を数えるよりも儚いのは、思ってくれない人を思うことです。",
+        "translation-ja": "流れる水の数を数えるよりも、儚いのは、思ってくれない人を思うということであった。",
         "translation-en": "It is more fleeting to think of someone who does not think of you than to count the number of drops in flowing water."
       },
       {
