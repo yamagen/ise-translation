@@ -4509,31 +4509,37 @@
         "translation-en-natural": "Writing numbers—one, two—on the surface of a stream that flows away and never returns. Clearly a useless thing to do. But even more pointless than that is thinking about someone who doesn't think of me. And yet, here I am, doing just that."
       },
       {
-        "date": "20240708,20250209",
+        "date": "20240708,20250209,20250418",
         "id": 10,
         "text": "又、男、",
         "kana": "また、をとこ、",
         "honkoku": "またおとこ/",
         "translation-ja": "又、男、",
-        "translation-en": "Again, the man sang,"
+        "translation-ja-natural": "また、男が詠む、",
+        "translation-en": "Again, the man sang,",
+        "translation-en-natural": "Again, the man sang,"
       },
       {
-        "date": "20240708,20250209",
+        "date": "20240708,20250209,20250418",
         "id": 11,
         "poem": "ゆく水と/過ぐるよはひと/散る花と/いづれ待ててふ/ことを聞くらむ",
         "kana": "ゆくみづと/すぐるよはひと/ちるはなと/いづれまててふ/ことをきくらむ",
         "honkoku": "行水と過るよはひとちるはなと/いつれまててふことをきくらむ/",
         "translation-ja": "ゆく水、過ぎてゆく年齢、散る花と、一体どれを待てばよいのかと、そんな話を聞くだろうか。",
-        "translation-en": "Who would say to wait for either the flowing water, the passing time, or the falling flowers?"
+        "translation-ja-natural": "流れていく水に、過ぎてゆく年齢に、散ってしまう花に——そのどれを待てというのでしょうか。そんな話、誰が信じるというのですか。",
+        "translation-en": "Who would say to wait for either the flowing water, the passing time, or the falling flowers?",
+        "translation-en-natural": "Wait for the flowing water? For the passing of years? For the falling flowers? Who would ever say such a thing? Who could believe it?"
       },
       {
-        "date": "20240708,20250209",
+        "date": "20240708,20250209,20250418",
         "id": 12,
         "text": "あだ比べ、かたみにしける男女の、忍びありきしけることなるべし。",
         "kana": "あだくらべ、かたみにしけるをとこをんなの、しのびありきしけることなるべし。",
         "honkoku": "あたくらへかたみにしけるおとこ女のし/のひありきしけることなるへし/s62r/",
-        "translation-ja": "浮気を競り合い、お互いに逢瀬を重ねた男女が密かに会っていたことでしょう。",
-        "translation-en": "It seems that the man and woman, who competed in infidelity and secretly met each other, were having clandestine meetings."
+        "translation-ja": "浮気を競い、互いに何かをし合っていた男女が、密かに通い合っていたことだったのだろう。",
+        "translation-ja-natural": "浮気心を張り合いながら、互いにこっそり通い合っていた男女のことだったのでしょうね。",
+        "translation-en": "It must have been that a man and woman, who vied in frivolity and did something mutually, were secretly visiting one another.",
+        "translation-en-natural": "It must have been about a man and a woman who tried to outdo each other in flirting, secretly meeting each other in secret."
       }
     ]
   },
