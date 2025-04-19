@@ -4549,21 +4549,25 @@
     "romaji": "kiku",
     "paragraph": [
       {
-        "date": "20240709,20250210",
+        "date": "20240709,20250210,20250419",
         "id": 1,
         "text": "むかし、男、人の前栽に菊植ゑけるに、",
         "kana": "むかし、をとこ、ひとのせんざいにきくうゑけるに、",
         "honkoku": "むかし男人のせむさいに菊うへけるに/",
         "translation-ja": "昔、男が、人の前栽に菊を植えたときに、",
-        "translation-en": "Once upon a time, a man planted chrysanthemums in a person's front garden,"
+        "translation-ja-natural": "昔、ある男が、よその家の庭に菊を植えたときに、",
+        "translation-en": "Once upon a time, a man planted chrysanthemums in a person's front garden,",
+        "translation-en-natural": "Once upon a time, a man planted chrysanthemums in someone else's garden,"
       },
       {
-        "date": "20240709,20250210",
+        "date": "20240709,20250210,20250419",
         "id": 2,
         "poem": "植ゑしうゑば/秋なき時や/咲かざらむ/花こそ散らめ/根さへ枯れめや",
         "honkoku": "うへしうへはあきなき時やさかさらん/花こそちらめねさへかれめや/s63r/",
-        "translation-ja": "植えた木は秋が来ない時でも咲かないのでしょうか。花は散るかもしれませんが、根まで枯れてしまうことがあるんでしょうか。",
-        "translation-en": "When I have planted it, will it not bloom even if autumn does not come? The flowers may fall, but will the roots wither as well?"
+        "translation-ja": "植えたものを、植えたのであれば、秋のないときに咲かないだろうか。花は散るかもしれないが、根までも枯れるだろうか。",
+        "translation-ja-natural": "植えたからには、秋が来ないからといって咲かないことがあるでしょうか。花は散るかもしれませんが、根まで枯れることがあるでしょうか。",
+        "translation-en": "Having planted it—if I have planted it—would it not bloom in a time without autumn? The flowers may indeed fall, but would even the roots wither?",
+        "translation-en-natural": "Having planted it, would it not bloom even if autumn never comes? The flowers may fall, but would even the roots wither away?"
       }
     ]
   },
@@ -4573,40 +4577,48 @@
     "romaji": "kazarichimaki",
     "paragraph": [
       {
-        "date": "20240710,20250211",
+        "date": "20240710,20250211,20250419",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
         "honkoku": "昔おとこありけり",
-        "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja": "昔、男がいた。",
+        "translation-ja-natural": "昔、男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240710,20250211",
+        "date": "20240710,20250211,20250419",
         "id": 2,
         "text": "人のもとより、かざり粽おこせたりける返り事に、",
         "kana": "ひとのもとより、かざりちまきおこせたりけるかへりごとに、",
         "honkoku": "人のもとよりかさなり/ちまきををこせたりける返ことに/",
         "translation-ja": "人のもとより、かざり粽を贈ってきた返事に、",
-        "translation-en": "In response to the decorated Chimaki sent from the person,"
+        "translation-ja-natural": "ある人から、かざり粽が贈られてきたので、そのお返しに、",
+        "translation-en": "In response to the decorated Chimaki sent from the person,",
+        "translation-en-natural": "Someone had sent him a decorated chimaki, so in return,"
       },
       {
-        "date": "20240710,20250211",
+        "date": "20240710,20250211,20250419",
         "id": 3,
         "poem": "菖蒲刈り/君は沼にぞ/まどひける/我は野に出でて/かるぞわびしき",
         "kana": "あやめかり/きみはぬまにぞ/まどひける/わはのにいでて/かるぞわびしき",
         "honkoku": "あやめかり君はぬまにそまとひける/われは野にいててかるそわひしき/",
-        "translation-ja": "菖蒲を刈りに沼に入って、私は野に出て、狩るのがつらいことでした。",
-        "translation-en": "You went into the swamp to cut the iris, and I went out into the field, which was hard to hunt."
+        "translation-ja": "菖蒲を刈るために、君は沼で迷っておられた。私は野に出て刈っていたが、それがつらかった。",
+        "translation-ja-natural": "あやめを刈ろうとして、あなたは沼で迷ってしまい、私は一人で野に出て、刈りながら寂しさを噛みしめていました。",
+        "translation-en": "To cut iris, you wandered lost in the swamp. I went out into the field and cut alone—it was sorrowful.",
+        "translation-en-natural": "You lost your way in the swamp while trying to cut irises, and I went out alone into the field—cutting all alone, feeling quietly forlorn."
       },
       {
-        "date": "20240710,20250211",
+        "date": "20240710,20250211,20250419",
         "id": 4,
         "text": "とて、雉子をなむやりける。",
         "kana": "とて、きじをなむやりける。",
         "honkoku": "とてきしをなむやりける/s64r/",
-        "translation-ja": "と詠んで、雉を贈りました。",
-        "translation-en": "He sang and gave a bird."
+        "translation-ja": "そう言って、雉をわざわざ贈った。",
+        "translation-ja-natural": "そんな歌を詠んで、雉を贈ってきた。",
+        "translation-en": "He said so, and did send a pheasant.",
+        "translation-en-natural": "He sent a pheasant along with that poem."
       }
     ]
   },
