@@ -4628,22 +4628,26 @@
     "romaji": "ahigataki onna",
     "paragraph": [
       {
-        "date": "20240711,20250211",
+        "date": "20240711,20250211,20250420",
         "id": 1,
         "text": "むかし、男、あひがたき女にあひて、物語などするほどに、鶏の鳴きければ、",
         "kana": "むかし、をとこ、あひがたきをんなにあひて、ものがたりなどするほどに、にわとりのなきければ、",
         "honkoku": "むかしおとこあひかたき女にあひて物/かたりなとするほとにとりのなきけれは/",
-        "translation-ja": "昔、男が、なかなか逢えない女に逢って、思うことを話しているうちに、鶏が鳴いたので、",
-        "translation-en": "Once upon a time, a man could meet a woman who was hard to meet, and as they talked about their thoughts, the rooster crowed,"
+        "translation-ja": "昔、男が、なかなか逢えない女に逢って、物語などしているうちに、鶏が鳴いたので、",
+        "translation-ja-natural": "昔、ある男が、なかなか会えない女にようやく会うことができて、語り合っているうちに、鶏の鳴き声が聞こえてきたので、",
+        "translation-en": "Once upon a time, a man met a woman who was hard to meet, and as they talked together, the rooster crowed,...",
+        "translation-en-natural": "Once upon a time, a man finally met a woman he had long longed to see, and as they talked together, the sound of a rooster crowing broke the night,..."
       },
       {
-        "date": "20240711,20250211",
+        "date": "20240711,20250211,20250420",
         "id": 2,
         "poem": "いかでかは/鶏の鳴くらむ/人しれず/思ふ心は/まだ夜ぶかきに",
         "kana": "いかでかは/とりのなくらむ/ひとしれず/おもふこころは/まだよぶかきに",
         "honkoku": "いかてかは鳥のなくらん人しれす/思ふこころはまた夜ふかきに/s64r/",
-        "translation-ja": "どうして鶏が鳴くのでしょうか、人しれず思う心は、まだ夜が深々として明けないのに。",
-        "translation-en": "Why does the rooster crow? My feelings of longing for someone are still deep in the night and have not yet dawned."
+        "translation-ja": "どうして鶏が鳴くのだろう。人しれず思う心は、まだ夜が深いのに。",
+        "translation-ja-natural": "どうして鶏なんか鳴くのでしょう。誰にも知られずに思い続けている私の気持ちは、まだ夜の深みにあるというのに。",
+        "translation-en": "Why is the rooster crowing? My feelings, unknown to anyone, are still deep in the night.",
+        "translation-en-natural": "Why must the rooster crow now? My feelings, still hidden in the depths of night, remain unknown to anyone."
       }
     ]
   },
