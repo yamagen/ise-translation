@@ -4657,13 +4657,15 @@
     "romaji": "tsurenakarikeru onna",
     "paragraph": [
       {
-        "date": "20240712,20250211",
+        "date": "20240712,20250211,20250421",
         "id": 1,
         "text": "むかし、男、つれなかりける女に言ひやりける。",
         "kana": "むかし、をとこ、つれなかりけるをんなにいひやりける。",
         "honkoku": "昔男つれなかりける女にいひやりける/",
         "translation-ja": "昔、男、つれなかった女に言いやった。",
-        "translation-en": "Once upon a time, a man sang a song to a cold-hearted woman"
+        "translation-ja-natural": "昔、男が、冷たくされた女に歌を送りました。",
+        "translation-en": "Once upon a time, a man sent words to a cold-hearted woman.",
+        "translation-en-natural": "Once upon a time, a man sent a poem to a woman who had been cold to him."
       },
       {
         "date": "20240712,20250211",
@@ -4671,8 +4673,9 @@
         "poem": "行きやらぬ/夢路を頼む/たもとには/天つ空なる/露やおくらむ",
         "kana": "ゆきやらぬ/ゆめぢをたのむ/たもとには/あまつそらなる/つゆやおくらむ",
         "honkoku": "ゆきやらぬ夢ちをたとるたもとには/あまつ空なるつゆやをくらん/s64l/",
-        "translation-ja": "行きかねる夢の道を頼りにする袖には、天の空にある露が降りてくるでしょうか。",
-        "translation-en": "In my sleeve that relies on the difficult-to-tread dream path, will the dew from the heavenly sky descend?"
+        "translation-ja": "行きかねる夢路を頼りにする袖には、天の空にある露が置くことだろう。",
+        "translation-ja-natural": "通うことのできない夢の道を頼みにするこの袖に、天の空から露が置かれるのでしょうか。",
+        "translation-en-natural": "On this sleeve that relies on a dream path I cannot reach, might dewdrops from the sky above be falling?"
       }
     ]
   },
