@@ -4685,22 +4685,26 @@
     "romaji": "kotonoha",
     "paragraph": [
       {
-        "date": "20240713,20250212",
+        "date": "20240713,20250212,20250422",
         "id": 1,
         "text": "むかし、男、思ひかけたる女の、え得まじうなりての世に、",
         "kana": "むかし、をとこ、おもひかけたるをんなの、ええまじうなりてのよに、",
         "honkoku": "むかしおとこおもひかけたる女のえう/ましうなりてのよに/",
         "translation-ja": "昔、男が思いを寄せていた女が、どうしても手に入らない状況になった時に、",
-        "translation-en": "Once upon a time, when a man, who had feelings for a woman, found himself in a situation where he could not possibly have her,"
+        "translation-ja-natural": "昔、ある男が思いを寄せていた女性と、もうどうしても結ばれないことになってしまったとき、",
+        "translation-en": "Once upon a time, a man loved a woman, but came to a time when he could not possibly have her.",
+        "translation-en-natural": "Once upon a time, a man had fallen for a woman, but the time came when it became clear he would never be with her."
       },
       {
-        "date": "20240713,20250212",
+        "date": "20240713,20250212,20250422",
         "id": 2,
         "poem": "思はずは/ありもすらめど/言の葉の/をりふしごとに/頼まるゝかな",
         "kana": "おもはずは/ありもすらめど/ことのはの/をりふしごとに/たのまるるかな",
         "honkoku": "思はすはありもすらめとことの葉の/をりふしことにたのまるるかな/s64l/",
-        "translation-ja": "思わないこともあるでしょうが、あなたの言葉の折々に期待してしまうのでしょうか。",
-        "translation-en": "You may not think of me, but do I rely on your words every time I hear them?"
+        "translation-ja": "思わないこともあるだろうけど、言葉の折節毎に期待してしまうのだ。",
+        "translation-ja-natural": "思ってくれていないのかもしれないけど、その言葉のひとつひとつに、どうしても期待してしまうのです。",
+        "translation-en": "There could be cases when you don't think of me, but I cannot help but rely on your every single word.",
+        "translation-en-natural": "You may not really be thinking of me, but I can't help holding on to every single word you say."
       }
     ]
   },
