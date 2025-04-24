@@ -4714,22 +4714,26 @@
     "romaji": "kusa no ihori",
     "paragraph": [
       {
-        "date": "20240714,20250212",
+        "date": "20240714,20250212,20250423",
         "id": 1,
         "text": "むかし、男、 臥して思ひ起きて思ひ、思ひあまりて、",
         "kana": "むかし、をとこ、ねしておもひおきておもひ、おもいあまりて、",
         "honkoku": "むかし男ふしておもひおきておもひおもひ/あまりて/s64l/",
         "translation-ja": "昔、男が、寝て思い、起きて思い、思いあまって、",
-        "translation-en": "Once upon a time, a man thought while lying down, thought while getting up, and thought too much,"
+        "translation-ja-natural": "昔、ある男が寝ても覚めても彼女のことばかり考えて、ついには思い悩んでしまいました。",
+        "translation-en": "Once upon a time, a man thought while lying down, thought while getting up, and thought too much,",
+        "translation-en-natural": "Once upon a time, there was a man who thought of her day and night, until the feelings overwhelmed him."
       },
       {
-        "date": "20240714,20250212",
+        "date": "20240714,20250212,20250423",
         "id": 2,
         "poem": "わが袖は/草の庵に/あらねども/暮るれば露の/宿りなりけり",
         "kana": "わがそでは/くさのいほりに/あらねども/くるればつゆの/やどりなりけり",
         "honkoku": "わか袖はくさのいほりにあらねとも/くるれは露のやとりなりけり/s65r/",
-        "translation-ja": "私の袖は、草の庵ではないけれども、暮れると露の宿になりました。",
-        "translation-en": "My sleeves are not a grass hut, but when evening falls, they become a dwelling for the dew."
+        "translation-ja": "私の袖は、草の庵ではないけれども、暮れると露の宿になってしまった。",
+        "translation-ja-natural": "私の袖は草ぶきの庵じゃないけれど、日が暮れると、露がこぼれてきて...まるで、露の宿みたいになってしまいました。",
+        "translation-en": "My sleeves are not a grass hut, but when evening falls, they become a dwelling for the dew.",
+        "translation-en-natural": "My sleeves may not be a thatched hut, but when evening comes, they turn into a resting place for the dew."
       }
     ]
   },
@@ -4739,13 +4743,15 @@
     "romaji": "koiwabinu",
     "paragraph": [
       {
-        "date": "20240715,20250212",
+        "date": "20240715,20250212,20250424",
         "id": 1,
         "text": "むかし、男、人しれぬもの思ひけり。",
         "kana": "むかし、をとこ、ひとしれぬものおもひけり。",
         "honkoku": "むかしおとこ人しれぬものおもひけり/",
         "translation-ja": "昔、男が、誰にも知られず、思い悩んでいた。",
-        "translation-en": "Once upon a time, there was a man who, without anyone knowing, was deeply troubled."
+        "translation-ja-natural": "昔、ある男が、人知れず悩みごとを抱えていました。",
+        "translation-en": "Once upon a time, there was a man who, without anyone knowing, was deeply troubled.",
+        "translation-en-natural": "Once upon a time, a man quietly carried a sorrow known to no one."
       },
       {
         "date": "20240715,20250212",
@@ -4754,7 +4760,9 @@
         "kana": "つれなきひとのもとに、",
         "honkoku": "つれなき人のもとに/",
         "translation-ja": "冷たい人のもとに、",
-        "translation-en": "To a cold-hearted woman,"
+        "translation-ja-natural": "素知らぬ顔のあの人のもとへ、",
+        "translation-en": "To a cold-hearted woman,",
+        "translation-en-natural": "To the one who acts as if nothing happened,"
       },
       {
         "date": "20240715,20250212",
@@ -4762,8 +4770,10 @@
         "poem": "恋ひわびぬ/あまの刈る藻に/やどるてふ/われから身をも/くだきつるかな",
         "kana": "こひわびぬ/あまのかるもに/やどるてふ/われからみをも/くだきつるかな",
         "honkoku": "恋わひぬあまのかるもにやとるてふ/我から身をもくたきつるかな/s65r/",
-        "translation-ja": "恋に疲れてしまって、海人が刈り取る藻に住み着くという私が身をも砕いてしまったのでしょうか。",
-        "translation-en": "I have become weary from love. Could it be that I, who is said to dwell in the seaweed harvested by the fishermen, have shattered my own body?"
+        "translation-ja": "恋い慕ってつらくなってしまった。海人の刈る藻に宿るという「われから」---その我から、身までも砕いてしまったのだなあ。",
+        "translation-ja-natural": "恋に苦しみぬいた末に──海人が刈る藻に宿るという『われから』のように、私自身が、ついに身までも砕けてしまったのです。",
+        "translation-en": "I have grown weary with longing. The 'warekara' said to dwell in the seaweed harvested by the divers—perhaps it is from myself that even my body has been shattered.",
+        "translation-en-natural": "After all my suffering in love, I ended up like the warekara they say lives in seaweed—shattered to pieces, all on my own."
       }
     ]
   },
