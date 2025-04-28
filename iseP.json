@@ -4916,8 +4916,10 @@
         "text": "むかし、男、京をいかゞ思ひけむ。東山に住まむと思ひ入りて、",
         "kana": "むかし、をとこ、みやこをいかぞおもひけむ。ひがしやまにすまむとおもひいりて、",
         "honkoku": "むかしおとこ京をいかか思ひけむひんかし/山にすまむとおもひいりて/",
-        "translation-ja": "昔、ある男が、都をどう思ったのでしょうか。東山に住もうと決心して、",
-        "translation-en": "Once upon a time, a man wondered what to think of the capital. He decided to live in Higashiyama,"
+        "translation-ja": "昔、ある男が、都をどう思ったのか、東山に住もうと決心して、",
+        "translation-ja-natural": "昔、ある男が、都にどんな思いを抱いていたのかはわからないが、東山に住もうと心に決めた。",
+        "translation-en": "Once upon a time, a man—what he thought of the capital is unknown—decided to live in Higashiyama,",
+        "translation-en-natural": "Once upon a time, a man—though what he felt about the capital remains unknown—resolved to make his home in Higashiyama."
       },
       {
         "date": "20240717,20250212",
