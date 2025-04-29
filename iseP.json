@@ -4911,7 +4911,7 @@
     "romaji": "Higashiyama",
     "paragraph": [
       {
-        "date": "20240717,20250212",
+        "date": "20240717,20250212,20250428",
         "id": 1,
         "text": "むかし、男、京をいかゞ思ひけむ。東山に住まむと思ひ入りて、",
         "kana": "むかし、をとこ、みやこをいかぞおもひけむ。ひがしやまにすまむとおもひいりて、",
@@ -4922,22 +4922,26 @@
         "translation-en-natural": "Once upon a time, a man—though what he felt about the capital remains unknown—resolved to make his home in Higashiyama."
       },
       {
-        "date": "20240717,20250212",
+        "date": "20240717,20250212,20250428",
         "id": 2,
         "poem": "住わびぬ/今はかぎりと/山里に/身をかくすべき/宿をもとめてむ",
         "kana": "すみわびぬ/いまはかぎりと/やまざとに/みをかくすべき/やどをもとめてむ",
         "honkoku": "すみわひぬいまはかきりと山さとに/身をかくすへきやともとめてむ/s66r/",
-        "translation-ja": "住むことができなくなってしまった。今はこれまでと、山里に身を隠すのによい住みかをさがし求めたいなあ。",
-        "translation-en": "I can no longer live there. Now I want to find a good place to hide in the mountains."
+        "translation-ja": "住むのがつらくなってしまった。今はもう終わりだと思って、山里に身を隠すための宿を探そう。",
+        "translation-ja-natural": "ここに住むのももう限界だ。山里に身を隠せるような宿を探しに行こう。",
+        "translation-en": "I have grown weary of living. Thinking this is the end, I will seek a dwelling in the mountain village to hide myself.",
+        "translation-en-natural": "I can't stay here any longer. I'll go look for a place to hide away in the mountains."
       },
       {
-        "date": "20240717,20250212",
+        "date": "20240717,20250212,20250428",
         "id": 3,
         "text": "かくて、ものいたく病みて、死に入りければ、おもてに水そゝぎなどしていきいでて、",
         "kana": "かくて、ものいたくやみて、しにいりければ、おもてにみずそそぎなどしていきいでて、",
         "honkoku": "かくて物いたくやみてしにいりたりけれ/はおもてに水そそきなとしていきいてて/",
         "translation-ja": "そうして、ひどく病気になって、死にかけたので、顔に水をかけたりなどして、息を吹き返して、",
-        "translation-en": "In this way, he became seriously ill and was on the verge of death, so they splashed water on his face and he revived."
+        "translation-ja-natural": "こうしてひどく病み、死にかけたので、顔に水をかけるなどして、息を吹き返しました。",
+        "translation-en": "In this way, he became seriously ill and was on the verge of death, so water was splashed on his face, and he revived.",
+        "translation-en-natural": "Thus, he fell seriously ill and was on the verge of death, so water was splashed on his face, and he came back to life."
       },
       {
         "date": "20240717,20250212",
@@ -4946,7 +4950,9 @@
         "kana": "わがうえに/つゆぞおくなる/あまのかわと/わたるふねの/かいのしづくか",
         "honkoku": "わかうへに露そをくなるあまの川/とわたる舟のかひのしつくか/",
         "translation-ja": "私の上に露が置かれているようです。天の川を渡る船の櫂から落ちるしずくなのでしょうか。",
-        "translation-en": "It seems that dew is placed upon me. Could this be the drops from the oars of the boat crossing the Milky Way?"
+        "translation-ja-natural": "私の上に露が置かれているようです。天の川を渡る船の櫂からこぼれたしずくなのでしょうか。",
+        "translation-en": "It seems that dew is placed upon me. Could this be the drops from the oars of the boat crossing the Milky Way?",
+        "translation-en-natural": "It seems that dew is placed upon me. Could this be the drops from the oars of the boat crossing the Milky Way?"
       },
       {
         "date": "20240717,20250212",
@@ -4955,7 +4961,9 @@
         "kana": "となむいひて、いきいでたりける。",
         "honkoku": "となんいひていきいてたりける/s66l/",
         "translation-ja": "そう言って、息を吹き返したのでした。",
-        "translation-en": "He said this and then revived."
+        "translation-ja-natural": "そう言って、息を吹き返したのです。",
+        "translation-en": "He said this and then revived.",
+        "translation-en-natural": "He said that and came back to life."
       }
     ]
   },
