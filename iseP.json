@@ -5011,8 +5011,10 @@
         "text": "まめに思はむといふ人につきて、",
         "kana": "まめにおもはむといふひとにつきて、",
         "honkoku": "まめにおもはんといふ人につきて",
-        "translation-ja": "誠実に愛そうと言う人について、",
-        "translation-en": "Followed a person who said he would love earnestly,"
+        "translation-ja": "誠実に思おうという人についていって、",
+        "translation-ja-natural": "誠実に愛してくれるという男についていって、",
+        "translation-en": "Followed a person who said he would think sincerely,",
+        "translation-en-natural": "She went with a man who said he would love her sincerely,"
       },
       {
         "date": "20240718,20250212",
@@ -5020,26 +5022,32 @@
         "text": "人の国へいにけり。",
         "kana": "ひとのくにへいにけり。",
         "honkoku": "人の/くにへいにけり",
-        "translation-ja": "その人の国へ行ってしまいました。",
-        "translation-en": "She went to that person's country."
+        "translation-ja": "その人の国へ行ったのだった。",
+        "translation-ja-natural": "その男の国へとついて行ってしまったのです。",
+        "translation-en": "She went to that person’s country.",
+        "translation-en-natural": "And so, she followed him to his province."
       },
       {
-        "date": "20240718,20250212",
+        "date": "20240718,20250212,20250501",
         "id": 6,
         "text": "この男、宇佐の使にていきけるに、",
         "kana": "このをとこ、うさのつかひにていきけるに、",
         "honkoku": "このおとこ宇佐のつかひ/s66l/にていきけるに",
-        "translation-ja": "この男が、宇佐の使いとなって行った折に、",
-        "translation-en": "When the man became a messenger and went to Usa,"
+        "translation-ja": "この男、宇佐の使いとして行ったときに、",
+        "translation-ja-natural": "その男が、宇佐への使いとして出かけたときのことでした。",
+        "translation-en": "When this man went as a messenger to Usa,",
+        "translation-en-natural": "It happened when the man went to Usa as an imperial envoy."
       },
       {
-        "date": "20240718,20250212",
+        "date": "20240718,20250212,20250501",
         "id": 7,
         "text": "ある国の祇承の官人の妻にてなむあると聞きて、",
         "kana": "あるくにのしぞうのかんにんのめにてなむあるとききて、",
         "honkoku": "あるくにのしそうの/官人のめにてなむあるとききて",
-        "translation-ja": "ある国の祇承の役人の妻になっていると聞いて、",
-        "translation-en": "he heard that she had become the wife of an official in charge of rituals in a certain province."
+        "translation-ja": "ある国の祇承の官人の妻であると聞いて、",
+        "translation-ja-natural": "ある地方の祇承という役人の妻になっていると聞いて、",
+        "translation-en": "Having heard that she was the wife of a Shizo official in a certain province,",
+        "translation-en-natural": "He heard that she had become the wife of an official called Shizo in a certain province,"
       },
       {
         "date": "20240718,20250212",
@@ -5047,17 +5055,21 @@
         "text": "「女あるじにかはらけとらせよ。さらずは飲まじ」",
         "kana": "「をんなあるじにかはらけとらせよ。さらずはのまじ」",
         "honkoku": "女あるし/にかはらけとらせよさらすはのまし",
-        "translation-ja": "「女主人に杯を取らせよ。そうでなければ飲まない」",
-        "translation-en": "Have the female host take the cup. Otherwise, I will not drink."
+        "translation-ja": "女あるじに、かはらけを取らせよ。さらずは、飲むまい。",
+        "translation-ja-natural": "女の主人に杯を取らせろ。そうでなければ、俺は飲まないぞ。",
+        "translation-en": "Have the woman host take the kawarake. Otherwise, I will not drink.",
+        "translation-en-natural": "Tell the woman in charge to hand me the cup—if not, I won't drink."
       },
       {
-        "date": "20240718,20250212",
+        "date": "20240718,20250212,20250501",
         "id": 9,
         "text": "といひければ、",
         "kana": "といひければ、",
         "honkoku": "とい/ひけれは",
         "translation-ja": "と言ったので、",
-        "translation-en": "He said this, so"
+        "translation-ja-natural": "そう言ったものだから、",
+        "translation-en": "Because he said that,",
+        "translation-en-natural": "Because he said that,"
       },
       {
         "date": "20240718,20250212",
@@ -5065,35 +5077,43 @@
         "text": "かはらけとりいだしたりけるに、",
         "kana": "かはらけとりいだしたりけるに、",
         "honkoku": "かはらけとりていたしたりける/に",
-        "translation-ja": "女が盃を取り持って差し出したところ、",
-        "translation-en": "when the woman took the cup and held it out,"
+        "translation-ja": "かはらけを取り出したところに、",
+        "translation-ja-natural": "女が杯を取り出して差し出したところ、",
+        "translation-en": "When the kawarake was taken out,",
+        "translation-en-natural": "Just as the woman took out the cup and offered it,"
       },
       {
-        "date": "20240718,20250212",
+        "date": "20240718,20250212,20250501",
         "id": 11,
         "text": "さかななりける橘をとりて、",
         "kana": "さかななりけるたちばなをとりて、",
         "honkoku": "さかななりけるたちはなをとりて/",
-        "translation-ja": "酒の肴として橘を取って、",
-        "translation-en": "taking a tachibana (citrus fruit) as a side dish for the sake,"
+        "translation-ja": "肴であった橘を取って、",
+        "translation-ja-natural": "酒のつまみとして用意されていた橘を手に取って、",
+        "translation-en": "Taking the tachibana, which had been the accompaniment,",
+        "translation-en-natural": "He picked up the tachibana, which had been prepared as a side for the sake,"
       },
       {
-        "date": "20240718,20250212",
+        "date": "20240718,20250212,20250501",
         "id": 12,
         "poem": "さつき待つ/花たちばなの/香をかげば/昔の人の/袖の香ぞする",
         "kana": "さつきまつ/はなたちばなの/かをかげば/むかしのひとの/そでのかぞする",
         "honkoku": "さ月まつ花たちはなのかをかけは/むかしのひとの袖のかそする/",
-        "translation-ja": "五月を待つ花橘の香りをかぐと、昔の人の袖の香りがする。",
-        "translation-en": "When I smell the fragrance of the tachibana blossoms that wait for May, it reminds me of the scent of the sleeves of someone from long ago."
+        "translation-ja": "五月を待つ花橘の香をかぐと、昔の人の袖の香がする。",
+        "translation-ja-natural": "五月を待って咲く花橘の香りをかぐと、かつてのあの人の袖の香りがふっとよみがえる。",
+        "translation-en": "When I smell the fragrance of the tachibana blossoms that await May, the scent of the sleeves of someone from long ago comes to me.",
+        "translation-en-natural": "When I breathe in the scent of the tachibana blossoms that bloom in May, the fragrance of that person’s sleeve from long ago suddenly returns to me."
       },
       {
-        "date": "20240718,20250212",
+        "date": "20240718,20250212,20250501",
         "id": 13,
         "text": "といひけるにぞ、思ひ出でて、尼になりて、山に入りてぞありける。",
         "kana": "といひけるにぞ、おもいいでて、あまになりて、やまにいりてぞありける。",
         "honkoku": "といひけるにそおもひいててあまになり/て山にいりてそありける/s67r/",
-        "translation-ja": "と言ったことを思い出して、尼になって山に入ったのでした。",
-        "translation-en": "Remembering what had been said, she became a nun and went into the mountains."
+        "translation-ja": "と言ったときに、思い出して、尼になって山に入ったのだった。",
+        "translation-ja-natural": "そのひと言を聞いたとき、彼女はすべてを思い出し、出家して山に入ったのでした。",
+        "translation-en": "Remembering what had been said, she became a nun and went into the mountains.",
+        "translation-en-natural": "When she heard those words, memories came rushing back—she became a nun and withdrew into the mountains."
       }
     ]
   },
