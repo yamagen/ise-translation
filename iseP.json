@@ -4955,7 +4955,7 @@
         "translation-en-natural": "It seems that dew is placed upon me. Could this be the drops from the oars of the boat crossing the Milky Way?"
       },
       {
-        "date": "20240717,20250212",
+        "date": "20240717,20250212,20250428",
         "id": 5,
         "text": "となむいひて、いき出でたりける。",
         "kana": "となむいひて、いきいでたりける。",
@@ -4973,31 +4973,37 @@
     "romaji": "hanatachibana",
     "paragraph": [
       {
-        "date": "20240718,20250212",
+        "date": "20240718,20250212,20250429",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
         "honkoku": "昔おとこありけり",
         "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja-natural": "むかし、ある男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there lived a man."
       },
       {
-        "date": "20240718,20250212",
+        "date": "20240718,20250212,20250429",
         "id": 2,
         "text": "宮仕へいそがしく、",
         "kana": "みやつかへいそがしく、",
         "honkoku": "宮つかへいそかしく/",
         "translation-ja": "宮廷勤めが忙しく、",
-        "translation-en": "He was busy with court duties,"
+        "translation-ja-natural": "宮仕えに忙しくて、",
+        "translation-en": "He was busy with court duties,",
+        "translation-en-natural": "He was caught up in court service,"
       },
       {
-        "date": "20240718,20250212",
+        "date": "20240718,20250212,20250501",
         "id": 3,
         "text": "心もまめならざりけるほどの家刀自、",
         "kana": "こころもまめならざりけるほどのいえとうじ、",
         "honkoku": "心もまめならさりけるほとのいへとうし/",
-        "translation-ja": "心もまめに愛情をそそいでやらなかった時の妻が、",
-        "translation-en": "The wife whom he did not earnestly pour his love into during the time she was his wife,"
+        "translation-ja": "心も誠実でなかったころの妻が、",
+        "translation-ja-natural": "男が誠実に向き合ってこなかったころの妻が、",
+        "translation-en": "The wife from the time when even his heart was not sincere,",
+        "translation-en-natural": "The wife from the time when he hadn't been sincere with her,"
       },
       {
         "date": "20240718,20250212",
