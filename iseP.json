@@ -5123,13 +5123,15 @@
     "romaji": "somekawa",
     "paragraph": [
       {
-        "date": "20240719,20250214",
+        "date": "20240719,20250214,20250502",
         "id": 1,
         "text": "むかし、男、筑紫までいきたるに、",
         "kana": "むかし、をとこ、つくしまでいきたるに、",
         "honkoku": "昔おとこつくしまていきたりけるに/",
-        "translation-ja": "昔、男が、筑紫まで行ったときに、",
-        "translation-en": "Once upon a time, when a man went to Tsukushi,"
+        "translation-ja": "昔、男が筑紫まで行っていたときに、",
+        "translation-ja-natural": "昔、ある男が、筑紫まで旅をしていたときに、",
+        "translation-en": "Once upon a time, a man went as far as Tsukushi, and then...",
+        "translation-en-natural": "Once upon a time, a man had traveled as far as Tsukushi, and then..."
       },
       {
         "date": "20240719,20250214",
