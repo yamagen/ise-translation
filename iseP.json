@@ -5134,49 +5134,57 @@
         "translation-en-natural": "Once upon a time, a man had traveled as far as Tsukushi, and then..."
       },
       {
-        "date": "20240719,20250214",
+        "date": "20240719,20250214,20250503",
         "id": 2,
         "text": "「これは色好むといふすきもの」",
         "kana": "「これはいろこのむといふすきもの」",
         "honkoku": "これはいろこのむといふすきもの",
-        "translation-ja": "「これは、色好むという好き者ですよ」",
-        "translation-en": "\"This man is said to be fond of colors.\""
+        "translation-ja": "「これは、色好むという好き者です」",
+        "translation-ja-natural": "「この男は、色事を好む風流な男ですよ」",
+        "translation-en": "\"This is a man who is said to be fond of love affairs.\"",
+        "translation-en-natural": "\"He's someone with a taste for love and romance.\""
       },
       {
-        "date": "20240719,20250214",
+        "date": "20240719,20250214,20250503",
         "id": 3,
         "text": "と、すだれのうちなる人のいひけるを、聞きて、",
         "kana": "と、すだれのうちなるひとのいひけるを、ききて、",
         "honkoku": "とすた/れのうちなる人のいひけるをききて/",
-        "translation-ja": "と簾の中にいた女が言ったのを聞いて、",
-        "translation-en": "Hearing what a woman who was inside a blind said,"
+        "translation-ja": "と簾の内にいる人が言ったのを聞いて、",
+        "translation-ja-natural": "そう言った、簾の内にいた人の言葉を耳にして、",
+        "translation-en": "Hearing what a woman who was inside a blind said,",
+        "translation-en-natural": "Hearing the words spoken by the person behind the blind,"
       },
       {
-        "date": "20240719,20250214",
+        "date": "20240719,20250214,20250503",
         "id": 4,
         "poem": "染河を/渡らむ人の/いかでかは/色になるてふ/ことのなからむ",
         "kana": "そめかはを/わたらむひとの/いかでかは/いろになるてふ/ことのなからむ",
         "honkoku": "そめ川をわたらんひとのいかてかは/色になるてふことのなからん/",
-        "translation-ja": "染河を渡る人は、どうして色になるということなしでいられましょうか。",
-        "translation-en": "One would cross the dyed river, how can he cross it without being dyed?"
+        "translation-ja": "染河を渡ろうとする人が、どうして色になるということがないだろうか。",
+        "translation-ja-natural": "染川を渡ろうとする人が、恋に染まらずにいられるなんて、どうしてあるでしょうか。",
+        "translation-en": "How could it be that one who would cross the Dyed River would not be said to be dyed with color?",
+        "translation-en-natural": "How could anyone who tries to cross the Dyed River not end up stained with love?"
       },
       {
-        "date": "20240719,20250214",
+        "date": "20240719,20250214,20250504",
         "id": 5,
         "text": "女、返し、",
         "kana": "をんな、かへし、",
         "honkoku": "女返し/",
         "translation-ja": "女が返し、",
-        "translation-en": "The woman replied,"
+        "translation-ja-natural": "女が返した歌、",
+        "translation-en": "The woman replied,",
+        "translation-en-natural": "A song the woman replied with,"
       },
       {
-        "date": "20240719,20250214",
+        "date": "20240719,20250214,20250504",
         "id": 6,
         "poem": "名にしおはば/あだにぞあるべき/たはれ島/浪のぬれぎぬ/着るといふなり",
         "kana": "なにしおはば/あだにそあるべき/たはれしま/なみのぬれぎぬ/きるといふなり",
         "honkoku": "なにしおははあたにそあるへきたはれ嶋/なみのぬれきぬきるといふなり/s68r/",
-        "translation-ja": "もし名前が本当であれば、きっと浮気なことでしょう。たはれ島（戯れ島）という名前の島は、波の濡れ衣を着ると言われているのです。",
-        "translation-en": "If its name is true, it must be something frivolous. It is said that Tahare Island, as its name suggests, wears the wet clothes of the waves."
+        "translation-ja": "その名にそうであるならば、浮ついたものであるにちがいない。たはれ島は、波の濡れ衣を着るという。",
+        "translation-en": "If it lives up to its name, it must be something frivolous. Tahare Island is said to wear the wet robes of the waves."
       }
     ]
   },
