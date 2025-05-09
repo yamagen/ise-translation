@@ -5194,85 +5194,103 @@
     "romaji": "Kokeru kara",
     "paragraph": [
       {
-        "date": "20240720,20250214",
+        "date": "20240720,20250214,20250505",
         "id": 1,
         "text": "むかし、年ごろ訪れざりける女、心かしこくやあらざりけむ、はかなき人の言につきて、人の国になりける人につかはれて、もと見し人の前にいで来て、もの食はせなどしけり。",
         "kana": "むかし、としごろおとづれざりけるをんな、こころかしこくやあらざりけむ、はかなきひとのことにつきて、ひとのくにになりけるひとにつかはれて、もとみしひとのまえにいできて、ものくはせなどしけり。",
         "honkoku": "むかし年ころをとつれさりける女心かし/s68r/こくやあらさりけんはかなき人のことに/つきて人のくになりける人につかはれて/もと見し人のまへにいてきてものくは/せなとしけり",
-        "translation-ja": "昔、長年訪れなかった女が、どうして賢くなかったのだろうか、つまらない人の言葉に従って、他の国に行ってしまった人に送られて、以前見たことのある人の前に出てきて、食べ物を食べさせたりした。",
-        "translation-en": "Once upon a time, a woman who had not visited for many years, perhaps she was not very wise, followed the words of a trivial person and was sent to a person who had gone to another country. She appeared before someone she had seen before and offered them food."
+        "translation-ja": "昔、長年訪れなかった女が、どうして賢くなかったのだろうか、取るに足らない人の言葉に従って、他の国に行ってしまった人に送られて、以前見られた男の前に現れて、食べ物を食べさせたりした。",
+        "translation-ja-natural": "昔、長いあいだ訪ねてもらえなかった女が...あまり賢くなかったのだろうか...とるに足らない誰かのことばに従って、ほかの国へ行ってしまった人に付き添って行き、かつて自分を見た男の前に姿を現して、食べ物を差し出したりしたのだった。",
+        "translation-en": "Once upon a time, a woman whom he had not visited for many years—perhaps she was not wise—followed the words of a trivial person, and was sent to a man who had gone to another province. She came out before the man who had formerly seen her and made him eat food, and so on.",
+        "translation-en-natural": "Once upon a time, a woman who hadn't been visited for many years, perhaps she wasn't very wise, followed the words of someone insignificant, went along with a man who had moved to another province, appeared before the man who had once seen her, and offered him food and such."
       },
       {
-        "date": "20240720,20250214",
+        "date": "20240720,20250214,20250505",
         "id": 2,
         "text": "夜さり、",
         "kana": "よさり、",
         "honkoku": "よさり",
         "translation-ja": "夜になって、",
-        "translation-en": "At night,"
+        "translation-ja-natural": "夜になると、",
+        "translation-en": "At night,",
+        "translation-en-natural": "As night fell,"
       },
       {
-        "date": "20240720,20250214",
+        "date": "20240720,20250214,20250505",
         "id": 3,
         "text": "「このありつる人たまへ」とあるじにいひければ、おこせたりけり。",
         "kana": "「このありつるひとたまへ」とあるじにいひければ、おこせたりけり。",
         "honkoku": "この有つるひとたま/へとあるしにいひけれはをこせたりけり/",
-        "translation-ja": "「この人を呼んでください」と主人に言ったので、呼ばれた。",
-        "translation-en": "\"Please call this person,\" he said to the master, and the woman was called."
+        "translation-ja": "「このさっきいた人をお願いします」と主人に言ったので、送られてきた。",
+        "translation-ja-natural": "「さっきここにいた人をお願いできますか」と主人に言ったので、その人がこちらに送られてきた。",
+        "translation-en": "\"Please send the person who was just here,\" he said to the master, and she was sent over.",
+        "translation-en-natural": "\"Could you send the person who was just here?\" he said to the master, and so she was sent over."
       },
       {
-        "date": "20240720,20250214",
+        "date": "20240720,20250214,20250505",
         "id": 4,
         "text": "男、「われをばしらずや」とて、",
         "kana": "をとこ、「われをばしらずや」とて、",
         "honkoku": "おとこわれをはしらすやとて/",
         "translation-ja": "「私をご存じではないかね」と言って、",
-        "translation-en": "Saying, 'Do you not know me?'"
+        "translation-ja-natural": "男は、「私のことがわからないのか」と言って、",
+        "translation-en": "Saying, 'Do you not know me?'",
+        "translation-en-natural": "The man said, \"Don’t you recognize me?\" and,..."
       },
       {
-        "date": "20240720,20250214",
+        "date": "20240720,20250214,20250505",
         "id": 5,
         "poem": "いにしへの/にほひはいづら/桜花/こけるからとも/なりにけるかな",
         "kana": "いにしへの/にほひはいづら/さくらばな/こけるからとも/なりにけるかな",
         "honkoku": "いにしへのにほひはいつらさくら花/こけるからともなりにけるかな/",
-        "translation-ja": "昔の美しい姿はどこへ行ってしまったのだろう、桜の花よ。苔むした枯れ木のようになってしまったなあ。",
-        "translation-en": "Where has the beauty of the past gone, cherry blossoms? They have become like withered trees covered in moss."
+        "translation-ja": "昔の美しさはどこに、桜の花。窶れた姿になってしまったのだなあ。",
+        "translation-ja-natural": "昔の美しさは、どこへ行ってしまったのだろう、桜の花よ。今では、やつれて骸になってしまったのだなあ。",
+        "translation-en": "Where is the beauty of the past, cherry blossoms? They have become a withered form.",
+        "translation-en-natural": "Where has the beauty of the past gone, cherry blossoms? Now you've become a withered corpse."
       },
       {
-        "date": "20240720,20250214",
+        "date": "20240720,20250214,20250505",
         "id": 6,
         "text": "といふを、いとはづかしと思ひて、いらへもせでゐたるを、「などいらへもせぬ」といへば、「涙のこぼるるに目もみえず、ものもいはれず」といふ。",
         "kana": "といふを、いとはづかしとおもひて、いらへもせでゐたるを、「などいらへもせぬ」といへば、「なみたのこぼるるにめもみえず、ものもいはれず」といふ。",
         "honkoku": "といふをいとはつかしとおもひていらへ/s68l/もせてゐたるをなといらへもせぬといへ/は涙のこほるるにめもみえす物もいは/れすといふ/",
-        "translation-ja": "と言うのを、恥ずかしいと思って返事もしないでいたのを、「どうして返事もしないのですか」と言うので、「涙がこぼれて目も見えず、言葉も出ません」と言いました。",
-        "translation-en": "Hearing this, she felt very embarrassed and did not respond. When asked why she did not respond, she said, 'Tears are welling up, so I cannot see. I cannot say anything.'"
+        "translation-ja": "と言うのを、恥ずかしいと思って返事もしないでいたのを、「どうして返事もしないのですか」と言うので、「涙がこぼれて目も見えず、言葉も出ません」と言う。",
+        "translation-ja-natural": "そんなことを言われても、恥ずかしくて返事もできずに黙っていたら、「どうして何も言わないの？」と聞かれたので、女は、「涙があふれて目も見えず、声も出ないのです」と答えたのだった。",
+        "translation-en": "Hearing this, she felt very embarrassed and did not respond. When asked why she did not respond, she said, 'Tears are welling up, so I cannot see. I cannot say anything.'",
+        "translation-en-natural": "When he said that, she was too embarrassed to respond and remained silent. When he asked, 'Why won't you say anything?', she replied, 'Tears are welling up—I can't see, and I can't speak.'"
       },
       {
-        "date": "20240720,20250214",
+        "date": "20240720,20250214,20250505",
         "id": 7,
         "poem": "これやこの/我にあふみを/のがれつつ/年月経れど/まさりがほなき",
         "kana": "これやこの/われにあふみを/のがれつつ/としつきふれど/まさりがほなき",
         "honkoku": "これやこの我にあふみをのかれつつ/とし月ふれとまさりかほなき/",
-        "translation-ja": "これこそ私に逢うのを逃れてきたのでしょう。年月が経ったけれども、以前のまま誇らしげな様子はありませんね。",
-        "translation-en": "Is this the one who has been avoiding meeting me? Though many years have passed, there is no longer a proud expression."
+        "translation-ja": "これが、この私に逢うのを逃れつつ、年月が経ったが、誇らしげな顔つきは見えない。",
+        "translation-ja-natural": "これが、あの私に逢うのを避け続けてきた人なのだろうか。年月が経ったけれど、あの誇らしげな様子はもう見えない。",
+        "translation-en": "Could this be the one who kept avoiding meeting me? Though many years have passed, I see no trace of a proud expression.",
+        "translation-en-natural": "Could this be the one who kept avoiding meeting me? Though all these years have passed, that proud air is no longer there."
       },
       {
-        "date": "20240720,20250214",
+        "date": "20240720,20250214,20250505",
         "id": 8,
         "text": "といひて、衣ぬぎてとらせけれど、捨てて逃げにけり。",
         "kana": "といひて、ころもぬぎてとらせけれど、すててにげにけり。",
         "honkoku": "といひてきぬぬきてとらせけれとすてて/にけにけり",
-        "translation-ja": "と言って、衣服を脱いで渡したが、捨てて逃げてしまった。",
-        "translation-en": "Though he said this and took off his robe to give it to her, she discarded it and ran away."
+        "translation-ja": "と言って、衣を脱いで取らせたが、捨てて逃げてしまった。",
+        "translation-ja-natural": "そう言って、自分の衣を脱いで彼女に取らせたのに、彼女はそれを捨てて逃げてしまった。",
+        "translation-en": "He said this and took off his robe to make her take it, but she discarded it and ran away.",
+        "translation-en-natural": "He said that, took off his robe, and made her take it—but she just threw it away and ran off."
       },
       {
-        "date": "20240720,20250214",
+        "date": "20240720,20250214,20250505",
         "id": 9,
         "text": "いづちいぬらむともしらず。",
         "kana": "いづちいぬらむともしらず。",
         "honkoku": "いつちいぬらんともしらす/s69r/",
-        "translation-ja": "どこへ行ったのかもわかりませんでした。",
-        "translation-en": "The man did not know where she had gone."
+        "translation-ja": "どこへ行ってしまったのだろうか、わからない。",
+        "translation-ja-natural": "彼女がどこへ行ってしまったのか、わからなかった。",
+        "translation-en": "He did not even know where she might have gone.",
+        "translation-en-natural": "He had no idea where she might have gone."
       }
     ]
   },
@@ -5282,13 +5300,15 @@
     "romaji": "Tsukumogami",
     "paragraph": [
       {
-        "date": "20240721,20250214",
+        "date": "20240721,20250214,20250506",
         "id": 1,
         "text": "むかし、世心つける女、いかで心情けあらむ男にあひ得てしがなと思へど、いひいでむもたよりなさに、まことならぬ夢がたりをす。",
         "kana": "むかし、よごころつけるをんな、いかでこころなさけあらむをとこにあひえてしがなと思へど、いひいでむもたよりなさに、まことならぬ夢がたりをす。",
         "honkoku": "むかし世心つける女いかて心なさけあらむ/男にあひえてしかなと思へといひ/s69r/いてむたよりもなさにまことならぬ夢/かたりをす",
-        "translation-ja": "昔、世間に関心を持っている女性が、どうにかして情け深い男性に巡り会いたいと思うが、打ち明けることもできず、嘘の夢物語を語ります。",
-        "translation-en": "Once upon a time, a woman who was interested in worldly matters wanted to somehow meet a kind-hearted man, but since she had no opportunity to express her feelings, she told fictitious tales of dreams."
+        "translation-ja": "昔、世間に心をつけている女が、どうにかして情けのある男に会い得たいと願うけれども、言い出そうにも手立てがなくて、本当ではない夢語りをする。",
+        "translation-ja-natural": "昔、世の中に関心のある女性が、どうにかして優しい心を持った男性に出会いたいと願っていたのですが、思いを打ち明ける手立てもなくて、ほんとうではない夢の話を語っていました。",
+        "translation-en": "Once upon a time, a woman who was attached to worldly matters wished somehow to meet a kind-hearted man, but having no means to speak it aloud, she told a dream tale that was not true.",
+        "translation-en-natural": "Once upon a time, a woman with an interest in the world longed to meet a kind and tender-hearted man. But with no way to express her feelings, she resorted to telling dream stories that weren't true."
       },
       {
         "date": "20240721,20250214",
@@ -5296,62 +5316,76 @@
         "text": "子三人を呼びて語りけり。",
         "kana": "こさんにんをよびてかたりけり。",
         "honkoku": "子三人をよひてかたりけり/",
-        "translation-ja": "子供三人を呼んでその話をしました。",
-        "translation-en": "She called three children and told them the story."
+        "translation-ja": "子三人を呼んでその話をした。",
+        "translation-ja-natural": "彼女は三人の子供を呼んで、話を聞かせました。",
+        "translation-en": "She called three children and told the story.",
+        "translation-en-natural": "She called over three children and shared the story with them."
       },
       {
-        "date": "20240721,20250214",
+        "date": "20240721,20250214,20250506",
         "id": 3,
         "text": "二人の子は、情けなくいらへてやみぬ。",
         "kana": "ふたりのこは、なさけなくいらへてやみぬ。",
         "honkoku": "ふたりのこはなさけなくいらへてやみぬ/",
-        "translation-ja": "二人の子どもは、そっけなく返事をして終わりました。",
-        "translation-en": "The two children responded coldly and that was the end of it."
+        "translation-ja": "二人の子どもは、思いやりなく答えて終わってしまった。",
+        "translation-ja-natural": "二人の子供はそっけなく返事をして、それっきりでした。",
+        "translation-en": "The two children answered without kindness and it ended there.",
+        "translation-en-natural": "The two children gave a curt reply, and that was the end of it."
       },
       {
-        "date": "20240721,20250214",
+        "date": "20240721,20250214,20250506",
         "id": 4,
         "text": "三郎なりけむ子なむ、「よき御男ぞいで来む」とあはするに、この女けしきいとよし。",
         "kana": "さぶらうなりけむこなむ、「よきおとこぞいでこむ」とあはするに、このをんなけしきいとよし。",
         "honkoku": "さふらふなりける子なむよき御おとこそ/いてこんとあはするにこの女けしき/いとよし",
-        "translation-ja": "三郎という子が「立派な男の人が来るよ」とそそのかすと、この女性の様子はとても良かった。",
-        "translation-en": "The child named Saburo said, 'A fine gentleman will come,' and this made the woman very pleased."
+        "translation-ja": "三男だったらしい子が、「立派な殿方がくるだろう」と合わせたところ、この女性の機嫌はとても良い。",
+        "translation-ja-natural": "三男と思われる子が「立派な殿方がくるよ」と話に合わせると、その女性はとても嬉しそうな様子になりました。",
+        "translation-en": "A child who was likely the third son said, 'A fine gentleman will come,' joining in with her story, and the woman's mood was very good.",
+        "translation-en-natural": "The child, likely the third son, joined in saying, 'A fine gentleman is coming!'—and the woman looked truly delighted."
       },
       {
-        "date": "20240721,20250214",
+        "date": "20240721,20250214,20250506",
         "id": 5,
         "text": " 「こと人とはいと情けなし。いかでこの在五中将にあはせてしがな」と思ふ心あり。",
         "kana": "「ことひととはいとなさけなし。いかでこのざいごちゆうじやうにあはせてしがな」とおもふこころあり。",
         "honkoku": "こと人はいとなさけなしいかて/この在五中将にあはせてしかなと思ふ/心あり",
-        "translation-ja": "他の人では全く情がない。どうにかしてこの在五中将に会いたいものだと思う気持ちがありました。",
-        "translation-en": "The third child thought, 'Other people are not very kind. I want to meet that Fifth-Rank Middle Captain, Zai Go Chujo.'"
+        "translation-ja": "「他の人というのは、とても思いやりがない。どうにかしてこの在五中将に会わせたい」と思う心があった。",
+        "translation-ja-natural": "「他の人なんて、ほんとうに冷たい。どうにかして、この在五中将に会わせたい」と思う気持ちがあったのです。",
+        "translation-en": "\"Other people are truly without compassion. I wish I could somehow let her see this Captain of the Fifth Rank\" — that was what he thought.",
+        "translation-en-natural": "\"Other people are just so cold... If only I could somehow let her see that Captain of the Fifth Rank,\"—that was what he truly felt."
       },
       {
-        "date": "20240721,20250214",
+        "date": "20240721,20250214,20250508",
         "id": 6,
         "text": "狩しありきけるにいきあひて、道にて馬の口をとりて、「かうかうなむ思ふ」といひければ、あはれがりて、来て寝にけり。",
         "kana": "かりしありきけるにいきあひて、みちにてうまのくちをとりて、「かうかうなむおもふ」といひければ、あはれがりて、きてねにけり。",
         "honkoku": "かりしありきけるにいきあひ/てみちにてむまのくちをとりてかうかう/s69l/なんおもふといひけれはあはれかりて/きてねにけり",
-        "translation-ja": "狩りをして歩いているときに出会って、道で馬の口をつかんで、「こうこうと思っています」と言ったので、同情して一緒に寝た。",
-        "translation-en": "While out hunting, he met her on the road, took hold of her horse's bridle, and said, 'This is what I am thinking.' Feeling sympathy, she went with him and they slept together."
+        "translation-ja": "狩りをして歩いているときに出会って、道で馬の口をつかんで、「こうこうと思っています」と言ったので、同情して、来て寝た。",
+        "translation-ja-natural": "男が狩りに出かけていたとき、道で出会った三男が馬の口をつかみ、「こんなふうに思っています」と伝えた。男はそれを聞いて心を動かされ、ある女のもとへ行き、一夜を共にした。",
+        "translation-en": "While out hunting, he encountered [her], and on the road took hold of the horse's bridle, saying, 'This is what I think.' Feeling moved, [she] came and lay down [with him].",
+        "translation-en-natural": "While the man was out hunting, he met a young man on the road who took hold of his horse’s bridle and said, 'This is how I feel.' Moved by those words, the man went to a certain woman and spent the night with her."
       },
       {
-        "date": "20240721,20250214",
+        "date": "20240721,20250214,20250509",
         "id": 7,
         "text": "さてのち、男見えざりければ、女、男の家にいきてかいまみけるを、男ほのかに見て、",
         "kana": "さてのち、をとこみえざりければ、をんな、をとこのいえにいきてかいまみけるを、をとこほのかにみて、",
         "honkoku": "さてのち男みえさりけれは/女おとこのいゑにいきてかいまみけるを/おとこほのかに見て/",
-        "translation-ja": "その後、男が姿を見せなかったので、女は男の家に行って覗き見したところ、男はそれをぼんやりと見て、",
-        "translation-en": "Afterwards, when the man did not appear, the woman went to the man's house and peered in. The man noticed her faintly."
+        "translation-ja": "その後、男が見えなかったので、女は男の家に行って覗き見したところ、男は、かすかに見て、",
+        "translation-ja-natural": "その後、男は現れなかったので、女は思い余って男の家に行き、垣根のすき間からそっと覗いた。男は、その女の姿を、かすかに目にし、",
+        "translation-en": "After that, as the man was not seen, the woman went to the man's house and peered in; the man faintly saw.",
+        "translation-en-natural": "After that, as the man never came, the woman, unable to contain herself, went to his house and quietly peered in through a gap in the fence. The man, catching a faint glimpse of her figure, then—"
       },
       {
-        "date": "20240721,20250214",
+        "date": "20240721,20250214,20250510",
         "id": 8,
         "poem": "百年に/一年たらぬ/つくも髪/われを恋ふらし/おもかげに見ゆ",
         "kana": "ももとせに/ひととせたらぬ/つくもがみ/われをこふらし/おもかげにみゆ",
         "honkoku": "ももとせに一とせたらぬつくもかみ/われをこふらしおもかけにみゆ/",
-        "translation-ja": "百年に一年足りない長い白髪の老人が私を恋しているらしい。その面影が私の目に浮かぶ。",
-        "translation-en": "Though a century has not yet passed, with long white hair, it seems she loves me. Her image appears in my mind."
+        "translation-ja": "百年に一年足りない白髪が私を恋しているらしい。面影に見える。",
+        "translation-ja-natural": "百歳に一歳足りない白髪の女が、私を恋しているのだろうか。その面影が、ふと目に浮かぶ。",
+        "translation-en": "A year short of a hundred, a white-haired woman seems to love me. She appears in my mind's eye.",
+        "translation-en-natural": "A white-haired woman, just a year short of a hundred—could it be that she’s in love with me? Her image gently rises in my mind."
       },
       {
         "date": "20240721,20250214",
