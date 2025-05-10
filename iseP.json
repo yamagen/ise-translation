@@ -2710,9 +2710,9 @@
         "kana": "あはじともいはざりけるおんなの、さすがなりけるがもとにいひやりける。",
         "honkoku": "あはしともいはさり/けるをんなのさすかなりけるかもとに/いひやりける/",
         "translation-ja": "「逢わない」とも言わなかった女で、やはりそうであった女のもとへ詠んで送った。",
-        "translation-ja-natural": "「逢わない」とは言わなかったけれど、本当に会ってくれなかった女のもとへ、男は歌を詠んで送りました。",
+        "translation-ja-natural": "「逢わない」とは言わなかったけれども、まさか本当に会ってもくれない女のもとへ、男は歌を詠んで送りました。",
         "translation-en": "A woman who did not say, \"I will not see you,\" and who, after all, was as she was... to her, a poem was composed and sent.",
-        "translation-en-natural": "She never said, \"I won't see you,\" but as expected, she never did. Still, the man composed a poem and sent it to her."
+        "translation-en-natural": "She never said, \"I won't see you,\" but as expected, she never did. Even though, the man composed a poem and sent it to her."
       },
       {
         "date": "20240613,20250130,20250302",
@@ -3384,7 +3384,8 @@
         "honkoku": "いてていなはかきりなるへみともしけち/としへぬるかとなくこゑをきけ/",
         "translation-ja": "出て行ってしまえば、最期であるだろうから、灯を消して、年が過ぎたのかと泣く声を聞いてくれ。",
         "translation-ja-natural": "これでもう終わりでしょう。だから、灯を消して...年月が過ぎたんだとでも思って、泣き声を聞いていなさい。",
-        "translation-en": "When I go out, that will be the end. So put out the light...and listen to the crying, as if mourning all the years that have passed."
+        "translation-en": "If I go out, that will be the end, so put out the light, and listen to the weeping voices saying, 'Has time passed so long?'",
+        "translation-en-natural": "When I go out, that will be the end. So put out the light...and listen to the crying, as if mourning all the years that have passed."
       },
       {
         "date": "20240627,20250209,20250321",
@@ -3808,7 +3809,7 @@
         "text": "なほはた得あらざりけるなかなりければ、二日三日ばかりさはることありて、えいかでかくなむ。",
         "kana": "なほえあらざりけるなかなりければ、ふつかみっかばかりさはることありて、えいかでかくなむ。",
         "honkoku": "猶はたえあらさりける中/なりけれはふつか三日はかりさはること/ありてえいかてかくなむ/",
-        "translation-ja": "なおも、また行かなくてはいられない仲になったので、二日か三日ほどあることがあり、行けなかったので、こうしようと...",
+        "translation-ja": "なんといっても、行かなくてはいられなかった仲だったので、男は二三日ほど、他用があって、行くことができず、こう詠んでやった。",
         "translation-ja-natural": "やはり行かずにはいられない仲になったので、二日か三日ほど何かあって、行けなかったので、こう詠んでやったのです。",
         "translation-en": "After all, since it was a relationship where he could not help but go, and after two or three days of difficulty, he could not go, and thus decided to do this.",
         "translation-en-natural": "Since it was a relationship where he could not help but go, and after two or three days of something, he could not go, so he decided to do this."
@@ -3980,8 +3981,10 @@
         "text": "もの疑はしさに詠めるなり。",
         "kana": "ものうたがわしさによめるなり。",
         "honkoku": "ものうたかはしさによめるなりけり/s52r/",
-        "translation-ja": "もの疑わしさに詠んだのでした。",
-        "translation-en": "He sang with a sense of doubt."
+        "translation-ja": "もの疑わしさに詠んだのであった。",
+        "translation-ja-natural": "もの疑わしさに詠んだのでした。",
+        "translation-en": "He sang with a sense of doubt.",
+        "translation-en-natural": "He sang with a sense of doubt."
       }
     ]
   },
@@ -4010,7 +4013,7 @@
         "translation-ja": "主人の男が、歌を詠んで、裳の腰の部分に結びつけさせた。",
         "translation-ja-natural": "主人の男が、歌を詠んで、贈り物の裳をその腰に結ばせました。",
         "translation-en": "The man composed a poem and had it tied to the waist of the mo.",
-        "translation-en-natural": "The master composed a poem and had the sash of the garment tied at the waist."
+        "translation-en-natural": "The master sang a poem and had the sash of the garment tied at the waist."
       },
       {
         "date": "20240702,20250209,20250406",
@@ -4026,7 +4029,7 @@
       {
         "date": "20240702,20250209,20250406",
         "id": 4,
-        "text": "この歌は、あるがなかに面白ければ、心とどめてよまず、腹に味はひて。",
+        "text": "この歌は、あるがなかに面白ければ、心とゞめてよまず、 腹に味はひて。",
         "kana": "このうたは、あるがなかにおもしろければ、こころとどめてよまず、はらにあじはひて。",
         "honkoku": "この哥はあるかなかにおもしろけれは/心とめてよますはらにあちはひて/s53r/",
         "translation-ja": "この歌は、多くある中でも面白いので、心にとどめて読まずに、腹で味わいべきだろう。",
@@ -4249,8 +4252,10 @@
         "poem": "目離るとも/おもほえなくに/忘らるゝ/時しなければ/面影にたつ",
         "kana": "めかるとも/おもほえなくに/わすらるる/ときしなければ/おもかげにたつ",
         "honkoku": "めかるともおもほえなくにわすらるる/ときしなけれはおもかけにたつ/s55l/",
-        "translation-ja": "たとえ目にかからなくても、不思議とそう思われることもなく、忘れられる時もないので、あなたの面影となって立ち上ってきます。",
-        "translation-en": "Even if I no longer see you, I don't even feel that way...and since there is no time I forget, your image rises before me."
+        "translation-ja": "お目に掛かれずとも思えなく、忘れる時がないので、面影が浮かび上がってきます。",
+        "translation-ja-natural": "たとえ目にかからなくても、不思議とそう思われることもなく、忘れられる時もないので、あなたの面影となって立ち上ってきます。",
+        "translation-en": "If there is no time to forget, even if you are not seen, the image will appear.",
+        "translation-en-natural": "Even if I no longer see you, I don't even feel that way...and since there is no time I forget, your image rises before me."
       }
     ]
   },
@@ -4388,8 +4393,10 @@
         "text": "と聞えけり。返し、",
         "kana": "ときこえけり。かへし、",
         "honkoku": "ときこえけり返し/",
-        "translation-ja": "と申し上げました。その返しとして、",
-        "translation-en": "That he said. The reply,"
+        "translation-ja": "と申し上げた。返し、",
+        "translation-ja-natural": "と申し上げました。その返しとして、",
+        "translation-en": "That he said. The reply,",
+        "translation-en-natural": "That he said. The reply,"
       },
       {
         "date": "20240707,20250209,20250413",
@@ -4437,7 +4444,7 @@
         "poem": "鳥の子を/十づゝ十は/重ぬとも/思はぬ人を/おもふものかは",
         "kana": "とりのこを/とづつとは/おもぬとも/おもはぬひとを/おもふものかは",
         "honkoku": "とりのこをとをつつとをはかさぬとも/おもはぬ人をおもふものかは/",
-        "translation-ja": "鳥の子を十羽ずつ何度も重ねても、私のことを思ってくれない人を、私が思うことなどありえないでしょう。",
+        "translation-ja": "鳥の卵を十ずつ十回重ねたとしても、思ってくれない人を思うものか。",
         "translation-ja-natural": "たとえ鳥の卵を百も積み上げたとしても、思ってくれない人のことを、誰が思うというのでしょうか。",
         "translation-en": "Even if one piles ten bird eggs ten times over, would one think of a person who doesn't think of them?",
         "translation-en-natural": "Even if one were to stack a hundred bird eggs, who in their right mind would think of someone who doesn't think of them?"
@@ -4498,14 +4505,14 @@
         "translation-en-natural": "And she replied,"
       },
       {
-        "date": "20240708,20250209,20250417",
+        "date": "20240708,20250209,20250417,20250510",
         "id": 9,
         "poem": "ゆく水に/数かくよりも/はかなきは/思はぬ人を/思ふなりけり",
         "kana": "ゆくみづに/かずかくよりも/はかなきは/おもはぬひとを/おもふなりけり",
         "honkoku": "ゆく水にかすかくよりもはかなきは/おもはぬ人をおもふなりけり/",
-        "translation-ja": "ゆく水に数を書くよりも儚いのは、思わない人を思うことだ。",
+        "translation-ja": "流れていく水に数を書くよりも儚いのは、思わぬ人を思うことであったよ。",
         "translation-ja-natural": "流れ去って二度と戻ってこない水の表面に、ひとつ、ふたつ、と数を書く。これは当然、無為ですが、その明らかに無為なことよりも無為なことは、私を思わない人を思う——そんな馬鹿なことをしている私ですよ。",
-        "translation-en": "It is more fleeting to think of someone who does not think of you than to count the number of drops in flowing water.",
+        "translation-en": "More fleeting than writing numbers on flowing water is thinking of someone who does not think of me.",
         "translation-en-natural": "Writing numbers—one, two—on the surface of a stream that flows away and never returns. Clearly a useless thing to do. But even more pointless than that is thinking about someone who doesn't think of me. And yet, here I am, doing just that."
       },
       {
@@ -5377,7 +5384,7 @@
         "translation-en-natural": "After that, as the man never came, the woman, unable to contain herself, went to his house and quietly peered in through a gap in the fence. The man, catching a faint glimpse of her figure, then—"
       },
       {
-        "date": "20240721,20250214,20250510",
+        "date": "20240721,20250214,20250509",
         "id": 8,
         "poem": "百年に/一年たらぬ/つくも髪/われを恋ふらし/おもかげに見ゆ",
         "kana": "ももとせに/ひととせたらぬ/つくもがみ/われをこふらし/おもかげにみゆ",
@@ -5388,13 +5395,15 @@
         "translation-en-natural": "A white-haired woman, just a year short of a hundred—could it be that she’s in love with me? Her image gently rises in my mind."
       },
       {
-        "date": "20240721,20250214",
+        "date": "20240721,20250214,20250510",
         "id": 9,
         "text": "とて、いで立つけしきを見て、うばら、からたちにかかりて、家にきてうちふせり。",
         "kana": "とて、いでたつけしきをみて、うばら、からたちにかかりて、いへにきてうちふせり。",
         "honkoku": "とていてたつけしきを見てむはらから/たちにかかりていゑにきてうちふせり/",
-        "translation-ja": "そう言って、出かける様子を見て、女は茨や枳殻にひっかかるようにして、家に戻って伏せていた。",
-        "translation-en": "Thus, seeing him prepare to leave, she got caught in the reeds and thorny bushes on her way back home, where she lay down in distress."
+        "translation-ja": "そう言って、出かけるする様子を見て、茨や枳殻にかかって、家に帰って伏していた。",
+        "translation-ja-natural": "そう言って、男の出発する姿を見た女は、茨や枳殻に引っかかりながら家に戻り、うつ伏せになって伏してしまった。",
+        "translation-en": "Saying so, seeing him setting out, she got caught in the thornbushes and trifoliate orange, returned home, and lay down.",
+        "translation-en-natural": "Saying that, the woman saw him getting ready to leave, stumbled through the thornbushes and trifoliate orange on her way home, and collapsed face-down once she got back."
       },
       {
         "date": "20240721,20250214",
