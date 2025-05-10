@@ -5406,26 +5406,19 @@
         "translation-en-natural": "Saying that, the woman saw him getting ready to leave, stumbled through the thornbushes and trifoliate orange on her way home, and collapsed face-down once she got back."
       },
       {
-        "date": "20240721,20250214",
+        "date": "20240721,20250214,20250510",
         "id": 10,
-        "text": "「われをばしらずや」とて、",
-        "kana": "「われをばしらずや」とて、",
-        "honkoku": "われをはしらすやとて/",
-        "translation-ja": "「私をご存じではないかね」と言って、",
-        "translation-en": "Saying, 'Do you not know me?'"
+        "text": "男、かの女のせしやうに、忍びて立てりて見れば、女嘆きて寝とて、",
+        "kana": "をとこ、かのをんなのせしやうに、しのびてたてりてみれば、をんななげきてぬとて、",
+        "honkoku": "おとこかの女のせしやうにしのひて/s70r/たてりて見れは女なけきてぬとて/",
+        "translation-ja": "男は、あの女がしたように、ひそかに立っていて、見てみると、女は嘆いて、寝ようとして、",
+        "translation-ja-natural": "男は、あの女がしたように、そっと立って見に行くと、女は嘆きながら、寝ようとしていた。",
+        "translation-en": "The man, as the woman had done, stood in secret and looked; seeing her lamenting and trying to sleep.",
+        "translation-en-natural": "Just as the woman had done, the man quietly went and watched—he saw her grieving and trying to fall asleep."
       },
       {
         "date": "20240721,20250214",
         "id": 11,
-        "text": "男、かの女のせしやうに、忍びて立てりて見れば、女嘆きて寝とて、",
-        "kana": "をとこ、かのをんなのせしやうに、しのびてたてりてみれば、をんななげきてぬとて、",
-        "honkoku": "おとこかの女のせしやうにしのひて/s70r/たてりて見れは女なけきてぬとて/",
-        "translation-ja": "男は、あの女のしたように、こっそり立って見ていると、女は嘆いて寝ようとして、",
-        "translation-en": "The man, imitating what the woman had done, secretly stood and watched. He saw the woman lamenting and lying down to sleep."
-      },
-      {
-        "date": "20240721,20250214",
-        "id": 12,
         "poem": "さむしろに/衣かたしき/今宵もや/恋しき人に/あはでのみ寝む",
         "kana": "さむしろに/ころもかたしき/こよひもや/こひしきひとに/あはでのみねむ",
         "honkoku": "さむしろに衣かたしきこよひもや/恋しき人にあはてのみねん/",
@@ -5434,7 +5427,7 @@
       },
       {
         "date": "20240721,20250214",
-        "id": 13,
+        "id": 12,
         "text": "とよみけるを、男、あはれと思ひて、その夜は寝にけり。",
         "kana": "とよみけるを、をとこ、あはれとおもひて、そのよはねにけり。",
         "honkoku": "とよみけるをおとこあはれと思ひてその/夜はねにけり",
@@ -5443,7 +5436,7 @@
       },
       {
         "date": "20240721,20250214",
-        "id": 14,
+        "id": 13,
         "text": "世の中の例として、思ふをば思ひ、思はぬをば思はぬものを、この人は、思ふをも思はぬをも、けぢめみせぬ心なむありける。",
         "kana": "よのなかのれいとして、おもふをばおもひ、おもはぬをばおもはぬものを、このひとは、おもふをもおもはぬをも、けぢめみせぬこころなむありける。",
         "honkoku": "世中のれいとして思ふ/をはおもひおもはぬをは思はぬものをこ/の人はおもふをもおもはぬをもけちめみ/せぬ心なんありける／s70l",
