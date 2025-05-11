@@ -5479,7 +5479,7 @@
         "translation-en-natural": "If I could be the wind that blows, I would seek to enter through the jeweled blinds, looking for a gap."
       },
       {
-        "date": "20240722,20250214",
+        "date": "20240722,20250214,20250511",
         "id": 3,
         "text": "返し、",
         "kana": "かへし、",
@@ -5490,13 +5490,15 @@
         "translation-en-natural": "The reply,"
       },
       {
-        "date": "20240722,20250214",
+        "date": "20240722,20250214,20250511",
         "id": 4,
         "poem": "とりとめぬ/風にはありとも/玉すだれ/たが許さば/かひ求むべき",
         "kana": "とりとめぬ/かぜにはありとも/たますだれ/たがゆるさば/かひもとむべき",
         "honkoku": "とりとめぬ風にはありとも玉すたれ/たかゆるさはかひまもとむへき/s71l/",
-        "translation-ja": "取り留めのない風であったとしても玉すだれ誰かが許すなら行こうとするだろう。",
-        "translation-en": "Even if I were a fleeting wind, if someone allowed me, I would seek to pass through the jeweled blinds to be with them."
+        "translation-ja": "とらえどころのない風であるとしても、玉すだれ...誰が許すのだろう、その隙間を求めることを。",
+        "translation-ja-natural": "とらえどころのない風のような存在だったとしても...玉すだれのこちら側へ、誰の許しで、あなたは隙間を求めて入って来られるというのでしょうか。",
+        "translation-en": "Even if it is an elusive wind, the jeweled blind—who would permit seeking a gap through it?",
+        "translation-en-natural": "Even if you were like the wind—elusive and ungraspable... who might allow you to seek a gap through the jeweled blind, and cross over to this side?"
       }
     ]
   },
