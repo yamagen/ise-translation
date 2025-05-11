@@ -5428,22 +5428,26 @@
         "translation-en-natural": "On a straw mat, with my clothes as a pillow, will I again sleep tonight without meeting my beloved?"
       },
       {
-        "date": "20240721,20250214",
+        "date": "20240721,20250214,20250511",
         "id": 12,
         "text": "とよみけるを、男、あはれと思ひて、その夜は寝にけり。",
         "kana": "とよみけるを、をとこ、あはれとおもひて、そのよはねにけり。",
         "honkoku": "とよみけるをおとこあはれと思ひてその/夜はねにけり",
         "translation-ja": "と詠んだのを、男は、あわれと思って、その夜は寝た。",
-        "translation-en": "Hearing this, the man felt sorry for her and slept with her that night."
+        "translation-ja-natural": "と詠んだのを聞いて、男はあわれに思い、その夜は寝た。",
+        "translation-en": "Hearing this, the man felt sorry for her and slept with her that night.",
+        "translation-en-natural": "Hearing this, the man felt pity and slept that night."
       },
       {
-        "date": "20240721,20250214",
+        "date": "20240721,20250214,20250511",
         "id": 13,
         "text": "世の中の例として、思ふをば思ひ、思はぬをば思はぬものを、この人は、思ふをも思はぬをも、けぢめみせぬ心なむありける。",
         "kana": "よのなかのれいとして、おもふをばおもひ、おもはぬをばおもはぬものを、このひとは、おもふをもおもはぬをも、けぢめみせぬこころなむありける。",
         "honkoku": "世中のれいとして思ふ/をはおもひおもはぬをは思はぬものをこ/の人はおもふをもおもはぬをもけちめみ/せぬ心なんありける／s70l",
-        "translation-ja": "世の中の例として、思う相手には思いを寄せ、思わない相手には思いを寄せないものだが、この人は、思う相手にも思わない相手にも区別を見せない心を持っていた。",
-        "translation-en": "As is common in the world, one shows affection to those they care for and does not to those they do not. However, this person had a heart that showed no distinction between those they loved and those they did not."
+        "translation-ja": "世の中の例として、思うには思い、思わないには思わなないものだが、この人は、思うにも思わないにも、区別を見せない心があった。",
+        "translation-ja-natural": "世の中の例として、思う人には思い、思わない人には思わないものだが、この人は、思う人にも思わない人にも、区別を見せない心があった。",
+        "translation-en": "As is the custom in the world, one loves those one loves and does not love those one does not love; but this man had a heart that showed no distinction between those he loved and those he did not.",
+        "translation-en-natural": "As is the custom in the world, one loves those one loves and does not love those one does not; however, this man had a heart that showed no distinction between those he loved and those he did not."
       }
     ]
   },
