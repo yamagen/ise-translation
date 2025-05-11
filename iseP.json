@@ -5417,13 +5417,15 @@
         "translation-en-natural": "Just as the woman had done, the man quietly went and watched—he saw her grieving and trying to fall asleep."
       },
       {
-        "date": "20240721,20250214",
+        "date": "20240721,20250214,20250510",
         "id": 11,
         "poem": "さむしろに/衣かたしき/今宵もや/恋しき人に/あはでのみ寝む",
         "kana": "さむしろに/ころもかたしき/こよひもや/こひしきひとに/あはでのみねむ",
         "honkoku": "さむしろに衣かたしきこよひもや/恋しき人にあはてのみねん/",
-        "translation-ja": "むしろの上に衣の片袖を敷いて、今夜もまた恋しい人に会えずに寝るだけなのだろうか。",
-        "translation-en": "Tonight, again, will I sleep on a straw mat with my clothes as a pillow, without meeting my beloved?"
+        "translation-ja": "むしろの上に衣の片袖を敷き、今夜もまた恋しい人に会えずに寝るのだろうか。",
+        "translation-ja-natural": "むしろの上に衣の片袖を敷いて、今夜もまた恋しい人に会えずに寝るのでしょうか。",
+        "translation-en": "Tonight, again, will I sleep on a straw mat with my clothes as a pillow, without meeting my beloved?",
+        "translation-en-natural": "On a straw mat, with my clothes as a pillow, will I again sleep tonight without meeting my beloved?"
       },
       {
         "date": "20240721,20250214",
