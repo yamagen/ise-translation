@@ -5468,13 +5468,15 @@
         "translation-en-natural": "Once upon a time, a man did not engage in secret conversations; where could she have been? He wondered and composed a poem."
       },
       {
-        "date": "20240722,20250214",
+        "date": "20240722,20250214,20250511",
         "id": 2,
         "poem": "吹く風に/わが身をなさば/玉すだれ/ひま求めつつ/入るべきものを",
         "kana": "ふくかぜに/わがみをなさば/たますだれ/ひまもとめつつ/いるべきものを",
         "honkoku": "吹風にわか身をなさはたますたれ/ひまもとめつついるへきものを/",
-        "translation-ja": "吹く風のように私の身を変えることができたなら、玉のような美しいすだれの隙間を探しながら、あなたのもとへ入っていけるのに。",
-        "translation-en": "If only I could transform my body into the blowing wind, I would seek out the gaps in the jeweled blinds and slip through to be with you."
+        "translation-ja": "吹く風に私の身を成せるなら、玉のような美しいすだれの隙間を求めながら、入っていけるのに。",
+        "translation-ja-natural": "吹く風に私の身を成せるなら、玉すだれの隙間を求めながら、入っていけるのに。",
+        "translation-en": "If I could be the wind that blows, I would seek to enter through the jeweled blinds, looking for a gap.",
+        "translation-en-natural": "If I could be the wind that blows, I would seek to enter through the jeweled blinds, looking for a gap."
       },
       {
         "date": "20240722,20250214",
@@ -5483,7 +5485,9 @@
         "kana": "かへし、",
         "honkoku": "返し/",
         "translation-ja": "返し、",
-        "translation-en": "The reply,"
+        "translation-ja-natural": "返し、",
+        "translation-en": "The reply,",
+        "translation-en-natural": "The reply,"
       },
       {
         "date": "20240722,20250214",
