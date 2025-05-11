@@ -5457,13 +5457,15 @@
     "romaji": "Tamamisudare",
     "paragraph": [
       {
-        "date": "20240722,20250214",
+        "date": "20240722,20250214,20250511",
         "id": 1,
         "text": "むかし、男、みそかに語らふわざもせざりせば、いづくなりけむ、あやしさによめる。",
         "kana": "むかし、をとこ、みそかにかたらふわざもせざりせば、いづくなりけむ、けしさによめる。",
         "honkoku": "昔おとこみそかにかたらふわさもせさり/ けれはいつくなりけむあやしさによめる/",
-        "translation-ja": "昔、男がひそかに恋を語り合うことをしなかったならば、どうなっていたのだろうか、不思議に思って詠んだ。",
-        "translation-en": "Once upon a time, a man wondered what would have happened if he had not secretly spoken of love, and composed a poem in his curiosity."
+        "translation-ja": "昔、男がひそかに恋を語り合うことをしなかったので、どこにいたのだろうか、あやしさに思いをよせて詠んだ。",
+        "translation-ja-natural": "昔、男がひそかに語らうことをしなかったので、いったいどこにいたのだろうか、不思議に思って詠んだ。",
+        "translation-en": "Once upon a time, a man did not engage in secret conversations, where was she? He wondered and composed a poem.",
+        "translation-en-natural": "Once upon a time, a man did not engage in secret conversations; where could she have been? He wondered and composed a poem."
       },
       {
         "date": "20240722,20250214",
