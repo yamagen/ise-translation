@@ -5508,13 +5508,15 @@
     "romaji": "Ariwara no nari keru otoko",
     "paragraph": [
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250512",
         "id": 1,
         "text": "むかし、おほやけ思してつかうたまふ女の、色ゆるされたるありけり。",
         "kana": "むかし、おほやけおぼしてつかうたまふをんなの、いろゆるされたるありけり。",
         "honkoku": "むかしおほやけおほしてつかうたまふ/女の色ゆるされたるありけり",
-        "translation-ja": "昔、帝にお仕えしていた女性で、色が許された者がいました。",
-        "translation-en": "In the past, there was a woman who served the emperor and was granted permission for a romantic relationship."
+        "translation-ja": "昔、帝にお仕えしていた女性で、色が許された者がいた。",
+        "translation-ja-natural": "昔、帝にお仕えしていた女性で、禁色を許された者がいた。",
+        "translation-en": "In the past, there was a woman who served the emperor and was granted permission to wear court colors.",
+        "translation-en-natural": "Once upon a time, there was a woman who served the emperor and was granted the privilege of court colors."
       },
       {
         "date": "20240723,20250214",
