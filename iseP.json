@@ -5519,22 +5519,24 @@
         "translation-en-natural": "Once upon a time, there was a woman who served the emperor and was granted the privilege of court colors."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250512",
         "id": 2,
         "text": "大御息所とていますがりけるいとこなりけり。",
         "kana": "おおみやすんどころとていますがりけるいとこなりけり。",
         "honkoku": "おほみやす/s71l/む所にていますかりけるいとこなりける/",
-        "translation-ja": "大御息所と呼ばれていた人のいとこであった。",
-        "translation-en": "She was a cousin of the lady known as Omiyasunndokoro."
+        "translation-ja": "「大御息所」と言っていらっしゃった人のいとこであった。",
+        "translation-en": "She was a cousin of one who was referred to as Ōmiyasudokoro and resided as such."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250512",
         "id": 3,
         "text": "殿上にさぶらひける在原なりける男の、まだいと若かりけるを、この女あひしりたりけり。",
         "kana": "てんじやうにさぶらひけるありわらなりけるをとこの、まだいとわかかりけるを、このをんなあひしりたりけり。",
         "honkoku": "殿上にさふらひけるありはらなりける/おとこのまたいとわかかりけるをこの女/あひしりたりけり",
-        "translation-ja": "殿上に仕えていた在原姓の男で、まだとても若かったが、この女性は彼と親しくしていた。",
-        "translation-en": "There was a young man of the Ariwara clan who served at the court, and although he was still very young, this woman was acquainted with him."
+        "translation-ja": "殿上に仕えていた在原であった男で、まだとても若かったが、この女は互いに知り合っていた。",
+        "translation-ja-natural": "殿上に仕えていた在原であった男で、まだとても若かったが、この女は互いに知り合っていた。",
+        "translation-en": "A man who was of the Ariwara clan and served in the imperial hall, though still very young—this woman had known him.",
+        "translation-en-natural": "A man of the Ariwara clan who served in the imperial hall, though still very young—this woman had known him."
       },
       {
         "date": "20240723,20250214",
