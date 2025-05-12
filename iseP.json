@@ -5539,13 +5539,15 @@
         "translation-en-natural": "A man of the Ariwara clan who served in the imperial hall, though still very young—this woman had known him."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250512",
         "id": 4,
         "text": "男、女がたゆるされたりければ、女のある所に来てむかひをりければ、",
         "kana": "をとこ、をんながたゆるされたりければ、をんなのあるとこにきてむかひをりければ、",
         "honkoku": "男女かたゆるされたり/けれは女のある所にきてむかひをりけ/れは",
-        "translation-ja": "男は、女から誘いを受けたので、女のいる所に来て向かい合って座っていると、",
-        "translation-en": "The man, having been invited by the woman, went to where she was and sat facing her."
+        "translation-ja": "男が、女がたに許されたので、女のいる所に来て、向かい合っていたところ、",
+        "translation-ja-natural": "男は、女の側から許しを得たので、彼女のいるところに来て、向かい合って座った。",
+        "translation-en": "The man, having been permitted by the woman's side, came to where she was and was facing her,",
+        "translation-en-natural": "The man, having received permission from the woman's side, came to where she was and sat down facing her."
       },
       {
         "date": "20240723,20250214",
