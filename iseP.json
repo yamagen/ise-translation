@@ -5555,17 +5555,21 @@
         "text": "女、「いとかたはなり。身も亡びなむ。かくなせそ」といひければ、",
         "kana": "をんな、「いとかたはなり。みもほろびなむ。かくなせそ」といひければ、",
         "honkoku": "女いとかたはなり身もほろひなん/かくなせそといひけれは/",
-        "translation-ja": "女は、「本当に愚かなことです。身の破滅を招くでしょうよ。こんなことはしてはいけません」と言ったので、",
-        "translation-en": "she said \"It's truly foolish. We will ruin ourselves. Don't do such a thing.\""
+        "translation-ja": "女は、「とても愚かなことです。身までも滅んでしまうでしょう。こんなふうにしてはなりません」と言ったので、",
+        "translation-ja-natural": "女はこう言った。「そんなの、ほんとに馬鹿げてるわ。身を滅ぼすことになるかもしれないのよ。そんなこと、絶対にしちゃダメ。」",
+        "translation-en": "The woman said, 'This is truly foolish. Even one's life may come to ruin. Do not do such a thing.'",
+        "translation-en-natural": "The woman said, \"That's truly foolish. It could ruin your life. You mustn't ever do such a thing.\""
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250514",
         "id": 6,
         "poem": "思ふには/しのぶることぞ/まけにける/あふにしかへば/さもあらばあれ",
         "kana": "おもふには/しのぶることぞ/まけにける/あふにしかへば/さもあらばあれ",
         "honkoku": "思ふにはしのふることそまけにける/あふにしかへはさもあらはあれ/s72r/",
-        "translation-ja": "恋しく思う気持ちには、我慢することも負けてしまう。いざ会うとなったら、もうどうにでもなれ。",
-        "translation-en": "When I think of you, my efforts to endure are defeated. Now that we can meet, let come what may."
+        "translation-ja": "思うと、耐えることが負けてしまった。会うことに取りかえてしまったのなら、もう、そうであるならそうでよい。",
+        "translation-ja-natural": "思ってみると、もう耐えようとする気持ちも負けてしまった。会うことにしてしまったのなら、もう、どうにでもなれ。",
+        "translation-en": "When I think of it, the act of enduring has been defeated. If I have exchanged it for meeting you, then so be it.",
+        "translation-en-natural": "When I think of it, I realize my will to endure has been defeated. If I’ve chosen to meet you instead, then let whatever happens, happen."
       },
       {
         "date": "20240723,20250214",
