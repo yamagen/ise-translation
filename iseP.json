@@ -5572,13 +5572,15 @@
         "translation-en-natural": "When I think of it, I realize my will to endure has been defeated. If I’ve chosen to meet you instead, then let whatever happens, happen."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250515",
         "id": 7,
         "text": "といひて、曹司におりたまへれば、例の、このみ曹司には、人の見るをもしらでのぼりゐければ、この女思ひわびて里へゆく。",
         "kana": "といひて、ざうしにおりたまへれば、たとえの、このみざうしには、ひとのみるをもしらでのぼりゐければ、このをんなおもひわびてさとへゆく。",
         "honkoku": "といひてさうしにおりたまへれはれい/のこのみさうしには人の見るをもしらて/のほりゐけれはこの女おもひわひて里へ/ゆく",
-        "translation-ja": "そう言って、部屋に降りて行かれたので、いつものように、この好んでいる部屋には、人が見ていることも知らずに登って行ったので、この女は思い悩んで里へ帰って行った。",
-        "translation-en": "Saying this, he went down to his room. As usual, without knowing that people were watching, he went up to the room he favored. This woman, troubled by her thoughts, went back to her home."
+        "translation-ja": "そう言って、部屋に降りなさったので、例のように、この好んでいる部屋に、人が見ているのも知らずに登って行ったので、この女は思い悩んで里へ行く。",
+        "translation-ja-natural": "そう言って部屋に降りていったので、いつものように、好んでいた部屋に、人が見ているのも知らず登って行ってしまい、この女は思い悩んで里へ帰っていった。",
+        "translation-en": "Saying this, he descended to his room. As usual, he went up to the room he favored, not knowing that people were watching him, so the woman, troubled with her thoughts, goes back to her home.",
+        "translation-en-natural": "After saying that, he went down to his room. As always, he climbed up to the room he liked, unaware that others were watching. The woman, deeply troubled, returned to her home."
       },
       {
         "date": "20240723,20250214",
