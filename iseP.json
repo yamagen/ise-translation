@@ -5583,13 +5583,15 @@
         "translation-en-natural": "After saying that, he went down to his room. As always, he climbed up to the room he liked, unaware that others were watching. The woman, deeply troubled, returned to her home."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250516",
         "id": 8,
         "text": "されば、なにの、よきこと、と思ひて、いきかよひければ、みな人聞きて笑ひけり。",
         "kana": "されば、なにの、よきこと、とおもひて、いきかよひければ、みなひとききてわらひけり。",
         "honkoku": "されはなにのよきこととおもひて/いきかよひけれはみな人ききてわらひけ/り",
-        "translation-ja": "だから、何が良いことだと思って通っていたのか、皆が聞いて笑った。",
-        "translation-en": "Therefore, wondering what good it was, he kept going back and forth, and everyone who heard about it laughed."
+        "translation-ja": "だから、何の良いことだと思って通っていたので、皆の人が聞いて笑った。",
+        "translation-ja-natural": "それで、何かいいことがあると思って通っていたのだが、それを聞いた人たちは皆、笑ってしまった。",
+        "translation-en": "Therefore, thinking it was something good, he went back and forth, and when everyone heard of it, they laughed.",
+        "translation-en-natural": "So, thinking something good would come of it, he kept visiting, but everyone who heard about it just laughed."
       },
       {
         "date": "20240723,20250214",
