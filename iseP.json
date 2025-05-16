@@ -5594,13 +5594,15 @@
         "translation-en-natural": "So, thinking something good would come of it, he kept visiting, but everyone who heard about it just laughed."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250516",
         "id": 9,
         "text": "つとめて主殿司の見るに、沓はとりて奥になげ入れてのぼりぬ。",
         "kana": "つとめてとのもづかさのみるに、くつはとりておくになけいれてのぼりぬ。",
         "honkoku": "つとめてとのもつかさのみるにくつは/とりておくになけいれてのほりぬ",
-        "translation-ja": "翌朝、主殿司が見ると、靴を取って奥に投げ入れたまま上がってしまった。",
-        "translation-en": "In the morning, when the chief of the palace staff looked, he saw that the shoes had been taken and thrown into the inner room, and someone had gone up."
+        "translation-ja": "早朝、主殿司が見ると、靴は取って奥に投げ入れて上がってしまっていた。",
+        "translation-ja-natural": "朝早く、主殿司が見てみると、靴は奥に放り込まれたまま、誰かがそのまま奥へ上がっていっていた。",
+        "translation-en": "Early in the morning, when the chief of the palace staff looked, the shoes had been taken, thrown into the inner room, and someone had gone up.",
+        "translation-en-natural": "Early that morning, when the palace steward looked, the shoes had been tossed into the inner room, and someone had already gone inside."
       },
       {
         "date": "20240723,20250214",
