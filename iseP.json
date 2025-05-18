@@ -5660,13 +5660,15 @@
         "translation-en-natural": "I meant not to fall in love, and performed a purification in the Mitarashi River—but it seems the gods refused to accept it, after all."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250518",
         "id": 15,
         "text": "といひてなむいにける。",
         "kana": "といひてなむいにける。",
         "honkoku": "といひてなむいにける/s73l/",
-        "translation-ja": "そう言って、帰っていった。",
-        "translation-en": "Saying this, he left."
+        "translation-ja": "そう言って、帰っていったのである。",
+        "translation-ja-natural": "そう言って、彼は立ち去ってしまったのです。",
+        "translation-en": "He said that and left, indeed.",
+        "translation-en-natural": "Having said that, he indeed went away."
       },
       {
         "date": "20240723,20250214",
