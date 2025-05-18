@@ -5605,7 +5605,7 @@
         "translation-en-natural": "Early that morning, when the palace steward looked, the shoes had been tossed into the inner room, and someone had already gone inside."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250516",
         "id": 10,
         "text": "かくかたはにしつつありわたるに、身もいたづらになりぬべければつひに亡びぬべし、とて、",
         "kana": "かくかたはにしつつありわたるに、みもいたづらになりぬべければつひにほろびぬべし、とて、",
@@ -5638,13 +5638,15 @@
         "translation-en-natural": "His longing only kept growing, until he couldn’t bear it anymore. So he summoned an onmyoji and a shrine maiden, prepared a purification ritual saying 'I won’t love anymore,' and set off."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250517",
         "id": 13,
         "text": "祓へけるままに、いとど悲しきこと数まさりて、ありしよりけに恋しくのみおぼえければ、",
         "kana": "はらへけるままに、いとどかなしきことかぞまさりて、ありしよりけにこひしくのみおぼえければ、",
         "honkoku": "はら/へけるままにいととかなしきことかすま/さりてありしよりけにこひしくの/みおほえけれは/s73r/",
-        "translation-ja": "ますます恋しさが募るばかりで、やはりどうしようもなく恋しく思ったので、陰陽師と巫女を呼んで、恋を止めるという祓いの儀式を行った。",
-        "translation-en": "As his feelings of love grew stronger and stronger, and he felt an overwhelming, unmanageable longing, he called upon an onmyoji and a shrine maiden to perform a purification ritual to stop his love."
+        "translation-ja": "祓いをした直後に、いっそう悲しいことが数多く重なって、以前よりもいっそう恋しく思われたので、",
+        "translation-ja-natural": "祓いをしたというのに、かえって悲しみは増すばかりで、以前にも増して恋しさがつのって感じられたのです。",
+        "translation-en": "Just after he performed the purification, sorrowful matters increased all the more, and he felt even more deeply in love than before.",
+        "translation-en-natural": "Even after performing the purification, his sorrow only deepened, and he found himself feeling even more in love than before."
       },
       {
         "date": "20240723,20250214",
