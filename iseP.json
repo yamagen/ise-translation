@@ -5682,13 +5682,15 @@
         "translation-en-natural": "The emperor was noble in appearance and, with the name of the Buddha in his heart, chanted in a most reverent voice. Hearing this, the woman wept deeply."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250520",
         "id": 17,
         "text": "「かかる君に仕うまつらで、宿世つたなく悲しきこと、この男にほだされて」とてなむ泣きける。",
         "kana": "「かかるきみにつかうまつらで、すくせつたなくかなしきこと、このをとこにほだされて」とてなむなきける。",
         "honkoku": "かかるきみにつかう/まつらてすくせつたなくかなしきことこ/のおとこにほたされてとてなんなき/ける",
-        "translation-ja": "「このような立派な君にお仕えできず、宿命が悪くて悲しいことだ。この男に心を縛られて」と言って泣いたのです。",
-        "translation-en": "She said, \"It is so sad that I cannot serve such a noble lord because of my unfortunate fate, being bound to this man,\" and she wept."
+        "translation-ja": "「このような君にお仕え申し上げずに、宿世が劣って悲しいことよ。この男に情を縛られて」と言って、泣いたのだった。",
+        "translation-ja-natural": "「こんな立派なお方にお仕えすることもできず、前世の因縁が浅いのか、とても悲しいこと。しかもこの男に情が移って離れられない」と言って、女は泣いた。",
+        "translation-en": "\"Not having served such a lord, and with my unfortunate fate, it is a sorrowful thing. Bound in feeling to this man,\" she said, and wept.",
+        "translation-en-natural": "\"To think I cannot serve such a noble lord—how pitiful my fate must be. And yet, I’m tied to this man by emotion...\" she said, and wept."
       },
       {
         "date": "20240723,20250214",
