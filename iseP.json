@@ -5704,22 +5704,26 @@
         "translation-en-natural": "While all this was going on, the emperor heard of it and sent the man into exile. The woman's cousin, the imperial consort, had her leave and locked her in a storehouse, where the woman, too, wept in grief."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250521",
         "id": 19,
-        "poem": "あまの刈る/藻にすむ虫の/われからと/音をこそ泣なかめ/世をば恨みじ",
+        "poem": "あまの刈る/藻にすむ虫の/われからと/音をこそ泣かめ/世をば恨みじ",
         "kana": "あまのかる/もにすむむしの/われからと/ねをこそなかめ/よをばうらみじ",
         "honkoku": "あまのかるもにすむ虫のわれからと/ねをこそなかめ世をはうらみし/",
-        "translation-ja": "漁師が刈る藻に住む虫のように、自らのせいで泣くのだ。世の中を恨むことはしない。",
-        "translation-en": "Like the insects living in the seaweed that the fisherman cuts, I cry out on my own accord. I will not resent the world."
+        "translation-ja": "漁師が刈る藻に住む虫のように、自分のせいでと思って、声をあげて泣きたいが、泣くまい。世の中を恨むつもりはない。",
+        "translation-ja-natural": "漁師に刈られる藻に住む虫のように、自分のせいでと泣きたい気持ちはあるが、泣くまい。世の中を恨んだりはしない。",
+        "translation-en": "Like the insects dwelling in the seaweed cut by the fisherman, thinking it is of my own doing, I must not cry out. I will not resent the world.",
+        "translation-en-natural": "Like insects dwelling in seaweed cut by fishermen, I may feel like crying, blaming myself — but I will not cry. Nor will I resent the world."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250522",
         "id": 20,
         "text": "と泣きをれば、この男、人の国より夜ごとに来つつ、笛をいとおもしろく吹きて、声はをしうてぞ、あはれにうたひける。",
         "kana": "となきをれば、このをとこ、ひとのくによりよごとにきつつ、ふえをいとおもしろくふきて、こゑはをしうてぞ、あはれにうたひける。",
         "honkoku": "となきをれはこのおとこは人のくにより/夜ことにきつつふえをいとおもしろくふ/きてこゑはおかしうてそあはれにう/たひける",
-        "translation-ja": "と泣いていると、この男は、他国から毎晩やって来て、笛をとても面白く吹き、声は哀れにして歌った。",
-        "translation-en": "As she cried, this man came from another country every night, playing the flute beautifully and singing sorrowfully with a resonant voice."
+        "translation-ja": "と泣いていたところ、この男は他国から毎晩やって来て、笛をたいへん趣深く吹き、声はもの悲しげにして、しみじみと歌ったのだった。",
+        "translation-ja-natural": "泣いていたところ、この男は他国から毎晩来て、笛をとても趣深く吹き、もの悲しい声でしみじみと歌ったのだった。",
+        "translation-en": "As she was weeping, this man came each night from another land, playing the flute with deep elegance, and with a sorrowful tone, sang most movingly.",
+        "translation-en-natural": "While she wept, the man came night after night from a distant land, playing the flute most beautifully, and with a sorrowful voice, sang in deep emotion."
       },
       {
         "date": "20240723,20250214",
