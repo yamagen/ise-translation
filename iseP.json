@@ -5726,22 +5726,26 @@
         "translation-en-natural": "While she wept, the man came night after night from a distant land, playing the flute most beautifully, and with a sorrowful voice, sang in deep emotion."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250523",
         "id": 21,
         "text": "かかれば、この女は蔵にこもりながら、それにぞあなるとは聞けど、あひ見るべきにもあらでなむありける。",
         "kana": "かかれば、このをんなはくらにこもりながら、それにぞあなるとはきけど、あひみるべきにもあらでなむありける。",
         "honkoku": "かかれはこの女はくらにこもり/なからそれにそあなるとはきけとあひ/s75r/見るへきにもあらてなむ有ける/",
-        "translation-ja": "そういうわけで、この女は蔵に閉じこもりながら、彼がそれであるとは聞いていたが、会うことができないでいた。",
-        "translation-en": "Therefore, while the woman stayed confined in the storehouse, she heard that it was indeed him, but she remained unable to meet him."
+        "translation-ja": "そういうわけで、この女は蔵に閉じこもっていながら、彼がそれであるとは聞いていたが、会うことができずに、まさにそうであった。",
+        "translation-ja-natural": "そうして、この女は蔵にこもったまま、彼がその人だと聞いていたが、会うことも叶わず、結局そうなってしまったのだった。",
+        "translation-en": "Therefore, while the woman stayed confined in the storehouse, she heard that it was indeed him, but she had truly been unable to meet him.",
+        "translation-en-natural": "And so, the woman remained hidden away in the storehouse. She had heard it was him, but she was never able to meet him, and that was how things turned out."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250523",
         "id": 22,
         "poem": "さりともと/思ふらむこそ/悲しけれ/あるにもあらぬ/身をしらずして",
         "kana": "さりともと/おもふらむこそ/かなしけれ/あるにもあらぬ/みをしらずして",
         "honkoku": "さりともと思ふらんこそかなしけれ/あるにもあらぬ身をしらすして/",
-        "translation-ja": "そうであってもと思っているのが悲しいことだ。生きる屍である自分を知らずに。",
-        "translation-en": "It is sad indeed to think that it might be so, not knowing that I am a mere shadow of my former self."
+        "translation-ja": "それでもなおと思っていることこそ、悲しいのだ。あるようであって実はないこの身であることを知らずに。",
+        "translation-ja-natural": "そう思っていること自体が悲しいのだ。生きているようで実はもう存在していない自分だということも知らずに。",
+        "translation-en": "It is precisely sad to think so—unaware that I am something that appears to be, but is not.",
+        "translation-en-natural": "What saddens me is the thought itself—without even realizing that I’m barely holding on to life, a shadow of who I was."
       },
       {
         "date": "20240723,20250214",
