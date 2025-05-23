@@ -5770,40 +5770,48 @@
         "translation-en-natural": "Unable to see her, the man wandered like this, traveled to distant lands, and sang his heart out."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250523",
         "id": 25,
         "poem": "いたづらに/ゆきては来ぬる/ものゆゑに/見まくほしさに/いざなはれつつ",
         "kana": "いたづらに/ゆきては来ぬる/ものゆゑに/みまくほしさに/いざなはれつつ",
         "honkoku": "いたつらにゆきてはきぬる物ゆへに/見まくほしさにいさなはれつつ/",
         "translation-ja": "無駄に 行っては戻ってくる ものだから 会いたい気持ちに 誘われ続けます。",
-        "translation-en": "In vain, I go and come back again and again, driven by the longing to see you once more."
+        "translation-ja-natural": "むなしく行っては帰るばかりで、会いたさに誘われ続けてしまう。",
+        "translation-en": "In vain, I go and come back again and again, driven by the longing to see you once more.",
+        "translation-en-natural": "Though I come and go in vain, I can’t help being drawn back by my longing to see you."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250523",
         "id": 26,
         "text": "水の尾の御時なるべし。",
         "kana": "みづのおのみときなるべし。",
         "honkoku": "水のおの御ときなるへし",
         "translation-ja": "清和天皇の御時のことであろう。",
-        "translation-en": "This must have been during the reign of Emperor Seiwa."
+        "translation-ja-natural": "これは清和天皇の時代のことだろう。",
+        "translation-en": "This must have been during the reign of Emperor Seiwa.",
+        "translation-en-natural": "This must have taken place during the reign of Emperor Seiwa."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250523",
         "id": 27,
         "text": "大御息所も染殿の后なり。",
         "kana": "おおみやすんどころもそめどのきさきなり。",
         "honkoku": "おほ宮すむ所も/そめとののきさきなり",
-        "translation-ja": "大御息所という方も染殿の后です。",
-        "translation-en": "Lady Omiyasundokoro is also the consort of Emperor Koretaka."
+        "translation-ja": "大御息所も染殿の后である。",
+        "translation-ja-natural": "大御息所も、染殿と呼ばれた后だった。",
+        "translation-en": "Omiyasundokoro is also the consort of the Somedono.",
+        "translation-en-natural": "Lady Omiyasundokoro was also known as the Empress of the Somedono Palace."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250523",
         "id": 28,
         "text": "五条の后とも。",
         "kana": "ごじよのきさきとも。",
         "honkoku": "五条のきさきとも/s75l/",
         "translation-ja": "五条の后とも。",
-        "translation-en": "She is also said to be the consort of Emperor Gojo."
+        "translation-ja-natural": "五条の后とも言われている。",
+        "translation-en": "She is also said to be the consort of Emperor Gojo.",
+        "translation-en-natural": "She is also referred to as the consort of Emperor Gojo."
       },
       {
         "date": null,
