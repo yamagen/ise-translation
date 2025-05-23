@@ -5748,22 +5748,26 @@
         "translation-en-natural": "What saddens me is the thought itself—without even realizing that I’m barely holding on to life, a shadow of who I was."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250523",
         "id": 23,
         "text": "と思ひをり。",
         "kana": "とおもひをり。",
         "honkoku": "と思ひおり",
         "translation-ja": "と女は思っている。",
-        "translation-en": "And so she thought."
+        "translation-ja-natural": "と女は思っている。",
+        "translation-en": "And so she thought.",
+        "translation-en-natural": "And so she thought."
       },
       {
-        "date": "20240723,20250214",
+        "date": "20240723,20250214,20250523",
         "id": 24,
         "text": "男は、女しあはねば、かくし歩きつつ、人の国に歩きて、かくうたふ。",
         "kana": "をとこは、をんなしあはねば、かくしあるきつつ、ひとのくににあるきて、かくうたふ。",
         "honkoku": "男は女しあはねはかくしあり/きつつ人のくににありきてかくうたふ/",
         "translation-ja": "男は、女に会うことができず、このように歩き回りながら、他国に行って、このように歌う。",
-        "translation-en": "The man, unable to meet the woman, wandered around like this, traveled to other countries, and sang in this manner."
+        "translation-ja-natural": "女に会えなかった男は、こんなふうに彷徨いながら他国へ渡り、こうして歌っていたのだった。",
+        "translation-en": "The man, unable to meet the woman, wandered around like this, traveled to other countries, and sang in this manner.",
+        "translation-en-natural": "Unable to see her, the man wandered like this, traveled to distant lands, and sang his heart out."
       },
       {
         "date": "20240723,20250214",
