@@ -5874,13 +5874,15 @@
     "romaji": "Hana no hayashi",
     "paragraph": [
       {
-        "date": "20240805",
+        "date": "20240805,20250526",
         "id": 1,
         "text": "むかし、男、逍遥しに、思ひど親いつらねて、和泉の国へ如月ばかりにいきにけり。",
         "kana": "むかし、をとこ、せうえうしに、おもひどちかいつらねて、いずみのくにへきさらきばかりにいきにけり。",
         "honkoku": "昔おとこせうえうしにおもふとちかひ/つらねていつみのくにへきさらきはかりに/s76r/いきけり",
-        "translation-ja": "昔、ある男が気晴らしに、親しい友人たちと一緒に、如月（2月）頃に和泉の国へ行った。",
-        "translation-en": "Once upon a time, a man went to the Province of Izumi in February with his close friends to enjoy a leisurely stroll."
+        "translation-ja": "昔、ある男が逍遥しに、親しい友人たちと連れ立って、如月（2月）頃に和泉の国へ行った。",
+        "translation-ja-natural": "昔、ある男が散歩のため、親しい友人たちと連れ立って、如月頃に和泉の国へ出かけた。",
+        "translation-en": "Once upon a time, a man, for a stroll, went to the Province of Izumi around February, accompanied by his close friends.",
+        "translation-en-natural": "Long ago, a man set out to the Province of Izumi around February, accompanied by his close friends, for a stroll."
       },
       {
         "date": "20240805",
