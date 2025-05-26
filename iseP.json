@@ -5885,13 +5885,15 @@
         "translation-en-natural": "Long ago, a man set out to the Province of Izumi around February, accompanied by his close friends, for a stroll."
       },
       {
-        "date": "20240805",
+        "date": "20240805,20250526",
         "id": 2,
         "text": "河内の国生駒山を見れば、曇りみ晴れみ、たちゐる雲やまず。",
         "kana": "かうちのくにいこまのやまをみれば、くもりみはれみ、たちゐるくもやまず。",
         "honkoku": "かうちのくにいこまの山を/見れはくもりみはれみ立ゐるくもやま/す",
-        "translation-ja": "河内の国の生駒山を見ると、曇ったり晴れたりして、立ち込める雲が絶え間なく続いている。",
-        "translation-en": "When he looked at Mount Ikoma in Kawachi Province, the clouds were constantly changing, sometimes covering the mountain and sometimes clearing up."
+        "translation-ja": "河内の国の生駒山を見ると、曇ったり晴れたりして、立ちこめる雲がやまない。",
+        "translation-ja-natural": "河内の国の生駒山を見ると、曇ったり晴れたりして、立ちこめる雲はやむことがなかった。",
+        "translation-en": "When he looked at Mount Ikoma in Kawachi Province, clouds stood without ceasing, sometimes covering it, sometimes clearing.",
+        "translation-en-natural": "Looking at Mount Ikoma in Kawachi Province, the clouds hovered without ceasing, sometimes clouding over, sometimes clearing."
       },
       {
         "date": "20240805",
