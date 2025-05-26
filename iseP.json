@@ -5928,8 +5928,10 @@
         "poem": "昨日けふ/雲のたちまひ/かくろふは/花のはやしを/憂しとなりけり",
         "kana": "きのふけふ/くものたちまひ/かくろふは/はなのはやしを/うしとなりけり",
         "honkoku": "きのふけふ雲のたちまひかくろふは/花のはやしをうしとなりけり/s76l",
-        "translation-ja": "昨日今日と雲が立ちこめて隠しているので花の林がつまらないものになってしまいました。",
-        "translation-en": "Yesterday and today, the clouds danced and hid the view, making the grove of flowers seem melancholic."
+        "translation-ja": "昨日今日と雲が立ち迷って隠しているので、花の林は悲しいものとなった。",
+        "translation-ja-natural": "昨日今日と雲が立ち迷い、花の林を隠してしまい、悲しいものとなってしまった。",
+        "translation-en": "Yesterday and today, the clouds drifted and concealed, making the grove of flowers become sorrowful.",
+        "translation-en-natural": "Yesterday and today, drifting clouds hid the grove of flowers, turning it into something sorrowful."
       }
     ]
   },
