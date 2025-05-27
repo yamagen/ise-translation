@@ -6069,40 +6069,48 @@
         "translation-en-natural": "The woman, too, wasn’t firmly thinking she wouldn’t meet him."
       },
       {
-        "date": "20240809",
+        "date": "20240809,20250527",
         "id": 7,
         "text": "されど、人目しげければ逢はず。",
         "kana": "されど、ひとめしければあはず。",
         "honkoku": "されとひとめしけけれはえあはす",
-        "translation-ja": "しかし、人目が多いため、会うことはなかった。",
-        "translation-en": "However, because there were many people around, they did not meet."
+        "translation-ja": "しかし、人目が多かったので、会わなかった。",
+        "translation-ja-natural": "しかし、人目が多かったため、二人は会わなかった。",
+        "translation-en": "However, because there were many people watching, they did not meet.",
+        "translation-en-natural": "However, because there were too many onlookers, they did not meet."
       },
       {
-        "date": "20240809",
+        "date": "20240809,20250527",
         "id": 8,
         "text": "使実とある人なれば、遠くも宿さず。",
         "kana": "つかひざねとあるひとなれば、とをくもやどさず。",
         "honkoku": "つかひ/さねとある人なれはとをくもやとさす",
-        "translation-ja": "男は正使として来ている人だから、離れた場所にも泊めない。",
-        "translation-en": "Since the man is here as an official envoy, he does not stay overnight in distant places."
+        "translation-ja": "正使という人であるので、遠いところにも泊まらない。",
+        "translation-ja-natural": "正使という立場の人だから、遠い場所には泊まらなかった。",
+        "translation-en": "Since he is a true envoy, he does not stay even in distant places.",
+        "translation-en-natural": "Because he was an official envoy, he did not stay overnight even in distant places."
       },
       {
-        "date": "20240809",
+        "date": "20240809,20250527",
         "id": 9,
         "text": "女の寝屋近くありければ、女、人をしづめて、子一つばかりに、男のもとに来たりけり。",
         "kana": "をんなのねやちかくありければ、をんな、ひとをしづめて、こひとつばかりに、をとこのもとにきたりけり。",
         "honkoku": "女/のねやもちかくありけれは女人をしつ/めてねひとつはかりにおとこのもとに/きたりけり",
-        "translation-ja": "女の寝室が近くにあったので、女は人を静かにして、子供を一人連れて男のもとにやってきた。",
-        "translation-en": "Since the bedroom of the woman was close by, she quietly brought her child to the man."
+        "translation-ja": "女の寝屋が近くにあったので、女は人を静めて、夜中の一時ごろに男のもとに来た。",
+        "translation-ja-natural": "女の寝室が近くにあったので、女は人を静かにさせ、夜中の一時ごろに男のところへやってきた。",
+        "translation-en": "Since the woman's bedroom was near, she quieted the people and came to the man around one o'clock at night.",
+        "translation-en-natural": "Since the woman’s bedroom was nearby, she quieted the others and came to the man around one o'clock at night."
       },
       {
-        "date": "20240809",
+        "date": "20240809,20250527",
         "id": 10,
         "text": "男はた寝らざりければ、外の方を見いだして臥せるに、月のおぼろなるに、小さき童を先に立てて、人立てり。",
         "kana": "をとこはたねらざりければ、そとのほうをみいだしてふせるに、つきのおぼろなるに、ちいさきわらわをさきにたてて、ひとたてり。",
         "honkoku": "男はたねられさりけれはとの/かたをみいたしてふせるに月のおほ/ろなるにちいさきわらはをさきにたてて/人たてり",
-        "translation-ja": "男は寝られなかったので、外の方を見つめて横になり、月の薄明かりの中で、小さな子供を先に立たせて人立てをした。",
-        "translation-en": "Unable to sleep, the man lay down facing the outside, and in the dim light of the moon, he stood a small child in front of him."
+        "translation-ja": "男もまた寝られなかったので、外の方を見やって横になっていると、月がぼんやりしている中、小さな童を先に立て、人が立っていた。",
+        "translation-ja-natural": "男もまた眠れず、外を見やって横になっていると、ぼんやりした月の光の中で、小さな童が先に立ち、人が立っていた。",
+        "translation-en": "Since the man too could not sleep, as he lay facing outside, in the dim moonlight, a small child stood in front, and someone was standing there.",
+        "translation-en-natural": "The man, unable to sleep, lay facing outside, and in the dim moonlight, a small child stood ahead, with someone standing there."
       },
       {
         "date": "20240809",
@@ -9633,13 +9641,15 @@
         "translation-en": "Once upon a time, there was a man"
       },
       {
-        "date": "20241009",
+        "date": "20241009,20250527",
         "id": 2,
         "text": "深草にすみける女を、やうやう飽きがたにや思ひけむ、かかる歌をよみけり。",
         "kana": "ふかくさにすみけるをんなを、やうやうあきがたにやおもひけむ、かかるうたをよみけり。",
         "honkoku": "ふかくさにすみける女/をやうやうあきかたにやおもひけん/s122r/かかるうたをよみけり/",
-        "translation-ja": "深草に住んでいた女を、だんだん飽きた気持ちになったのだろう、こういう歌を詠みました。",
-        "translation-en": "He sang this song, thinking that he was gradually getting tired with a woman who lived in Fukakusa."
+        "translation-ja": "深草に住んでいた女を、だんだん飽きるのが難しいとでも思ったのだろう、こういう歌を詠んだ。",
+        "translation-ja-natural": "深草に住んでいた女のことを、だんだん飽きることが難しいと思ったのか、こんな歌を詠んだ。",
+        "translation-en": "He composed such a poem, perhaps thinking it was gradually becoming hard to tire of the woman who lived in Fukakusa.",
+        "translation-en-natural": "Perhaps thinking it was gradually hard to lose interest in the woman who lived in Fukakusa, he composed this poem."
       },
       {
         "date": "20241009",
