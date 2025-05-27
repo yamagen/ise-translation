@@ -6113,13 +6113,15 @@
         "translation-en-natural": "The man, unable to sleep, lay facing outside, and in the dim moonlight, a small child stood ahead, with someone standing there."
       },
       {
-        "date": "20240809",
+        "date": "20240809,20250527",
         "id": 11,
         "text": "男いとうれしくて我が寝る所に、率ていり、子一つより丑三つまであるに、まだ何事も語らはぬに、帰りにけり。",
         "kana": "をとこいとうれしくてわがねるところに、ゐていり、こひとつよりうしみつまであるに、まだなにこともかたらはぬに、かへりにけり。",
         "honkoku": "男いとうれしくてわかぬる所/s79r/にゐていりてねひとつよりうしみつ/まてあるにまたなにこともかたらはぬに/かへりにけり",
-        "translation-ja": "男が非常に嬉しく思って、自分の寝所に連れてきた。子の時刻から丑三つ時までいたが、まだ何も話さないうちに、帰ってしまった。",
-        "translation-en": "The man, feeling very pleased, brought [them] to his sleeping quarters. They stayed from the time of the child’s hour until the third watch of the night, but before any conversation could take place, they left."
+        "translation-ja": "男が非常に嬉しく思って、自分の寝所に連れて入れた。子の刻一つ（夜中の一時）から丑三つ（午前三時ごろ）までいたが、まだ何事も語らないうちに、帰ってしまった。",
+        "translation-ja-natural": "男はとても嬉しくて、自分の寝所に彼女を連れて入れたが、夜中の一時から三時までいても、何も話さないうちに帰ってしまった。",
+        "translation-en": "The man, feeling very pleased, brought her into his sleeping quarters. They stayed from the child’s hour (around 1 AM) until the third watch of the ox hour (around 3 AM), but before they spoke about anything, she left.",
+        "translation-en-natural": "The man, overjoyed, brought her into his bedroom, but even though they stayed from around 1 AM to 3 AM, she left before they could exchange any words."
       },
       {
         "date": "20240810",
@@ -6127,8 +6129,10 @@
         "text": "男いと悲しくて、寝ずなりにけり。",
         "kana": "をとこいとかなしくて、ねずなりにけり。",
         "honkoku": "おとこいとかなしくてねす/なりにけり",
-        "translation-ja": "男は非常に悲しくて、寝られなかった。",
-        "translation-en": "The man was so sad that he could not sleep."
+        "translation-ja": "男は非常に悲しくて、寝ない状態になった。",
+        "translation-ja-natural": "男はとても悲しくて、とうとう眠れずに過ごした。",
+        "translation-en": "The man, very sad, ended up not sleeping.",
+        "translation-en-natural": "The man was so sad that in the end, he stayed awake without sleeping."
       },
       {
         "date": "20240810",
@@ -6136,8 +6140,10 @@
         "text": "つとめていぶかしけれど、わが人をやるべきにしもあらねば、いと心もとなくて待ちをれば、明けはなれてしばしあるに、女のもとより言葉はなくて、",
         "kana": "つとめていぶかしけれど、わがひとをやるべきにしもあらねば、いとこころもとなくてまちをれば、あけはなれてしばしあるに、をんなのもとよりことはなくて、",
         "honkoku": "つとめていふかしけれとわか/人をやるへきにしあらねはいと心もと/なくてまちをれはあけはなれてしはし/あるに女のもとよりことははなくて/",
-        "translation-ja": "朝早くから気になっていましたが、私が彼女に使いをやるべきとも言えないので、とても気がかりに思いながら待っていると、夜が明けてしばらくした時に、彼女から言葉はなくて、",
-        "translation-en": "Although I was anxious early in the morning, it was not necessarily my place to send a message to her. So, I waited with a restless heart, and as dawn fully broke and some time passed, there were no words from the woman."
+        "translation-ja": "朝早くから気になっていたが、私が彼女に使いをやるべきということでもないので、とても気がかりに思いながら待っていると、夜が明けきってしばらく経った時に、彼女の方からは言葉がなかった。",
+        "translation-ja-natural": "朝早くから気になっていたけれど、自分が使いをやる立場とも言えないので、とても気がかりに思いながら待っていると、夜が明けてしばらく経っても、彼女からは何の便りもなかった。",
+        "translation-en": "Although I was anxious early in the morning, it was not necessarily my place to send someone to her, so I waited with a restless heart, and as dawn fully broke and some time passed, there were no words from the woman.",
+        "translation-en-natural": "I was anxious since early morning, but it wasn’t exactly my place to send someone to her, so I waited restlessly, and even after dawn had fully broken and some time had passed, no word came from the woman."
       },
       {
         "date": "20240810",
@@ -6145,17 +6151,21 @@
         "poem": "君やこし/我や行きけむ/おもほえず/夢かうつゝか/寝てか醒めてか",
         "kana": "きみやこし/われやいきけむ/おもほえず/ゆめかうつつか/ねてかさめてか",
         "honkoku": "君やこしわれやゆきけんおもほえす/ゆめかうつつかねてかさめてか/s79l",
-        "translation-ja": "君が来るか、私が行くか、思いもせず、夢か現か、寝ているのか、覚めているのか。",
-        "translation-en": "Will you come, or shall I go? Without a thought, is this a dream or reality? Am I asleep or awake?"
+        "translation-ja": "君が来たのか、私が行ったのか、思いもせず、夢か現か、寝ているのか、覚めているのか。",
+        "translation-ja-natural": "君が来たのか、私が行ったのか、思いもせず、これは夢か現か、寝ているのか、覚めているのか。",
+        "translation-en": "Did you come, or did I go? Without realizing, is this a dream or reality? Am I asleep or awake?",
+        "translation-en-natural": "Did you come, or did I go? Without realizing, is this a dream or reality, am I asleep or awake?"
       },
       {
-        "date": "20240810",
+        "date": "20240810,20250527",
         "id": 15,
         "text": "男いといたう泣きてよめる。",
         "kana": "をとこいといたうなきてよめる。",
         "honkoku": "おとこいといたうなきてよめる/",
-        "translation-ja": "男はひどく泣いて詠みました。",
-        "translation-en": "The man sang while crying in great sorrow."
+        "translation-ja": "男はひどく泣いて詠んだ。",
+        "translation-ja-natural": "男はひどく泣きながら詩を詠んだ。",
+        "translation-en": "The man, crying greatly, composed (or recited) a poem.",
+        "translation-en-natural": "The man, weeping deeply, composed a poem."
       },
       {
         "date": "20240810",
@@ -6200,7 +6210,9 @@
         "kana": "とりてみれば、",
         "honkoku": "とりてみれは/",
         "translation-ja": "取って見ると、",
-        "translation-en": "When she took it and looked at it,"
+        "translation-ja-natural": "取って見ると、",
+        "translation-en": "When she took it and looked at it,",
+        "translation-en-natural": "When she took it and looked at it,"
       },
       {
         "date": "20240810",
@@ -6208,8 +6220,10 @@
         "poem": "かち人の/渡れどぬれぬ/江にしあれば",
         "kana": "かちびとの/わたれどぬれぬ/えにしあれば",
         "honkoku": "かちびとのわたれどぬれぬえにしあれば/",
-        "translation-ja": "歩いて渡っても濡れない江なので、",
-        "translation-en": "Even if crossing the river by walk, one does not get wet,"
+        "translation-ja": "徒人が渡っても濡れない、まさにそういう川なので、",
+        "translation-ja-natural": "歩いて渡っても濡れない、まさにそんな川だから。",
+        "translation-en": "Because it is indeed such a river that even those who cross on foot do not get wet,",
+        "translation-en-natural": "Because it's truly such a river that even when people cross on foot, they don't get wet."
       },
       {
         "date": "20240810",
