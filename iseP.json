@@ -6052,17 +6052,21 @@
         "text": "二日といふ夜、男、われて「あはむ」といふ。",
         "kana": "ふつかといふよ、をとこ、われて「あはむ」といふ。",
         "honkoku": "二日といふ夜おとこわれてあ/s78l/はんといふ",
-        "translation-ja": "二日の夜、男が「どうしても会いたい」と言いました。",
-        "translation-en": "On the night of the second day, the man said, \"I really want to see you.\""
+        "translation-ja": "二日という夜、男は強引に「会おう」と言う。",
+        "translation-ja-natural": "二日の夜、男は強引に「会おう」と言った。",
+        "translation-en": "On the night called the second day, the man boldly says, 'I will meet you.'",
+        "translation-en-natural": "On the night of the second day, the man forcefully declared, 'I will meet you.'"
       },
       {
-        "date": "20240809",
+        "date": "20240809,20250527",
         "id": 6,
         "text": "女もはた、いと逢はじとも思へらず。",
         "kana": "をんなもはた、いとあはじともおもへらず。",
         "honkoku": "女もはたあはしとも思へらす/",
-        "translation-ja": "女性もまた、どうしても会いたくないとは思っていませんでした。",
-        "translation-en": "The woman, too, did not think she absolutely did not want to meet."
+        "translation-ja": "女もまた、とても会うまいとも思っていなかった。",
+        "translation-ja-natural": "女もまた、強く会うまいなどとは思っていなかった。",
+        "translation-en": "The woman, too, did not think she would absolutely refuse to meet.",
+        "translation-en-natural": "The woman, too, wasn’t firmly thinking she wouldn’t meet him."
       },
       {
         "date": "20240809",
