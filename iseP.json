@@ -5963,31 +5963,37 @@
         "translation-en-natural": "As he walked through Sumiyoshi District, Sumiyoshi Village, and Sumiyoshi Beach, the scenery was so beautiful that he dismounted and continued on, occasionally sitting down to enjoy it."
       },
       {
-        "date": "20240807",
+        "date": "20240807,20250527",
         "id": 3,
         "text": "ある人が「住吉の浜と詠め」と言ふ。",
         "kana": "あるひとが「すみよしのはまとよめ」といふ。",
         "honkoku": "ある人すみよしのはまとよ/めといふ/",
-        "translation-ja": "ある人が、「住吉の浜と詠め」と言った。",
-        "translation-en": "A person said, \"Compose a poem about Sumiyoshi Beach.\""
+        "translation-ja": "ある人が、『住吉の浜と詠め』と言う。",
+        "translation-ja-natural": "ある人が『住吉の浜を詠んでみろ』と言う。",
+        "translation-en": "A person says, 'Compose a poem about Sumiyoshi Beach.'",
+        "translation-en-natural": "Someone says, 'Compose a poem about Sumiyoshi Beach.'"
       },
       {
-        "date": "20240807",
+        "date": "20240807,20250527",
         "id": 4,
         "poem": "雁鳴きて/菊の花さく/秋はあれど/春のうみべに/住吉の浜",
         "kana": "かりなきて/きくのはなさく/あきはあれど/はるのうみべに/すみよしのはま",
         "honkoku": "かりなきて菊のはなさく秋はあれと/春のうみ辺にすみよしのはま/",
-        "translation-ja": "雁が鳴き、菊の花が咲く秋ではあるが、春のような海辺にある住吉の浜。",
-        "translation-en": "Though it is autumn with geese crying and chrysanthemums blooming, Sumiyoshi Beach feels like a seaside in spring."
+        "translation-ja": "雁が鳴き、菊の花が咲く秋ではあるが、春の海辺にある住吉の浜。",
+        "translation-ja-natural": "雁が鳴き、菊の花が咲く秋だというのに、まるで春のような雰囲気が漂う住吉の浜。",
+        "translation-en": "Though it is autumn with geese crying and chrysanthemums blooming, Sumiyoshi Beach is at the spring seaside.",
+        "translation-en-natural": "Though geese cry and chrysanthemums bloom in autumn, Sumiyoshi Beach carries an air of spring."
       },
       {
-        "date": "20240807",
+        "date": "20240807,20250527",
         "id": 5,
         "text": "と詠めりければ、みな人々詠まずなりにけり。",
         "kana": "とよめりければ、みなひとびとよまずなりにけり。",
         "honkoku": "とよめりけれはみなひとひとよますなり/にけり/s77l",
-        "translation-ja": "と詠んだので、みな人々は詠まなくなってしまった。",
-        "translation-en": "After he recited it, everyone stopped composing poems."
+        "translation-ja": "と詠んだので、みな人々は詠まなくなった。",
+        "translation-ja-natural": "そう詠んだので、みんな詠むのをやめてしまった。",
+        "translation-en": "As he recited it, everyone stopped composing poems.",
+        "translation-en-natural": "After he recited that, everyone else stopped composing poems."
       }
     ]
   },
