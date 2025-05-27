@@ -6003,13 +6003,15 @@
     "romaji": "Kari no tsukai",
     "paragraph": [
       {
-        "date": "20240809",
+        "date": "20240809,20250527",
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
         "honkoku": "昔おとこ有けり",
         "translation-ja": "昔、男がいた。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja-natural": "昔、ある男がいました。",
+        "translation-en": "Once upon a time, there was a man.",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
         "date": "20240809",
@@ -6017,26 +6019,32 @@
         "text": "その男、伊勢の国に狩の使いにいきけるに、かの伊勢の斎宮なりける人の親、「常の使よりは、この人、よくいたはれ」といひやれりければ、親のことなりければ、いと懇にいたはりけり。",
         "kana": "そのをとこ、いせのくににかりのつかひにいきけるに、かのいせのさいぐうなりけるひとのおや、「つねのつかいよりは、このひと、よくいたはれ」といひやれりければ、おやのことなりければ、いとねんごろにいたはりけり。",
         "honkoku": "そのおとこいせのくにに/かりのつかひにいきけるにかのいせ/の斎宮なりけるひとのおやつねのつかひ/よりはこの人よくいたはれといひやれり/けれはおやの事なりけれはいとねん/ころにいたはりけり",
-        "translation-ja": "その男が伊勢の国に狩の使いに行ったとき、伊勢の斎宮だった人の親が、「常の使者よりも、この人をよくもてなしてほしい」と言ってくれたので、その親の頼みで、とても丁寧にもてなされました。",
-        "translation-en": "When the man went to Ise Province as an envoy for a hunt, the parent of the person who had been the Ise shrine maiden said, \"Please treat this person better than usual.\" Because it was a request from someone important, he was treated with great courtesy."
+        "translation-ja": "その男が伊勢の国に狩の使いに行ったとき、あの伊勢の斎宮だった人の親が、「常の使よりは、この人をよくもてなせ」と言い送ったので、親のことだったので、とても丁寧にもてなした。",
+        "translation-ja-natural": "その男が伊勢の国に狩の使いで行ったとき、かつて伊勢の斎宮だった人の親が「普段の使者より、この人をよくもてなしてほしい」と伝えてきたので、親の頼みということもあって、とても丁寧にもてなされた。",
+        "translation-en": "When the man went to Ise Province as an envoy for a hunt, the parent of the one who had been the Ise shrine maiden said, \"Treat this person better than the usual envoy,\" and because it was a matter concerning the parent, he was treated with great courtesy.",
+        "translation-en-natural": "When the man went to Ise Province as an envoy for a hunt, the parent of the former Ise shrine maiden said, 'Please treat this person better than the usual envoy,' so, because it was a request from the parent, he was treated with great care."
       },
       {
-        "date": "20240809",
+        "date": "20240809,20250527",
         "id": 3,
         "text": "朝には狩にいだし立ててやり、夕さりは帰りつゝそこに来させけり。",
         "kana": "あさにはかりにいだしたててやり、ゆふさりはかへりつつそこにきさせけり。",
         "honkoku": "あしたにはかりに/いたしたててやりゆふさりはかへりつつ/そこにこさせけり",
-        "translation-ja": "朝には狩りに送り出し、夕方には帰り道に立ち寄らせた。",
-        "translation-en": "In the morning, she sent him out on a hunting mission, and in the evening, she had him stop by on his way back."
+        "translation-ja": "朝には狩りに送り出し、夕方には帰りつつそこに来させた。",
+        "translation-ja-natural": "朝には狩りに送り出し、夕方には帰り道でそこに立ち寄らせた。",
+        "translation-en": "In the morning, she sent him out on the hunt, and in the evening, while returning, she had him come there.",
+        "translation-en-natural": "In the morning, she sent him off to the hunt, and in the evening, she had him stop by there on his way back."
       },
       {
-        "date": "20240809",
+        "date": "20240809,20250527",
         "id": 4,
         "text": "かくて懇にいたづきけり。",
         "kana": "かくてねんごろにいたづきけり。",
         "honkoku": "かくてねんころにいた/つきけり",
-        "translation-ja": "こうして、丁寧にお世話しました。",
-        "translation-en": "And so, she took great care of him."
+        "translation-ja": "こうして、丁寧にお世話した。",
+        "translation-ja-natural": "こうして、とても丁寧に世話をしたのだった。",
+        "translation-en": "And so, she took care of him attentively.",
+        "translation-en-natural": "And so, she gave him very attentive care."
       },
       {
         "date": "20240809",
