@@ -5941,22 +5941,26 @@
     "romaji": "Sumiyoshi no hama",
     "paragraph": [
       {
-        "date": "20240805",
+        "date": "20240805,20250527",
         "id": 1,
         "text": "むかし、男、和泉の国へいきにけり。",
         "kana": "むかし、をとこ、いずみのくにへいきにけり。",
         "honkoku": "むかしおとこいつみのくにへいきけり/",
-        "translation-ja": "昔、男が和泉の国へ行きました。",
-        "translation-en": "Once upon a time, a man went to the Province of Izumi."
+        "translation-ja": "昔、男が和泉の国へ行った。",
+        "translation-ja-natural": "昔、ある男が和泉の国へと旅立っていった。",
+        "translation-en": "Once upon a time, a man went to the Province of Izumi.",
+        "translation-en-natural": "Once upon a time, a man set off for the Province of Izumi."
       },
       {
-        "date": "20240805",
+        "date": "20240805,20250527",
         "id": 2,
         "text": "住吉の郡、住吉の里、住吉の浜を行くに、いとおもしろければ、降りゐつゝ行く。",
         "kana": "すみよしのこほり、すみよしのさと、すみよしのはまをゆくに、いとおもしろければ、おりゐつつゆく。",
         "honkoku": "住よしのこほり住吉のさとすみよし/のはまをゆくにいとおもしろけれはおり/ゐつつゆく",
-        "translation-ja": "住吉の郡、住吉の里、住吉の浜とても風景が趣深く思われたので、降りて腰を下ろしながら行く。",
-        "translation-en": "When he went to Sumiyoshi District, Sumiyoshi Village, and Sumiyoshi Beach, he found the scenery so delightful that he dismounted and continued on foot, sitting down occasionally."
+        "translation-ja": "住吉の郡、住吉の里、住吉の浜を行くと、とても趣深かったので、降りて腰を下ろしながら行く。",
+        "translation-ja-natural": "住吉の郡、住吉の里、住吉の浜を歩いていくと、とても美しかったので、彼は降りて腰を下ろしながら進んでいった。",
+        "translation-en": "As he went through Sumiyoshi District, Sumiyoshi Village, and Sumiyoshi Beach, it was very delightful, so he dismounted and continued on, sitting down.",
+        "translation-en-natural": "As he walked through Sumiyoshi District, Sumiyoshi Village, and Sumiyoshi Beach, the scenery was so beautiful that he dismounted and continued on, occasionally sitting down to enjoy it."
       },
       {
         "date": "20240807",
