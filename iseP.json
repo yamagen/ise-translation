@@ -6168,22 +6168,26 @@
         "translation-en-natural": "The man, weeping deeply, composed a poem."
       },
       {
-        "date": "20240810",
+        "date": "20240810,20250527",
         "id": 16,
         "poem": "かきくらす/心の闇に/まどひにき/夢現とは/こよひ定めよ",
         "kana": "かきくらす/こころのやみに/まどひにき/ゆめうつつとは/こよひさだめよ",
         "honkoku": "かきくらす心のやみにまとひにき/夢うつつとはこよひ(一説よる人)さためよ/",
-        "translation-ja": "心を覆い尽くす暗い気持ちに迷ってしまい、これは夢なのか現実なのか、今夜決めてください。",
-        "translation-en": "In the darkness that engulfs my heart, I have become lost. Is this a dream or reality? Please decide tonight."
+        "translation-ja": "心を覆い尽くす闇に迷ってしまい、「夢か現か」と、今夜定めよ。",
+        "translation-ja-natural": "心を覆い尽くす暗闇に迷ってしまい、これは夢か現実か、今夜こそ決めてください。",
+        "translation-en": "Lost in the darkness that clouds my heart, saying 'is this dream or reality?', decide it tonight.",
+        "translation-en-natural": "Lost in the darkness that clouds my heart, I wonder if this is a dream or reality — decide it tonight."
       },
       {
-        "date": "20240810",
+        "date": "20240810,20250527",
         "id": 17,
         "text": "とよみてやりて、狩に出でぬ。",
         "kana": "とよみてやりて、かりにいでぬ。",
         "honkoku": "とよみてやりてかりにいてぬ",
-        "translation-ja": "詠んで送ってから、狩りに出かけた。",
-        "translation-en": "After having sung and sending it, he went out hunting."
+        "translation-ja": "と詠んで送って、狩りに出た。",
+        "translation-ja-natural": "そう詠んで送り出し、狩りに出かけた。",
+        "translation-en": "Having recited thus and sending it, he went out hunting.",
+        "translation-en-natural": "Having composed the poem and sent it off, he went out hunting."
       },
       {
         "date": "20240810",
@@ -6191,20 +6195,24 @@
         "text": "野にありけれど心はそらにて、こよひだに人しづめて、いととく逢はむと思ふに、国守、斎宮のかみかけたる、狩の使ありと聞きて、夜ひと夜酒飲みしければ、もはら逢ひごともえせで、明けば尾張の国へたちなむとすれば、男も人知れず血の涙を流せどもえあはず。",
         "kana": "のにありけれどこころはそらにて、こよひだにひとしづめて、いととくあはむとおもふに、くにのかみ、いつきのみやのかみかけたる、かりのつかひありとききて、よひとよさけのみしければ、もはらあひごともえせて、あけばおはりのくにへたちなむとすれば、おとこもひとしれすちのなみだをなかせどもえあはず。",
         "honkoku": "野にあり/けと心はそらにてこよひたに人しつめ/ていととくあはんと思ふにくにのかみいつ/きの宮のかみかけたるかりのつかひあり/とききて夜ひとよさけのみしけれはも/はらあひこともえせてあけはおはりの国/s80r/へたちなんとすれはおとこも人しれす/ちの涙をなかせとえあはす",
-        "translation-ja": "野にいながらも心は遠くにあり、今夜だけでも人が寝静まってから早くにも逢おうと思っていると、国の守、斎宮の守である人が、「狩りの使いが来ている」と聞いて、夜一晩中、酒宴を催したので、まったく逢うこともできず、明ければ尾張の国へ立ち去る予定なので、男も人知れず血の涙を流しても、逢えない。",
-        "translation-en": "Although he was in the field, his heart was elsewhere, and he thought, \"I want to meet her tonight, even if just for a moment, after everyone has gone to bed.\" When he heard that the governor of the country, who was also the guardian of the Ise Shrine, had sent a hunter's messenger, he held a drinking party all night. But he could not meet her, and when morning came, he was to leave for Owari Province. Although he shed tears in secret, he could not meet her."
+        "translation-ja": "野にいながらも心はそらにあり、今夜だけでも人が寝静まってから早く逢おうと思ったが、国守、斎宮の上職が命じた狩りの使いがあると聞いて、一晩中酒宴をして、まったく逢うことができず、明ければ尾張の国へ立ち去ろうとするので、男も人知れず血の涙を流したが、逢うことはできなかった。",
+        "translation-ja-natural": "野にいても心はそぞろで、今夜だけでも人が寝静まったらすぐに会おうと思っていたが、国守や斎宮の上役が命じた狩りの使者が来て、一晩中酒宴が続き、ついに会うこともできないまま、明ければ尾張の国へ立つことになっていた。男は人知れず血の涙を流したが、それでも会うことは叶わなかった。",
+        "translation-en": "Though he was in the field, his heart was elsewhere, and he thought, 'Tonight at least, after people quiet down, I will quickly meet her.' But hearing that the governor, under the command of the upper official of the Ise priestess, had sent a hunting envoy, they drank all night, and he was unable to meet her at all. As morning came, he was to depart for Owari Province, and though the man secretly shed tears of blood, he could not meet her.",
+        "translation-en-natural": "Though in the field, his heart was restless, thinking, 'At least tonight, after people have settled, I will hurry to meet her.' But hearing that the governor and the upper official under the Ise priestess had sent a hunting envoy, they drank all night, and in the end, he could not meet her. As dawn broke, he was to leave for Owari Province, and though the man secretly shed tears of blood, he could not meet her."
       },
       {
-        "date": "20240810",
+        "date": "20240810,20250527",
         "id": 19,
         "text": "夜やうやう明けなむとするほどに、女方よりいだすさかづきの皿に、歌を書きていだしたり。",
         "kana": "よやうやうあけなむとするほどに、をんなかたよりいだすさかづきのさらに、うたをかきていだしたり。",
         "honkoku": "夜やうやう/あけなんとするほとに女かたより/いたすさかつきのさらにうたをかきて/いたしたり",
-        "translation-ja": "夜がだんだん明けようとする頃、女の方から差し出された杯の皿に、歌を書いて戻しました。",
-        "translation-en": "As the night gradually turned to dawn, he wrote a poem on the dish that had been sent by the woman and returned it."
+        "translation-ja": "夜がだんだん明けようとする頃、女の方から差し出された杯の皿に、歌を書いて差し出した。",
+        "translation-ja-natural": "夜が少しずつ明けようとする頃、女の方から差し出された杯の皿に歌を書いて、差し出した。",
+        "translation-en": "As the night was about to gradually dawn, he wrote a poem on the sake cup dish brought from the woman’s side and handed it out.",
+        "translation-en-natural": "As the night slowly approached dawn, he wrote a poem on the sake cup dish sent from the woman and handed it back."
       },
       {
-        "date": "20240810",
+        "date": "20240810,20250527",
         "id": 20,
         "text": "とりて見れば、",
         "kana": "とりてみれば、",
@@ -6215,7 +6223,7 @@
         "translation-en-natural": "When she took it and looked at it,"
       },
       {
-        "date": "20240810",
+        "date": "20240810,20250527",
         "id": 21,
         "poem": "かち人の/渡れどぬれぬ/江にしあれば",
         "kana": "かちびとの/わたれどぬれぬ/えにしあれば",
@@ -6226,31 +6234,37 @@
         "translation-en-natural": "Because it's truly such a river that even when people cross on foot, they don't get wet."
       },
       {
-        "date": "20240810",
+        "date": "20240810,20250527",
         "id": 22,
         "text": "と書きて、末はなし、",
         "kana": "とかきて、すゑはなし、",
         "honkoku": "とかきてすゑはなし",
-        "translation-ja": "と書いて、下の句はない。",
-        "translation-en": "and he wrote it, but the concluding verse was missing."
+        "translation-ja": "と書いて、末はない。",
+        "translation-ja-natural": "と書いて、下の句はなかった。",
+        "translation-en": "Having written thus, there was no end.",
+        "translation-en-natural": "He wrote thus, but there was no ending part."
       },
       {
-        "date": "20240810",
+        "date": "20240810,20250527",
         "id": 23,
         "text": "そのさかづきの皿に、続松の炭して歌の末を書きつぐ。",
         "kana": "そのさかづきのさらに、ついまつのすみしてうたのすゑをかきつぐ。",
         "honkoku": "そのさかつきのさら/につゐまつのすみしてうたのすゑ/をかきつく/s80l",
-        "translation-ja": "その杯の皿に、続松の炭を使って、歌の末を書き継ぎました。",
-        "translation-en": "On the sake dish, he continued writing the concluding verse with charcoal from a pine torch."
+        "translation-ja": "その杯の皿に、続松の炭で、歌の末を書き継いだ。",
+        "translation-ja-natural": "その杯の皿に、松明用の松の炭で、歌の結びを続けて書いた。",
+        "translation-en": "On the sake dish, he continued writing the poem’s end with charcoal from torch pine.",
+        "translation-en-natural": "On the sake dish, he used charcoal from torch pine to continue writing the end of the poem."
       },
       {
-        "date": "20240810",
+        "date": "20240810,20250527",
         "id": 24,
         "poem": "またあふさかの/関は越えなむ",
         "kana": "またあふさかの/せきはこえなむ",
         "honkoku": "又あふさかのせきはこえなん/",
-        "translation-ja": "また逢坂の関を越えるでしょう。",
-        "translation-en": "I will cross the Osaka Pass again."
+        "translation-ja": "また逢坂の関は越えよう。",
+        "translation-ja-natural": "また逢坂の関を越えることになるだろう。",
+        "translation-en": "I shall cross the Osaka barrier again.",
+        "translation-en-natural": "I will likely cross the Osaka barrier again."
       },
       {
         "date": "20240810",
@@ -6258,8 +6272,10 @@
         "text": "とて、明くれば、尾張に国へ越えにけり。",
         "kana": "とて、あくれば、おはりにくにへこえにけり。",
         "honkoku": "とてあくれはおはりのくにへこえにけり/",
-        "translation-ja": "そして、明けると尾張の国へ越えて行ってしまいました。",
-        "translation-en": "After singing this poem, when dawn broke, he crossed over to the province of Owari."
+        "translation-ja": "そう言って、明けると、尾張の国へ越えて行った。",
+        "translation-ja-natural": "そう言って、夜が明けると、彼は尾張の国へと旅立っていった。",
+        "translation-en": "Saying thus, when it dawned, he crossed over to Owari province.",
+        "translation-en-natural": "Having said so, when dawn broke, he set out across to Owari province."
       },
       {
         "date": "20240810",
@@ -6267,8 +6283,10 @@
         "text": "斎宮は水の尾の御時、文徳天皇の御むすめ、惟喬の親王の妹。",
         "kana": "いつきはみのをのおんとき、もんとくてんのうのおんむすめ、これたかのしんのうのいもうと。",
         "honkoku": "斎宮は水のおの御とき文徳天皇の御女こ/れたかのみこのいもうと/s81r",
-        "translation-ja": "斎宮は水尾の帝（みずのおのみかど）の時代に仕えた、文徳天皇の娘であり、惟喬親王の妹です。",
-        "translation-en": "The Saigu (vestal virgin serving at Ise Shrine) served during the reign of Emperor Mizuo, and she was the daughter of Emperor Montoku and the younger sister of Prince Koretaka."
+        "translation-ja": "斎宮は水の尾の御代、文徳天皇の御娘、惟喬親王の妹。",
+        "translation-ja-natural": "斎宮は水の尾の御代の人で、文徳天皇の娘、惟喬親王の妹だった。",
+        "translation-en": "The Saigu, in the reign of Mizu-no-o no mikado, was the daughter of Emperor Montoku and the younger sister of Prince Koretaka.",
+        "translation-en-natural": "The Saigu, from the reign of Mizu-no-o no mikado, was the daughter of Emperor Montoku and the younger sister of Prince Koretaka."
       }
     ]
   },
@@ -6278,13 +6296,15 @@
     "romaji": "ama no tsurifune",
     "paragraph": [
       {
-        "date": "20240811",
+        "date": "20240811,20250527",
         "id": 1,
         "text": "むかし、男、狩の使より帰り来けるに、大淀のわたりに宿りて、斎宮のわらはべにいひかけける。",
         "kana": "むかし、をとこ、かりのつかひよりかへりきけるに、おほよどのわたりにやどりて、いつきのみやのわらはべにいひかけける。",
         "honkoku": "むかしおとこかりのつかひよりかへりき/けるにおほよとのわたりにやとり/ていつきのみやのわらはへにいひかけ/ける",
-        "translation-ja": "昔、ある男が狩りの使いから帰ってくる途中、大淀の渡しで宿を取って、斎宮に仕える子供たちに声をかけました。",
-        "translation-en": "Once upon a time, a man was returning from a hunting expedition and, while staying at the Ooyodo crossing, spoke to the attendants serving the Saigu (the Ise Priestess)."
+        "translation-ja": "昔、男が狩の使いから帰ってきたとき、大淀の渡し場に宿を取って、斎宮の童たちに声をかけた。",
+        "translation-ja-natural": "昔、ある男が狩りの任務からの帰り道、大淀の渡しで一泊し、そこで斎宮に仕える子供たちに声をかけました。",
+        "translation-en": "Once upon a time, a man, when returning from a hunting mission, stayed at the Ooyodo crossing and spoke to the children of the Saigu.",
+        "translation-en-natural": "Once upon a time, a man, returning from a hunting mission, stayed overnight at the Ooyodo crossing and spoke to the children serving the Saigu (the Ise Priestess)."
       },
       {
         "date": "20240811",
@@ -6292,8 +6312,10 @@
         "poem": "みるめかる/かたやいづこぞ/棹さして/われに教へよ/あまの釣舟",
         "kana": "みるめかる/かたやいづこぞ/さをさして/われにおしへよ/あまのつりふね",
         "honkoku": "みるめかる方やいつこそさほさして/われにをしへよあまのつり舟/s82r",
-        "translation-ja": "海松布を刈る人よ、どこかを棹さして私に教えてください、釣り船の漁師さん。",
-        "translation-en": "Where does the \"seaweed\" grow, and you who possess the \"eyes that see\" clearly, row your boat over here and tell me, O fisherman's boat."
+        "translation-ja": "海松布を刈る、場所はどこか、棹をさして、私に教えてくれ、海人の釣舟。",
+        "translation-ja-natural": "海松布を刈る漁師さん、場所はどこですか？ 棹で指し示して、私に教えてください、釣り船よ。",
+        "translation-en": "Cutting seaweed, where is the place, point with the pole, tell me, fisherman's boat.",
+        "translation-en-natural": "Fisherman cutting seaweed, where is the place? Please point it out with your pole and tell me, O you on the fishing boat."
       }
     ]
   },
