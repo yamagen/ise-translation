@@ -6439,17 +6439,21 @@
         "text": "むかし、男、女をいたう怨みて、",
         "kana": "むかし、をとこ、をんなをいたううらみて、",
         "honkoku": "むかし男女をいたううらみて",
-        "translation-ja": "昔、男が、女を恨んで、",
-        "translation-en": "Once upon a time, a man was deeply resentful of a woman and ..."
+        "translation-ja": "昔、男が、女をひどく恨んで、",
+        "translation-ja-natural": "昔、男が女を強く恨んでいて、",
+        "translation-en": "Once upon a time, a man was deeply resentful of a woman, and ...",
+        "translation-en-natural": "Once upon a time, a man deeply resented a woman, and ..."
       },
       {
-        "date": "20240814",
+        "date": "20240814,20250529",
         "id": 2,
         "poem": "岩根ふみ/かさなる山に/あらねども/逢はぬ日おほく/恋ひわたるかな",
         "kana": "いわねふみ/かさなるやまに/あらねども/あはぬひおほく/こひわたるかな",
         "honkoku": "岩ねふみかさなる山にあらねとも/あはぬ日おほくこひわたるかな/s84r",
-        "translation-ja": "固い岩を踏むような険しい山にいるわけではないけれど、会えない日が多く、ずっと恋しく思い続けています。",
-        "translation-en": "I do not tread on hard rocks or climb over steep mountains, yet the days we do not meet are many, and I find myself constantly longing for you."
+        "translation-ja": "固い岩を踏み、重なる山にあるわけではないけれど、会えない日が多く、恋しく思い続けています。",
+        "translation-ja-natural": "固い岩を踏み、重なる山にいるわけではないのに、会えない日が多く、私はずっと恋し続けています。",
+        "translation-en": "Though I do not tread on hard rocks or in stacked mountains, the days we do not meet are many, and I keep longing for you.",
+        "translation-en-natural": "Though I do not tread on hard rocks or pass through stacked mountains, so many days pass without seeing you, and I continue to long for you."
       }
     ]
   },
