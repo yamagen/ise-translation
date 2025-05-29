@@ -6325,13 +6325,15 @@
     "romaji": "kami no igaki",
     "paragraph": [
       {
-        "date": "20240812",
+        "date": "20240812,20250529",
         "id": 1,
         "text": "むかし、男、伊勢の斎宮に、内の御使にて、まゐれりければ、かの宮にすきごといひける女、私事にて、",
         "kana": "むかし、をとこ、いせのいつきのみやに、うちのみつかさにて、まゐれりければ、かのみやにすきごといひけるをんな、わたくしごとにて、",
         "honkoku": "むかしおとこいせの斎宮に内のつかひ/にてまいれりけれはかのみやにすきこと/いひける女わたくしことにて／s82r",
         "translation-ja": "昔、男が伊勢の斎宮で内の御使いとして仕えていたので、そこに色事を言う女が、私事で、",
-        "translation-en": "Once upon a time, a man served as an official messenger at the Ise Shrine, and there was a woman who spoke of romantic matters there for personal reasons."
+        "translation-ja-natural": "昔、男が伊勢の斎宮に内の御使いとして参上していたころ、その宮に色めいたことを言っていた女が、私的な用事で、",
+        "translation-en": "Once upon a time, a man served as an official messenger at the Ise Shrine, and there was a woman who spoke of romantic matters there for personal reasons.",
+        "translation-en-natural": "Once upon a time, when a man was serving as an official court messenger at the Ise Shrine, there was a woman at the shrine who spoke of romantic matters for her own private reasons."
       },
       {
         "date": "20240812",
