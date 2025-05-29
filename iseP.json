@@ -6376,7 +6376,7 @@
     "romaji": "ooyodo no matsu",
     "paragraph": [
       {
-        "date": "20240813",
+        "date": "20240813,20250529",
         "id": 1,
         "text": "むかし、男、伊勢の国なりける女、又、えあはで、隣の国へいくとて、いみじう怨みければ、女、",
         "kana": "むかし、をとこ、いせのくになりけるをんな、また、えあはで、となりのくにへいくとて、いみじううらみければ、をんな、",
@@ -6387,7 +6387,7 @@
         "translation-en-natural": "Once upon a time, a man, unable to see again the woman he loved in Ise Province, was about to leave for the neighboring land and bitterly resented her, so the woman composed a poem."
       },
       {
-        "date": "20240813",
+        "date": "20240813,20250529",
         "id": 2,
         "poem": "大淀の/松はつらくも/あらなくに/うらみてのみも/かへる波かな",
         "kana": "おほよとの/まつはつらくも/あらなくに/うらみてのみも/かへるなみかな",
@@ -6405,22 +6405,26 @@
     "romaji": "tsuki no uchi no katsura",
     "paragraph": [
       {
-        "date": "20240814",
+        "date": "20240814,20250529",
         "id": 1,
         "text": "むかし、そこにはありと聞けど、せうそこをだにいふべくもあらぬ女のあたりを思ひける。",
         "kana": "むかし、そこにはありときけど、せうそこをだにいふべくもあらぬをんなのあたりをおもひける。",
         "honkoku": "昔そこにはありときけとせうそこをたに/いふへくもあらぬ女のあたりを思ひける",
-        "translation-ja": "昔、そこにいると聞いたが、便りさえもできない女のことを思い、男がこのように詠んだ。",
-        "translation-en": "Once up on a time, a man heard that she was there, thinking of a woman who cannot even send a message, and sang this poem."
+        "translation-ja": "昔、そこにいると聞いたが、便りさえもできない女のことを思っていた。",
+        "translation-ja-natural": "昔、そこにいると聞いたが、便りさえもできない女のことを思い続けていた。",
+        "translation-en": "Once upon a time, a man heard that she was there, but was thinking of a woman who could not even send a message.",
+        "translation-en-natural": "Once upon a time, a man heard she was there, but he kept thinking of the woman, unable even to send a message."
       },
       {
-        "date": "20240814",
+        "date": "20240814,20250529",
         "id": 2,
         "poem": "目には見て/手にはとられぬ/月のうちの/桂の如き/君にぞありける",
         "kana": "めにはみて/てにはとられぬ/つきのうちの/かつらのごとき/きみにそありける",
         "honkoku": "めには見て手にはとられぬ月のうちの/かつらのことき君にそありける/s83l",
         "translation-ja": "目には見て手には取れない月の中の桂のようなあなたでいらっしゃいますね。",
-        "translation-en": "You are like the katsura tree in the moon, visible to the eyes but unattainable to the hands."
+        "translation-ja-natural": "目には見えるのに手には取れない、月の中の桂のようなあなたなのですね。",
+        "translation-en": "You are like the katsura tree in the moon, visible to the eyes but unattainable to the hands.",
+        "translation-en-natural": "You are like the katsura tree in the moon, visible to my eyes but forever beyond my reach."
       }
     ]
   },
