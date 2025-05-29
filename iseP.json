@@ -6341,8 +6341,10 @@
         "poem": "ちはやぶる/神のいがきも/越えぬべし/大宮人の/見まくほしさに",
         "kana": "ちはやぶる/かみのいがきも/こえぬべし/おほみやひとの/みまくほしさに",
         "honkoku": "ちはやふる神のいかきもこえぬへし/おほみや人の見まくほしさに",
-        "translation-ja": "宮廷の垣根も越えてしまいそうです。宮廷のあなたにお会いしたくて。",
-        "translation-en": "I feel as if I might even surpass the court's barriers, just to meet you, the courtier."
+        "translation-ja": "神の垣根さえ越えてしまいそうです。宮廷の人に会いたくて。",
+        "translation-ja-natural": "神の垣根さえ越えてしまいそうだ。宮中の人に会いたくて。",
+        "translation-en": "I might even cross the sacred barriers, just to see the court person.",
+        "translation-en-natural": "I feel as if I might even cross sacred barriers, just from the desire to see the court person."
       },
       {
         "date": "20240812",
@@ -6351,7 +6353,9 @@
         "kana": "をとこ、",
         "honkoku": "おとこ、",
         "translation-ja": "男は、",
-        "translation-en": "The man replied,"
+        "translation-ja-natural": "男は、",
+        "translation-en": "The man replied,",
+        "translation-en-natural": "The man replied,"
       },
       {
         "date": "20240812",
@@ -6359,8 +6363,10 @@
         "poem": "恋しくは/来ても見よかし/ちはやぶる/神のいさなむ/道ならなくに",
         "kana": "こいしくは/きてもみよかし/ちはやぶる/かみのいさなむ/みちならなくに",
         "honkoku": "恋しくはきても見よかしちはやふる/神のいさむるみちならなくに/s82l",
-        "translation-ja": "恋しいなら、来て逢ってください。神が守っている道ではありませんから。",
-        "translation-en": "If you miss me, please come and meet me, for this is not a path guarded by the gods."
+        "translation-ja": "恋しいなら、来て逢ってください。神が妨げる道ではないのだから。",
+        "translation-ja-natural": "もし恋しいなら、どうぞ来て逢ってください。神様が妨げるような道ではないのだから。",
+        "translation-en": "If you long for me, come and see me, for this is not a path the gods forbid.",
+        "translation-en-natural": "If you long for me, please come and meet me—this is no path that the gods forbid."
       }
     ]
   },
