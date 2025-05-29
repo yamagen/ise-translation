@@ -6463,85 +6463,103 @@
     "romaji": "miru",
     "paragraph": [
       {
-        "date": "20240814",
+        "date": "20240814,20250529",
         "id": 1,
         "text": "むかし、男、「伊勢の国に率ていきてあらむ」といひければ、女、",
         "kana": "むかし、をとこ、「いせのくににそ率ていきてあらむ」といひければ、をんな、",
         "honkoku": "むかしおとこいせのくににゐていきて/あらんといひけれは女/",
-        "translation-ja": "昔、男が、「伊勢の国にあなたを連れて行って、そこに住もう」と言ったので、女が、",
-        "translation-en": "Once upon a time, a man said, \"I will take you to Ise Province and live there,\" and a woman ..."
+        "translation-ja": "昔、男が、「伊勢の国に連れて行って一緒にいよう」と言ったので、女が、",
+        "translation-ja-natural": "昔、男が、「伊勢の国に連れて行って一緒に暮らそう」と言ったので、女が、",
+        "translation-en": "Once upon a time, a man said, \"I will take you to Ise Province and stay with you there,\" and the woman ...",
+        "translation-en-natural": "Once upon a time, a man said, \"I will take you to Ise Province and live with you there,\" and the woman ..."
       },
       {
-        "date": "20240814",
+        "date": "20240814,20250529",
         "id": 2,
         "poem": "大淀の/浜に生ふてふ/みるからに/心はなぎぬ/かたらはねども",
         "kana": "おほよとの/はまにおふてふ/みるからに/こころはなぎぬ/かたらはねども",
         "honkoku": "おほよとの浜におふてふ見るからに/こころはなきぬかたらはねとも/",
-        "translation-ja": "大淀の浜に生えるという海松布のように、見るだけで心が穏やかになります。何も語りませんが。",
-        "translation-en": "Like the seaweed said to grow on the shores of Oyodo, just seeing it calms my heart, even though we exchange no words."
+        "translation-ja": "大淀の浜に生えるという海松布のように、見るだけで心が穏やかになります。語りはしませんが。",
+        "translation-ja-natural": "大淀の浜に生えるという海松布のように、ただ見るだけで心は穏やかになるのです。たとえ言葉を交わさなくても。",
+        "translation-en": "Like the seaweed said to grow on the shores of Oyodo, just seeing it calms my heart, even though we do not speak.",
+        "translation-en-natural": "Like the seaweed said to grow on the shores of Oyodo, just seeing it calms my heart, even though we exchange no words."
       },
       {
-        "date": "20240814",
+        "date": "20240814,20250529",
         "id": 3,
         "text": "といひて、ましてつれなかりければ、男、",
         "kana": "といひて、ましてつれなかりければ、をとこ、",
         "honkoku": "といひてましてつれなかりけれはおとこ/",
         "translation-ja": "と言って、さらに冷淡であったので、男が、",
-        "translation-en": "and she sang it, and since she was even more indifferent, the man ..."
+        "translation-ja-natural": "そう言って、彼女がさらに冷たくしたので、男は、",
+        "translation-en": "And saying that, since she was even more indifferent, the man ...",
+        "translation-en-natural": "And after saying that, since she became even more indifferent, the man ..."
       },
       {
-        "date": "20240814",
+        "date": "20240814,20250529",
         "id": 4,
         "poem": "袖ぬれて/あまの刈りほす/わたつ海の/みるを逢ふにて/やまんとやする",
         "kana": "そてぬれて/あまのかりほす/わたつうみの/みるをあふにて/やまんとやする",
         "honkoku": "袖ぬれてあまのかりほすわたつ海の/s84r/みるをあふにてやまんとやする/",
-        "translation-ja": "袖を濡らして、海女が刈り取った海藻を干す、広い海で、あなたに会うことで私の恋心が終わるのでしょうか。",
-        "translation-en": "My sleeves wet as the fisherwomen harvest and dry seaweed by the vast sea, will my longing end simply by meeting you?"
+        "translation-ja": "袖を濡らして、海女が刈り取って干す広い海の海藻のように、あなたに会うことで終わるのでしょうか。",
+        "translation-ja-natural": "袖を濡らしながら、海女が海藻を刈り干すように、あなたに会えば、この恋は終わるのでしょうか。",
+        "translation-en": "With sleeves wet, like the fisherwomen who harvest and dry seaweed in the vast sea, will my longing end simply by meeting you?",
+        "translation-en-natural": "With my sleeves wet like the fisherwomen who harvest and dry seaweed in the wide sea, will my longing truly end just by meeting you?"
       },
       {
-        "date": "20240814",
+        "date": "20240814,20250529",
         "id": 5,
         "text": "女、",
         "kana": "をんな、",
         "honkoku": "女/",
         "translation-ja": "女は、",
-        "translation-en": "she sang, ..."
+        "translation-ja-natural": "と詠んだが、女は、",
+        "translation-en": "she sang, ...",
+        "translation-en-natural": "she sang, ..."
       },
       {
-        "date": "20240814",
+        "date": "20240814,20250529",
         "id": 6,
         "poem": "岩間より/生ふるみるめし/つれなくは/しほ干しほ満ちかひもありなむ",
         "kana": "いはまより/おふるみるめし/つれなくは/しほひしほみちかひもありなむ",
         "honkoku": "岩まよりおふるみるめしつれなくは/しほひしほみちかひもありなむ/",
-        "translation-ja": "岩間から生えている海松布は、冷淡なもので、潮干潮満ちも甲斐のあるでしょう。",
-        "translation-en": "The seaweed growing between the rocks, if it is indifferent, then the ebbing and flowing of the tides would have some meaning."
+        "translation-ja": "岩間から生えている海松布が冷淡であるなら、潮が引いたり満ちたりすることにも甲斐があるだろう。",
+        "translation-ja-natural": "岩の間から生えている海松布がもし冷たく素っ気ないのなら、潮が引いたり満ちたりすることにも何かしらの甲斐があるのでしょう。",
+        "translation-en": "The seaweed growing between the rocks, if it is indifferent, then the ebbing and flowing of the tides would have some effect or meaning.",
+        "translation-en-natural": "If the seaweed growing between the rocks is indeed indifferent, then surely the ebbing and flowing tides must have some meaning or effect."
       },
       {
-        "date": "20240814",
+        "date": "20240814,20250529",
         "id": 7,
         "text": "また男、",
         "kana": "またをとこ、",
         "honkoku": "又おとこ/",
         "translation-ja": "また、男が、",
-        "translation-en": "Again, he sang, ..."
+        "translation-ja-natural": "また、男が、",
+        "translation-en": "Again, he sang, ...",
+        "translation-en-natural": "Again, he sang, ..."
       },
       {
-        "date": "20240814",
+        "date": "20240814,20250529",
         "id": 8,
         "poem": "涙にぞ/ぬれつゝしぼる/世の人の/つらき心は/袖のしづくか",
         "kana": "なみたにぞ/ぬれつつしぼる/よのひとの/つらきこころは/そてのしづくか",
         "honkoku": "なみたにそぬれつつしほる世の人の/つらき心はそてのしつくか",
-        "translation-ja": "涙で濡らしながら絞る、この世の人々の冷たい心は、まるで袖のしずくのようです。",
-        "translation-en": "Wringing out the tears, the cold hearts of the people in this world are just like the drops from my sleeves."
+        "translation-ja": "涙でこそ濡らしつつ絞る、この世の人の冷たい心は、袖のしずくなのだろうか。",
+        "translation-ja-natural": "涙で濡らしながら絞る袖、そのしずくのように、世の人々の冷たい心もただのしずくなのでしょうか。",
+        "translation-en": "Indeed, I wring out my sleeves wet with tears—could it be that the cold hearts of people in this world are just like the drops from my sleeves?",
+        "translation-en-natural": "As I wring out my sleeves soaked with tears, I wonder—are the cold hearts of people in this world nothing more than drops falling from my sleeves?"
       },
       {
-        "date": "20240814",
+        "date": "20240814,20250529",
         "id": 9,
         "text": "世にあふことかたき女になむ。",
         "kana": "よにあふことかたきをんなになむ。",
         "honkoku": "/世にあふ事かたき女になん/s84l",
-        "translation-ja": "世に生きることが難しい女性です。",
-        "translation-en": "She is a woman for whom living in this world is difficult."
+        "translation-ja": "世に逢う（生きる）ことが難しい女なのです。",
+        "translation-ja-natural": "この世で生き抜くのが難しい女なのです。",
+        "translation-en": "She is a woman for whom it is hard to live (endure) in this world.",
+        "translation-en-natural": "She is a woman for whom surviving in this world is truly difficult."
       }
     ]
   },
