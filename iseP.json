@@ -6336,7 +6336,7 @@
         "translation-en-natural": "Once upon a time, when a man was serving as an official court messenger at the Ise Shrine, there was a woman at the shrine who spoke of romantic matters for her own private reasons."
       },
       {
-        "date": "20240812",
+        "date": "20240812,20250529",
         "id": 2,
         "poem": "ちはやぶる/神のいがきも/越えぬべし/大宮人の/見まくほしさに",
         "kana": "ちはやぶる/かみのいがきも/こえぬべし/おほみやひとの/みまくほしさに",
@@ -6347,7 +6347,7 @@
         "translation-en-natural": "I feel as if I might even cross sacred barriers, just from the desire to see the court person."
       },
       {
-        "date": "20240812",
+        "date": "20240812,20250529",
         "id": 3,
         "text": "男、",
         "kana": "をとこ、",
@@ -6358,7 +6358,7 @@
         "translation-en-natural": "The man replied,"
       },
       {
-        "date": "20240812",
+        "date": "20240812,20250529",
         "id": 4,
         "poem": "恋しくは/来ても見よかし/ちはやぶる/神のいさなむ/道ならなくに",
         "kana": "こいしくは/きてもみよかし/ちはやぶる/かみのいさなむ/みちならなくに",
@@ -6381,8 +6381,10 @@
         "text": "むかし、男、伊勢の国なりける女、又、えあはで、隣の国へいくとて、いみじう怨みければ、女、",
         "kana": "むかし、をとこ、いせのくになりけるをんな、また、えあはで、となりのくにへいくとて、いみじううらみければ、をんな、",
         "honkoku": "昔おとこいせのくになりける女又えあ/はてとなりのくにへいくとていみしう/うらみけれは女",
-        "translation-ja": "昔、男が、伊勢の国にいた女に、また逢えないまま、隣の国へ行くというので、ひどく恨めしくしているので、女が、",
-        "translation-en": "Once upon a time, a man could not again meet a woman who lived in Ise Province, and heard that she was going to the neighboring country, so he could not bear. Then the woman sang ..,"
+        "translation-ja": "昔、男が、伊勢の国にいた女に、再び逢うことができず、隣の国へ行くというので、ひどく女を恨んだので、女が、",
+        "translation-ja-natural": "昔、男が伊勢の国の女に、もう一度逢えないまま隣の国へ行くことになり、ひどく女を恨んだので、女が歌を詠んだ。",
+        "translation-en": "Once upon a time, a man could not again meet a woman who lived in Ise Province, and as he was going to the neighboring country, he deeply resented the woman, so the woman composed a poem.",
+        "translation-en-natural": "Once upon a time, a man, unable to see again the woman he loved in Ise Province, was about to leave for the neighboring land and bitterly resented her, so the woman composed a poem."
       },
       {
         "date": "20240813",
@@ -6390,8 +6392,10 @@
         "poem": "大淀の/松はつらくも/あらなくに/うらみてのみも/かへる波かな",
         "kana": "おほよとの/まつはつらくも/あらなくに/うらみてのみも/かへるなみかな",
         "honkoku": "おほよとの松はつらくもあらなくに/うらみてのみもかへるなみかな/s83l",
-        "translation-ja": "大淀の松が辛いものではないのに、ただ恨みだけが波のように変わっていきますよ。",
-        "translation-en": "The pines of Ooyodo are not sorrowful, yet it is only my resentment that changes like the returning waves."
+        "translation-ja": "大淀の松は辛いわけではないのに、ただ恨んでばかりいて、返ってくる波のようだ。",
+        "translation-ja-natural": "大淀の松は辛いものではないのに、ただ恨んでばかりいて、それが返ってくる波のようだなあ。",
+        "translation-en": "The pines of Ooyodo are not sorrowful, yet it is only my resentment that keeps returning like the waves.",
+        "translation-en-natural": "The pines of Ooyodo are not sorrowful, yet only my resentment keeps coming back, like the returning waves."
       }
     ]
   },
