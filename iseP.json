@@ -6569,13 +6569,15 @@
     "romaji": "oshio no yama",
     "paragraph": [
       {
-        "date": "20240814",
+        "date": "20240814,20250530",
         "id": 1,
         "text": "むかし、二条の后の、まだ春宮の御息所と申しける時、氏神にまうで給ひけるに、近衛府にさぶらひける翁、人々の禄たまはるついでに、御車より給はりて、よみて奉りける。",
         "kana": "むかし、にじょうのきさきの、まだとうぐうのみやすんどころともうしけるとき、うじがみにまうでたまひけるに、このゑづかさにさぶらひけるおきな、ひとびとのろくたまはるついでに、おくるまよりたまはりて、よみてたてまつりける。",
         "honkoku": "むかし二条のきさきのまた春宮のみやす/s84l/む所と申けるとき氏神にまうて給ける/にこの衛つかさにさふらひけるおきな/人々のろくたまはるついてに御車より/たまはりてよみてたてまつりける/",
         "translation-ja": "昔、二条の后が、まだ春宮の御息所と呼ばれていた時に、氏神にお参りなさった際、近衛府に仕えていた翁が、人々が禄をいただくついでに、御車からいただいて、和歌を詠んで差し上げた。",
-        "translation-en": "Once upon a time, when the Empress of Nijo was still referred to as the consort of the Crown Prince, she visited the tutelary shrine. An old man serving in the Imperial Guard, following others who received gifts, was given something from her carriage and composed a poem to present to her."
+        "translation-ja-natural": "昔、二条の后が、まだ皇太子の御息所と呼ばれていた頃、氏神にお参りなさったときのことです。近衛府に仕えていた老臣が、周りの人々が褒美をいただくついでに、御車から自分も賜り、それに和歌を詠んで差し上げました。",
+        "translation-en": "Once upon a time, when the Empress of Nijo was still referred to as the consort of the Crown Prince, she visited the tutelary shrine. An old man serving in the Imperial Guard, following others who received gifts, was given something from her carriage and composed a poem to present to her.",
+        "translation-en-natural": "Long ago, when the Empress of Nijo was still known as the consort of the Crown Prince, she visited the local shrine. An old retainer from the Imperial Guard, following others who received gifts, received a token from her carriage and composed a poem to present to her."
       },
       {
         "date": "20240814",
