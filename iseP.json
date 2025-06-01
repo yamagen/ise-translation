@@ -24194,103 +24194,1274 @@
     "romaji": "yamashina no miya",
     "paragraph": [
       {
-        "date": "20240817",
+        "date": "20240817,20250601",
         "id": 1,
         "text": "むかし、多賀幾子と申す女御おはしましけり。",
         "kana": "むかし、たかきこともうすにょうごおはしましけり。",
         "honkoku": "むかしたかきこと申す女御おはしま/しけり",
-        "translation-ja": "昔、多賀幾子という女御がいらっしゃいました。",
-        "translation-en": "Once upon a time, there was a consort named Taga Kiko."
+        "translation-ja": "昔、多賀幾子という女御がいらっしゃった。",
+        "translation-en": "Once upon a time, there was a consort named Taga Kiko.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし",
+            "gloss": "once.upon.a.time",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once.upon.a.time"
+              }
+            ]
+          },
+          {
+            "phrase": "多賀幾子と申す",
+            "gloss": "Taga.Kiko.PN QUOT say",
+            "words": [
+              {
+                "word": "多賀幾子",
+                "gloss": "Taga.Kiko.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "申す",
+                "gloss": "say"
+              }
+            ]
+          },
+          {
+            "phrase": "女御おはしましけり",
+            "gloss": "consort exist.HON.PST.REP",
+            "words": [
+              {
+                "word": "女御",
+                "gloss": "consort"
+              },
+              {
+                "word": "おはしまし",
+                "gloss": "exist.HON.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "女御",
+            "note": "「女御」は天皇の妻の位のひとつで、上位の女官。"
+          },
+          {
+            "title": "おはしまし",
+            "note": "「おはしまし」は尊敬表現で、高貴な人物の存在や動作を示す。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "nyogo",
+            "note": "'Nyogo' refers to one of the high-ranking consorts or wives of the emperor."
+          },
+          {
+            "title": "ohshimashi",
+            "note": "'Ohashimashi' is an honorific verb indicating the presence or actions of a noble person."
+          }
+        ],
+        "glossary-abbreviations": {
+          "PN": "proper noun（固有名詞）",
+          "QUOT": "quotative（引用）",
+          "HON": "honorific（尊敬）",
+          "ADV.F": "adverbial form（連用形）",
+          "PST.REP": "past reported（過去伝聞）"
+        },
+        "translation-ja-natural": "昔、多賀幾子という女御がいらっしゃった。",
+        "translation-en-natural": "Once upon a time, there was a consort named Taga Kiko."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250601",
         "id": 2,
         "text": "失せ給ひて、なゝ七日のみわざ安祥寺にてしけり。",
         "kana": "うせ給ひて、なななのかのみわざあんじやうじにてしけり。",
         "honkoku": "うせ給てなななぬかのみわさ/安祥寺にてしけり",
-        "translation-ja": "その後、亡くなり、四十九日の法要が安祥寺で行われました。",
-        "translation-en": "Afterwards, they passed away, and the 49th-day memorial service was held at Anshoji Temple."
+        "translation-ja": "失せ給うて、七七日の法要を安祥寺で行った。",
+        "translation-en": "They passed away, and the 49th-day memorial service was held at Anshoji Temple.",
+        "phrase-gloss": [
+          {
+            "phrase": "失せ給ひて",
+            "gloss": "pass.away.HON.ADV.F CONJ",
+            "words": [
+              {
+                "word": "失せ",
+                "gloss": "pass.away.ADV.F"
+              },
+              {
+                "word": "給ひ",
+                "gloss": "HON.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "なゝ七日のみわざ",
+            "gloss": "seven.sevens.day-GEN ceremony",
+            "words": [
+              {
+                "word": "なゝ七日",
+                "gloss": "seven.sevens.day"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "みわざ",
+                "gloss": "ceremony"
+              }
+            ]
+          },
+          {
+            "phrase": "安祥寺にてしけり",
+            "gloss": "Anshoji.PN-LOC do.PST.REP",
+            "words": [
+              {
+                "word": "安祥寺",
+                "gloss": "Anshoji.PN"
+              },
+              {
+                "word": "にて",
+                "gloss": "LOC"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "なゝ七日",
+            "note": "「なゝ七日」は四十九日を指し、仏教における忌明けの重要な法要日。"
+          },
+          {
+            "title": "安祥寺",
+            "note": "「安祥寺」は当時の著名な寺院のひとつで、法要の場として登場する。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "nanananoka",
+            "note": "'Nanananoka' refers to the 49th day after death, a key Buddhist memorial day marking the end of the mourning period."
+          },
+          {
+            "title": "Anshoji",
+            "note": "'Anshoji' is a prominent temple historically known for holding memorial ceremonies."
+          }
+        ],
+        "glossary-abbreviations": {
+          "HON": "honorific（尊敬）",
+          "ADV.F": "adverbial form（連用形）",
+          "CONJ": "conjunctive（接続）",
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "PN": "proper noun（固有名詞）",
+          "PST.REP": "past reported（過去伝聞）"
+        },
+        "translation-ja-natural": "失せ給うて、四十九日の法要を安祥寺で行った。",
+        "translation-en-natural": "They passed away, and the 49th-day memorial service was held at Anshoji Temple."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250601",
         "id": 3,
         "text": "右大将藤原常行といふ人いまそかりけり。",
         "kana": "みぎのうだいしやうふじわらのつねゆきといふひといまそかりけり。",
         "honkoku": "右大将ふちはらの/つねゆきといふ人いまそかりけり",
-        "translation-ja": "右大将藤原常行という方がいらっしゃいました。",
-        "translation-en": "There was a person named Fujiwara no Tsuneyuki, who was the Captain of the Right Guards."
+        "translation-ja": "右大将藤原常行という人がいらっしゃった。",
+        "translation-en": "There was a person named Fujiwara no Tsuneyuki, who was the Captain of the Right Guards.",
+        "phrase-gloss": [
+          {
+            "phrase": "右大将藤原常行といふ",
+            "gloss": "Captain.of.Right Fujiwara.Tsuneyuki.PN QUOT say",
+            "words": [
+              {
+                "word": "右大将",
+                "gloss": "Captain.of.Right"
+              },
+              {
+                "word": "藤原常行",
+                "gloss": "Fujiwara.Tsuneyuki.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "人いまそかりけり",
+            "gloss": "person exist.HON.ADV.F PST.REP",
+            "words": [
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "いまそかり",
+                "gloss": "exist.HON.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "右大将",
+            "note": "「右大将」は近衛府の長官、右近衛大将を指し、高官の位である。"
+          },
+          {
+            "title": "いまそかり",
+            "note": "「いまそかり」は尊敬の存在表現で、高貴な人物がいることを示す。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "udaisho",
+            "note": "'Udaisho' refers to the Captain of the Right Guards, a prestigious court position."
+          },
+          {
+            "title": "imasokari",
+            "note": "'Imasokari' is an honorific verb meaning 'to be present,' used for noble persons."
+          }
+        ],
+        "glossary-abbreviations": {
+          "ATTR": "attributive（連体形）",
+          "PN": "proper noun（固有名詞）",
+          "QUOT": "quotative（引用）",
+          "HON": "honorific（尊敬）",
+          "ADV.F": "adverbial form（連用形）",
+          "PST.REP": "past reported（過去伝聞）"
+        },
+        "translation-ja-natural": "右大将藤原常行という方がいらっしゃった。",
+        "translation-en-natural": "There was a person named Fujiwara no Tsuneyuki, who was the Captain of the Right Guards."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250601",
         "id": 4,
         "text": "そのみわざにまうで給ひてかへさに、山科の禅師の親王おはします、その山科の宮に、滝落し、水走らせなどして、おもしろく造られたるに、まうで給うて、",
         "kana": "そのみわざにまうでたまひてかへさに、やましなのせんじのみこおはします、そのやましなのみやに、たきおとし、みづはしらせなどして、おもしろくつくられたるに、まうでたまうて、",
         "honkoku": "そのみ/わさにまうて給ひてかへさに山しなの/せむしのみこおはしますそのやましな/の宮にたきおとし水はしらせなとして/おもしろくつくられたるにまうて給うて/s86l/",
-        "translation-ja": "その法要に参詣して帰る途中、山科の禅師の親王がおいでになり、山科の宮に、滝を落とし、水を走らせるなどして、おもしろく造られたところに参詣して、",
-        "translation-en": "On the way back from attending the memorial service, Prince Zenji of Yamashina came along and visited the Yamashina Palace, where he enjoyed the beautifully constructed features, such as the waterfall and flowing water."
+        "translation-ja": "その法要に参詣し、帰る途中で、山科の禅師の親王がおいでになり、その山科の宮に、滝を落とし、水を走らせるなどして、おもしろく造られたところに参詣し、",
+        "translation-en": "After attending the memorial service, on the way back, Prince Zenji of Yamashina came along and visited the Yamashina Palace, which had been beautifully constructed with features like waterfalls and flowing water.",
+        "phrase-gloss": [
+          {
+            "phrase": "そのみわざにまうで給ひてかへさに",
+            "gloss": "that ceremony-LOC visit.HON.ADV.F CONJ return.on.way",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "みわざ",
+                "gloss": "ceremony"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "まうで",
+                "gloss": "visit.HON.ADV.F"
+              },
+              {
+                "word": "給ひ",
+                "gloss": "HON.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "かへさ",
+                "gloss": "return.on.way"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "山科の禅師の親王おはします",
+            "gloss": "Yamashina.GEN Zenji.GEN prince.PN exist.HON",
+            "words": [
+              {
+                "word": "山科",
+                "gloss": "Yamashina.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "禅師",
+                "gloss": "Zenji"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "親王",
+                "gloss": "prince.PN"
+              },
+              {
+                "word": "おはします",
+                "gloss": "exist.HON"
+              }
+            ]
+          },
+          {
+            "phrase": "その山科の宮に",
+            "gloss": "that Yamashina.GEN palace-LOC",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "山科",
+                "gloss": "Yamashina.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "宮",
+                "gloss": "palace"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "滝落し、水走らせなどして",
+            "gloss": "waterfall let.fall water let.flow etc. do.ADV.F",
+            "words": [
+              {
+                "word": "滝落し",
+                "gloss": "waterfall.let.fall.ADV.F"
+              },
+              {
+                "word": "水",
+                "gloss": "water"
+              },
+              {
+                "word": "走ら",
+                "gloss": "flow.NEG.BASE"
+              },
+              {
+                "word": "せ",
+                "gloss": "CAUS.ADV.F"
+              },
+              {
+                "word": "など",
+                "gloss": "etc."
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "おもしろく造られたるにまうで給うて",
+            "gloss": "beautifully construct.PASS.PERF.ATTR-LOC visit.HON.ADV.F CONJ",
+            "words": [
+              {
+                "word": "おもしろく",
+                "gloss": "beautifully.ADV.F"
+              },
+              {
+                "word": "造ら",
+                "gloss": "construct.NEG.BASE"
+              },
+              {
+                "word": "れ",
+                "gloss": "PASS.ADV.F"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "まうで",
+                "gloss": "visit.HON.ADV.F"
+              },
+              {
+                "word": "給う",
+                "gloss": "HON"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "禅師の親王",
+            "note": "「禅師の親王」は僧職を持つ皇族の尊称で、高僧でありつつ皇族の地位を持つ人物を指す。"
+          },
+          {
+            "title": "まうで給ふ",
+            "note": "「まうで給ふ」は参詣・参上することを表す尊敬表現。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "zenji no shinnō",
+            "note": "'Zenji no shinnō' refers to a prince who holds both royal and monastic rank, a highly respected figure."
+          },
+          {
+            "title": "maude tamau",
+            "note": "'Maude tamau' is an honorific expression meaning to visit or attend (especially a shrine or temple)."
+          }
+        ],
+        "glossary-abbreviations": {
+          "CAUS": "causative（使役）",
+          "PASS.PERF.ATTR": "passive perfect attributive（受身完了連体形）",
+          "NEG.BASE": "negative base（否定基本形）",
+          "PN": "proper noun（固有名詞）",
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "HON": "honorific（尊敬）",
+          "ADV.F": "adverbial form（連用形）",
+          "CONJ": "conjunctive（接続）",
+          "PASS": "passive（受身）",
+          "PERF": "perfect（完了）",
+          "ATTR": "attributive（連体形）"
+        },
+        "translation-ja-natural": "その法要に参詣し、帰る途中で、山科の禅師の親王がおいでになり、その山科の宮に、滝を落とし、水を走らせるなどして、美しく造られた場所に参詣した。",
+        "translation-en-natural": "After attending the memorial service, on the way back, Prince Zenji of Yamashina visited the Yamashina Palace, which had been beautifully constructed with features like waterfalls and flowing water."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 5,
         "text": "「年ごろよそにはつかうまつれど、近くはいまだつかう間つらず。",
         "kana": "「としごろよそにはつかうまつれど、ちかくはいまだつかうまつらず。",
         "honkoku": "年ころよそにはつかうまつれとちか/くはいまたつかうまつらす",
-        "translation-ja": "「長年、遠方で仕えておりますが、近くで仕えているわけではありません。",
-        "translation-en": "I have served from afar for many years, but I have not yet served nearby."
+        "translation-ja": "長年、遠方では仕えてきたが、近くではまだお仕えしていない。",
+        "translation-en": "I have served from afar for many years, but I have not yet had the chance to serve nearby.",
+        "phrase-gloss": [
+          {
+            "phrase": "年ごろよそにはつかうまつれど",
+            "gloss": "years afar-LOC serve.HON.REALIS.F although",
+            "words": [
+              {
+                "word": "年ごろ",
+                "gloss": "years"
+              },
+              {
+                "word": "よそ",
+                "gloss": "afar"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "つかうまつれ",
+                "gloss": "serve.HON.REALIS.F"
+              },
+              {
+                "word": "ど",
+                "gloss": "although"
+              }
+            ]
+          },
+          {
+            "phrase": "近くはいまだつかう間つらず",
+            "gloss": "near-TOP yet serve space-NEG",
+            "words": [
+              {
+                "word": "近く",
+                "gloss": "near"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "いまだ",
+                "gloss": "yet"
+              },
+              {
+                "word": "つかう",
+                "gloss": "serve"
+              },
+              {
+                "word": "間つら",
+                "gloss": "space.NEG.BASE"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "つかうまつる",
+            "note": "「つかうまつる」は仕える、奉仕するを表す謙譲表現。"
+          },
+          {
+            "title": "間つらず",
+            "note": "「間つらず」は『間することがない』、つまり機会や余地がないという意味。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "tsukaumatsuru",
+            "note": "'Tsukaumatsuru' is an honorific-humble verb meaning to serve or attend."
+          },
+          {
+            "title": "machirazu",
+            "note": "'Machirazu' means not having the opportunity or chance to do something."
+          }
+        ],
+        "glossary-abbreviations": {
+          "LOC": "locative（場所格）",
+          "HON": "honorific（尊敬）",
+          "REALIS.F": "realis form（已然形）",
+          "TOP": "topic（主題）",
+          "NEG.BASE": "negative base（否定基本形）",
+          "NEG": "negative（否定）"
+        },
+        "translation-ja-natural": "長年、遠方ではお仕えしてきたが、近くではまだお仕えする機会がなかった。",
+        "translation-en-natural": "I have served from afar for many years, but I have not yet had the opportunity to serve nearby."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 6,
         "text": "こよひはこゝにさぶらはむ」と申し給ふ。",
         "kana": "こよひはここにさぶらはむ」ともうし給ふ。",
         "honkoku": "こよひはここにさふらはんと申たまふ",
-        "translation-ja": "「今宵はここに泊まりましょう」と申し上げました。",
-        "translation-en": "He said, 'Tonight, I will stay here.'"
+        "translation-ja": "今宵はここにお仕えしましょう」と申し上げた。",
+        "translation-en": "He said, 'Tonight, I will humbly stay here.'",
+        "phrase-gloss": [
+          {
+            "phrase": "こよひはこゝにさぶらはむ",
+            "gloss": "tonight-TOP here-LOC serve.HUM.SUP",
+            "words": [
+              {
+                "word": "こよひ",
+                "gloss": "tonight"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "こゝ",
+                "gloss": "here"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "さぶらは",
+                "gloss": "serve.HUM.NEG.BASE"
+              },
+              {
+                "word": "む",
+                "gloss": "SUP"
+              }
+            ]
+          },
+          {
+            "phrase": "と申し給ふ",
+            "gloss": "QUOT say.HUM.HON",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "申し",
+                "gloss": "say.HUM.ADV.F"
+              },
+              {
+                "word": "給ふ",
+                "gloss": "HON"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "さぶらふ",
+            "note": "「さぶらふ」は謙譲語で、貴人のそばに仕える、控える、または単に『おります』の意味を持つ。"
+          },
+          {
+            "title": "む",
+            "note": "「む」は推量・意志を表す助動詞で、話し手の意志の場合『〜しよう』を意味する。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "saburau",
+            "note": "'Saburau' is a humble verb meaning to serve or be present near a noble person, or simply to stay or be present."
+          },
+          {
+            "title": "mu",
+            "note": "'Mu' is an auxiliary verb expressing volition or supposition, often translated as 'shall' or 'will.'"
+          }
+        ],
+        "glossary-abbreviations": {
+          "NEG.BASE": "negative base（否定基本形）",
+          "TOP": "topic（主題）",
+          "LOC": "locative（場所格）",
+          "HUM": "humble（謙譲）",
+          "SUP": "supposition（推量）",
+          "QUOT": "quotative（引用）",
+          "ADV.F": "adverbial form（連用形）",
+          "HON": "honorific（尊敬）"
+        },
+        "translation-ja-natural": "今宵はここにお仕えしましょう」と申し上げた。",
+        "translation-en-natural": "He said, 'Tonight, I shall stay here humbly.'"
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 7,
         "text": "親王よろこび給うて、夜のおましの設けさせ給ふ。",
         "kana": "みこよろこびたまうて、よるのおましのもうけさせたまふ。",
         "honkoku": "みこよろ/こひ給ふてよるのおましのまうけをさ/せたまふ",
-        "translation-ja": "親王はお喜びになり、夜のお座席を設けさせなさった。",
-        "translation-en": "The prince was pleased and had a night banquet arranged."
+        "translation-ja": "親王はお喜びになり、夜のお席を設けさせなさった。",
+        "translation-en": "The prince was pleased and had the night’s seat arranged.",
+        "phrase-gloss": [
+          {
+            "phrase": "親王よろこび給うて",
+            "gloss": "prince.PN rejoice.HON.ADV.F CONJ",
+            "words": [
+              {
+                "word": "親王",
+                "gloss": "prince.PN"
+              },
+              {
+                "word": "よろこび",
+                "gloss": "rejoice.ADV.F"
+              },
+              {
+                "word": "給う",
+                "gloss": "HON.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "夜のおましの設けさせ給ふ",
+            "gloss": "night-GEN seat-GEN arrange.CAUS.HON",
+            "words": [
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "おまし",
+                "gloss": "seat"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "設け",
+                "gloss": "arrange.ADV.F"
+              },
+              {
+                "word": "させ",
+                "gloss": "CAUS.ADV.F"
+              },
+              {
+                "word": "給ふ",
+                "gloss": "HON"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "おまし",
+            "note": "「おまし」はお座席、特に貴人の座る場所を丁寧に表す語。"
+          },
+          {
+            "title": "設けさせ給ふ",
+            "note": "「設けさせ給ふ」は『設けさせなさる』の意で、使役と尊敬の複合表現。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "omashi",
+            "note": "'Omashi' refers to the seat or place, especially when referring politely to a noble's seat."
+          },
+          {
+            "title": "mōke sase tamau",
+            "note": "'Mōke sase tamau' is a combined causative-honorific expression meaning 'to have something arranged or set up.'"
+          }
+        ],
+        "glossary-abbreviations": {
+          "PN": "proper noun（固有名詞）",
+          "ADV.F": "adverbial form（連用形）",
+          "CONJ": "conjunctive（接続）",
+          "GEN": "genitive（属格）",
+          "CAUS": "causative（使役）",
+          "HON": "honorific（尊敬）"
+        },
+        "translation-ja-natural": "親王はお喜びになり、夜のお席を設けさせなさった。",
+        "translation-en-natural": "The prince was pleased and had the night’s seat arranged."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 8,
         "text": "さるに、かの大将出でてたばかり給ふやう、",
         "kana": "さるに、かのおおしやういててたはかりたまふやう、",
         "honkoku": "さるにかの大将いててたは/かり給ふやう",
-        "translation-ja": "すると、あの大将が出てきて、計画をお立てになるようにと、",
-        "translation-en": "And so, the general came out and devised a plan."
+        "translation-ja": "すると、あの大将が出てきて、策をお立てになるように、",
+        "translation-en": "And so, the general came out and devised a plan.",
+        "phrase-gloss": [
+          {
+            "phrase": "さるに",
+            "gloss": "thus-CONJ",
+            "words": [
+              {
+                "word": "さる",
+                "gloss": "thus"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "かの大将出でて",
+            "gloss": "that general.PN come.out.ADV.F CONJ",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that"
+              },
+              {
+                "word": "大将",
+                "gloss": "general"
+              },
+              {
+                "word": "出で",
+                "gloss": "come.out.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "たばかり給ふやう",
+            "gloss": "devise.HON.ADV.F appear",
+            "words": [
+              {
+                "word": "たばかり",
+                "gloss": "devise.ADV.F"
+              },
+              {
+                "word": "給ふ",
+                "gloss": "HON"
+              },
+              {
+                "word": "やう",
+                "gloss": "appear"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "たばかる",
+            "note": "「たばかる」は策を練る、計画を立てるの意味。"
+          },
+          {
+            "title": "やう",
+            "note": "「やう」は様子、〜のように、〜のような気配を表す語。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "tabakaru",
+            "note": "'Tabakaru' means to devise, plan, or scheme."
+          },
+          {
+            "title": "yō",
+            "note": "'Yō' means appearance, manner, or as if, indicating resemblance or suggestion."
+          }
+        ],
+        "glossary-abbreviations": {
+          "CONJ": "conjunctive（接続）",
+          "PN": "proper noun（固有名詞）",
+          "ADV.F": "adverbial form（連用形）",
+          "HON": "honorific（尊敬）"
+        },
+        "translation-ja-natural": "すると、あの大将が出てきて、策をお立てになるように、",
+        "translation-en-natural": "And so, the general came out and seemed to devise a plan."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 9,
         "text": "「宮仕への初めに、たゞなほやはあるべき。",
         "kana": "「みやつかへのはじめに、ただなほやはあるへき。",
         "honkoku": "宮つかへのはしめにたた/なをやはあるへき",
-        "translation-ja": "「宮仕えの初めに、ただこれといってすることもなくてよいものか。",
-        "translation-en": "At the beginning of serving at the palace, should there not be something to do?"
+        "translation-ja": "「宮仕えの初めに、ただ何もしないでよいものだろうか。",
+        "translation-en": "At the beginning of serving at the palace, should things simply remain as they are, without doing anything?",
+        "phrase-gloss": [
+          {
+            "phrase": "宮仕への初めに",
+            "gloss": "palace.service-GEN beginning-LOC",
+            "words": [
+              {
+                "word": "宮仕へ",
+                "gloss": "palace.service"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "初め",
+                "gloss": "beginning"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "たゞなほやはあるべき",
+            "gloss": "simply as.is-QUES exist should",
+            "words": [
+              {
+                "word": "たゞ",
+                "gloss": "simply"
+              },
+              {
+                "word": "なほ",
+                "gloss": "as.is"
+              },
+              {
+                "word": "やは",
+                "gloss": "QUES"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist"
+              },
+              {
+                "word": "べき",
+                "gloss": "should"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "たゞなほ",
+            "note": "「たゞなほ」はただそのまま、特別なことをせずに、の意。"
+          },
+          {
+            "title": "やは",
+            "note": "「やは」は反語的疑問を表し、『〜だろうか、いや、そうではない』という含みを持つ。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "tada nao",
+            "note": "'Tada nao' means simply, just as it is, without doing anything special."
+          },
+          {
+            "title": "yaha",
+            "note": "'Yaha' is a rhetorical question particle implying a negative answer, like 'should it be? (surely not)'"
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "QUES": "question particle（疑問）"
+        },
+        "translation-ja-natural": "「宮仕えの初めに、ただ何もしないでよいものだろうか。",
+        "translation-en-natural": "At the beginning of serving at the palace, should one really just do nothing?"
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 10,
         "text": "三条の大行幸せし時、紀の国の千里の浜にありける、いとおもしろき石奉れりき。",
         "kana": "さんじやうのおほみゆきせしとき、きのくにのちさとのはまにありける、いとおもしろきいしたてつまれりき。",
         "honkoku": "三条のおほみゆきせし/時紀のくにの千里のはまにありける/いとおもしろきいしたてまつれりき",
-        "translation-ja": "三条の大行幸があった時、紀の国の千里の浜に、とても趣のある石が献上されました。",
-        "translation-en": "At the time of the grand procession of Sanjo, a very interesting stone was presented at the beach of Senri in the Kii Province."
+        "translation-ja": "三条の大行幸があった時、紀の国の千里の浜にあった、とても趣のある石が献上された。",
+        "translation-en": "At the time of the grand imperial procession of Sanjo, a very interesting stone from the Senri Beach in Kii Province was presented.",
+        "phrase-gloss": [
+          {
+            "phrase": "三条の大行幸せし時",
+            "gloss": "Sanjo.PN-GEN grand.procession do.PST time",
+            "words": [
+              {
+                "word": "三条",
+                "gloss": "Sanjo.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "大行幸",
+                "gloss": "grand.procession"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.ADV.F"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "時",
+                "gloss": "time"
+              }
+            ]
+          },
+          {
+            "phrase": "紀の国の千里の浜にありける",
+            "gloss": "Kii.PN-GEN province-GEN Senri.PN-GEN beach-LOC exist.PST.REP.ATTR",
+            "words": [
+              {
+                "word": "紀",
+                "gloss": "Kii.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "国",
+                "gloss": "province"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "千里の浜",
+                "gloss": "Senri.no.Hama.beach.PN"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV.F"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.REP.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "いとおもしろき石奉れりき",
+            "gloss": "very interesting.ATTR stone present.PERF.PST",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "おもしろき",
+                "gloss": "interesting.ATTR"
+              },
+              {
+                "word": "石",
+                "gloss": "stone"
+              },
+              {
+                "word": "奉れ",
+                "gloss": "present.HON.ADV.F"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              },
+              {
+                "word": "き",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "大行幸",
+            "note": "「大行幸」は天皇の大規模な外出・巡幸を指す。"
+          },
+          {
+            "title": "奉れりき",
+            "note": "「奉れりき」は「奉る」の完了過去形で、献上した、差し上げたの意。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "daigyōkō",
+            "note": "'Daigyōkō' refers to a grand imperial procession or official outing of the emperor."
+          },
+          {
+            "title": "tatematsure riki",
+            "note": "'Tatematsure riki' is the perfect past form of 'tatematsuru,' meaning to present or offer respectfully."
+          }
+        ],
+        "glossary-abbreviations": {
+          "PN": "proper noun（固有名詞）",
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "PST": "past（過去）",
+          "PST.REP": "past reported（過去伝聞）",
+          "ATTR": "attributive（連体形）",
+          "ADV.F": "adverbial form（連用形）",
+          "PERF": "perfect（完了）",
+          "HON": "honorific（尊敬）"
+        },
+        "translation-ja-natural": "三条の大行幸があった時、紀の国の千里の浜にあった、とても趣のある石が献上された。",
+        "translation-en-natural": "At the time of the grand imperial procession of Sanjo, a very interesting stone from the Senri Beach in Kii Province was respectfully presented."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 11,
         "text": "大行幸ののち奉れりしかば、ある人の御曹司のまへに溝にすゑたりしを、島好む君なり、この石を奉らむ」",
         "kana": "おほみゆきののちたてまつれりしかば、あるひとのみざうしのまへにみそにすゑたりしを、しまこのみなり、このいしをたてまつらむ」",
         "honkoku": "ほみ/s87r/ゆきののちたてまつれりしかはある人/のみさうしのまへのみそにすへたり/しをしまこのみたまふきみなりこの/いしをたてまつらん",
-        "translation-ja": "大行幸の後に献上されたので、ある人の御曹司の前の溝に据えられ、島を好む宮様のことですから、この石を献上しましょう」",
-        "translation-en": "After the grand procession, the stone was presented and placed in the ditch in front of the mansion of a certain person's son. Since the lord loves islands, I shall offer this stone to him."
+        "translation-ja": "大行幸の後に献上されたので、ある人の御曹司の前の溝に据えられていたものを、島を好む君であるから、この石を献上しよう」",
+        "translation-en": "After the grand procession, the stone was presented and placed in the ditch in front of a certain lord's son's mansion. Since the lord loves islands, I shall offer this stone to him.",
+        "phrase-gloss": [
+          {
+            "phrase": "大行幸ののち奉れりしかば",
+            "gloss": "grand.procession-GEN after present.PERF.PST because",
+            "words": [
+              {
+                "word": "大行幸",
+                "gloss": "grand.procession"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "のち",
+                "gloss": "after"
+              },
+              {
+                "word": "奉れ",
+                "gloss": "present.HON.ADV.F"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV.F"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "かば",
+                "gloss": "because"
+              }
+            ]
+          },
+          {
+            "phrase": "ある人の御曹司のまへに溝にすゑたりしを",
+            "gloss": "certain.person-GEN young.lord-GEN front-LOC ditch-LOC place.PERF.PST.ATTR-ACC",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "御曹司",
+                "gloss": "young.lord"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "まへ",
+                "gloss": "front"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "溝",
+                "gloss": "ditch"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "すゑ",
+                "gloss": "place.ADV.F"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV.F"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "島好む君なり",
+            "gloss": "islands-love lord-PN be",
+            "words": [
+              {
+                "word": "島",
+                "gloss": "islands"
+              },
+              {
+                "word": "好む",
+                "gloss": "love.ATTR"
+              },
+              {
+                "word": "君",
+                "gloss": "lord"
+              },
+              {
+                "word": "なり",
+                "gloss": "be"
+              }
+            ]
+          },
+          {
+            "phrase": "この石を奉らむ",
+            "gloss": "this stone-ACC offer.HON.SUP",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "石",
+                "gloss": "stone"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "奉ら",
+                "gloss": "offer.HON.NEG.BASE"
+              },
+              {
+                "word": "む",
+                "gloss": "SUP"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "御曹司",
+            "note": "「御曹司」は貴族の若君、特に名家の嫡男を指す。"
+          },
+          {
+            "title": "奉らむ",
+            "note": "「奉らむ」は『献上しよう』という意志・推量を表す。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "onzōshi",
+            "note": "'Onzōshi' refers to the young lord or heir, especially of an aristocratic family."
+          },
+          {
+            "title": "tatematsuramu",
+            "note": "'Tatematsuramu' expresses intent or supposition, meaning 'I shall humbly offer.'"
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "ACC": "accusative（対格）",
+          "HON": "honorific（尊敬）",
+          "ADV.F": "adverbial form（連用形）",
+          "PERF": "perfect（完了）",
+          "PST": "past（過去）",
+          "PST.ATTR": "past attributive（過去連体形）",
+          "SUP": "supposition（推量）"
+        },
+        "translation-ja-natural": "大行幸の後に献上され、ある人の御曹司の前の溝に据えられていたものを、島を好む君であるから、この石を献上しよう」",
+        "translation-en-natural": "After the grand procession, the stone was presented and placed in the ditch before the mansion of a certain lord’s son. Since the lord loves islands, I shall humbly offer this stone to him."
       },
       {
         "date": "20240817",
