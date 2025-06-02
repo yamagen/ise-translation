@@ -25464,67 +25464,756 @@
         "translation-en-natural": "After the grand procession, the stone was presented and placed in the ditch before the mansion of a certain lord’s son. Since the lord loves islands, I shall humbly offer this stone to him."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 12,
         "text": "とのたまひて、御随身、舎人してとりにつかはす。",
         "kana": "とのたまひて、みずいじん、とねりしてとりにつかはす。",
         "honkoku": "との給てみすいしん/とねりしてとりにつかはす",
-        "translation-ja": "そうおっしゃって、御随身と舎人に命じて、それを取りに行かせた。",
-        "translation-en": "With those words, he commanded his attendants and servants to go and retrieve it."
+        "translation-ja": "そうおっしゃって、御随身と舎人に命じて、それを取りに遣わした。",
+        "translation-en": "With those words, he commanded his attendants and servants to go and retrieve it.",
+        "phrase-gloss": [
+          {
+            "phrase": "とのたまひて",
+            "gloss": "thus speak.HON.ADV.F CONJ",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "thus"
+              },
+              {
+                "word": "のたまひ",
+                "gloss": "speak.HON.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "御随身、舎人して",
+            "gloss": "attendant.HON servant do.ADV.F",
+            "words": [
+              {
+                "word": "御随身",
+                "gloss": "attendant.HON"
+              },
+              {
+                "word": "舎人",
+                "gloss": "servant"
+              },
+              {
+                "word": "して",
+                "gloss": "do.ADV.F"
+              }
+            ]
+          },
+          {
+            "phrase": "とりにつかはす",
+            "gloss": "retrieve-LOC dispatch.HON",
+            "words": [
+              {
+                "word": "とり",
+                "gloss": "retrieve"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "つかはす",
+                "gloss": "dispatch.HON"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "のたまふ",
+            "note": "「のたまふ」は尊敬表現で、貴人が言う、仰るの意。"
+          },
+          {
+            "title": "御随身・舎人",
+            "note": "「御随身」は貴人の側近、「舎人」は雑用を務める下級の従者。"
+          },
+          {
+            "title": "つかはす",
+            "note": "「つかはす」は尊敬表現で、人を遣わす、命じて行かせるの意。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "notamafu",
+            "note": "'Notamafu' is an honorific verb meaning 'to say' or 'to declare' (used for nobles)."
+          },
+          {
+            "title": "gozuijin & toneri",
+            "note": "'Gozuijin' are close attendants to a noble, while 'toneri' are lower-ranking servants handling tasks."
+          },
+          {
+            "title": "tsukawasu",
+            "note": "'Tsukawasu' is an honorific verb meaning 'to dispatch' or 'to send someone on an errand.'"
+          }
+        ],
+        "glossary-abbreviations": {
+          "HON": "honorific（尊敬）",
+          "ADV.F": "adverbial form（連用形）",
+          "CONJ": "conjunctive（接続）",
+          "LOC": "locative（場所格）"
+        },
+        "translation-ja-natural": "そうおっしゃって、御随身と舎人に命じて、それを取りに遣わした。",
+        "translation-en-natural": "With those words, he commanded his attendants and servants to go and retrieve it."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 13,
         "text": "いくばくもなくて持てきぬ。",
         "kana": "いくばくもなくてもてきぬ。",
         "honkoku": "いくはく/もなくてもてきぬ",
-        "translation-ja": "いくらもたたぬうちに持って来ました。",
-        "translation-en": "It was brought back shortly."
+        "translation-ja": "いくらもたたぬうちに持ってきた。",
+        "translation-en": "It was brought back shortly.",
+        "phrase-gloss": [
+          {
+            "phrase": "いくばくもなくて",
+            "gloss": "soon-even without CONJ",
+            "words": [
+              {
+                "word": "いくばく",
+                "gloss": "soon"
+              },
+              {
+                "word": "も",
+                "gloss": "even"
+              },
+              {
+                "word": "なく",
+                "gloss": "without"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "持てきぬ",
+            "gloss": "bring-PERF.PST",
+            "words": [
+              {
+                "word": "持て",
+                "gloss": "bring.ADV.F"
+              },
+              {
+                "word": "き",
+                "gloss": "PERF.NEG.BASE"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "いくばくもなく",
+            "note": "「いくばくもなく」は『いくらもたたずに』『すぐに』の意。"
+          },
+          {
+            "title": "持てきぬ",
+            "note": "「持てきぬ」は『持ってきた』の完了・過去表現。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "ikubaku mo naku",
+            "note": "'Ikubaku mo naku' means 'without much time passing' or 'shortly.'"
+          },
+          {
+            "title": "motekinu",
+            "note": "'Motekinu' is the perfect-past form meaning 'brought (completed).' "
+          }
+        ],
+        "glossary-abbreviations": {
+          "NEG.BASE": "negative base form（否定基本形）",
+          "ADV.F": "adverbial form（連用形）",
+          "CONJ": "conjunctive（接続）",
+          "PERF": "perfect（完了）",
+          "PST": "past（過去）"
+        },
+        "translation-ja-natural": "いくらもたたぬうちに持ってきた。",
+        "translation-en-natural": "It was brought back shortly."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 14,
         "text": "この石聞きしよりは見るはまされり。",
         "kana": "このいしききしよりはみるはまされり。",
         "honkoku": "このいしききし/よりは見るはまされり",
-        "translation-ja": "この石は、聞いていた以上に、実際に見ると素晴らしいものでした。",
-        "translation-en": "This stone was even more wonderful when seen than I had heard."
+        "translation-ja": "この石は、聞いていたより、見る方が勝っていた。",
+        "translation-en": "This stone was superior when seen compared to what I had heard.",
+        "phrase-gloss": [
+          {
+            "phrase": "この石聞きしよりは",
+            "gloss": "this stone hear.PST.ATTR than-TOP",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "石",
+                "gloss": "stone"
+              },
+              {
+                "word": "聞き",
+                "gloss": "hear.ADV.F"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "より",
+                "gloss": "than"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "見るはまされり",
+            "gloss": "see-TOP surpass.PERF",
+            "words": [
+              {
+                "word": "見る",
+                "gloss": "see"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "まされ",
+                "gloss": "surpass.ADV.F"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "まされり",
+            "note": "「まされり」は『勝る、優れる』の完了形で『優れていた』の意味。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "masareri",
+            "note": "'Masareri' is the perfect form of 'masaru,' meaning 'to surpass' or 'to excel.'"
+          }
+        ],
+        "glossary-abbreviations": {
+          "ADV.F": "adverbial form（連用形）",
+          "PST.ATTR": "past attributive（過去連体形）",
+          "TOP": "topic（主題）",
+          "PERF": "perfect（完了）"
+        },
+        "translation-ja-natural": "この石は、聞いていたよりも、実際に見ると優れていた。",
+        "translation-en-natural": "This stone was even more impressive when seen than when merely heard about."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 15,
         "text": "「これをたゞに奉らばすゞろなるべし」とて、人々に歌よませ給ふ。",
         "kana": "「これをただにたてまつらばすずろなるべし」とて、ひとびとにうたよませたまふ。",
         "honkoku": "これをたたにたて/まつらはすすろなるへしとて人々/にうたよませたまふ",
-        "translation-ja": "「これをただに奉れば、つまらないだろう」とお思いになり、人々に歌を詠ませました。",
-        "translation-en": "He thought, \"If I just offer this, it will be boring,\" and had the people sing a song."
+        "translation-ja": "「これをただ奉れば、つまらないだろう」とお思いになり、人々に歌を詠ませた。",
+        "translation-en": "He thought, 'If I just offer this as is, it would be trivial,' and made the people compose poems.",
+        "phrase-gloss": [
+          {
+            "phrase": "これをたゞに奉らば",
+            "gloss": "this-ACC simply offer.HON.COND",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "たゞ",
+                "gloss": "simply"
+              },
+              {
+                "word": "に",
+                "gloss": "ADV"
+              },
+              {
+                "word": "奉ら",
+                "gloss": "offer.HON.NEG.BASE"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "すゞろなるべし",
+            "gloss": "trivial be.should",
+            "words": [
+              {
+                "word": "すゞろ",
+                "gloss": "trivial"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "べし",
+                "gloss": "should"
+              }
+            ]
+          },
+          {
+            "phrase": "とて、人々に歌よませ給ふ",
+            "gloss": "QUOT do.CONJ people-DAT poem compose.CAUS.HON",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "よま",
+                "gloss": "compose.NEG.BASE"
+              },
+              {
+                "word": "せ",
+                "gloss": "CAUS.ADV.F"
+              },
+              {
+                "word": "給ふ",
+                "gloss": "HON"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "すゞろ",
+            "note": "「すゞろ」は理由なく、つまらない、むやみな、の意。"
+          },
+          {
+            "title": "よませ給ふ",
+            "note": "「よませ給ふ」は『詠ませなさる』の使役＋尊敬表現。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "suzuro",
+            "note": "'Suzuro' means trivial, pointless, or random without good reason."
+          },
+          {
+            "title": "yomase tamau",
+            "note": "'Yomase tamau' is a causative-honorific expression meaning 'to make someone compose (poems) respectfully.'"
+          }
+        ],
+        "glossary-abbreviations": {
+          "ACC": "accusative（対格）",
+          "ADV": "adverb（副詞）",
+          "HON": "honorific（尊敬）",
+          "REALIS.F": "realis form（已然形）",
+          "COND": "conditional（条件）",
+          "ATTR": "attributive（連体形）",
+          "QUOT": "quotative（引用）",
+          "CONJ": "conjunctive（接続）",
+          "DAT": "dative（与格）",
+          "CAUS": "causative（使役）",
+          "ADV.F": "adverbial form（連用形）"
+        },
+        "translation-ja-natural": "「これをただ奉れば、つまらないだろう」とお思いになり、人々に歌を詠ませた。",
+        "translation-en-natural": "He thought, 'If I just offer this as is, it would be trivial,' and had the people compose poems."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 16,
         "text": "右馬頭なりける人のをなむ、青き苔をきざみて蒔絵のかたに、この歌をつけて奉りける。",
         "kana": "みぎのうまのかみなりけるひとのをなむ、あおきこけをきざみてまきえのかたに、このうたをつけてたてまつりける。",
         "honkoku": "右のむまのかみなり/s87l/ける人のをなんあをきこけをきさみて/まきゑのかたにこのうたをつけてたてまつりける/",
-        "translation-ja": "右馬頭であった人が、青い苔を刻んで蒔絵の形にし、この歌を添えてお捧げしました。",
-        "translation-en": "The person who was the Captain of the Right Horses carved blue moss into the shape of a maki-e design and offered it along with this poem."
+        "translation-ja": "右馬頭であった人が、青い苔を刻んで蒔絵の形にし、この歌を添えて奉った。",
+        "translation-en": "The person who was the Captain of the Right Horses carved blue moss into the form of a maki-e design and offered it along with this poem.",
+        "phrase-gloss": [
+          {
+            "phrase": "右馬頭なりける人のをなむ",
+            "gloss": "Captain.of.Right.Horses be.PST.REP person-GEN one-FOC",
+            "words": [
+              {
+                "word": "右馬頭",
+                "gloss": "Captain.of.Right.Horses"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV.F"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.REP"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN.POSS"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "なむ",
+                "gloss": "FOC"
+              }
+            ]
+          },
+          {
+            "phrase": "青き苔をきざみて蒔絵のかたに",
+            "gloss": "blue.ATTR moss-ACC carve.ADV.F maki-e.GEN shape-LOC",
+            "words": [
+              {
+                "word": "青き",
+                "gloss": "blue.ATTR"
+              },
+              {
+                "word": "苔",
+                "gloss": "moss"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "きざみ",
+                "gloss": "carve.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "蒔絵",
+                "gloss": "maki-e"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "かた",
+                "gloss": "shape"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "この歌をつけて奉りける",
+            "gloss": "this poem-ACC attach.ADV.F offer.HON.PST.REP",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "つけ",
+                "gloss": "attach.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "奉り",
+                "gloss": "offer.HON.ADV.F"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "なむ",
+            "note": "「なむ」は強調・焦点を示す係助詞。"
+          },
+          {
+            "title": "蒔絵",
+            "note": "「蒔絵」は漆器などの装飾技法の一つで、金銀粉を撒いて文様をつけるもの。"
+          },
+          {
+            "title": "奉りける",
+            "note": "「奉りける」は『献上した、差し上げた』の尊敬過去表現。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "namu",
+            "note": "'Namu' is a focus particle emphasizing the preceding phrase."
+          },
+          {
+            "title": "maki-e",
+            "note": "'Maki-e' is a traditional Japanese lacquer decoration technique using sprinkled gold or silver powder."
+          },
+          {
+            "title": "tatematsurikeru",
+            "note": "'Tatematsurikeru' is the honorific past form meaning 'offered' or 'humbly presented.'"
+          }
+        ],
+        "glossary-abbreviations": {
+          "PN": "proper noun（固有名詞）",
+          "GEN.POSS": "genitive possessive（属格）",
+          "ADV.F": "adverbial form（連用形）",
+          "PST.REP": "past reported（過去伝聞）",
+          "GEN": "genitive（属格）",
+          "ACC": "accusative（対格）",
+          "LOC": "locative（場所格）",
+          "ATTR": "attributive（連体形）",
+          "HON": "honorific（尊敬）",
+          "FOC": "focus particle（係助詞）"
+        },
+        "translation-ja-natural": "右馬頭であった人が、青い苔を刻んで蒔絵の形にし、この歌を添えてお捧げした。",
+        "translation-en-natural": "The person who was the Captain of the Right Horses carved blue moss into the form of a maki-e design and humbly offered it along with this poem."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 17,
         "poem": "あかねども/岩にぞかふる/色見えぬ/心を見せむ/よしのなければ",
         "kana": "あかねども/いわにそかふる/いろみえぬ/こころをみせむ/よしのなければ",
         "honkoku": "あかねとも岩にそかふるいろみえぬ/こころをみせんよしのなけれは/",
-        "translation-ja": "飽きることはありませんが、岩に代わる色は見えません。心を見せる手段がないのですから。",
-        "translation-en": "Though I never tire of it, the color that replaces the rock is unseen. There is no way to show my heart."
+        "translation-ja": "飽きないけれど、岩が変わる色も見えない。心を見せる手立てもないのだから。",
+        "translation-en": "Though I do not tire, I cannot see the color changing on the rock. There is no way to reveal my heart.",
+        "phrase-gloss": [
+          {
+            "phrase": "あかねども",
+            "gloss": "tire-NEG though",
+            "words": [
+              {
+                "word": "あか",
+                "gloss": "tire.NEG.BASE"
+              },
+              {
+                "word": "ね",
+                "gloss": "NEG.REALIS.F"
+              },
+              {
+                "word": "ども",
+                "gloss": "though"
+              }
+            ]
+          },
+          {
+            "phrase": "岩にぞかふる",
+            "gloss": "rock-LOC EMPH change.ATTR",
+            "words": [
+              {
+                "word": "岩",
+                "gloss": "rock"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "かふる",
+                "gloss": "change.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "色見えぬ",
+            "gloss": "color appear-NEG",
+            "words": [
+              {
+                "word": "色",
+                "gloss": "color"
+              },
+              {
+                "word": "見え",
+                "gloss": "appear.ADV.F"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "心を見せむ",
+            "gloss": "heart-ACC show-SUP",
+            "words": [
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見せ",
+                "gloss": "show.ADV.F"
+              },
+              {
+                "word": "む",
+                "gloss": "SUP"
+              }
+            ]
+          },
+          {
+            "phrase": "よしのなければ",
+            "gloss": "means-GEN not.exist-COND",
+            "words": [
+              {
+                "word": "よし",
+                "gloss": "means"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "なけれ",
+                "gloss": "not.exist.REALIS.F"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "よし",
+            "note": "「よし」は手段、方法、理由などの意味。ここでは『心を見せる手段』の意で使われる。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "yoshi",
+            "note": "'Yoshi' means means, way, or method; here it refers to a way to reveal one's heart."
+          }
+        ],
+        "glossary-abbreviations": {
+          "REALIS.F": "realis form（已然形）",
+          "NEG": "negative（否定）",
+          "LOC": "locative（場所格）",
+          "EMPH": "emphatic（強調）",
+          "ATTR": "attributive（連体形）",
+          "ADV.F": "adverbial form（連用形）",
+          "ACC": "accusative（対格）",
+          "SUP": "supposition（推量）",
+          "GEN": "genitive（属格）",
+          "COND": "conditional（条件）"
+        },
+        "translation-ja-natural": "飽きないけれど、岩が変わる色も見えない。心を見せる手立てもないのだから。",
+        "translation-en-natural": "Though I do not tire, I cannot see the rock's changing color. There is no way to reveal my heart."
       },
       {
-        "date": "20240817",
+        "date": "20240817,20250602",
         "id": 18,
         "text": "となむよめりける。",
         "kana": "となむよめりける。",
         "honkoku": "となんよめりける/s88r/",
-        "translation-ja": "と詠みました。",
-        "translation-en": "He sang it."
+        "translation-ja": "と詠んだのである。",
+        "translation-en": "He recited it.",
+        "phrase-gloss": [
+          {
+            "phrase": "と",
+            "gloss": "QUOT",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "なむよめりける",
+            "gloss": "FOC compose.PERF.REP.PST",
+            "words": [
+              {
+                "word": "なむ",
+                "gloss": "FOC"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS.F"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV.F"
+              },
+              {
+                "word": "ける",
+                "gloss": "REP.PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "REALIS.F": "realis form（已然形）",
+          "QUOT": "quotative（引用）",
+          "FOC": "focus particle（係助詞）",
+          "ADV.F": "adverbial form（連用形）",
+          "PERF": "perfect（完了）",
+          "REP": "reportative（伝聞）",
+          "PST": "past（過去）"
+        },
+        "translation-ja-natural": "と詠んだのである。",
+        "translation-en-natural": "He composed (recited) it."
       }
     ]
   },
@@ -25534,67 +26223,601 @@
     "romaji": "chihiro aru kage",
     "paragraph": [
       {
-        "date": "20240818",
+        "date": "20240818,20250602",
         "id": 1,
         "text": "むかし、氏のなかに、親王生まれ給へりけり。",
         "kana": "むかし、うぢのなかに、みこうまれたまへりけり。",
         "honkoku": "むかしうちのなかにみこうまれたまへり/けり",
-        "translation-ja": "昔、在原氏の中に親王が生まれました。",
-        "translation-en": "Once upon a time, a prince was born in the Ariwara Uji clan."
+        "translation-ja": "昔、氏の中に親王がお生まれになった。",
+        "translation-en": "Once upon a time, a prince was born in the Uji clan.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし",
+            "gloss": "once.upon.a.time",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once.upon.a.time"
+              }
+            ]
+          },
+          {
+            "phrase": "氏のなかに",
+            "gloss": "clan-GEN inside-LOC",
+            "words": [
+              {
+                "word": "氏",
+                "gloss": "clan"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "なか",
+                "gloss": "inside"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "親王生まれ給へりけり",
+            "gloss": "prince.PN be.born.ADV.F HON.REALIS.F PERF.ADV.F REP.PST",
+            "words": [
+              {
+                "word": "親王",
+                "gloss": "prince.PN"
+              },
+              {
+                "word": "生まれ",
+                "gloss": "be.born.ADV.F"
+              },
+              {
+                "word": "給へ",
+                "gloss": "HON.REALIS.F"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "REP.PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "PN": "proper noun（固有名詞）",
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "ADV.F": "adverbial form（連用形）",
+          "REALIS.F": "realis form（已然形）",
+          "PERF": "perfect（完了）",
+          "REP": "reportative（伝聞）",
+          "PST": "past（過去）"
+        },
+        "translation-ja-natural": "昔、氏の中に親王がお生まれになった。",
+        "translation-en-natural": "Once upon a time, a prince was born in the Uji clan."
       },
       {
-        "date": "20240818",
+        "date": "20240818,20250602",
         "id": 2,
         "text": "御産屋に人々歌詠みけり。",
         "kana": "おんうぶやにひとびとうたよみけり。",
         "honkoku": "御うふやに人々うたよみけり",
-        "translation-ja": "御産屋で人々が歌を詠みました。",
-        "translation-en": "People sang at the birth house."
+        "translation-ja": "御産屋で人々が歌を詠んだ。",
+        "translation-en": "People composed poems at the birth hut.",
+        "phrase-gloss": [
+          {
+            "phrase": "御産屋に",
+            "gloss": "birth.hut.HON-LOC",
+            "words": [
+              {
+                "word": "御産屋",
+                "gloss": "birth.hut.HON"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "人々歌詠みけり",
+            "gloss": "people poem compose.ADV.F REP.PST",
+            "words": [
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "詠み",
+                "gloss": "compose.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "REP.PST"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "御産屋",
+            "note": "「御産屋」は貴人の出産のために用意された特別な産屋（うぶや）。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "ubuyashiki",
+            "note": "'Ubuyashiki' or 'osanoya' refers to a special hut or room prepared for noble childbirth."
+          }
+        ],
+        "glossary-abbreviations": {
+          "HON": "honorific（尊敬）",
+          "LOC": "locative（場所格）",
+          "ADV.F": "adverbial form（連用形）",
+          "REP": "reportative（伝聞）",
+          "PST": "past（過去）"
+        },
+        "translation-ja-natural": "御産屋で人々が歌を詠んだ。",
+        "translation-en-natural": "People composed poems at the birth hut."
       },
       {
-        "date": "20240818",
+        "date": "20240818,20250602",
         "id": 3,
         "text": "御祖父がたなりける翁のよめる。",
         "kana": "おほぢがたなりけるおきなのよめる。",
         "honkoku": "御/おほちかたなりけるおきなのよめる/",
-        "translation-ja": "親王のお祖父様側の翁が詠みました。",
-        "translation-en": "The old grandfather on the prince's side sang."
+        "translation-ja": "親王のお祖父様側の翁が詠んだ。",
+        "translation-en": "The old man, who was the grandfather on the prince's side, composed (a poem).",
+        "phrase-gloss": [
+          {
+            "phrase": "御祖父がたなりける",
+            "gloss": "grandfather.HON-side be.ADV.F PST.REP.ATTR",
+            "words": [
+              {
+                "word": "御祖父",
+                "gloss": "grandfather.HON"
+              },
+              {
+                "word": "がた",
+                "gloss": "side"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV.F"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.REP.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "翁のよめる",
+            "gloss": "old.man.GEN compose.PST.ATTR",
+            "words": [
+              {
+                "word": "翁",
+                "gloss": "old.man"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.ADV.F"
+              },
+              {
+                "word": "る",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "御祖父がた",
+            "note": "「御祖父がた」は親王の祖父の側、つまり父方・母方の家筋を指す。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "onchichi gata",
+            "note": "'Onchichi gata' refers to the grandfather's side or family line of the prince."
+          }
+        ],
+        "glossary-abbreviations": {
+          "HON": "honorific（尊敬）",
+          "ADV.F": "adverbial form（連用形）",
+          "PST.REP": "past reported（過去伝聞）",
+          "ATTR": "attributive（連体形）",
+          "GEN": "genitive（属格）"
+        },
+        "translation-ja-natural": "親王のお祖父様側の翁が詠んだ。",
+        "translation-en-natural": "The old man, who was the grandfather on the prince's side, composed a poem."
       },
       {
         "date": "20240818",
         "id": 4,
-        "poem": "我が門に/千尋ある陰を/植えゑつれば/夏冬たれか/隠れざるべき",
-        "kana": "わがかどに/ちひろあるかげを/うえゑつれば/なつふゆたれか/かくれざるへき",
+        "poem": "我が門に/千尋ある陰を/植ゑつれば/夏冬たれか/隠れざるべき",
+        "kana": "わがかどに/ちひろあるかげを/うゑつれば/なつふゆたれか/かくれざるへき",
         "honkoku": "わか門にちひろあるかけをうへつれは/なつふゆたれかかくれさるへき/",
-        "translation-ja": "私の家の門の前に、千尋もの深い影を作る木を植えたのだから、夏でも冬でも、誰が隠れないでいられるだろうか。",
-        "translation-en": "I planted a tree at my gate that casts a deep shadow, reaching a thousand fathoms. In such a shadow, who could possibly remain unseen, whether in summer or winter?"
+        "translation-ja": "私の門に、千尋もある影を作る木を植えたのだから、夏でも冬でも、誰が隠れないでいられるだろうか。",
+        "translation-en": "I planted a tree at my gate whose shade spans a thousand fathoms; in summer or winter, who could possibly avoid being hidden beneath it?",
+        "phrase-gloss": [
+          {
+            "phrase": "我が門に",
+            "gloss": "my.GEN gate-LOC",
+            "words": [
+              {
+                "word": "我",
+                "gloss": "my"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "門",
+                "gloss": "gate"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "千尋ある陰を",
+            "gloss": "thousand.fathom exist.ATTR shade-ACC",
+            "words": [
+              {
+                "word": "千尋",
+                "gloss": "thousand.fathom"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "陰",
+                "gloss": "shade"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "植ゑつれば",
+            "gloss": "plant.ADV.F finish.PERF.COND",
+            "words": [
+              {
+                "word": "植ゑ",
+                "gloss": "plant.ADV.F"
+              },
+              {
+                "word": "つれ",
+                "gloss": "PERF.COND"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "夏冬たれか",
+            "gloss": "summer winter who-EMPH",
+            "words": [
+              {
+                "word": "夏",
+                "gloss": "summer"
+              },
+              {
+                "word": "冬",
+                "gloss": "winter"
+              },
+              {
+                "word": "たれ",
+                "gloss": "who"
+              },
+              {
+                "word": "か",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "隠れざるべき",
+            "gloss": "hide-NEG.ATTR should",
+            "words": [
+              {
+                "word": "隠れ",
+                "gloss": "hide.NEG.BASE"
+              },
+              {
+                "word": "ざる",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "べき",
+                "gloss": "should"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "千尋",
+            "note": "「千尋」は深さ・長さの単位で、非常に大きいことを比喩的に示す。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "chihiro",
+            "note": "'Chihiro' refers to a thousand fathoms, metaphorically indicating great size or depth."
+          }
+        ],
+        "glossary-abbreviations": {
+          "NEG.BASE": "negative base form（否定基本形）",
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "ATTR": "attributive（連体形）",
+          "ACC": "accusative（対格）",
+          "ADV.F": "adverbial form（連用形）",
+          "PERF": "perfect（完了）",
+          "COND": "conditional（条件）",
+          "EMPH": "emphatic（強調）",
+          "NEG": "negative（否定）"
+        },
+        "translation-ja-natural": "私の門に、千尋もの深い影を作る木を植えたのだから、夏でも冬でも、誰が隠れないでいられるだろうか。",
+        "translation-en-natural": "Having planted a tree at my gate whose shadow reaches a thousand fathoms, who could avoid being hidden beneath it, whether in summer or winter?"
       },
       {
-        "date": "20240818",
+        "date": "20240818,20250602",
         "id": 5,
         "text": "これは貞数の親王。",
         "kana": "これはさだかずのみこと。",
         "honkoku": "これはさたかすのみこ",
-        "translation-ja": "これは貞数の親王です。",
-        "translation-en": "This is Prince Sadakazu."
+        "translation-ja": "これは貞数の親王である。",
+        "translation-en": "This is Prince Sadakazu.",
+        "phrase-gloss": [
+          {
+            "phrase": "これは",
+            "gloss": "this-TOP",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "貞数の親王",
+            "gloss": "Sadakazu.PN-GEN prince.PN",
+            "words": [
+              {
+                "word": "貞数",
+                "gloss": "Sadakazu.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "親王",
+                "gloss": "prince"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "貞数親王",
+            "note": "「貞数親王」は実在の皇族で、古典中では敬称を込めて表記される。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "Sadakazu shinnō",
+            "note": "'Sadakazu shinnō' refers to Prince Sadakazu, a historical imperial figure mentioned with honorifics."
+          }
+        ],
+        "glossary-abbreviations": {
+          "TOP": "topic（主題）",
+          "GEN": "genitive（属格）",
+          "PN": "proper noun（固有名詞）"
+        },
+        "translation-ja-natural": "これは貞数の親王である。",
+        "translation-en-natural": "This is Prince Sadakazu."
       },
       {
-        "date": "20240818",
+        "date": "20240818,20250602",
         "id": 6,
         "text": "時の人、中将の子となむいひける。",
         "kana": "ときのひと、ちゅうじやうのことなむいひける。",
         "honkoku": "ときの人中将の/ことなむいひける",
-        "translation-ja": "当時の人々は、中将の子であると言い伝えていた。",
-        "translation-en": "At that time, it was said that he was the son of the Middle General."
+        "translation-ja": "当時の人々は、中将の子だと語っていた。",
+        "translation-en": "People at the time said he was the son of the Middle Captain.",
+        "phrase-gloss": [
+          {
+            "phrase": "時の人",
+            "gloss": "time-GEN people",
+            "words": [
+              {
+                "word": "時",
+                "gloss": "time"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "人",
+                "gloss": "people"
+              }
+            ]
+          },
+          {
+            "phrase": "中将の子と",
+            "gloss": "Middle.Captain.PN-GEN child QUOT",
+            "words": [
+              {
+                "word": "中将",
+                "gloss": "Middle.Captain"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "子",
+                "gloss": "child"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "なむいひける",
+            "gloss": "FOC say.ADV.F REP.PST",
+            "words": [
+              {
+                "word": "なむ",
+                "gloss": "FOC"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV.F"
+              },
+              {
+                "word": "ける",
+                "gloss": "REP.PST"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "中将",
+            "note": "「中将」は近衛中将の略称で、皇族・貴族の高官職名。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "chūjō",
+            "note": "'Chūjō' refers to the Middle Captain (Konoe Chūjō), a high-ranking court position."
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive（属格）",
+          "PN": "proper noun（固有名詞）",
+          "QUOT": "quotative（引用）",
+          "FOC": "focus particle（係助詞）",
+          "ADV.F": "adverbial form（連用形）",
+          "REP": "reportative（伝聞）",
+          "PST": "past（過去）"
+        },
+        "translation-ja-natural": "当時の人々は、中将の子だと語っていた。",
+        "translation-en-natural": "People at the time said he was the son of the Middle Captain."
       },
       {
-        "date": "20240818",
+        "date": "20240818,20250602",
         "id": 7,
         "text": "兄の中納言行平のむすめの腹なり。",
         "kana": "あにのちやうなごんゆきひらのむすめのはらなり。",
         "honkoku": "あにの中納言ゆきひら/のむすめのはらなり/s89r/",
-        "translation-ja": "兄の中納言行平の娘の腹に生まれた親王である。",
-        "translation-en": "He was born to the daughter of his elder brother, the Middle Counselor Yukihira."
+        "translation-ja": "兄の中納言行平の娘の腹に生まれたのである。",
+        "translation-en": "He was born from the daughter of his elder brother, the Middle Counselor Yukihira.",
+        "phrase-gloss": [
+          {
+            "phrase": "兄の中納言行平の",
+            "gloss": "elder.brother-GEN Middle.Counselor.PN Yukihira.PN-GEN",
+            "words": [
+              {
+                "word": "兄",
+                "gloss": "elder.brother"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "中納言",
+                "gloss": "Middle.Counselor"
+              },
+              {
+                "word": "行平",
+                "gloss": "Yukihira.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "むすめの腹なり",
+            "gloss": "daughter-GEN womb be.ADV.F",
+            "words": [
+              {
+                "word": "むすめ",
+                "gloss": "daughter"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "腹",
+                "gloss": "womb"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.FIN"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "中納言行平",
+            "note": "「中納言行平」は在原行平のこと。平安時代の公卿で、在原業平の兄にあたる。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "chūnagon Yukihira",
+            "note": "'Chūnagon Yukihira' refers to Ariwara no Yukihira, a high-ranking court official and elder brother of Narihira."
+          }
+        ],
+        "glossary-abbreviations": {
+          "FIN": "finite form（終止形）",
+          "GEN": "genitive（属格）",
+          "PN": "proper noun（固有名詞）",
+          "ADV.F": "adverbial form（連用形）"
+        },
+        "translation-ja-natural": "兄の中納言行平の娘の腹に生まれたのである。",
+        "translation-en-natural": "He was born from the daughter of his elder brother, the Middle Counselor Yukihira."
       }
     ]
   },
@@ -25604,31 +26827,391 @@
     "romaji": "otorohe taru ie",
     "paragraph": [
       {
-        "date": "20240819",
+        "date": "20240819,20250602",
         "id": 1,
         "text": "むかし、おとろへたる家に、藤の花植ゑたる人ありけり。",
         "kana": "むかし、おとろへたるいへに、ふじのはなうゑたるひとありけり。",
         "honkoku": "むかしおとろへたるいへにふちの花/うへたるひとありけり",
-        "translation-ja": "昔、衰えた家に、藤の花を植えた人がいました。",
-        "translation-en": "Once upon a time, there was a person who planted wisteria flowers in a dilapidated house."
+        "translation-ja": "昔、衰えた家に、藤の花を植えた人がいた。",
+        "translation-en": "Once upon a time, there was a person who planted wisteria flowers in a dilapidated house.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし",
+            "gloss": "once.upon.a.time",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once.upon.a.time"
+              }
+            ]
+          },
+          {
+            "phrase": "おとろへたる家に",
+            "gloss": "dilapidated.PERF.ATTR house-LOC",
+            "words": [
+              {
+                "word": "おとろへ",
+                "gloss": "decline.ADV.F"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "家",
+                "gloss": "house"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "藤の花植ゑたる人",
+            "gloss": "wisteria.GEN flower plant.ADV.F PERF.ATTR person",
+            "words": [
+              {
+                "word": "藤",
+                "gloss": "wisteria"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "花",
+                "gloss": "flower"
+              },
+              {
+                "word": "植ゑ",
+                "gloss": "plant.ADV.F"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "ありけり",
+            "gloss": "exist.PST.REP",
+            "words": [
+              {
+                "word": "あり",
+                "gloss": "exist.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "ADV.F": "adverbial form（連用形）",
+          "PERF": "perfect（完了）",
+          "ATTR": "attributive（連体形）",
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "PST": "past（過去）",
+          "REP": "reportative（伝聞）"
+        },
+        "translation-ja-natural": "昔、衰えた家に、藤の花を植えた人がいた。",
+        "translation-en-natural": "Once upon a time, there was a person who planted wisteria flowers in a dilapidated house."
       },
       {
-        "date": "20240819",
+        "date": "20240819,20250602",
         "id": 2,
         "text": "やよひのつごもりに、その日雨そぼふるに、人のもとへ折りて奉らすとて、よめる。",
         "kana": "やよひのつごもりに、そのひあめそぼふるに、ひとのもとへをりてたてまつらすとて、よめる。",
         "honkoku": "やよひのつこもり/にその日あめそほふるに人のもとへ/おりてたてまつらすとてよめる/",
-        "translation-ja": "三月の末に、その日雨がしとしと降る中、人のもとへ藤の花を折って使いの者に献上させようとして、詠みました。",
-        "translation-en": "At the end of March, on a rainy day, the person picked wisteria flowers and composed a poem to present them to someone."
+        "translation-ja": "三月の末に、その日雨がしとしと降る中、人のもとへ折って献上させようとして、詠んだ。",
+        "translation-en": "At the end of March, on a rainy day, the person picked wisteria flowers to present to someone and composed a poem.",
+        "phrase-gloss": [
+          {
+            "phrase": "やよひのつごもりに",
+            "gloss": "third.month.GEN end-LOC",
+            "words": [
+              {
+                "word": "やよひ",
+                "gloss": "third.month"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "つごもり",
+                "gloss": "end"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "その日雨そぼふるに",
+            "gloss": "that.day rain drizzle.ATTR LOC",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              },
+              {
+                "word": "雨",
+                "gloss": "rain"
+              },
+              {
+                "word": "そぼふる",
+                "gloss": "drizzle.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "人のもとへ折りて奉らすとて",
+            "gloss": "person-GEN place-ALL pick.ADV.F offer.CAUS QUOT",
+            "words": [
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "もと",
+                "gloss": "place"
+              },
+              {
+                "word": "へ",
+                "gloss": "ALL"
+              },
+              {
+                "word": "折り",
+                "gloss": "pick.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "奉ら",
+                "gloss": "offer.NEG.BASE"
+              },
+              {
+                "word": "す",
+                "gloss": "CAUS"
+              },
+              {
+                "word": "とて",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "よめる",
+            "gloss": "compose.PST.ATTR",
+            "words": [
+              {
+                "word": "よめ",
+                "gloss": "compose.ADV.F"
+              },
+              {
+                "word": "る",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "gloss-notes-ja": [
+          {
+            "title": "やよひのつごもり",
+            "note": "「やよひ」は旧暦三月、「つごもり」は月の末日。"
+          },
+          {
+            "title": "奉らす",
+            "note": "「奉らす」は「奉る」の使役形で、謙譲の意味を含む。"
+          }
+        ],
+        "gloss-notes-en": [
+          {
+            "title": "yayoi no tsugomori",
+            "note": "'Yayoi' is the old name for the third lunar month, and 'tsugomori' means the last day of the month."
+          },
+          {
+            "title": "tatematurasu",
+            "note": "'Tatematurasu' is the causative form of the humble verb 'tatematsuru' (to offer)."
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "ALL": "allative（方向・到達格）",
+          "ADV.F": "adverbial form（連用形）",
+          "ATTR": "attributive（連体形）",
+          "CONJ": "conjunctive（接続）",
+          "CAUS": "causative（使役）",
+          "PST": "past（過去）",
+          "QUOT": "quotative（引用）"
+        },
+        "translation-ja-natural": "三月の末に、その日雨がしとしと降る中、人のもとへ折って献上させようとして、詠んだ。",
+        "translation-en-natural": "At the end of March, on a rainy day, the person picked wisteria flowers to present to someone and composed a poem."
       },
       {
-        "date": "20240819",
+        "date": "20240819,20250602",
         "id": 3,
         "poem": "ぬれつゝぞ/しひて折りつる/年のうちに/春はいくかも/あらじと思へば",
         "kana": "ぬれつゝぞ/しひてをりつる/としのうちに/はるはいくかも/あらじとおもへば",
         "honkoku": "ぬれつつそしゐておりつる年の内に/はるはいくかもあらしとおもへは/s89l/",
-        "translation-ja": "雨に濡れながらも、この花を折り取りました。今年のうちに、春はあと幾日もあるまいと思いました。",
-        "translation-en": "I picked these flowers while getting wet in the rain. I thought that there might not be many days left of spring this year."
+        "translation-ja": "雨に濡れながら、無理に折り取った。今年のうちに、春はあと幾日もないだろうと思ったので。",
+        "translation-en": "I, wet in the rain, forcibly picked the flowers, thinking that there would be only a few days of spring left this year.",
+        "phrase-gloss": [
+          {
+            "phrase": "ぬれつゝぞ",
+            "gloss": "get.wet.CONJ-EMPH",
+            "words": [
+              {
+                "word": "ぬれ",
+                "gloss": "get.wet.ADV.F"
+              },
+              {
+                "word": "つゝ",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "しひて折りつる",
+            "gloss": "forcibly pick.ADV.F PERF.PST.ATTR",
+            "words": [
+              {
+                "word": "しひ",
+                "gloss": "forcibly"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "折り",
+                "gloss": "pick.ADV.F"
+              },
+              {
+                "word": "つる",
+                "gloss": "PERF.PST.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "年のうちに",
+            "gloss": "year-GEN inside-LOC",
+            "words": [
+              {
+                "word": "年",
+                "gloss": "year"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "うち",
+                "gloss": "inside"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "春はいくかも",
+            "gloss": "spring-TOP how.many-EMPH",
+            "words": [
+              {
+                "word": "春",
+                "gloss": "spring"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "いく",
+                "gloss": "how.many"
+              },
+              {
+                "word": "か",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "も",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "あらじと思へば",
+            "gloss": "not.exist.SUPPOS think.ADV.F COND",
+            "words": [
+              {
+                "word": "あら",
+                "gloss": "exist.NEG.BASE"
+              },
+              {
+                "word": "じ",
+                "gloss": "NEG.SUPPOS"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "思へ",
+                "gloss": "think.ADV.F"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "ADV.F": "adverbial form（連用形）",
+          "CONJ": "conjunctive（接続）",
+          "EMPH": "emphatic（強調）",
+          "PERF": "perfect（完了）",
+          "PST": "past（過去）",
+          "ATTR": "attributive（連体形）",
+          "GEN": "genitive（属格）",
+          "LOC": "locative（場所格）",
+          "NEG.BASE": "negative base（未然形）",
+          "SUPPOS": "suppositional（推量）",
+          "QUOT": "quotative（引用）",
+          "COND": "conditional（条件）"
+        },
+        "translation-ja-natural": "雨に濡れながら、無理に折り取った。今年のうちに、春はもう幾日もないだろうと思ったので。",
+        "translation-en-natural": "I, wet in the rain, forcibly picked the flowers, thinking there would be only a few days of spring left this year."
       }
     ]
   },
