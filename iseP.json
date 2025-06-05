@@ -16073,7 +16073,11 @@
         "translation-en-natural": "This must have taken place during the reign of Emperor Seiwa."
       },
       {
-        "date": "20240723,20250214,20250523",
+        "date": [
+          20240723,
+          20250214,
+          20250523
+        ],
         "id": 27,
         "text": "大御息所も染殿の后なり。",
         "kana": "おおみやすんどころもそめどのきさきなり。",
@@ -16127,7 +16131,11 @@
         "translation-en-natural": "Lady Omiyasundokoro was also known as the Empress of the Somedono Palace."
       },
       {
-        "date": "20240723,20250214,20250523",
+        "date": [
+          20240723,
+          20250214,
+          20250523
+        ],
         "id": 28,
         "text": "五条の后とも。",
         "kana": "ごじよのきさきとも。",
@@ -16173,7 +16181,10 @@
     "romaji": "Mitsu no ura",
     "paragraph": [
       {
-        "date": "20240723,20250525",
+        "date": [
+          20240723,
+          20250525
+        ],
         "id": 1,
         "text": "昔、男、津の国に知る所ありけるに、兄、弟、友達ひきゐて、難波の方に行きけり。",
         "kana": "むかし、をとこ、つのくににしるとこありけるに、あにをととともだちひきゐて、なにわのかたにいきけり。",
@@ -16298,7 +16309,10 @@
         "translation-en-natural": "Once upon a time, a man who had acquaintances in Tsu no Kuni set out toward Naniwa, taking along his brothers and friends."
       },
       {
-        "date": "20240723,20250525",
+        "date": [
+          20240723,
+          20250525
+        ],
         "id": 2,
         "text": "渚を見れば、舟どものあるを見て、",
         "kana": "なぎさをみれば、ふねどものあるをみて、",
@@ -16368,7 +16382,10 @@
         "translation-en-natural": "When looking at the shore, he saw boats there,"
       },
       {
-        "date": "20240723,20250525",
+        "date": [
+          20240723,
+          20250525
+        ],
         "id": 3,
         "poem": "難波津を/けさこそみつの/浦ごとに/これやこの世を/海わたる舟",
         "kana": "なにはつを/けさこそみつの/うらごとに/これやこのよを/うみわたるふね",
@@ -16503,7 +16520,10 @@
         ]
       },
       {
-        "date": "20240723,20250525",
+        "date": [
+          20240723,
+          20250525
+        ],
         "id": 4,
         "text": "これをあはれがりて、(人々:ひとびと)(帰:かへ)りにけり。",
         "kana": "これをあはれがりて、ひとびとかへりにけり。",
@@ -16573,7 +16593,10 @@
     "romaji": "Hana no hayashi",
     "paragraph": [
       {
-        "date": "20240805,20250526",
+        "date": [
+          20240805,
+          20250605
+        ],
         "id": 1,
         "text": "むかし、男、逍遥しに、思ひど親いつらねて、和泉の国へ如月ばかりにいきにけり。",
         "kana": "むかし、をとこ、せうえうしに、おもひどちかいつらねて、いずみのくにへきさらきばかりにいきにけり。",
@@ -16706,7 +16729,10 @@
         "translation-en-natural": "Long ago, a man set out to the Province of Izumi around February, accompanied by his close friends, for a stroll."
       },
       {
-        "date": "20240805,20250526",
+        "date": [
+          20240805,
+          20250605
+        ],
         "id": 2,
         "text": "河内の国生駒山を見れば、曇りみ晴れみ、たちゐる雲やまず。",
         "kana": "かうちのくにいこまのやまをみれば、くもりみはれみ、たちゐるくもやまず。",
@@ -16720,7 +16746,7 @@
             "words": [
               {
                 "word": "河内",
-                "gloss": "Kawachi"
+                "gloss": "Kawachi.PN"
               },
               {
                 "word": "の",
@@ -16798,6 +16824,7 @@
           }
         ],
         "glossary-abbreviations": {
+          "PN": "proper noun (固有名詞,Personal Name,Place Name)",
           "COND": "conditional (〜ば)",
           "GEN": "genitive particle (〜の)",
           "ACC": "accusative particle (〜を)",
@@ -16809,34 +16836,246 @@
         "translation-en-natural": "Looking at Mount Ikoma in Kawachi Province, the clouds hovered without ceasing, sometimes clouding over, sometimes clearing."
       },
       {
-        "date": "20240805",
+        "date": [
+          20240805,
+          20250605
+        ],
         "id": 3,
         "text": "あしたより曇りて、ひる晴れたり。",
         "kana": "あしたよりくもりて、ひるはれたり。",
         "honkoku": "あしたよりくもりてひるはれたり",
-        "translation-ja": "朝から曇って、昼晴れた。",
-        "translation-en": "It was cloudy in the morning and sunny at noon."
+        "translation-ja": "朝から曇って、昼に晴れた。",
+        "translation-en": "Cloudy from the morning; at noon, it cleared up.",
+        "phrase-gloss": [
+          {
+            "phrase": "あしたより曇りて",
+            "gloss": "morning.ABL cloudy.ADV.F CONJ",
+            "words": [
+              {
+                "word": "あした",
+                "gloss": "morning"
+              },
+              {
+                "word": "より",
+                "gloss": "ABL"
+              },
+              {
+                "word": "曇り",
+                "gloss": "cloudy.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ひる晴れたり",
+            "gloss": "noon clear.ADV.F PERF",
+            "words": [
+              {
+                "word": "ひる",
+                "gloss": "noon"
+              },
+              {
+                "word": "晴れ",
+                "gloss": "clear.ADV.F"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "ABL": "ablative particle (より)",
+          "ADV.F": "adverbial form (連用形)",
+          "CONJ": "conjunctive particle (て)",
+          "PERF": "perfective (たり: 完了の助動詞)"
+        },
+        "translation-ja-natural": "朝は曇っていて、昼には晴れた。",
+        "translation-en-natural": "It was cloudy in the morning and cleared up by noon."
       },
       {
-        "date": "20240805",
+        "date": [
+          20240805,
+          20250605
+        ],
         "id": 4,
         "poem": "雪いと白う木の末に降りたり。",
         "kana": "ゆきいとしろうきのすゑにふりたり。",
         "honkoku": "雪いとしろうきのすゑにふりたり",
-        "translation-ja": "雪がとても白く梢に降っています。",
-        "translation-en": "Snow fell very white on the treetops."
+        "translation-ja": "雪がとても白く木の梢に降った。",
+        "translation-en": "Snow, very white, has fallen on the treetops.",
+        "phrase-gloss": [
+          {
+            "phrase": "雪いと白う",
+            "gloss": "snow very white.ADV.F",
+            "words": [
+              {
+                "word": "雪",
+                "gloss": "snow"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "白う",
+                "gloss": "white.ADV.F"
+              }
+            ]
+          },
+          {
+            "phrase": "木の末に",
+            "gloss": "tree.GEN tip.LOC",
+            "words": [
+              {
+                "word": "木",
+                "gloss": "tree"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "末",
+                "gloss": "tip"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "降りたり",
+            "gloss": "fall.ADV.F PERF",
+            "words": [
+              {
+                "word": "降り",
+                "gloss": "fall.ADV.F"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "ADV.F": "adverbial form (連用形)",
+          "GEN": "genitive particle (の)",
+          "LOC": "locative particle (に)",
+          "PERF": "perfective (たり: 完了の助動詞)"
+        },
+        "translation-ja-natural": "雪が真っ白に梢に降り積もっている。",
+        "translation-en-natural": "Snow, pure white, is lying on the treetops."
       },
       {
-        "date": "20240805",
+        "date": [
+          20240805,
+          20250605
+        ],
         "id": 5,
         "text": "それを見て、かのゆく人のなかにたゞ一人よみける。",
         "kana": "それをみて、かのゆくひとのなかにたたひとりよみける。",
         "honkoku": "そ/れを見てかのゆく人のなかにたたひ/とりよみける",
         "translation-ja": "それを見て、あの行く人の中でただ一人詠んだ。",
-        "translation-en": "Seeing that, one person among those who were passing by recited a poem."
+        "translation-en": "Seeing that, among those passing by, only one person composed a poem.",
+        "phrase-gloss": [
+          {
+            "phrase": "それを見て",
+            "gloss": "that.ACC see.ADV.F CONJ",
+            "words": [
+              {
+                "word": "それ",
+                "gloss": "that"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "かのゆく人のなかに",
+            "gloss": "that go.ADJ people GEN inside.LOC",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that"
+              },
+              {
+                "word": "ゆく",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "people"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "なか",
+                "gloss": "inside"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "たゞ一人よみける",
+            "gloss": "only one.person compose.poem.ADV.F PAST.ATTR",
+            "words": [
+              {
+                "word": "たゞ",
+                "gloss": "only"
+              },
+              {
+                "word": "一人",
+                "gloss": "one.person"
+              },
+              {
+                "word": "よみ",
+                "gloss": "compose.poem.ADV.F"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "ACC": "accusative particle (を)",
+          "ADV.F": "adverbial form (連用形)",
+          "CONJ": "conjunctive particle (て)",
+          "GEN": "genitive particle (の)",
+          "LOC": "locative particle (に)",
+          "PST.ATTR": "past attributive (ける: 過去の連体形)"
+        },
+        "translation-ja-natural": "その光景を見て、通り過ぎる人たちの中でただ一人が和歌を詠んだ。",
+        "translation-en-natural": "Seeing that scene, only one person among the passersby composed a poem."
       },
       {
-        "date": "20240805",
+        "date": [
+          20240805,
+          20250605
+        ],
         "id": 6,
         "poem": "昨日けふ/雲のたちまひ/かくろふは/花のはやしを/憂しとなりけり",
         "kana": "きのふけふ/くものたちまひ/かくろふは/はなのはやしを/うしとなりけり",
@@ -16953,7 +17192,10 @@
     "romaji": "Sumiyoshi no hama",
     "paragraph": [
       {
-        "date": "20240805,20250527",
+        "date": [
+          20240805,
+          20250527
+        ],
         "id": 1,
         "text": "むかし、男、和泉の国へいきにけり。",
         "kana": "むかし、をとこ、いずみのくにへいきにけり。",
@@ -17035,7 +17277,10 @@
         "translation-en-natural": "Once upon a time, a man set off for the Province of Izumi."
       },
       {
-        "date": "20240805,20250527",
+        "date": [
+          20240805,
+          20250527
+        ],
         "id": 2,
         "text": "住吉の郡、住吉の里、住吉の浜を行くに、いとおもしろければ、降りゐつゝ行く。",
         "kana": "すみよしのこほり、すみよしのさと、すみよしのはまをゆくに、いとおもしろければ、おりゐつつゆく。",
@@ -17164,7 +17409,10 @@
         "translation-en-natural": "As he walked through Sumiyoshi District, Sumiyoshi Village, and Sumiyoshi Beach, the scenery was so beautiful that he dismounted and continued on, occasionally sitting down to enjoy it."
       },
       {
-        "date": "20240807,20250527",
+        "date": [
+          20240807,
+          20250527
+        ],
         "id": 3,
         "text": "ある人が「住吉の浜と詠め」と言ふ。",
         "kana": "あるひとが「すみよしのはまとよめ」といふ。",
@@ -17241,7 +17489,10 @@
         "translation-en-natural": "Someone says, 'Compose a poem about Sumiyoshi Beach.'"
       },
       {
-        "date": "20240807,20250527",
+        "date": [
+          20240807,
+          20250527
+        ],
         "id": 4,
         "poem": "雁鳴きて/菊の花さく/秋はあれど/春のうみべに/住吉の浜",
         "kana": "かりなきて/きくのはなさく/あきはあれど/はるのうみべに/すみよしのはま",
@@ -17363,7 +17614,10 @@
         "translation-en-natural": "Though geese cry and chrysanthemums bloom in autumn, Sumiyoshi Beach carries an air of spring."
       },
       {
-        "date": "20240807,20250527",
+        "date": [
+          20240807,
+          20250527
+        ],
         "id": 5,
         "text": "と詠めりければ、みな人々詠まずなりにけり。",
         "kana": "とよめりければ、みなひとびとよまずなりにけり。",
@@ -17459,7 +17713,10 @@
     "romaji": "Kari no tsukai",
     "paragraph": [
       {
-        "date": "20240809,20250527",
+        "date": [
+          20240809,
+          20250527
+        ],
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
@@ -17504,7 +17761,9 @@
         "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240809",
+        "date": [
+          20240809
+        ],
         "id": 2,
         "text": "その男、伊勢の国に狩の使いにいきけるに、かの伊勢の斎宮なりける人の親、「常の使よりは、この人、よくいたはれ」といひやれりければ、親のことなりければ、いと懇にいたはりけり。",
         "kana": "そのをとこ、いせのくににかりのつかひにいきけるに、かのいせのさいぐうなりけるひとのおや、「つねのつかいよりは、このひと、よくいたはれ」といひやれりければ、おやのことなりければ、いとねんごろにいたはりけり。",
@@ -17741,7 +18000,10 @@
         "translation-en-natural": "When the man went to Ise Province as an envoy for a hunt, the parent of the former Ise shrine maiden said, 'Please treat this person better than the usual envoy,' so, because it was a request from the parent, he was treated with great care."
       },
       {
-        "date": "20240809,20250527",
+        "date": [
+          20240809,
+          20250527
+        ],
         "id": 3,
         "text": "朝には狩にいだし立ててやり、夕さりは帰りつゝそこに来させけり。",
         "kana": "あさにはかりにいだしたててやり、ゆふさりはかへりつつそこにきさせけり。",
@@ -17854,7 +18116,10 @@
         "translation-en-natural": "In the morning, she sent him off to the hunt, and in the evening, she had him stop by there on his way back."
       },
       {
-        "date": "20240809,20250527",
+        "date": [
+          20240809,
+          20250527
+        ],
         "id": 4,
         "text": "かくて懇にいたづきけり。",
         "kana": "かくてねんごろにいたづきけり。",
@@ -17909,7 +18174,9 @@
         "translation-en-natural": "And so, she gave him very attentive care."
       },
       {
-        "date": "20240809",
+        "date": [
+          20240809
+        ],
         "id": 5,
         "text": "二日といふ夜、男、われて「あはむ」といふ。",
         "kana": "ふつかといふよ、をとこ、われて「あはむ」といふ。",
@@ -17991,7 +18258,10 @@
         "translation-en-natural": "On the night of the second day, the man forcefully declared, 'I will meet you.'"
       },
       {
-        "date": "20240809,20250527",
+        "date": [
+          20240809,
+          20250527
+        ],
         "id": 6,
         "text": "女もはた、いと逢はじとも思へらず。",
         "kana": "をんなもはた、いとあはじともおもへらず。",
@@ -18074,7 +18344,10 @@
         "translation-en-natural": "The woman, too, wasn’t firmly thinking she wouldn’t meet him."
       },
       {
-        "date": "20240809,20250527",
+        "date": [
+          20240809,
+          20250527
+        ],
         "id": 7,
         "text": "されど、人目しげければ逢はず。",
         "kana": "されど、ひとめしければあはず。",
@@ -18136,7 +18409,10 @@
         "translation-en-natural": "However, because there were too many onlookers, they did not meet."
       },
       {
-        "date": "20240809,20250527",
+        "date": [
+          20240809,
+          20250527
+        ],
         "id": 8,
         "text": "使実とある人なれば、遠くも宿さず。",
         "kana": "つかひざねとあるひとなれば、とをくもやどさず。",
@@ -18211,7 +18487,10 @@
         "translation-en-natural": "Because he was an official envoy, he did not stay overnight even in distant places."
       },
       {
-        "date": "20240809,20250527",
+        "date": [
+          20240809,
+          20250527
+        ],
         "id": 9,
         "text": "女の寝屋近くありければ、女、人をしづめて、子一つばかりに、男のもとに来たりけり。",
         "kana": "をんなのねやちかくありければ、をんな、ひとをしづめて、こひとつばかりに、をとこのもとにきたりけり。",
@@ -18350,7 +18629,10 @@
         "translation-en-natural": "Since the woman’s bedroom was nearby, she quieted the others and came to the man around one o'clock at night."
       },
       {
-        "date": "20240809,20250527",
+        "date": [
+          20240809,
+          20250527
+        ],
         "id": 10,
         "text": "男はた寝らざりければ、外の方を見いだして臥せるに、月のおぼろなるに、小さき童を先に立てて、人立てり。",
         "kana": "をとこはたねらざりければ、そとのほうをみいだしてふせるに、つきのおぼろなるに、ちいさきわらわをさきにたてて、ひとたてり。",
@@ -18495,7 +18777,10 @@
         "translation-en-natural": "The man, unable to sleep, lay facing outside, and in the dim moonlight, a small child stood ahead, with someone standing there."
       },
       {
-        "date": "20240809,20250527",
+        "date": [
+          20240809,
+          20250527
+        ],
         "id": 11,
         "text": "男いとうれしくて我が寝る所に、率ていり、子一つより丑三つまであるに、まだ何事も語らはぬに、帰りにけり。",
         "kana": "をとこいとうれしくてわがねるところに、ゐていり、こひとつよりうしみつまであるに、まだなにこともかたらはぬに、かへりにけり。",
@@ -18649,7 +18934,9 @@
         "translation-en-natural": "The man, overjoyed, brought her into his bedroom, but even though they stayed from around 1 AM to 3 AM, she left before they could exchange any words."
       },
       {
-        "date": "20240810",
+        "date": [
+          20240810
+        ],
         "id": 12,
         "text": "男いと悲しくて、寝ずなりにけり。",
         "kana": "をとこいとかなしくて、ねずなりにけり。",
@@ -18712,7 +18999,9 @@
         "translation-en-natural": "The man was so sad that in the end, he stayed awake without sleeping."
       },
       {
-        "date": "20240810",
+        "date": [
+          20240810
+        ],
         "id": 13,
         "text": "つとめていぶかしけれど、わが人をやるべきにしもあらねば、いと心もとなくて待ちをれば、明けはなれてしばしあるに、女のもとより言葉はなくて、",
         "kana": "つとめていぶかしけれど、わがひとをやるべきにしもあらねば、いとこころもとなくてまちをれば、あけはなれてしばしあるに、をんなのもとよりことはなくて、",
@@ -18905,7 +19194,9 @@
         "translation-en-natural": "I was anxious since early morning, but it wasn’t exactly my place to send someone to her, so I waited restlessly, and even after dawn had fully broken and some time had passed, no word came from the woman."
       },
       {
-        "date": "20240810",
+        "date": [
+          20240810
+        ],
         "id": 14,
         "poem": "君やこし/我や行きけむ/おもほえず/夢かうつゝか/寝てか醒めてか",
         "kana": "きみやこし/われやいきけむ/おもほえず/ゆめかうつつか/ねてかさめてか",
@@ -19035,7 +19326,10 @@
         "translation-en-natural": "Did you come, or did I go? Without realizing, is this a dream or reality, am I asleep or awake?"
       },
       {
-        "date": "20240810,20250527",
+        "date": [
+          20240810,
+          20250527
+        ],
         "id": 15,
         "text": "男いといたう泣きてよめる。",
         "kana": "をとこいといたうなきてよめる。",
@@ -19094,7 +19388,10 @@
         "translation-en-natural": "The man, weeping deeply, composed a poem."
       },
       {
-        "date": "20240810,20250527",
+        "date": [
+          20240810,
+          20250527
+        ],
         "id": 16,
         "poem": "かきくらす/心の闇に/まどひにき/夢現とは/こよひ定めよ",
         "kana": "かきくらす/こころのやみに/まどひにき/ゆめうつつとは/こよひさだめよ",
@@ -28281,13 +28578,93 @@
         "translation-en-natural": "Once upon a time, there was a prince known as Koretaka."
       },
       {
-        "date": "20240821",
+        "date": [
+          20240821,
+          20250605
+        ],
         "id": 2,
         "text": "山崎のあなたに、水無瀬といふ所に、宮ありけり。",
         "kana": "やまさきのあなたに、みなせといふところに、みやありけり。",
         "honkoku": "山さきのあなたにみなせ/といふところに宮ありけり",
-        "translation-ja": "山崎の向こう、水無瀬というところに宮がありました。",
-        "translation-en": "On the other side of Yamazaki, there was a palace at Minase."
+        "translation-ja": "山崎の彼方に、水無瀬という所に、宮があった。",
+        "translation-en": "On the far side of Yamazaki, in the place called Minase, there was a palace.",
+        "phrase-gloss": [
+          {
+            "phrase": "山崎のあなたに",
+            "gloss": "Yamazaki.PN GEN far.side.LOC",
+            "words": [
+              {
+                "word": "山崎",
+                "gloss": "Yamazaki.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "あなた",
+                "gloss": "far.side"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "水無瀬といふ所に",
+            "gloss": "Minase.PN QUOT say place.LOC",
+            "words": [
+              {
+                "word": "水無瀬",
+                "gloss": "Minase.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "宮ありけり",
+            "gloss": "palace exist.PAST.REP",
+            "words": [
+              {
+                "word": "宮",
+                "gloss": "palace"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "PAST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "PN": "proper noun (固有名詞)",
+          "GEN": "genitive particle (の)",
+          "LOC": "locative particle (に)",
+          "QUOT": "quotative particle (と)",
+          "PAST.REP": "past tense, reported (けり: 過去の伝聞・詠嘆)"
+        },
+        "translation-ja-natural": "山崎の向こう側、水無瀬という場所に宮殿があった。",
+        "translation-en-natural": "Beyond Yamazaki, there was a palace at a place called Minase."
       },
       {
         "date": "20240821",
