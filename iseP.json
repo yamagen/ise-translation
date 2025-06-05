@@ -15036,7 +15036,7 @@
               },
               {
                 "word": "まかで",
-                "gloss": "leave (HUM)"
+                "gloss": "leave.HUM"
               },
               {
                 "word": "させ",
@@ -26827,7 +26827,11 @@
     "romaji": "otorohe taru ie",
     "paragraph": [
       {
-        "date": "20240819,20250602",
+        "date": [
+          20240819,
+          20250602,
+          20250605
+        ],
         "id": 1,
         "text": "むかし、おとろへたる家に、藤の花植ゑたる人ありけり。",
         "kana": "むかし、おとろへたるいへに、ふじのはなうゑたるひとありけり。",
@@ -27221,13 +27225,65 @@
     "romaji": "shiohama",
     "paragraph": [
       {
-        "date": "20240820",
+        "date": [
+          20240820,
+          20250603
+        ],
         "id": 1,
         "text": "むかし、左のおほいまうちぎみいまそがりけり。",
         "kana": "むかし、ひだりのおほいまうちぎみいまそがりけり。",
         "honkoku": "むかし左のおほいまうちきみいまそかり/けり",
-        "translation-ja": "昔、左大臣がいらっしゃいました。",
-        "translation-en": "Once upon a time, there was a left minister."
+        "translation-ja": "昔、左大臣がいらっしゃった。",
+        "translation-en": "Once upon a time, there was a left minister.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし",
+            "gloss": "once.upon.a.time",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once.upon.a.time"
+              }
+            ]
+          },
+          {
+            "phrase": "左のおほいまうちぎみ",
+            "gloss": "left-minister",
+            "words": [
+              {
+                "word": "左",
+                "gloss": "left"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "おほいまうちぎみ",
+                "gloss": "minister"
+              }
+            ]
+          },
+          {
+            "phrase": "いまそがりけり",
+            "gloss": "reside-PST.REP",
+            "words": [
+              {
+                "word": "いまそがり",
+                "gloss": "reside"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "PST.REP": "past reported（過去伝聞の助動詞『けり』）"
+        },
+        "translation-ja-natural": "昔、左大臣がいらっしゃった。",
+        "translation-en-natural": "Once upon a time, there was a left minister."
       },
       {
         "date": "20240820",
@@ -27239,67 +27295,894 @@
         "translation-en": "He built a very interesting house near the Kamogawa River, around Rokujyo, and lived there."
       },
       {
-        "date": "20240820",
+        "date": [
+          20240820,
+          20250603
+        ],
         "id": 3,
         "text": "十月のつごもりがた、菊の花うつろひさかりなるに、もみぢのちぐさに見ゆるをり、親王たちおはしまさせて、夜ひと夜、酒飲みし遊びて、夜明けもてゆくほどに、この殿のおもしろきをほむる歌よむ。",
         "kana": "かんなづきのつごもりがた、きくのはなうつろひさかりなるに、もみぢのちぐさにみゆるをり、みこたちおはしまさせて、よひとよ、さけのみしあそびて、よあけもてゆくほとに、このとのおもしろきをほむるうたよむ。",
         "honkoku": "神/ な月のつこもりかた菊の花うつろひさか/りなるに紅葉のちくさに見ゆるおりみこ/たちおはしまさせてよひと夜さけのみし/あそひて夜あけもてゆくほとにこのとの/のおもしろきをほむるうたよむ",
         "translation-ja": "十月の末頃、菊の花が色あせて盛りを過ぎた時期に、紅葉の色々な種類が見える折に、親王たちがお越しになり、一晩中酒を飲んで遊び、夜明けに近づく頃に、この殿の風雅を称賛する歌を詠んだ。",
-        "translation-en": "Towards the end of October, when the chrysanthemums were fading and had passed their peak, and the various hues of autumn leaves could be seen, the princes arrived, and as they drank and played throughout the night, they sang songs praising the elegance of this lord's residence as dawn approached."
+        "translation-en": "Towards the end of October, when the chrysanthemums were fading and had passed their peak, and the various hues of autumn leaves could be seen, the princes arrived, and as they drank and played throughout the night, they sang songs praising the elegance of this lord's residence as dawn approached.",
+        "phrase-gloss": [
+          {
+            "phrase": "十月のつごもりがた",
+            "gloss": "October.GEN late.end time",
+            "words": [
+              {
+                "word": "十月",
+                "gloss": "October.GEN"
+              },
+              {
+                "word": "つごもり",
+                "gloss": "late.end"
+              },
+              {
+                "word": "がた",
+                "gloss": "time"
+              }
+            ]
+          },
+          {
+            "phrase": "菊の花うつろひさかりなるに",
+            "gloss": "chrysanthemums GEN flower fade.ADV.F peak.ADV.F be.PERF.ATTR DAT",
+            "words": [
+              {
+                "word": "菊",
+                "gloss": "chrysanthemums"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "花",
+                "gloss": "flower"
+              },
+              {
+                "word": "うつろひ",
+                "gloss": "fade.ADV.F"
+              },
+              {
+                "word": "さかり",
+                "gloss": "peak.ADV.F"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.PERF.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "もみぢのちぐさに見ゆるをり",
+            "gloss": "maple.GEN various.leaves DAT see.PASS.ATTR time",
+            "words": [
+              {
+                "word": "もみぢ",
+                "gloss": "maple"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ちぐさ",
+                "gloss": "various.leaves"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "見ゆる",
+                "gloss": "see.SPONT.ATTR"
+              },
+              {
+                "word": "をり",
+                "gloss": "time"
+              }
+            ]
+          },
+          {
+            "phrase": "親王たちおはしまさせて",
+            "gloss": "prince.PL arrive.HON CONJ",
+            "words": [
+              {
+                "word": "親王",
+                "gloss": "prince"
+              },
+              {
+                "word": "たち",
+                "gloss": "PL"
+              },
+              {
+                "word": "おはしまさせ",
+                "gloss": "arrive.HON"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "夜ひと夜、酒飲みし遊びて",
+            "gloss": "night one.night sake drink do.PAST playing CONJ",
+            "words": [
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "ひと夜",
+                "gloss": "one.night"
+              },
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "飲み",
+                "gloss": "drink.ADV.F"
+              },
+              {
+                "word": "し",
+                "gloss": "do.PAST"
+              },
+              {
+                "word": "遊び",
+                "gloss": "play.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "夜明けもてゆくほどに",
+            "gloss": "dawn toward go time.DAT",
+            "words": [
+              {
+                "word": "夜明け",
+                "gloss": "dawn"
+              },
+              {
+                "word": "もて",
+                "gloss": "toward"
+              },
+              {
+                "word": "ゆく",
+                "gloss": "go"
+              },
+              {
+                "word": "ほど",
+                "gloss": "time"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "この殿のおもしろきをほむる歌よむ",
+            "gloss": "this.lord.GEN elegance.ACC praise song compose",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "殿",
+                "gloss": "lord.GEN"
+              },
+              {
+                "word": "おもしろき",
+                "gloss": "elegance.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "ほむる",
+                "gloss": "praise"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "よむ",
+                "gloss": "compose"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive（〜の）",
+          "ACC": "accusative（〜を）",
+          "DAT": "dative（〜に、〜で）",
+          "ADV.F": "adverbial form（連用形）",
+          "PERF.ATTR": "perfective attributive（完了・連体形）",
+          "PASS": "passive（受身）",
+          "ATTR": "attributive（連体形）",
+          "PL": "plural（複数）",
+          "HON": "honorific（敬語）",
+          "CONJ": "conjunctive（接続助詞：〜て）",
+          "PAST": "past（過去形）"
+        },
+        "translation-ja-natural": "十月の末頃、菊の花は色あせ盛りを過ぎ、紅葉のさまざまな色が見える頃、親王たちが訪れ、一晩中酒を飲んで遊び、夜明けが近づく頃、この殿の風雅さを褒めた歌を詠んだ。",
+        "translation-en-natural": "Around the end of October, when the chrysanthemums had faded past their peak and the various colors of autumn leaves could be seen, the princes visited, and after a night of drinking and merrymaking, as dawn approached, they composed poems praising the elegance of this lord."
       },
       {
-        "date": "20240820",
+        "date": [
+          20240820,
+          20250603
+        ],
         "id": 4,
         "text": "そこにありけるかたゐおきな板敷のしたにはひ歩きて、人にみなよませはててよめる。",
         "kana": "そこにありけるかたゐおきないたしきのしたにはひありきて、ひとにみなよませはててよめる。",
         "honkoku": "そこにあ/りけるかたゐおきなたいしきのしたには/s90l/ひありきて人にみなよませはててよめる/",
         "translation-ja": "そこにいたこじきの老人が、板敷の下を這い回り、人々にすべて和歌を詠ませてから、自分で詠んだ。",
-        "translation-en": "A beggar who was there crawled under the wooden flooring, and after having everyone recite their poems, he composed his own."
+        "translation-en": "A beggar who was there crawled under the wooden flooring, and after having everyone recite their poems, he composed his own.",
+        "phrase-gloss": [
+          {
+            "phrase": "そこにありけるかたゐおきな",
+            "gloss": "there.LOC exist.PST.REP beggar old.man",
+            "words": [
+              {
+                "word": "そこ",
+                "gloss": "there.LOC"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV.F"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.REP"
+              },
+              {
+                "word": "かたゐ",
+                "gloss": "beggar"
+              },
+              {
+                "word": "おきな",
+                "gloss": "old.man"
+              }
+            ]
+          },
+          {
+            "phrase": "板敷のしたにはひ歩きて",
+            "gloss": "wooden.floor.GEN under.LOC crawl walk CONJ",
+            "words": [
+              {
+                "word": "板敷",
+                "gloss": "wooden.floor"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "した",
+                "gloss": "under"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "はひ",
+                "gloss": "crawl.ADV.F"
+              },
+              {
+                "word": "歩き",
+                "gloss": "walk.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "人にみなよませはてて",
+            "gloss": "person.DAT all recite.CAUS finish CONJ",
+            "words": [
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "みな",
+                "gloss": "all"
+              },
+              {
+                "word": "よま",
+                "gloss": "recite.ADV.F"
+              },
+              {
+                "word": "せ",
+                "gloss": "CAUS.ADV.F"
+              },
+              {
+                "word": "はて",
+                "gloss": "finish.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "よめる",
+            "gloss": "compose.ATTR",
+            "words": [
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS.F"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "LOC": "locative（場所）: ～に、～で",
+          "GEN": "genitive（所有・連体）: ～の",
+          "PST.REP": "past, reported（過去・伝聞）: けり、ける",
+          "CONJ": "conjunctive（接続助詞）: ～て",
+          "CAUS": "causative（使役）: ～せる、～させる",
+          "DAT": "dative（与格）: ～に、～へ",
+          "ATTR": "attributive（連体形）: ～る、～た",
+          "all": "全て・みな",
+          "finish": "終える、仕上げる",
+          "crawl": "這う",
+          "walk": "歩く",
+          "compose": "詠む、作る"
+        },
+        "translation-ja-natural": "そこにいたこじきの老人は、板敷の下を這い回り、みんなに歌を詠ませてから、最後に自分でも詠んた。",
+        "translation-en-natural": "The beggar who was there crawled around under the wooden floor, had everyone else recite their poems, and finally composed one himself."
       },
       {
-        "date": "20240820",
+        "date": [
+          20240820,
+          20250603
+        ],
         "id": 5,
         "poem": "塩竃に/いつか来にけむ/朝なぎに/釣する船は/ここによらなむ",
         "kana": "しほがまに/いつかきにけむ/あさなぎに/つりするふねは/ここによらなむ",
         "honkoku": "しほかまにいつかきにけんあさなきに/つりする舟はここによらなん/",
-        "translation-ja": "塩釜にいつの間に来たのだろうか。朝の静かな海で釣りをしている船は、どうかこちらに寄ってほしい。",
-        "translation-en": "When did I arrive at Shiogama? The fishing boat on the calm morning sea. please, come closer here."
+        "translation-ja": "塩釜にいつ来たのだろう。朝の静かな海で釣りをしている船よ、どうかここに寄ってほしい。",
+        "translation-en": "When did the fishing boat come to Shiogama? On the calm morning sea, O fishing boat—please come over here.",
+        "phrase-gloss": [
+          {
+            "phrase": "塩竃に",
+            "gloss": "Shiogama.LOC",
+            "words": [
+              {
+                "word": "塩竃",
+                "gloss": "Shiogama"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "いつか来にけむ",
+            "gloss": "when.Q come.ADV.F PERF.ADV.F PST.SUP",
+            "words": [
+              {
+                "word": "いつ",
+                "gloss": "when"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              },
+              {
+                "word": "来",
+                "gloss": "come.ADV.F"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV.F"
+              },
+              {
+                "word": "けむ",
+                "gloss": "PST.SUP"
+              }
+            ]
+          },
+          {
+            "phrase": "朝なぎに",
+            "gloss": "morning.calm.LOC",
+            "words": [
+              {
+                "word": "朝なぎ",
+                "gloss": "morning.calm"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "釣する船は",
+            "gloss": "fishing do.ATTR boat TOP",
+            "words": [
+              {
+                "word": "釣",
+                "gloss": "fishing"
+              },
+              {
+                "word": "する",
+                "gloss": "do.ATTR"
+              },
+              {
+                "word": "船",
+                "gloss": "boat"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "ここによらなむ",
+            "gloss": "here.LOC approach.WISH",
+            "words": [
+              {
+                "word": "ここ",
+                "gloss": "here"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "よら",
+                "gloss": "approach.NEG.BASE"
+              },
+              {
+                "word": "なむ",
+                "gloss": "WISH"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "LOC": "locative（場所：〜に、〜で）",
+          "Q": "interrogative（疑問：誰・何・どこ・か など）",
+          "ADV.F": "adverbial form（連用形）",
+          "PST.REP": "past, reported（過去・伝聞：けり、ける）",
+          "SUP": "suppositive（推量：む）",
+          "morning.calm": "朝の凪（波のない静かな海）",
+          "TOP": "topic marker（主題：〜は）",
+          "WISH": "wish/desiderative（願望：なむ）"
+        },
+        "translation-ja-natural": "塩釜にいつ来たのだろう。朝の凪に釣りをしている船よ、どうかこちらに寄ってほしい。",
+        "translation-en-natural": "I wonder when a fishing boat came to Shiogama. O fishing boat on the calm morning sea, I hope you will come closer here."
       },
       {
-        "date": "20240820",
+        "date": [
+          20240820,
+          20250603
+        ],
         "id": 6,
         "text": "となむよみけるは。",
         "kana": "となむよみけるは。",
         "honkoku": "となむよみける",
         "translation-ja": "と詠みました。",
-        "translation-en": "He sang it."
+        "translation-en": "He sang it.",
+        "phrase-gloss": [
+          {
+            "phrase": "となむよみけるは",
+            "gloss": "QUOT EMPH compose.PST.REP TOP",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "よみ",
+                "gloss": "compose.ADV.F"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.REP"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "QUOT": "quotative（引用：と）",
+          "PART": "particle（助詞）",
+          "PST.REP": "past, reported（過去・伝聞：けり、ける）",
+          "ADV.F": "adverbial form（連用形）",
+          "TOP": "topic marker（主題：〜は）"
+        },
+        "translation-ja-natural": "と詠んた。",
+        "translation-en-natural": "He composed it."
       },
       {
-        "date": "20240820",
+        "date": [
+          20240820,
+          20250603
+        ],
         "id": 7,
         "text": "陸奥の国にいきたりけるに、あやしくおもしろき所々多かりけり。",
         "kana": "みちのくのくににいきたりけるに、あやしくおもしろきところどころおほかりけり。",
         "honkoku": "みちのくににいきたりけ/るにあやしくおもしろきところところおほ/かりけり",
-        "translation-ja": "陸奥の国に行ったところ、不思議で趣のある場所がたくさんありました。",
-        "translation-en": "When he went to the province of Mutsu, he found many mysterious and charming places."
+        "translation-ja": "陸奥の国に行ったとき、不思議に趣のある場所々が多かった。",
+        "translation-en": "When he went to the province of Mutsu, there were many places that were strangely charming.",
+        "phrase-gloss": [
+          {
+            "phrase": "陸奥の国に",
+            "gloss": "Mutsu.GEN province.LOC",
+            "words": [
+              {
+                "word": "陸奥",
+                "gloss": "Mutsu.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "国",
+                "gloss": "province"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "いきたりけるに",
+            "gloss": "go.ADV.F finish.PERF.PST.REP when",
+            "words": [
+              {
+                "word": "いき",
+                "gloss": "go.ADV.F"
+              },
+              {
+                "word": "たり",
+                "gloss": "finish.PERF"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.REP"
+              },
+              {
+                "word": "に",
+                "gloss": "when"
+              }
+            ]
+          },
+          {
+            "phrase": "あやしくおもしろき所々",
+            "gloss": "strangely charming.ATTR places.PL",
+            "words": [
+              {
+                "word": "あやしく",
+                "gloss": "strangely"
+              },
+              {
+                "word": "おもしろき",
+                "gloss": "charming.ATTR"
+              },
+              {
+                "word": "所々",
+                "gloss": "places.PL"
+              }
+            ]
+          },
+          {
+            "phrase": "多かりけり",
+            "gloss": "many.EXIST.PST.REP",
+            "words": [
+              {
+                "word": "多かり",
+                "gloss": "many.EXIST"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive（～の）",
+          "LOC": "locative（～に、～で）",
+          "ADV.F": "adverbial form（連用形）",
+          "PERF": "perfective（完了：～たり、～ぬ）",
+          "PST.REP": "past, reported（過去・伝聞：けり）",
+          "ATTR": "attributive（連体形）",
+          "PL": "plural（複数）",
+          "EXIST": "existential（存在を表す補助動詞：あり、たり）"
+        },
+        "translation-ja-natural": "陸奥の国に行ってみると、不思議で趣のある場所がたくさんあった。",
+        "translation-en-natural": "When he visited Mutsu Province, he found many mysterious and beautiful places."
       },
       {
-        "date": "20240820",
+        "date": [
+          20240820,
+          20250603
+        ],
         "id": 8,
         "text": "わがみかど六十余国のなかに、塩竃といふ所に似たる所なかりけり。",
         "kana": "わがみかどろくじうよこくのなかに、しほがまといふところににたるところなかりけり。",
         "honkoku": "わかみかと六十よ国のなかにし/ほかまといふ所ににたる所なかりけり",
-        "translation-ja": "わが御門の六十余国の中に、塩竃という所に似た場所はありませんでした。",
-        "translation-en": "Among the sixty-odd provinces of my country, there was no place that resembled Shiogama."
+        "translation-ja": "わが御門の六十余国の中に、塩竃という所に似た場所はなかった。",
+        "translation-en": "Among the sixty-odd provinces of my sovereign, there was no place like the one called Shiogama.",
+        "phrase-gloss": [
+          {
+            "phrase": "わがみかど六十余国のなかに",
+            "gloss": "my.sovereign sixty-odd.provinces.GEN inside.LOC",
+            "words": [
+              {
+                "word": "わが",
+                "gloss": "my"
+              },
+              {
+                "word": "みかど",
+                "gloss": "sovereign"
+              },
+              {
+                "word": "六十余国",
+                "gloss": "sixty-odd.provinces"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "なか",
+                "gloss": "inside"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "塩竃といふ所に",
+            "gloss": "Shiogama.QUOT say.PLACE.LOC",
+            "words": [
+              {
+                "word": "塩竃",
+                "gloss": "Shiogama.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              },
+              {
+                "word": "所",
+                "gloss": "PLACE"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "似たる所",
+            "gloss": "resemble.PERF.ATTR place",
+            "words": [
+              {
+                "word": "似",
+                "gloss": "resemble.ADV.F"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              }
+            ]
+          },
+          {
+            "phrase": "なかりけり",
+            "gloss": "NEG.EXIST.PST.REP",
+            "words": [
+              {
+                "word": "なかり",
+                "gloss": "NEG.EXIST.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive（〜の）",
+          "LOC": "locative（〜に、〜で）",
+          "QUOT": "quotative（引用：〜と）",
+          "PERF.ATTR": "perfective attributive（完了・連体形：〜たる）",
+          "PST.REP": "past, reported（過去・伝聞：けり）",
+          "NEG.EXIST": "negative existential（存在しない：なかり）"
+        },
+        "translation-ja-natural": "日本の六十余国の中で、塩竃のような場所は他にありませんでした。",
+        "translation-en-natural": "Among all the sixty-odd provinces of Japan, there was no place like Shiogama."
       },
       {
-        "date": "20240820",
+        "date": [
+          20240820,
+          20250605
+        ],
         "id": 9,
         "text": "さればなむ、かのおきな、さらにここをめでて、塩竃にいつか来にけむとよめりける。",
         "kana": "さればなむ、かのおきな、さらにここをめでて、しほがまにいつかきにけむとよめりける。",
         "honkoku": "さ/れはなむかのおきなさらにここをめてて/しほかまにいつかきにけんとよめりける/s91r/",
-        "translation-ja": "だからこそ、あの老人は、さらにこの場所を称賛して、「塩竃にいつの間に来てしまったのだろうか」と詠んだのだ。",
-        "translation-en": "That is why the old man praised this place even more and composed the poem, \"I did not realize that I had arrived at Shiogama.\""
+        "translation-ja": "それゆえ、あの老人は、さらにこの場所を愛でて、「塩竃にいつか来にけむ」と詠んだのであった。",
+        "translation-en": "Therefore, that old man admired this place even more and composed the poem, 'When did I come to Shiogama, I wonder?'",
+        "phrase-gloss": [
+          {
+            "phrase": "さればなむ",
+            "gloss": "therefore FOC",
+            "words": [
+              {
+                "word": "されば",
+                "gloss": "therefore"
+              },
+              {
+                "word": "なむ",
+                "gloss": "FOC"
+              }
+            ]
+          },
+          {
+            "phrase": "かのおきな",
+            "gloss": "that old-man",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that"
+              },
+              {
+                "word": "おきな",
+                "gloss": "old-man"
+              }
+            ]
+          },
+          {
+            "phrase": "さらにここをめでて",
+            "gloss": "even more this-place ACC admire-CONJ",
+            "words": [
+              {
+                "word": "さらに",
+                "gloss": "even more"
+              },
+              {
+                "word": "ここ",
+                "gloss": "this place"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "めで",
+                "gloss": "admire.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "塩竃にいつか来にけむ",
+            "gloss": "Shiogama.PN DAT when come.PFV.MOD SUP",
+            "words": [
+              {
+                "word": "塩竃",
+                "gloss": "Shiogama.PN"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "いつか",
+                "gloss": "when"
+              },
+              {
+                "word": "来",
+                "gloss": "come"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV.F"
+              },
+              {
+                "word": "けむ",
+                "gloss": "MOD.PST.SUP"
+              }
+            ]
+          },
+          {
+            "phrase": "とよめりける",
+            "gloss": "QUOT compose.PFV.PST",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.PFV"
+              },
+              {
+                "word": "り",
+                "gloss": "AUX"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "FOC": "focus particle（係助詞なむ：強調）",
+          "ACC": "accusative particle（を）",
+          "CONJ": "conjunctive ending（て）",
+          "DAT": "dative particle（に）",
+          "QUOT": "quotative particle（と）",
+          "PERF": "perfective（完了：に）",
+          "MOD.PST.SUP": "modal: past supposition（過去推量の助動詞「けむ」）",
+          "AUX": "auxiliary verb（り：完了の助動詞）",
+          "PST": "past tense（ける：過去の助動詞）",
+          "PN": "proper noun（固有名詞）"
+        },
+        "translation-ja-natural": "だからこそ、あの老人はさらにこの場所を称賛して、『塩竃に、いつの間に来てしまったのだろうか』と詠んだのだった。",
+        "translation-en-natural": "That is why the old man admired this place even more and composed the poem, 'When did I end up coming to Shiogama?'"
       }
     ]
   },
@@ -27309,13 +28192,93 @@
     "romaji": "nagisa no in",
     "paragraph": [
       {
-        "date": "20240821",
+        "date": [
+          20240821,
+          20250605
+        ],
         "id": 1,
         "text": "むかし、惟喬の親王と申すみこおはしましけり。",
         "kana": "むかし、これたかのみこうともうすみこおはしましけり。",
         "honkoku": "むかしこれたかのみこと申すみこおは/しましけり",
-        "translation-ja": "昔、惟喬の親王という皇子がいらっしゃいました。",
-        "translation-en": "Once upon a time, there was a prince named Koretaka."
+        "translation-ja": "昔、惟喬の親王と呼ばれる皇子がいらっしゃった。",
+        "translation-en": "Once upon a time, there was a prince called Koretaka.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし",
+            "gloss": "once upon a time",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once upon a time"
+              }
+            ]
+          },
+          {
+            "phrase": "惟喬の親王",
+            "gloss": "Prince Koretaka.PN",
+            "words": [
+              {
+                "word": "惟喬",
+                "gloss": "Koretaka.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "親王",
+                "gloss": "prince"
+              }
+            ]
+          },
+          {
+            "phrase": "と申す",
+            "gloss": "is called",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "申す",
+                "gloss": "call.HUM"
+              }
+            ]
+          },
+          {
+            "phrase": "みこおはしましけり",
+            "gloss": "prince was",
+            "words": [
+              {
+                "word": "みこ",
+                "gloss": "prince"
+              },
+              {
+                "word": "おはし",
+                "gloss": "be.HON.ADV.F"
+              },
+              {
+                "word": "まし",
+                "gloss": "POL"
+              },
+              {
+                "word": "けり",
+                "gloss": "PAST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "PN": "proper noun（固有名詞）",
+          "GEN": "genitive（所有・連体：〜の）",
+          "QUOT": "quotative（引用：と）",
+          "HUM": "humble（謙譲語：申す）",
+          "be.HON.ADV.F": "honorific verb (連用形)（おはす）",
+          "POL": "polite (丁寧語：まし)",
+          "PAST.REP": "past, reported (過去・伝聞：けり)"
+        },
+        "translation-ja-natural": "昔、惟喬の親王と呼ばれる皇子がいらっしゃった。",
+        "translation-en-natural": "Once upon a time, there was a prince known as Koretaka."
       },
       {
         "date": "20240821",
