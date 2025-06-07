@@ -12294,7 +12294,11 @@
     "romaji": "Tamamisudare",
     "paragraph": [
       {
-        "date": "20240722,20250214,20250511",
+        "date": [
+          20240722,
+          20250214,
+          20250511
+        ],
         "id": 1,
         "text": "むかし、男、みそかに語らふわざもせざりせば、いづくなりけむ、あやしさによめる。",
         "kana": "むかし、をとこ、みそかにかたらふわざもせざりせば、いづくなりけむ、けしさによめる。",
@@ -12408,7 +12412,11 @@
         "translation-en-natural": "Once upon a time, a man did not engage in secret conversations; where could she have been? He wondered and composed a poem."
       },
       {
-        "date": "20240722,20250214,20250511",
+        "date": [
+          20240722,
+          20250214,
+          20250511
+        ],
         "id": 2,
         "poem": "吹く風に/わが身をなさば/玉すだれ/ひま求めつつ/入るべきものを",
         "kana": "ふくかぜに/わがみをなさば/たますだれ/ひまもとめつつ/いるべきものを",
@@ -12523,7 +12531,11 @@
         "translation-en-natural": "If I could be the wind that blows, I would seek to enter through the jeweled blinds, looking for a gap."
       },
       {
-        "date": "20240722,20250214,20250511",
+        "date": [
+          20240722,
+          20250214,
+          20250511
+        ],
         "id": 3,
         "text": "返し、",
         "kana": "かへし、",
@@ -12549,7 +12561,11 @@
         "translation-en-natural": "The reply,"
       },
       {
-        "date": "20240722,20250214,20250511",
+        "date": [
+          20240722,
+          20250214,
+          20250511
+        ],
         "id": 4,
         "poem": "とりとめぬ/風にはありとも/玉すだれ/たが許さば/かひ求むべき",
         "kana": "とりとめぬ/かぜにはありとも/たますだれ/たがゆるさば/かひもとむべき",
@@ -12684,7 +12700,11 @@
     "romaji": "Ariwara no nari keru otoko",
     "paragraph": [
       {
-        "date": "20240723,20250214,20250512",
+        "date": [
+          20240723,
+          20250214,
+          20250512
+        ],
         "id": 1,
         "text": "むかし、おほやけ思してつかうたまふ女の、色ゆるされたるありけり。",
         "kana": "むかし、おほやけおぼしてつかうたまふをんなの、いろゆるされたるありけり。",
@@ -12880,7 +12900,11 @@
         "translation-en-natural": "She was a cousin of one who was referred to as Ōmiyasudokoro and resided as such."
       },
       {
-        "date": "20240723,20250214,20250512",
+        "date": [
+          20240723,
+          20250214,
+          20250512
+        ],
         "id": 3,
         "text": "殿上にさぶらひける在原なりける男の、まだいと若かりけるを、この女あひしりたりけり。",
         "kana": "てんじやうにさぶらひけるありわらなりけるをとこの、まだいとわかかりけるを、このをんなあひしりたりけり。",
@@ -13006,7 +13030,11 @@
         "translation-en-natural": "A man of the Ariwara clan who served in the imperial hall, though still very young—this woman had known him."
       },
       {
-        "date": "20240723,20250214,20250512",
+        "date": [
+          20240723,
+          20250214,
+          20250512
+        ],
         "id": 4,
         "text": "男、女がたゆるされたりければ、女のある所に来てむかひをりければ、",
         "kana": "をとこ、をんながたゆるされたりければ、をんなのあるとこにきてむかひをりければ、",
@@ -13129,7 +13157,10 @@
         "translation-en-natural": "The man, having received permission from the woman's side, came to where she was and sat down facing her."
       },
       {
-        "date": "20240723,20250214",
+        "date": [
+          20240723,
+          20250214
+        ],
         "id": 5,
         "text": "女、「いとかたはなり。身も亡びなむ。かくなせそ」といひければ、",
         "kana": "をんな、「いとかたはなり。みもほろびなむ。かくなせそ」といひければ、",
@@ -13277,7 +13308,11 @@
         ]
       },
       {
-        "date": "20240723,20250214,20250514",
+        "date": [
+          20240723,
+          20250214,
+          20250514
+        ],
         "id": 6,
         "poem": "思ふには/しのぶることぞ/まけにける/あふにしかへば/さもあらばあれ",
         "kana": "おもふには/しのぶることぞ/まけにける/あふにしかへば/さもあらばあれ",
@@ -13402,7 +13437,11 @@
         "translation-en-natural": "When I think of it, I realize my will to endure has been defeated. If I’ve chosen to meet you instead, then let whatever happens, happen."
       },
       {
-        "date": "20240723,20250214,20250515",
+        "date": [
+          20240723,
+          20250214,
+          20250515
+        ],
         "id": 7,
         "text": "といひて、曹司におりたまへれば、例の、このみ曹司には、人の見るをもしらでのぼりゐければ、この女思ひわびて里へゆく。",
         "kana": "といひて、ざうしにおりたまへれば、たとえの、このみざうしには、ひとのみるをもしらでのぼりゐければ、このをんなおもひわびてさとへゆく。",
@@ -13592,7 +13631,11 @@
         ]
       },
       {
-        "date": "20240723,20250214,20250516",
+        "date": [
+          20240723,
+          20250214,
+          20250516
+        ],
         "id": 8,
         "text": "されば、なにの、よきこと、と思ひて、いきかよひければ、みな人聞きて笑ひけり。",
         "kana": "されば、なにの、よきこと、とおもひて、いきかよひければ、みなひとききてわらひけり。",
@@ -13716,7 +13759,11 @@
         ]
       },
       {
-        "date": "20240723,20250214,20250516",
+        "date": [
+          20240723,
+          20250214,
+          20250516
+        ],
         "id": 9,
         "text": "つとめて主殿司の見るに、沓はとりて奥になげ入れてのぼりぬ。",
         "kana": "つとめてとのもづかさのみるに、くつはとりておくになけいれてのぼりぬ。",
@@ -13844,7 +13891,11 @@
         "translation-en-natural": "Early that morning, when the palace steward looked, the shoes had been tossed into the inner room, and someone had already gone inside."
       },
       {
-        "date": "20240723,20250214,20250516",
+        "date": [
+          20240723,
+          20250214,
+          20250516
+        ],
         "id": 10,
         "text": "かくかたはにしつつありわたるに、身もいたづらになりぬべければつひに亡びぬべし、とて、",
         "kana": "かくかたはにしつつありわたるに、みもいたづらになりぬべければつひにほろびぬべし、とて、",
@@ -13994,7 +14045,11 @@
         "translation-en-natural": "As he went on living day after day in such a wretched state, he feared that even his own body would become useless, and that in the end, he would truly perish—thinking so, he..."
       },
       {
-        "date": "20240723,20250214,20250516",
+        "date": [
+          20240723,
+          20250214,
+          20250516
+        ],
         "id": 11,
         "text": "この男、「いかにせむ。わがかかる心やめたまへ」と、仏神にも申しけれど、",
         "kana": "このをとこ、「いかにせむ。わがかかるこころやめたまへ」と、ほとけかみにももうしけれど、",
@@ -14138,7 +14193,11 @@
         ]
       },
       {
-        "date": "20240723,20250214,20250516",
+        "date": [
+          20240723,
+          20250214,
+          20250516
+        ],
         "id": 12,
         "text": "いやまさりにのみおぼえつつ、なほわりなく恋しうのみおぼえければ、陰陽師、神巫よびて、恋せじといふ祓への具してなむいきける。",
         "kana": "いやまさりにのみおぼえつつ、なほわりなくこひしうのみおぼえければ、おんやうじ、かむなぎよびて、こいせじといふはらへのぐしてなむいきける。",
@@ -14319,7 +14378,11 @@
         ]
       },
       {
-        "date": "20240723,20250214,20250517",
+        "date": [
+          20240723,
+          20250214,
+          20250517
+        ],
         "id": 13,
         "text": "祓へけるままに、いとど悲しきこと数まさりて、ありしよりけに恋しくのみおぼえければ、",
         "kana": "はらへけるままに、いとどかなしきことかぞまさりて、ありしよりけにこひしくのみおぼえければ、",
@@ -14433,7 +14496,11 @@
         "translation-en-natural": "Even after performing the purification, his sorrow only deepened, and he found himself feeling even more in love than before."
       },
       {
-        "date": "20240723,20250214,20250518",
+        "date": [
+          20240723,
+          20250214,
+          20250518
+        ],
         "id": 14,
         "poem": "恋せじと/みたらし河に/せしみそぎ/神はうけずも/なりにけるかな",
         "kana": "こいせじと/みたらしがはに/せしみそぎ/かみはうけずも/なりにけるかな",
@@ -14559,7 +14626,11 @@
         "translation-en-natural": "I meant not to fall in love, and performed a purification in the Mitarashi River—but it seems the gods refused to accept it, after all."
       },
       {
-        "date": "20240723,20250214,20250518",
+        "date": [
+          20240723,
+          20250214,
+          20250518
+        ],
         "id": 15,
         "text": "といひてなむいにける。",
         "kana": "といひてなむいにける。",
@@ -14614,7 +14685,11 @@
         "translation-en-natural": "Having said that, he indeed went away."
       },
       {
-        "date": "20240723,20250214,20250519",
+        "date": [
+          20240723,
+          20250214,
+          20250519
+        ],
         "id": 16,
         "text": "この帝は顔かたちよくおはしまして、仏の御名を、御心に入れて、御声はいと尊くて申したまふを聞きて、女はいたう泣きけり。",
         "kana": "このみかどはかほかたちよくおはしまして、ほとけのみなを、おんこころにいれて、おんこえはいとたっとくてもうしさたまふをききて、をんなはいたうなきけり。",
@@ -14787,7 +14862,11 @@
         "translation-en-natural": "The emperor was noble in appearance and, with the name of the Buddha in his heart, chanted in a most reverent voice. Hearing this, the woman wept deeply."
       },
       {
-        "date": "20240723,20250214,20250520",
+        "date": [
+          20240723,
+          20250214,
+          20250520
+        ],
         "id": 17,
         "text": "「かかる君に仕うまつらで、宿世つたなく悲しきこと、この男にほだされて」とてなむ泣きける。",
         "kana": "「かかるきみにつかうまつらで、すくせつたなくかなしきこと、このをとこにほだされて」とてなむなきける。",
@@ -14910,7 +14989,11 @@
         "translation-en-natural": "\"To think I cannot serve such a noble lord—how pitiful my fate must be. And yet, I’m tied to this man by emotion...\" she said, and wept."
       },
       {
-        "date": "20240723,20250214,20250520",
+        "date": [
+          20240723,
+          20250214,
+          20250520
+        ],
         "id": 18,
         "text": "かかるほどに帝聞しめして、この男をば流しつかはしてければ、この女のいとこの御息所、女をばまかでさせて、蔵にこめてしをりたまうければ、蔵にこもりて泣く。",
         "kana": "かかるほどにみかどききしめして、このをとこをばながしつかはしてければ、このをんなのいとこのおみやすんどころ、をんなをばまかでさせて、くらにこめてしをりたまうければ、くらにこもりてなく。",
@@ -15134,7 +15217,11 @@
         "translation-en-natural": "While all this was going on, the emperor heard of it and sent the man into exile. The woman's cousin, the imperial consort, had her leave and locked her in a storehouse, where the woman, too, wept in grief."
       },
       {
-        "date": "20240723,20250214,20250521",
+        "date": [
+          20240723,
+          20250214,
+          20250521
+        ],
         "id": 19,
         "poem": "あまの刈る/藻にすむ虫の/われからと/音をこそ泣かめ/世をば恨みじ",
         "kana": "あまのかる/もにすむむしの/われからと/ねをこそなかめ/よをばうらみじ",
@@ -15266,7 +15353,11 @@
         "translation-en-natural": "Like insects dwelling in seaweed cut by fishermen, I may feel like crying, blaming myself — but I will not cry. Nor will I resent the world."
       },
       {
-        "date": "20240723,20250214,20250522",
+        "date": [
+          20240723,
+          20250214,
+          20250522
+        ],
         "id": 20,
         "text": "と泣きをれば、この男、人の国より夜ごとに来つつ、笛をいとおもしろく吹きて、声はをしうてぞ、あはれにうたひける。",
         "kana": "となきをれば、このをとこ、ひとのくによりよごとにきつつ、ふえをいとおもしろくふきて、こゑはをしうてぞ、あはれにうたひける。",
@@ -15425,7 +15516,11 @@
         "translation-en-natural": "While she wept, the man came night after night from a distant land, playing the flute most beautifully, and with a sorrowful voice, sang in deep emotion."
       },
       {
-        "date": "20240723,20250214,20250523",
+        "date": [
+          20240723,
+          20250214,
+          20250523
+        ],
         "id": 21,
         "text": "かかれば、この女は蔵にこもりながら、それにぞあなるとは聞けど、あひ見るべきにもあらでなむありける。",
         "kana": "かかれば、このをんなはくらにこもりながら、それにぞあなるとはきけど、あひみるべきにもあらでなむありける。",
@@ -15603,7 +15698,11 @@
         "translation-en-natural": "And so, the woman remained hidden away in the storehouse. She had heard it was him, but she was never able to meet him, and that was how things turned out."
       },
       {
-        "date": "20240723,20250214,20250523",
+        "date": [
+          20240723,
+          20250214,
+          20250523
+        ],
         "id": 22,
         "poem": "さりともと/思ふらむこそ/悲しけれ/あるにもあらぬ/身をしらずして",
         "kana": "さりともと/おもふらむこそ/かなしけれ/あるにもあらぬ/みをしらずして",
@@ -15734,7 +15833,11 @@
         "translation-en-natural": "What saddens me is the thought itself—without even realizing that I’m barely holding on to life, a shadow of who I was."
       },
       {
-        "date": "20240723,20250214,20250523",
+        "date": [
+          20240723,
+          20250214,
+          20250523
+        ],
         "id": 23,
         "text": "と思ひをり。",
         "kana": "とおもひをり。",
@@ -15770,7 +15873,11 @@
         "translation-en-natural": "And so she thought."
       },
       {
-        "date": "20240723,20250214,20250523",
+        "date": [
+          20240723,
+          20250214,
+          20250523
+        ],
         "id": 24,
         "text": "男は、女しあはねば、かくし歩きつつ、人の国に歩きて、かくうたふ。",
         "kana": "をとこは、をんなしあはねば、かくしあるきつつ、ひとのくににあるきて、かくうたふ。",
@@ -15893,7 +16000,11 @@
         "translation-en-natural": "Unable to see her, the man wandered like this, traveled to distant lands, and sang his heart out."
       },
       {
-        "date": "20240723,20250214,20250523",
+        "date": [
+          20240723,
+          20250214,
+          20250523
+        ],
         "id": 25,
         "poem": "いたづらに/ゆきては来ぬる/ものゆゑに/見まくほしさに/いざなはれつつ",
         "kana": "いたづらに/ゆきては来ぬる/ものゆゑに/みまくほしさに/いざなはれつつ",
@@ -16018,7 +16129,11 @@
         "translation-en-natural": "Though I come and go in vain, I can’t help being drawn back by my longing to see you."
       },
       {
-        "date": "20240723,20250214,20250523",
+        "date": [
+          20240723,
+          20250214,
+          20250523
+        ],
         "id": 26,
         "text": "水の尾の御時なるべし。",
         "kana": "みづのおのみときなるべし。",
@@ -19503,7 +19618,10 @@
         "translation-en-natural": "Lost in the darkness that clouds my heart, I wonder if this is a dream or reality — decide it tonight."
       },
       {
-        "date": "20240810,20250527",
+        "date": [
+          20240810,
+          20250527
+        ],
         "id": 17,
         "text": "とよみてやりて、狩に出でぬ。",
         "kana": "とよみてやりて、かりにいでぬ。",
@@ -19576,7 +19694,9 @@
         "translation-en-natural": "Having composed the poem and sent it off, he went out hunting."
       },
       {
-        "date": "20240810",
+        "date": [
+          20240810
+        ],
         "id": 18,
         "text": "野にありけれど心はそらにて、こよひだに人しづめて、いととく逢はむと思ふに、国守、斎宮のかみかけたる、狩の使ありと聞きて、夜ひと夜酒飲みしければ、もはら逢ひごともえせで、明けば尾張の国へたちなむとすれば、男も人知れず血の涙を流せどもえあはず。",
         "kana": "のにありけれどこころはそらにて、こよひだにひとしづめて、いととくあはむとおもふに、くにのかみ、いつきのみやのかみかけたる、かりのつかひありとききて、よひとよさけのみしければ、もはらあひごともえせて、あけばおはりのくにへたちなむとすれば、おとこもひとしれすちのなみだをなかせどもえあはず。",
@@ -19945,7 +20065,10 @@
         "translation-en-natural": "Though in the field, his heart was restless, thinking, 'At least tonight, after people have settled, I will hurry to meet her.' But hearing that the governor and the upper official under the Ise priestess had sent a hunting envoy, they drank all night, and in the end, he could not meet her. As dawn broke, he was to leave for Owari Province, and though the man secretly shed tears of blood, he could not meet her."
       },
       {
-        "date": "20240810,20250527",
+        "date": [
+          20240810,
+          20250527
+        ],
         "id": 19,
         "text": "夜やうやう明けなむとするほどに、女方よりいだすさかづきの皿に、歌を書きていだしたり。",
         "kana": "よやうやうあけなむとするほどに、をんなかたよりいだすさかづきのさらに、うたをかきていだしたり。",
@@ -20069,7 +20192,10 @@
         "translation-en-natural": "As the night slowly approached dawn, he wrote a poem on the sake cup dish sent from the woman and handed it back."
       },
       {
-        "date": "20240810,20250527",
+        "date": [
+          20240810,
+          20250527
+        ],
         "id": 20,
         "text": "とりて見れば、",
         "kana": "とりてみれば、",
@@ -20108,7 +20234,10 @@
         "translation-en-natural": "When she took it and looked at it,"
       },
       {
-        "date": "20240810,20250527",
+        "date": [
+          20240810,
+          20250527
+        ],
         "id": 21,
         "poem": "かち人の/渡れどぬれぬ/江にしあれば",
         "kana": "かちびとの/わたれどぬれぬ/えにしあれば",
@@ -20191,7 +20320,10 @@
         "translation-en-natural": "Because it's truly such a river that even when people cross on foot, they don't get wet."
       },
       {
-        "date": "20240810,20250527",
+        "date": [
+          20240810,
+          20250527
+        ],
         "id": 22,
         "text": "と書きて、末はなし、",
         "kana": "とかきて、すゑはなし、",
@@ -20246,7 +20378,10 @@
         "translation-en-natural": "He wrote thus, but there was no ending part."
       },
       {
-        "date": "20240810,20250527",
+        "date": [
+          20240810,
+          20250527
+        ],
         "id": 23,
         "text": "そのさかづきの皿に、続松の炭して歌の末を書きつぐ。",
         "kana": "そのさかづきのさらに、ついまつのすみしてうたのすゑをかきつぐ。",
@@ -20342,7 +20477,10 @@
         "translation-en-natural": "On the sake dish, he used charcoal from torch pine to continue writing the end of the poem."
       },
       {
-        "date": "20240810,20250527",
+        "date": [
+          20240810,
+          20250527
+        ],
         "id": 24,
         "poem": "またあふさかの/関は越えなむ",
         "kana": "またあふさかの/せきはこえなむ",
@@ -20400,7 +20538,9 @@
         "translation-en-natural": "I will likely cross the Osaka barrier again."
       },
       {
-        "date": "20240810",
+        "date": [
+          20240810
+        ],
         "id": 25,
         "text": "とて、明くれば、尾張に国へ越えにけり。",
         "kana": "とて、あくれば、おはりにくにへこえにけり。",
@@ -20487,7 +20627,9 @@
         "translation-en-natural": "Having said so, when dawn broke, he set out across to Owari province."
       },
       {
-        "date": "20240810",
+        "date": [
+          20240810
+        ],
         "id": 26,
         "text": "斎宮は水の尾の御時、文徳天皇の御むすめ、惟喬の親王の妹。",
         "kana": "いつきはみのをのおんとき、もんとくてんのうのおんむすめ、これたかのしんのうのいもうと。",
@@ -20587,7 +20729,10 @@
     "romaji": "ama no tsurifune",
     "paragraph": [
       {
-        "date": "20240811,20250527",
+        "date": [
+          20240811,
+          20250527
+        ],
         "id": 1,
         "text": "むかし、男、狩の使より帰り来けるに、大淀のわたりに宿りて、斎宮のわらはべにいひかけける。",
         "kana": "むかし、をとこ、かりのつかひよりかへりきけるに、おほよどのわたりにやどりて、いつきのみやのわらはべにいひかけける。",
@@ -20724,7 +20869,9 @@
         "translation-en-natural": "Once upon a time, a man, returning from a hunting mission, stayed overnight at the Ooyodo crossing and spoke to the children serving the Saigu (the Ise Priestess)."
       },
       {
-        "date": "20240811",
+        "date": [
+          20240811
+        ],
         "id": 2,
         "poem": "みるめかる/かたやいづこぞ/棹さして/われに教へよ/あまの釣舟",
         "kana": "みるめかる/かたやいづこぞ/さをさして/われにおしへよ/あまのつりふね",
@@ -20844,7 +20991,10 @@
     "romaji": "kami no igaki",
     "paragraph": [
       {
-        "date": "20240812,20250529",
+        "date": [
+          20240812,
+          20250529
+        ],
         "id": 1,
         "text": "むかし、男、伊勢の斎宮に、内の御使にて、まゐれりければ、かの宮にすきごといひける女、私事にて、",
         "kana": "むかし、をとこ、いせのいつきのみやに、うちのみつかさにて、まゐれりければ、かのみやにすきごといひけるをんな、わたくしごとにて、",
@@ -20992,7 +21142,10 @@
         "translation-en-natural": "Once upon a time, when a man was serving as an official court messenger at the Ise Shrine, there was a woman at the shrine who spoke of romantic matters for her own private reasons."
       },
       {
-        "date": "20240812,20250529",
+        "date": [
+          20240812,
+          20250529
+        ],
         "id": 2,
         "poem": "ちはやぶる/神のいがきも/越えぬべし/大宮人の/見まくほしさに",
         "kana": "ちはやぶる/かみのいがきも/こえぬべし/おほみやひとの/みまくほしさに",
@@ -21094,7 +21247,10 @@
         "translation-en-natural": "I feel as if I might even cross sacred barriers, just from the desire to see the court person."
       },
       {
-        "date": "20240812,20250529",
+        "date": [
+          20240812,
+          20250529
+        ],
         "id": 3,
         "text": "男、",
         "kana": "をとこ、",
@@ -21124,7 +21280,10 @@
         "translation-en-natural": "The man replied,"
       },
       {
-        "date": "20240812,20250529",
+        "date": [
+          20240812,
+          20250529
+        ],
         "id": 4,
         "poem": "恋しくは/来ても見よかし/ちはやぶる/神のいさなむ/道ならなくに",
         "kana": "こいしくは/きてもみよかし/ちはやぶる/かみのいさなむ/みちならなくに",
@@ -21237,7 +21396,10 @@
     "romaji": "ooyodo no matsu",
     "paragraph": [
       {
-        "date": "20240813,20250529",
+        "date": [
+          20240813,
+          20250529
+        ],
         "id": 1,
         "text": "むかし、男、伊勢の国なりける女、又、えあはで、隣の国へいくとて、いみじう怨みければ、女、",
         "kana": "むかし、をとこ、いせのくになりけるをんな、また、えあはで、となりのくにへいくとて、いみじううらみければ、をんな、",
@@ -21380,7 +21542,10 @@
         "translation-en-natural": "Once upon a time, a man, unable to see again the woman he loved in Ise Province, was about to leave for the neighboring land and bitterly resented her, so the woman composed a poem."
       },
       {
-        "date": "20240813,20250529",
+        "date": [
+          20240813,
+          20250529
+        ],
         "id": 2,
         "poem": "大淀の/松はつらくも/あらなくに/うらみてのみも/かへる波かな",
         "kana": "おほよとの/まつはつらくも/あらなくに/うらみてのみも/かへるなみかな",
@@ -21495,7 +21660,10 @@
     "romaji": "tsuki no uchi no katsura",
     "paragraph": [
       {
-        "date": "20240814,20250529",
+        "date": [
+          20240814,
+          20250529
+        ],
         "id": 1,
         "text": "むかし、そこにはありと聞けど、せうそこをだにいふべくもあらぬ女のあたりを思ひける。",
         "kana": "むかし、そこにはありときけど、せうそこをだにいふべくもあらぬをんなのあたりをおもひける。",
@@ -21625,7 +21793,10 @@
         "translation-en-natural": "Once upon a time, a man heard she was there, but he kept thinking of the woman, unable even to send a message."
       },
       {
-        "date": "20240814,20250529",
+        "date": [
+          20240814,
+          20250529
+        ],
         "id": 2,
         "poem": "目には見て/手にはとられぬ/月のうちの/桂の如き/君にぞありける",
         "kana": "めにはみて/てにはとられぬ/つきのうちの/かつらのごとき/きみにそありける",
@@ -21775,7 +21946,9 @@
     "romaji": "kasanaru yama",
     "paragraph": [
       {
-        "date": "20240814",
+        "date": [
+          20240814
+        ],
         "id": 1,
         "text": "むかし、男、女をいたう怨みて、",
         "kana": "むかし、をとこ、をんなをいたううらみて、",
@@ -21838,7 +22011,10 @@
         "translation-en-natural": "Once upon a time, a man deeply resented a woman, and ..."
       },
       {
-        "date": "20240814,20250529",
+        "date": [
+          20240814,
+          20250529
+        ],
         "id": 2,
         "poem": "岩根ふみ/かさなる山に/あらねども/逢はぬ日おほく/恋ひわたるかな",
         "kana": "いわねふみ/かさなるやまに/あらねども/あはぬひおほく/こひわたるかな",
@@ -21954,7 +22130,10 @@
     "romaji": "miru",
     "paragraph": [
       {
-        "date": "20240814,20250529",
+        "date": [
+          20240814,
+          20250529
+        ],
         "id": 1,
         "text": "むかし、男、「伊勢の国に率ていきてあらむ」といひければ、女、",
         "kana": "むかし、をとこ、「いせのくににそ率ていきてあらむ」といひければ、をんな、",
@@ -22062,7 +22241,10 @@
         "translation-en-natural": "Once upon a time, a man said, \"I will take you to Ise Province and live with you there,\" and the woman ..."
       },
       {
-        "date": "20240814,20250529",
+        "date": [
+          20240814,
+          20250529
+        ],
         "id": 2,
         "poem": "大淀の/浜に生ふてふ/みるからに/心はなぎぬ/かたらはねども",
         "kana": "おほよとの/はまにおふてふ/みるからに/こころはなぎぬ/かたらはねども",
@@ -22178,7 +22360,10 @@
         "translation-en-natural": "Like the seaweed said to grow on the shores of Oyodo, just seeing it calms my heart, even though we exchange no words."
       },
       {
-        "date": "20240814,20250529",
+        "date": [
+          20240814,
+          20250529
+        ],
         "id": 3,
         "text": "といひて、ましてつれなかりければ、男、",
         "kana": "といひて、ましてつれなかりければ、をとこ、",
@@ -22247,7 +22432,10 @@
         "translation-en-natural": "And after saying that, since she became even more indifferent, the man ..."
       },
       {
-        "date": "20240814,20250529",
+        "date": [
+          20240814,
+          20250529
+        ],
         "id": 4,
         "poem": "袖ぬれて/あまの刈りほす/わたつ海の/みるを逢ふにて/やまんとやする",
         "kana": "そてぬれて/あまのかりほす/わたつうみの/みるをあふにて/やまんとやする",
@@ -22371,7 +22559,10 @@
         "translation-en-natural": "With my sleeves wet like the fisherwomen who harvest and dry seaweed in the wide sea, will my longing truly end just by meeting you?"
       },
       {
-        "date": "20240814,20250529",
+        "date": [
+          20240814,
+          20250529
+        ],
         "id": 5,
         "text": "女、",
         "kana": "をんな、",
@@ -22395,7 +22586,10 @@
         "translation-en-natural": "she sang, ..."
       },
       {
-        "date": "20240814,20250529",
+        "date": [
+          20240814,
+          20250529
+        ],
         "id": 6,
         "poem": "岩間より/生ふるみるめし/つれなくは/しほ干しほ満ちかひもありなむ",
         "kana": "いはまより/おふるみるめし/つれなくは/しほひしほみちかひもありなむ",
@@ -22496,7 +22690,10 @@
         "translation-en-natural": "If the seaweed growing between the rocks is indeed indifferent, then surely the ebbing and flowing tides must have some meaning or effect."
       },
       {
-        "date": "20240814,20250529",
+        "date": [
+          20240814,
+          20250529
+        ],
         "id": 7,
         "text": "また男、",
         "kana": "またをとこ、",
@@ -22524,7 +22721,10 @@
         "translation-en-natural": "Again, he sang, ..."
       },
       {
-        "date": "20240814,20250529",
+        "date": [
+          20240814,
+          20250529
+        ],
         "id": 8,
         "poem": "涙にぞ/ぬれつゝしぼる/世の人の/つらき心は/袖のしづくか",
         "kana": "なみたにぞ/ぬれつつしぼる/よのひとの/つらきこころは/そてのしづくか",
@@ -22643,7 +22843,10 @@
         "translation-en-natural": "As I wring out my sleeves soaked with tears, I wonder—are the cold hearts of people in this world nothing more than drops falling from my sleeves?"
       },
       {
-        "date": "20240814,20250529",
+        "date": [
+          20240814,
+          20250529
+        ],
         "id": 9,
         "text": "世にあふことかたき女になむ。",
         "kana": "よにあふことかたきをんなになむ。",
@@ -22719,7 +22922,10 @@
     "romaji": "oshio no yama",
     "paragraph": [
       {
-        "date": "20240814,20250530",
+        "date": [
+          20240814,
+          20250530
+        ],
         "id": 1,
         "text": "むかし、二条の后の、まだ春宮の御息所と申しける時、氏神にまうで給ひけるに、近衛府にさぶらひける翁、人々の禄たまはるついでに、御車より給はりて、よみて奉りける。",
         "kana": "むかし、にじょうのきさきの、まだとうぐうのみやすんどころともうしけるとき、うじがみにまうでたまひけるに、このゑづかさにさぶらひけるおきな、ひとびとのろくたまはるついでに、おくるまよりたまはりて、よみてたてまつりける。",
@@ -22988,7 +23194,10 @@
         "translation-en-natural": "Long ago, when the Empress of Nijo was still known as the consort of the Crown Prince, she visited the local shrine. An old retainer from the Imperial Guard, following others who received gifts, received a token from her carriage and composed a poem to present to her."
       },
       {
-        "date": "20240814,20250531",
+        "date": [
+          20240814,
+          20250531
+        ],
         "id": 2,
         "poem": "大原や/をしほの山も/今日こそは/神代のことも/思ひいづらめ",
         "kana": "おほはらや/をしほのやまも/けふこそは/かみよのことも/おもひいづらめ",
@@ -23101,7 +23310,10 @@
         "translation-en-natural": "Ah, even Ohara and Mount Oshio must surely be recalling the tales of the age of the gods today."
       },
       {
-        "date": "20240814,20250531",
+        "date": [
+          20240814,
+          20250531
+        ],
         "id": 3,
         "text": "とて、心にもかなしと思ひけむ、いかが思ひけむ、知らずかし。",
         "kana": "とて、こころにもかなしとおもひけむ、いかがおもひけむ、しらずかし。",
@@ -23232,7 +23444,10 @@
     "romaji": "haru no wakare",
     "paragraph": [
       {
-        "date": "20240815,20250601",
+        "date": [
+          20240815,
+          20250601
+        ],
         "id": 1,
         "text": "むかし、田村の帝と申す帝おはしましけり。",
         "kana": "むかし、たむらのみかどと申すみかどおはしましけり。",
@@ -23311,7 +23526,10 @@
         "translation-en-natural": "Long ago, there was an emperor called the Emperor of Tamura."
       },
       {
-        "date": "20240815,20250601",
+        "date": [
+          20240815,
+          20250601
+        ],
         "id": 2,
         "text": "その時の女御、多賀幾子と申すみまそかりけり。",
         "kana": "そのときのにょうご、たかきこと申すみまそかりけり。",
@@ -23406,7 +23624,10 @@
         "translation-en-natural": "The consort at that time was called Taga Kiko."
       },
       {
-        "date": "20240815,20250601",
+        "date": [
+          20240815,
+          20250601
+        ],
         "id": 3,
         "text": "それ失せ給ひて、安祥寺にて、みわざしけり。",
         "kana": "それうせ給ひて、あんじやうじにて、みわざしけり。",
@@ -23497,7 +23718,10 @@
         "translation-en-natural": "After that, she passed away, and a memorial service was held at Anshoji Temple."
       },
       {
-        "date": "20240815,20250601",
+        "date": [
+          20240815,
+          20250601
+        ],
         "id": 4,
         "text": "人々さゝげもの奉りけり。",
         "kana": "ひとびとささげものたてまつりけり。",
@@ -23555,7 +23779,10 @@
         "translation-en-natural": "People offered their gifts."
       },
       {
-        "date": "20240815,20250601",
+        "date": [
+          20240815,
+          20250601
+        ],
         "id": 5,
         "text": "奉りあつめたるもの千棒ばかりあり。",
         "kana": "たてまつりあつめたるものちささげばかりあり。",
@@ -23642,7 +23869,10 @@
         "translation-en-natural": "About a thousand offerings were collected."
       },
       {
-        "date": "20240815,20250601",
+        "date": [
+          20240815,
+          20250601
+        ],
         "id": 6,
         "text": "そこばくのさゝげものを木の枝につけて堂の前にたてたれば、山もさらに堂の前にうごき出でたるやうに見えける。",
         "kana": "そこばくのささげものをきのえにつけてどうのまえにたてたれば、やまもさらにどうのまえにうごきいでたるやうにみえける。",
@@ -23830,7 +24060,10 @@
         "translation-en-natural": "When many offerings were placed on the branches in front of the hall, it looked as if even the mountains were moving forward in front of the hall."
       },
       {
-        "date": "20240815,20250601",
+        "date": [
+          20240815,
+          20250601
+        ],
         "id": 7,
         "text": "それを、右大将にいまそかりける藤原常行と申すいまそかりて、講の終るほどに、歌を詠む人々を召しあつめて、けふのみわざを題にて、春の心ばへある歌を奉らせ給ふ。",
         "kana": "それを、うだいしやうにいまそがりけるふじわらのつねゆきともうすいまそがりて、かうのをはるほどに、うたをよむひとびとをめしあつめて、けふのみわざをだいにて、はるのこころばへあるうたをたてまつらせたまふ。",
@@ -24067,7 +24300,10 @@
         "translation-en-natural": "Fujiwara no Tsuneyuki, who was the Captain of the Right Guards, gathered poets as the lecture ended, having them compose poems on today's ceremony and offering verses that captured the essence of spring."
       },
       {
-        "date": "20240815,20250601",
+        "date": [
+          20240815,
+          20250601
+        ],
         "id": 8,
         "text": "右の馬頭なりける翁、目はたがひながらよみける。",
         "kana": "みぎのうまのかみなりけるおきな、めはたがひながらよみける。",
@@ -24172,7 +24408,10 @@
         "translation-en-natural": "The old man who was the Captain of the Right Horses, though cross-eyed, composed a poem."
       },
       {
-        "date": "20240815,20250601",
+        "date": [
+          20240815,
+          20250601
+        ],
         "id": 9,
         "poem": "山のみな/うつりて今日に/逢ふことは/春の別れを/とふとなるべし",
         "kana": "やまのみな/うつりてけふに/あふことは/はるのわかれを/とふとなるべし",
@@ -24295,7 +24534,9 @@
         "translation-en-natural": "As the mountains shift and move, meeting today surely becomes a way of lamenting the parting of spring."
       },
       {
-        "date": "20240815",
+        "date": [
+          20240815
+        ],
         "id": 10,
         "text": "と詠みたるを、いま見ればよくもあらざり。",
         "kana": "とよみたるを、いまみればよくもあらざり。",
@@ -24394,7 +24635,10 @@
         "translation-en-natural": "He sang it, but now that I look at it, it wasn't very good."
       },
       {
-        "date": "20240815,20250601",
+        "date": [
+          20240815,
+          20250601
+        ],
         "id": 11,
         "text": "そのかみはこれやまさりけむ、あはれがりけり。",
         "kana": "そのかみはこれやまさりけむ、あはれがりけり。",
@@ -24491,7 +24735,10 @@
     "romaji": "yamashina no miya",
     "paragraph": [
       {
-        "date": "20240817,20250601",
+        "date": [
+          20240817,
+          20250601
+        ],
         "id": 1,
         "text": "むかし、多賀幾子と申す女御おはしましけり。",
         "kana": "むかし、たかきこともうすにょうごおはしましけり。",
@@ -24577,7 +24824,10 @@
         "translation-en-natural": "Once upon a time, there was a consort named Taga Kiko."
       },
       {
-        "date": "20240817,20250601",
+        "date": [
+          20240817,
+          20250601
+        ],
         "id": 2,
         "text": "失せ給ひて、なゝ七日のみわざ安祥寺にてしけり。",
         "kana": "うせ給ひて、なななのかのみわざあんじやうじにてしけり。",
@@ -24677,7 +24927,10 @@
         "translation-en-natural": "They passed away, and the 49th-day memorial service was held at Anshoji Temple."
       },
       {
-        "date": "20240817,20250601",
+        "date": [
+          20240817,
+          20250601
+        ],
         "id": 3,
         "text": "右大将藤原常行といふ人いまそかりけり。",
         "kana": "みぎのうだいしやうふじわらのつねゆきといふひといまそかりけり。",
@@ -24758,7 +25011,10 @@
         "translation-en-natural": "There was a person named Fujiwara no Tsuneyuki, who was the Captain of the Right Guards."
       },
       {
-        "date": "20240817,20250601",
+        "date": [
+          20240817,
+          20250601
+        ],
         "id": 4,
         "text": "そのみわざにまうで給ひてかへさに、山科の禅師の親王おはします、その山科の宮に、滝落し、水走らせなどして、おもしろく造られたるに、まうで給うて、",
         "kana": "そのみわざにまうでたまひてかへさに、やましなのせんじのみこおはします、そのやましなのみやに、たきおとし、みづはしらせなどして、おもしろくつくられたるに、まうでたまうて、",
@@ -24971,7 +25227,10 @@
         "translation-en-natural": "After attending the memorial service, on the way back, Prince Zenji of Yamashina visited the Yamashina Palace, which had been beautifully constructed with features like waterfalls and flowing water."
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 5,
         "text": "「年ごろよそにはつかうまつれど、近くはいまだつかう間つらず。",
         "kana": "「としごろよそにはつかうまつれど、ちかくはいまだつかうまつらず。",
@@ -25068,7 +25327,10 @@
         "translation-en-natural": "I have served from afar for many years, but I have not yet had the opportunity to serve nearby."
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 6,
         "text": "こよひはこゝにさぶらはむ」と申し給ふ。",
         "kana": "こよひはここにさぶらはむ」ともうし給ふ。",
@@ -25159,7 +25421,10 @@
         "translation-en-natural": "He said, 'Tonight, I shall stay here humbly.'"
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 7,
         "text": "親王よろこび給うて、夜のおましの設けさせ給ふ。",
         "kana": "みこよろこびたまうて、よるのおましのもうけさせたまふ。",
@@ -25256,7 +25521,10 @@
         "translation-en-natural": "The prince was pleased and had the night’s seat arranged."
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 8,
         "text": "さるに、かの大将出でてたばかり給ふやう、",
         "kana": "さるに、かのおおしやういててたはかりたまふやう、",
@@ -25349,7 +25617,10 @@
         "translation-en-natural": "And so, the general came out and seemed to devise a plan."
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 9,
         "text": "「宮仕への初めに、たゞなほやはあるべき。",
         "kana": "「みやつかへのはじめに、ただなほやはあるへき。",
@@ -25435,7 +25706,10 @@
         "translation-en-natural": "At the beginning of serving at the palace, should one really just do nothing?"
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 10,
         "text": "三条の大行幸せし時、紀の国の千里の浜にありける、いとおもしろき石奉れりき。",
         "kana": "さんじやうのおほみゆきせしとき、きのくにのちさとのはまにありける、いとおもしろきいしたてつまれりき。",
@@ -25577,7 +25851,10 @@
         "translation-en-natural": "At the time of the grand imperial procession of Sanjo, a very interesting stone from the Senri Beach in Kii Province was respectfully presented."
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 11,
         "text": "大行幸ののち奉れりしかば、ある人の御曹司のまへに溝にすゑたりしを、島好む君なり、この石を奉らむ」",
         "kana": "おほみゆきののちたてまつれりしかば、あるひとのみざうしのまへにみそにすゑたりしを、しまこのみなり、このいしをたてまつらむ」",
@@ -25761,7 +26038,10 @@
         "translation-en-natural": "After the grand procession, the stone was presented and placed in the ditch before the mansion of a certain lord’s son. Since the lord loves islands, I shall humbly offer this stone to him."
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 12,
         "text": "とのたまひて、御随身、舎人してとりにつかはす。",
         "kana": "とのたまひて、みずいじん、とねりしてとりにつかはす。",
@@ -25862,7 +26142,10 @@
         "translation-en-natural": "With those words, he commanded his attendants and servants to go and retrieve it."
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 13,
         "text": "いくばくもなくて持てきぬ。",
         "kana": "いくばくもなくてもてきぬ。",
@@ -25942,7 +26225,10 @@
         "translation-en-natural": "It was brought back shortly."
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 14,
         "text": "この石聞きしよりは見るはまされり。",
         "kana": "このいしききしよりはみるはまされり。",
@@ -26025,7 +26311,10 @@
         "translation-en-natural": "This stone was even more impressive when seen than when merely heard about."
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 15,
         "text": "「これをたゞに奉らばすゞろなるべし」とて、人々に歌よませ給ふ。",
         "kana": "「これをただにたてまつらばすずろなるべし」とて、ひとびとにうたよませたまふ。",
@@ -26157,7 +26446,10 @@
         "translation-en-natural": "He thought, 'If I just offer this as is, it would be trivial,' and had the people compose poems."
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 16,
         "text": "右馬頭なりける人のをなむ、青き苔をきざみて蒔絵のかたに、この歌をつけて奉りける。",
         "kana": "みぎのうまのかみなりけるひとのをなむ、あおきこけをきざみてまきえのかたに、このうたをつけてたてまつりける。",
@@ -26320,7 +26612,10 @@
         "translation-en-natural": "The person who was the Captain of the Right Horses carved blue moss into the form of a maki-e design and humbly offered it along with this poem."
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 17,
         "poem": "あかねども/岩にぞかふる/色見えぬ/心を見せむ/よしのなければ",
         "kana": "あかねども/いわにそかふる/いろみえぬ/こころをみせむ/よしのなければ",
@@ -26459,7 +26754,10 @@
         "translation-en-natural": "Though I do not tire, I cannot see the rock's changing color. There is no way to reveal my heart."
       },
       {
-        "date": "20240817,20250602",
+        "date": [
+          20240817,
+          20250602
+        ],
         "id": 18,
         "text": "となむよめりける。",
         "kana": "となむよめりける。",
@@ -26520,7 +26818,10 @@
     "romaji": "chihiro aru kage",
     "paragraph": [
       {
-        "date": "20240818,20250602",
+        "date": [
+          20240818,
+          20250602
+        ],
         "id": 1,
         "text": "むかし、氏のなかに、親王生まれ給へりけり。",
         "kana": "むかし、うぢのなかに、みこうまれたまへりけり。",
@@ -26601,7 +26902,10 @@
         "translation-en-natural": "Once upon a time, a prince was born in the Uji clan."
       },
       {
-        "date": "20240818,20250602",
+        "date": [
+          20240818,
+          20250602
+        ],
         "id": 2,
         "text": "御産屋に人々歌詠みけり。",
         "kana": "おんうぶやにひとびとうたよみけり。",
@@ -26669,7 +26973,10 @@
         "translation-en-natural": "People composed poems at the birth hut."
       },
       {
-        "date": "20240818,20250602",
+        "date": [
+          20240818,
+          20250602
+        ],
         "id": 3,
         "text": "御祖父がたなりける翁のよめる。",
         "kana": "おほぢがたなりけるおきなのよめる。",
@@ -26745,7 +27052,9 @@
         "translation-en-natural": "The old man, who was the grandfather on the prince's side, composed a poem."
       },
       {
-        "date": "20240818",
+        "date": [
+          20240818
+        ],
         "id": 4,
         "poem": "我が門に/千尋ある陰を/植ゑつれば/夏冬たれか/隠れざるべき",
         "kana": "わがかどに/ちひろあるかげを/うゑつれば/なつふゆたれか/かくれざるへき",
@@ -26884,7 +27193,10 @@
         "translation-en-natural": "Having planted a tree at my gate whose shadow reaches a thousand fathoms, who could avoid being hidden beneath it, whether in summer or winter?"
       },
       {
-        "date": "20240818,20250602",
+        "date": [
+          20240818,
+          20250602
+        ],
         "id": 5,
         "text": "これは貞数の親王。",
         "kana": "これはさだかずのみこと。",
@@ -26946,7 +27258,10 @@
         "translation-en-natural": "This is Prince Sadakazu."
       },
       {
-        "date": "20240818,20250602",
+        "date": [
+          20240818,
+          20250602
+        ],
         "id": 6,
         "text": "時の人、中将の子となむいひける。",
         "kana": "ときのひと、ちゅうじやうのことなむいひける。",
@@ -27038,7 +27353,10 @@
         "translation-en-natural": "People at the time said he was the son of the Middle Captain."
       },
       {
-        "date": "20240818,20250602",
+        "date": [
+          20240818,
+          20250602
+        ],
         "id": 7,
         "text": "兄の中納言行平のむすめの腹なり。",
         "kana": "あにのちやうなごんゆきひらのむすめのはらなり。",
@@ -27226,7 +27544,10 @@
         "translation-en-natural": "Once upon a time, there was a person who planted wisteria flowers in a dilapidated house."
       },
       {
-        "date": "20240819,20250602",
+        "date": [
+          20240819,
+          20250602
+        ],
         "id": 2,
         "text": "やよひのつごもりに、その日雨そぼふるに、人のもとへ折りて奉らすとて、よめる。",
         "kana": "やよひのつごもりに、そのひあめそぼふるに、ひとのもとへをりてたてまつらすとて、よめる。",
@@ -27374,7 +27695,10 @@
         "translation-en-natural": "At the end of March, on a rainy day, the person picked wisteria flowers to present to someone and composed a poem."
       },
       {
-        "date": "20240819,20250602",
+        "date": [
+          20240819,
+          20250602
+        ],
         "id": 3,
         "poem": "ぬれつゝぞ/しひて折りつる/年のうちに/春はいくかも/あらじと思へば",
         "kana": "ぬれつゝぞ/しひてをりつる/としのうちに/はるはいくかも/あらじとおもへば",
@@ -27583,13 +27907,117 @@
         "translation-en-natural": "Once upon a time, there was a left minister."
       },
       {
-        "date": "20240820",
+        "date": [
+          20240820,
+          20250607
+        ],
         "id": 2,
         "text": "賀茂河のほとりに、六条わたりに、家をいとおもしろく造りて、すみたまひけり。",
         "kana": "かもがはのほとりに、ろくじやうわたりに、いへをいとおもしろくつくりて、すみたまひけり。",
         "honkoku": "かも河のほとりに六条わたりに家を/いとおもしろくつくりてすみ給ひけり",
-        "translation-ja": "賀茂川のほとりに、六条あたりに、家をとても趣深く造って、お住まいになりました。",
-        "translation-en": "He built a very interesting house near the Kamogawa River, around Rokujyo, and lived there."
+        "translation-ja": "賀茂川のほとりに、六条あたりに、家をとても趣深く造って、お住まいになった。",
+        "translation-en": "He built a very interesting house near the Kamogawa River, around Rokujyo, and lived there.",
+        "phrase-gloss": [
+          {
+            "phrase": "賀茂河のほとりに",
+            "gloss": "Kamo.River.PN GEN riverside LOC",
+            "words": [
+              {
+                "word": "賀茂河",
+                "gloss": "Kamo.River.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ほとり",
+                "gloss": "riverside"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "六条わたりに",
+            "gloss": "Rokujo.PN vicinity LOC",
+            "words": [
+              {
+                "word": "六条",
+                "gloss": "Rokujo.PN"
+              },
+              {
+                "word": "わたり",
+                "gloss": "vicinity"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "家をいとおもしろく造りて",
+            "gloss": "house ACC very tastefully build CONJ",
+            "words": [
+              {
+                "word": "家",
+                "gloss": "house"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "おもしろく",
+                "gloss": "tastefully"
+              },
+              {
+                "word": "造り",
+                "gloss": "build.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "すみたまひけり",
+            "gloss": "reside HON.POL.PST.REP",
+            "words": [
+              {
+                "word": "すみ",
+                "gloss": "reside.ADV.F"
+              },
+              {
+                "word": "たまひ",
+                "gloss": "HON.POL.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "PN": "proper noun（固有名詞）",
+          "GEN": "genitive particle（〜の）",
+          "LOC": "locative particle（〜に）",
+          "ACC": "accusative particle（〜を）",
+          "CONJ": "conjunctive particle（〜て）",
+          "HON.POL": "honorific, polite auxiliary（尊敬補助動詞『たまふ』）",
+          "PST.REP": "past, hearsay（過去の伝聞：〜けり）"
+        },
+        "translation-ja-natural": "賀茂川のほとり、六条あたりに、趣のある家を丁寧に建てて、お住まいになっていた。",
+        "translation-en-natural": "He built a refined house near the Kamo River, around the Rokujō area, and resided there with dignity."
       },
       {
         "date": [
@@ -28667,13 +29095,98 @@
         "translation-en-natural": "Beyond Yamazaki, there was a palace at a place called Minase."
       },
       {
-        "date": "20240821",
+        "date": [
+          20240821,
+          20250607
+        ],
         "id": 3,
         "text": "年ごとの桜の花ざかりには、その宮へなむおはしましける。",
         "kana": "としごとのさくらのはなざかりには、そのみやへなむおはしましける。",
         "honkoku": "年ことのさ/くらの花さかりにはその宮へなむおはし/ましける",
-        "translation-ja": "毎年、桜の花が満開には、その宮にお出かけになりました。",
-        "translation-en": "During the peak of the cherry blossoms each year, he would go to that palace."
+        "translation-ja": "毎年、桜の花が満開には、その宮にお出かけになった。",
+        "translation-en": "During the peak of the cherry blossoms each year, he would go to that palace.",
+        "phrase-gloss": [
+          {
+            "phrase": "年ごとの桜の花ざかりには",
+            "gloss": "annual GEN cherry GEN blossom.peak LOC.TOP",
+            "words": [
+              {
+                "word": "年ごと",
+                "gloss": "annual"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "桜",
+                "gloss": "cherry"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "花ざかり",
+                "gloss": "blossom.peak"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "その宮へなむ",
+            "gloss": "that palace LOC FOC",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "宮",
+                "gloss": "palace"
+              },
+              {
+                "word": "へ",
+                "gloss": "LOC"
+              },
+              {
+                "word": "なむ",
+                "gloss": "FOC"
+              }
+            ]
+          },
+          {
+            "phrase": "おはしましける",
+            "gloss": "go.HON.POL PST.REP",
+            "words": [
+              {
+                "word": "おはしまし",
+                "gloss": "go.HON.POL"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "LOC": "locative particle（〜に、〜へ）",
+          "TOP": "topic particle（〜は）",
+          "FOC": "focus/emphatic particle（〜なむ）",
+          "HON.POL": "honorific, polite auxiliary verb（尊敬補助動詞：おはします）",
+          "PST.REP": "past, hearsay（過去伝聞：〜ける）"
+        },
+        "translation-ja-natural": "毎年、桜が満開になるころには、かの宮へとご出立なさったのだった。",
+        "translation-en-natural": "Each year, at the peak of the cherry blossoms, he would graciously make his way to that palace."
       },
       {
         "date": "20240821",
