@@ -29189,13 +29189,111 @@
         "translation-en-natural": "Each year, at the peak of the cherry blossoms, he would graciously make his way to that palace."
       },
       {
-        "date": "20240821",
+        "date": [
+          20240821,
+          20250608
+        ],
         "id": 4,
         "text": "その時、右の馬の頭なりける人を、常に率ておはしましけり。",
         "kana": "そのとき、みぎのうまのあたまなりけるひとを、つねにひきゐておはしましけり。",
         "honkoku": "その時みきのむまのかみなり/ける人をつねにゐておはしましけり/",
-        "translation-ja": "その時、右馬の頭であった人を、いつも連れてお出かけになりました。",
-        "translation-en": "At that time, he would always take the person who was the Right Captain of the Horse with him."
+        "translation-ja": "その時、右馬の頭であった人を、いつも連れてお出かけになった。",
+        "translation-en": "At that time, he would always take the person who was the Right Captain of the Horse with him.",
+        "phrase-gloss": [
+          {
+            "phrase": "その時",
+            "gloss": "that time",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "時",
+                "gloss": "time"
+              }
+            ]
+          },
+          {
+            "phrase": "右の馬の頭なりける人を",
+            "gloss": "Right GEN horse GEN Captain COP.PST.ATTR person ACC",
+            "words": [
+              {
+                "word": "右",
+                "gloss": "Right"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "馬",
+                "gloss": "horse"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "頭",
+                "gloss": "Captain"
+              },
+              {
+                "word": "なり",
+                "gloss": "COP"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "常に率ておはしましけり",
+            "gloss": "always accompany HON.POL PST.REP",
+            "words": [
+              {
+                "word": "常に",
+                "gloss": "always"
+              },
+              {
+                "word": "率て",
+                "gloss": "accompany.ADV.F"
+              },
+              {
+                "word": "おはし",
+                "gloss": "HON.ADV.F"
+              },
+              {
+                "word": "まし",
+                "gloss": "POL.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "COP": "copula（断定助動詞『なり』）",
+          "PST.ATTR": "past, attributive form（〜ける）",
+          "ACC": "accusative particle（〜を）",
+          "HON": "honorific auxiliary verb（尊敬補助動詞：おはします）",
+          "POL": "polite auxiliary verb（丁寧語：まし）",
+          "PST.REP": "past, hearsay（過去伝聞：〜けり）"
+        },
+        "translation-ja-natural": "そのころ、右馬の頭であった人物を、いつも連れてお出かけになっていた。",
+        "translation-en-natural": "At that time, he would always be accompanied by the person who had served as the Right Captain of the Horse."
       },
       {
         "date": "20240821",
