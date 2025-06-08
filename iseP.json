@@ -29296,22 +29296,213 @@
         "translation-en-natural": "At that time, he would always be accompanied by the person who had served as the Right Captain of the Horse."
       },
       {
-        "date": "20240821",
+        "date": [
+          20240821,
+          20250608
+        ],
         "id": 5,
         "text": "時世経て久しくなりにければ、その人の名忘れにけり。",
         "kana": "ときよふけてひさしくなりにければ、そのひとのなまえわすれにけり。",
         "honkoku": "時よへて久しくなりにけれはその人の/名わすれにけり",
-        "translation-ja": "時が経ち、久しくなって、その人の名前を忘れてしまいました。",
-        "translation-en": "As time passed, I forgot the name of that person."
+        "translation-ja": "時が経ち、久しくなって、その人の名前を忘れてしまった。",
+        "translation-en": "As time passed, I forgot the name of that person.",
+        "phrase-gloss": [
+          {
+            "phrase": "時世経て",
+            "gloss": "time pass CONJ",
+            "words": [
+              {
+                "word": "時世",
+                "gloss": "time"
+              },
+              {
+                "word": "経",
+                "gloss": "pass.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "久しくなりにければ",
+            "gloss": "long.time become PERF.PST COND",
+            "words": [
+              {
+                "word": "久しく",
+                "gloss": "long.time"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV.F"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV.F"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS.F"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "その人の名忘れにけり",
+            "gloss": "that person GEN name forget PERF.PST.REP",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "名",
+                "gloss": "name"
+              },
+              {
+                "word": "忘れ",
+                "gloss": "forget"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "CONJ": "conjunctive form（〜て）",
+          "PERF": "perfective auxiliary（完了助動詞『ぬ／に』）",
+          "PST": "past auxiliary（過去助動詞『けり』の已然形）",
+          "COND": "conditional particle（〜ば）",
+          "GEN": "genitive particle（〜の）",
+          "PST.REP": "past, hearsay（〜けり）"
+        },
+        "translation-ja-natural": "時が過ぎて長い年月が経ったので、その人の名前を忘れてしまった。",
+        "translation-en-natural": "As a long time passed, I ended up forgetting that person's name."
       },
       {
-        "date": "20240821",
+        "date": [
+          20240821,
+          20250608
+        ],
         "id": 6,
         "text": "狩はねむごろにもせで、酒をのみ飲みつつ、やまと歌にかかれりけり。",
         "kana": "かりはねむごろにもせて、さけをのみのみつつ、やまとうたにかかれりけり。",
         "honkoku": "かりはねんころにも/せてさけをのみのみつつやまとうたに/s92r/かかれりけり",
-        "translation-ja": "狩りは熱心にせず、ただ酒ばかり飲んで、和歌を詠むことに夢中になっていた。",
-        "translation-en": "He did not hunt with much enthusiasm; instead, he spent his time drinking sake and immersing himself in singing Japanese poems."
+        "translation-ja": "狩りは熱心にせず、ただ酒ばかり飲んで、和歌に熱中していた。",
+        "translation-en": "He did not hunt earnestly, but kept drinking sake and immersed himself in composing waka poetry.",
+        "phrase-gloss": [
+          {
+            "phrase": "狩はねむごろにもせで",
+            "gloss": "hunting TOP earnestly FOC do NEG.CONJ",
+            "words": [
+              {
+                "word": "狩",
+                "gloss": "hunting"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "ねむごろに",
+                "gloss": "earnestly"
+              },
+              {
+                "word": "も",
+                "gloss": "FOC"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.NEG.BASE"
+              },
+              {
+                "word": "で",
+                "gloss": "NEG.CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "酒をのみ飲みつつ",
+            "gloss": "sake ACC only drink while",
+            "words": [
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "飲み",
+                "gloss": "drink.ADV.F"
+              },
+              {
+                "word": "つつ",
+                "gloss": "while"
+              }
+            ]
+          },
+          {
+            "phrase": "やまと歌にかかれりけり",
+            "gloss": "waka GEN be.absorbed PERF PST.REP",
+            "words": [
+              {
+                "word": "やまと歌",
+                "gloss": "waka"
+              },
+              {
+                "word": "に",
+                "gloss": "GEN"
+              },
+              {
+                "word": "かかれ",
+                "gloss": "be.absorbed.ADV.F"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "TOP": "topic particle（〜は）",
+          "FOC": "focus particle（〜も）",
+          "NEG": "negative conjunctive（〜で）",
+          "ACC": "accusative particle（〜を）",
+          "GEN": "locative/target particle（〜に）",
+          "PERF": "perfective auxiliary（完了助動詞〜り）",
+          "PST.REP": "past, hearsay（〜けり）"
+        },
+        "translation-ja-natural": "狩りにはあまり熱心ではなく、ただ酒を飲みながら、和歌に没頭していた。",
+        "translation-en-natural": "He didn’t pursue hunting seriously; instead, he drank sake and devoted himself to composing waka poetry."
       },
       {
         "date": "20240821",
