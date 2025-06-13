@@ -29736,13 +29736,74 @@
         "translation-en-natural": "They sat beneath the tree, broke off branches to wear as ornaments, and everyone—regardless of rank, high, middle, or low—composed waka poems."
       },
       {
-        "date": "20240821",
+        "date": [
+          20240821,
+          20250613
+        ],
         "id": 9,
         "text": "馬の頭なりける人のよめる。",
         "kana": "うまのかみなりけるひとのよめる。",
         "honkoku": "うまのかみなりける人のよめる/",
-        "translation-ja": "馬の頭だった人が詠みました。",
-        "translation-en": "The person who was the Right Captain of the Horse sang the following poem."
+        "translation-ja": "馬の頭だった人が詠んだ。",
+        "translation-en": "The person who was the Captain of the Horse composed a poem.",
+        "phrase-gloss": [
+          {
+            "phrase": "馬の頭なりける人",
+            "gloss": "horse GEN Captain COP.PST.ATTR person",
+            "words": [
+              {
+                "word": "馬",
+                "gloss": "horse"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "頭",
+                "gloss": "Captain"
+              },
+              {
+                "word": "なり",
+                "gloss": "COP.ADV.F"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "のよめる",
+            "gloss": "GEN compose.PST.ATTR",
+            "words": [
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS.F"
+              },
+              {
+                "word": "る",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "COP": "copula（断定助動詞『なり』）",
+          "REALIS.F": "realis form (連用形)",
+          "PST.ATTR": "past, attributive form（過去連体形『ける』など）"
+        },
+        "translation-ja-natural": "右馬の頭だった人が詠んだ歌である。",
+        "translation-en-natural": "This is a poem composed by the person who served as the Captain of the Right Horse Guard."
       },
       {
         "date": "20240821",
