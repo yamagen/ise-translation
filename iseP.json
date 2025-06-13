@@ -29806,13 +29806,118 @@
         "translation-en-natural": "This is a poem composed by the person who served as the Captain of the Right Horse Guard."
       },
       {
-        "date": "20240821",
+        "date": [
+          20240821,
+          20250613
+        ],
         "id": 10,
         "poem": "世の中に/たえてさくらの/なかりせば/春の心は/のどけからまし",
         "kana": "よのなかに/たえてさくらの/なかりせは/はるのこころは/のどけからまし",
         "honkoku": "世中にたえてさくらのなかりせは/はるの心はのとけからまし/",
-        "translation-ja": "この世にまったく桜がなかったならば、春の心はもっと穏やかであっただろうに。",
-        "translation-en": "If there were no cherry blossoms in the world, the heart in spring would have been more at peace."
+        "translation-ja": "この世にまったく桜というものがなかったならば、春の心はのどかであったろうに。",
+        "translation-en": "If cherry blossoms had not existed at all in this world, the heart in spring would have been tranquil.",
+        "phrase-gloss": [
+          {
+            "phrase": "世の中に",
+            "gloss": "world GEN LOC",
+            "words": [
+              {
+                "word": "世",
+                "gloss": "world"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "中",
+                "gloss": "inside"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "たえてさくらの",
+            "gloss": "entirely cherry GEN",
+            "words": [
+              {
+                "word": "たえて",
+                "gloss": "entirely"
+              },
+              {
+                "word": "さくら",
+                "gloss": "cherry"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "なかりせば",
+            "gloss": "exist.NEG SUPP.COND",
+            "words": [
+              {
+                "word": "なかり",
+                "gloss": "exist.NEG"
+              },
+              {
+                "word": "せば",
+                "gloss": "SUPP.COND"
+              }
+            ]
+          },
+          {
+            "phrase": "春の心は",
+            "gloss": "spring GEN heart TOP",
+            "words": [
+              {
+                "word": "春",
+                "gloss": "spring"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "のどけからまし",
+            "gloss": "tranquil SUPP.CNTF",
+            "words": [
+              {
+                "word": "のどけから",
+                "gloss": "tranquil"
+              },
+              {
+                "word": "まし",
+                "gloss": "SUPP.CNTF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "LOC": "locative particle（〜に）",
+          "NEG": "negation（〜ず、〜なかり）",
+          "SUPP.COND": "suppositional conditional（反実仮想の条件『〜せば』）",
+          "SUPP.CNTF": "suppositional counterfactual（反実仮想の助動詞『まし』）",
+          "TOP": "topic particle（〜は）"
+        },
+        "translation-ja-natural": "この世に桜がまったくなかったならば、春という季節はもっと穏やかで落ち着いていたかもしれない。",
+        "translation-en-natural": "If there had been no cherry blossoms in the world, spring would have been a far more peaceful season."
       },
       {
         "date": "20240822",
