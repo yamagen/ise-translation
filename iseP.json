@@ -29505,22 +29505,235 @@
         "translation-en-natural": "He didn’t pursue hunting seriously; instead, he drank sake and devoted himself to composing waka poetry."
       },
       {
-        "date": "20240821",
+        "date": [
+          20240821,
+          20250613
+        ],
         "id": 7,
         "text": "いま狩する交野の渚の家、その院の桜、ことにおもしろし。",
         "kana": "いまかりするかたのなぎさのいへ、そのゐんのさくら、ことにおもしろし。",
         "honkoku": "今かりするかたののなきさ/のいへそのゐんの桜ことにおもしろし/",
-        "translation-ja": "今、狩りをしている交野の渚の家、その院の桜が特に美しい。",
-        "translation-en": "The house by the shore in Katano, where they are hunting now, has especially beautiful cherry blossoms in its garden."
+        "translation-ja": "今、狩りをする交野の渚の家、その院の桜は、とりわけ趣深い。",
+        "translation-en": "Now, the house by the shore in Katano where they hunt—its cherry blossoms at the residence are especially delightful.",
+        "phrase-gloss": [
+          {
+            "phrase": "いま狩する交野の渚の家",
+            "gloss": "now hunt.ATTR Katano.PN GEN shore GEN house",
+            "words": [
+              {
+                "word": "いま",
+                "gloss": "now"
+              },
+              {
+                "word": "狩する",
+                "gloss": "hunt.ATTR"
+              },
+              {
+                "word": "交野",
+                "gloss": "Katano.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "渚",
+                "gloss": "shore"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "家",
+                "gloss": "house"
+              }
+            ]
+          },
+          {
+            "phrase": "その院の桜",
+            "gloss": "that residence GEN cherry.blossoms",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "院",
+                "gloss": "residence"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "桜",
+                "gloss": "cherry.blossoms"
+              }
+            ]
+          },
+          {
+            "phrase": "ことにおもしろし",
+            "gloss": "especially delightful",
+            "words": [
+              {
+                "word": "ことに",
+                "gloss": "especially"
+              },
+              {
+                "word": "おもしろし",
+                "gloss": "delightful"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "PN": "proper noun（固有名詞）",
+          "GEN": "genitive particle（〜の）",
+          "ATTR": "attributive form（連体形）"
+        },
+        "translation-ja-natural": "いま狩りが行われている交野の渚の館、その院の桜がひときわ美しく咲いている。",
+        "translation-en-natural": "At the house by the shore in Katano, where hunting is now taking place, the cherry blossoms in its court are especially beautiful."
       },
       {
-        "date": "20240821",
+        "date": [
+          20240821,
+          20250613
+        ],
         "id": 8,
         "text": "その木のもとにおりゐて、枝を折りて、かざしにさして、かみ、なか、しも、みな歌よみけり。",
         "kana": "そのきのもとにおりゐて、えをおりて、かざしにさして、かみ、なか、しも、みなうたよみけり。",
         "honkoku": "その木のもとにおりゐてえたをおりてか/さしにさしてかみなかしもみな哥よみ/けり",
-        "translation-ja": "その木の下に座って、枝を折り取って、かざしにさして、上の人も、中の人も、下の人も、みんな歌を詠みました。",
-        "translation-en": "They sat under the tree, broke off a branch, placed it in their hair as an ornament, and everyone—high-ranking, middle, and low—composed poems."
+        "translation-ja": "その木の下に居て、枝を折って、かざしにさして、上・中・下、みな歌を詠んだ。",
+        "translation-en": "They stayed beneath the tree, broke off branches, placed them as ornaments, and all—upper, middle, and lower—composed poems.",
+        "phrase-gloss": [
+          {
+            "phrase": "その木のもとにおりゐて",
+            "gloss": "that tree GEN base LOC stay.CONJ",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "木",
+                "gloss": "tree"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "もと",
+                "gloss": "base"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "おり",
+                "gloss": "down.ADV.F"
+              },
+              {
+                "word": "ゐ",
+                "gloss": "stay.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "枝を折りて",
+            "gloss": "branch ACC break.CONJ",
+            "words": [
+              {
+                "word": "枝",
+                "gloss": "branch"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "折り",
+                "gloss": "break.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "かざしにさして",
+            "gloss": "hair.ornament LOC insert.CONJ",
+            "words": [
+              {
+                "word": "かざし",
+                "gloss": "hair.ornament"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "さし",
+                "gloss": "insert.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "かみ、なか、しも、みな歌よみけり",
+            "gloss": "upper middle lower all poem compose.PST.REP",
+            "words": [
+              {
+                "word": "かみ",
+                "gloss": "upper"
+              },
+              {
+                "word": "なか",
+                "gloss": "middle"
+              },
+              {
+                "word": "しも",
+                "gloss": "lower"
+              },
+              {
+                "word": "みな",
+                "gloss": "all"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "よみ",
+                "gloss": "compose.ADV.F"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "GEN": "genitive particle（〜の）",
+          "ADV.F": "adverbial form (連用形)（〜て）",
+          "LOC": "locative particle（〜に）",
+          "ACC": "accusative particle（〜を）",
+          "CONJ": "conjunctive form（〜て）",
+          "PST.REP": "past, hearsay（〜けり）"
+        },
+        "translation-ja-natural": "その木の下に座って、枝を折り、かざしとして髪に挿し、身分の上中下を問わず、皆が和歌を詠んだ。",
+        "translation-en-natural": "They sat beneath the tree, broke off branches to wear as ornaments, and everyone—regardless of rank, high, middle, or low—composed waka poems."
       },
       {
         "date": "20240821",
