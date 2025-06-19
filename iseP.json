@@ -29920,40 +29920,315 @@
         "translation-en-natural": "If there had been no cherry blossoms in the world, spring would have been a far more peaceful season."
       },
       {
-        "date": "20240822",
+        "date": [
+          20240822,
+          20250619
+        ],
         "id": 11,
         "text": "となむよみたりける。",
         "kana": "となむよみたりける。",
         "honkoku": "となんよみたりける",
-        "translation-ja": "と詠みました。",
-        "translation-en": "He sang it."
+        "translation-ja": "と詠み終えたのであった。",
+        "translation-en": "Thus, he had finished composing it.",
+        "phrase-gloss": {
+          "phrase": "となむよみたりける",
+          "gloss": "thus FOC read finish PAST.ATTR",
+          "words": [
+            {
+              "word": "と",
+              "gloss": "thus"
+            },
+            {
+              "word": "なむ",
+              "gloss": "FOC"
+            },
+            {
+              "word": "よみ",
+              "gloss": "read"
+            },
+            {
+              "word": "たり",
+              "gloss": "finish"
+            },
+            {
+              "word": "ける",
+              "gloss": "PAST.ATTR"
+            }
+          ]
+        },
+        "glossary-abbreviations": {
+          "FOC": "focus particle（係助詞：強調の係り結び、例：なむ）",
+          "PAST.ATTR": "past, attributive form（過去助動詞『けり』の連体形）"
+        },
+        "translation-ja-natural": "そう詠んで終えたのであった。",
+        "translation-en-natural": "He composed those words and brought it to completion."
       },
       {
-        "date": "20240822",
+        "date": [
+          20240822,
+          20250619
+        ],
         "id": 12,
         "text": "また人の歌、",
         "kana": "またひとのうた、",
         "honkoku": "又ひとのうた/",
         "translation-ja": "また、人の歌、",
-        "translation-en": "Another person's poem,"
+        "translation-en": "Another person's poem,",
+        "phrase-gloss": {
+          "phrase": "また人の歌",
+          "gloss": "again person GEN poem",
+          "words": [
+            {
+              "word": "また",
+              "gloss": "again"
+            },
+            {
+              "word": "人",
+              "gloss": "person"
+            },
+            {
+              "word": "の",
+              "gloss": "GEN"
+            },
+            {
+              "word": "歌",
+              "gloss": "poem"
+            }
+          ]
+        },
+        "glossary-abbreviations": {
+          "GEN": "genitive particle（〜の）"
+        },
+        "translation-ja-natural": "そして、もう一人の人の歌は、",
+        "translation-en-natural": "Then, there was another person's poem:"
       },
       {
-        "date": "20240822",
+        "date": [
+          20240822,
+          20250619
+        ],
         "id": 13,
         "poem": "散ればこそ/いとど桜は/めでたけれ/憂き世になにか/久しかるべき",
         "kana": "ちればこそ/いとどさくらは/めでたけれ/うきよになにか/ひさしかるべき",
         "honkoku": "ちれはこそいととさくらはめてたけれ/s92l/うき世になにかひさしかるへき/",
         "translation-ja": "散るからこそ、いっそう桜は美しいのだ。この辛い世の中で、何が長く続くだろうか、いや、何も続かない。",
-        "translation-en": "It is because they fall that cherry blossoms are even more beautiful. In this sorrowful world, what could possibly last long? Nothing, indeed."
+        "translation-en": "It is because they fall that cherry blossoms are even more beautiful. In this sorrowful world, what could possibly last long? Nothing, indeed.",
+        "phrase-gloss": [
+          {
+            "phrase": "散ればこそ",
+            "gloss": "because they fall",
+            "words": [
+              {
+                "word": "散れ",
+                "gloss": "scatter.REALIS.F"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND.F"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "いとど桜は",
+            "gloss": "even more the cherry blossoms",
+            "words": [
+              {
+                "word": "いとど",
+                "gloss": "even.more"
+              },
+              {
+                "word": "桜",
+                "gloss": "cherry.blosssom"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "めでたけれ",
+            "gloss": "are admirable",
+            "words": [
+              {
+                "word": "めでたけれ",
+                "gloss": "admirable.REALIS.F"
+              }
+            ]
+          },
+          {
+            "phrase": "憂き世に",
+            "gloss": "in this sorrowful world",
+            "words": [
+              {
+                "word": "憂き",
+                "gloss": "sorrowful.ATTR"
+              },
+              {
+                "word": "世",
+                "gloss": "world"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "なにか久しかるべき",
+            "gloss": "what could last long?",
+            "words": [
+              {
+                "word": "なにか",
+                "gloss": "what.EMPH"
+              },
+              {
+                "word": "久し",
+                "gloss": "long-lasting.ADJ"
+              },
+              {
+                "word": "かる",
+                "gloss": "be.ADV.F"
+              },
+              {
+                "word": "べき",
+                "gloss": "should.MODAL"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "COND.F": "conditional form（〜ば、〜ど）",
+          "EMPH": "emphatic particle（〜こそ、〜ぞ）",
+          "TOP": "topic particle（〜は）",
+          "REALIS.F": "realis form（已然形で使われる形）",
+          "ATTR": "attributive form（連体形）",
+          "LOC": "locative particle（〜に）",
+          "MODAL": "modal auxiliary（〜べき：当然・推量）",
+          "ADV.F": "adverbial form（連用形）"
+        },
+        "translation-ja-natural": "桜は散るからこそ、いっそう美しい。この辛い世の中で、長く続くものなんてあるだろうか。",
+        "translation-en-natural": "Cherry blossoms are all the more beautiful because they fall. In this sorrowful world, is there anything that truly lasts?"
       },
       {
-        "date": "20240822",
+        "date": [
+          20240822,
+          20250619
+        ],
         "id": 14,
         "text": "とて、その木のもとは立ちてかへるに日暮になりぬ。",
         "kana": "とて、そのきのもとはたちてかへるにひぐれになりぬ。",
         "honkoku": "とてその木のもとはたちてかへるにひ/くれになりぬ",
-        "translation-ja": "そう言って、その木の下を発って帰ると、日が暮れてしまった。",
-        "translation-en": "Saying that, they departed from under the tree and returned home, but by then, it had become evening."
+        "translation-ja": "そう言って、その木のもとから立って帰ると、日暮れになった。",
+        "translation-en": "Saying that, they stood up from beneath the tree and returned, and it became evening.",
+        "phrase-gloss": [
+          {
+            "phrase": "とて",
+            "gloss": "saying that",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "その木のもとは",
+            "gloss": "under that tree GEN base TOP",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "木",
+                "gloss": "tree"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "もと",
+                "gloss": "base"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "立ちて",
+            "gloss": "stand.ADV.F CONJ",
+            "words": [
+              {
+                "word": "立ち",
+                "gloss": "stand.ADV.F"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "かへるに",
+            "gloss": "return when",
+            "words": [
+              {
+                "word": "かへる",
+                "gloss": "return"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ.TEMP"
+              }
+            ]
+          },
+          {
+            "phrase": "日暮になりぬ",
+            "gloss": "sunset become.PERF",
+            "words": [
+              {
+                "word": "日暮",
+                "gloss": "sunset"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV.F"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "QT": "quotative particle（〜と）",
+          "CONJ": "conjunctive particle（接続助詞）",
+          "GEN": "genitive particle（〜の）",
+          "TOP": "topic marker（〜は）",
+          "ADV.F": "adverbial form（連用形）",
+          "CONJ.TEMP": "temporal conjunctive（時の接続助詞：〜に）",
+          "DAT": "dative particle（〜に）",
+          "PERF": "perfective（完了）"
+        },
+        "translation-ja-natural": "そう言って、その木の下から立ち去り、帰るころにはもう日が暮れていた。",
+        "translation-en-natural": "Saying that, they left from under the tree, and by the time they headed home, the sun had already set."
       },
       {
         "date": "20240822",
