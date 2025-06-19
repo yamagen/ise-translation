@@ -30231,13 +30231,90 @@
         "translation-en-natural": "Saying that, they left from under the tree, and by the time they headed home, the sun had already set."
       },
       {
-        "date": "20240822",
+        "date": [
+          20240822,
+          20250619
+        ],
         "id": 15,
         "text": "御供なる人、酒をもたせて、野よりいで来たり。",
         "kana": "おともなるひと、さけをもたせて、のよりいできたり。",
         "honkoku": "御ともなる人さけをもた/せて野よりいてきたり",
-        "translation-ja": "お供の人が、酒を誰かに持たせて野から出てきました。",
-        "translation-en": "The attendant had someone carry the sake and came out of the field."
+        "translation-ja": "お供である人が、酒を持たせて、野から出てきた。",
+        "translation-en": "The person serving as an attendant had someone carry the sake and came out from the field.",
+        "phrase-gloss": [
+          {
+            "phrase": "御供なる人",
+            "gloss": "attendant COP.ATTR person",
+            "words": [
+              {
+                "word": "御供",
+                "gloss": "attendant"
+              },
+              {
+                "word": "なる",
+                "gloss": "COP.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "酒をもたせて",
+            "gloss": "sake ACC carry.CAUS CONJ",
+            "words": [
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "もたせ",
+                "gloss": "carry.CAUS"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "野よりいで来たり",
+            "gloss": "field ABL exit come.PST.REP",
+            "words": [
+              {
+                "word": "野",
+                "gloss": "field"
+              },
+              {
+                "word": "より",
+                "gloss": "ABL"
+              },
+              {
+                "word": "いで",
+                "gloss": "exit"
+              },
+              {
+                "word": "来たり",
+                "gloss": "come.PST.REP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "ACC": "accusative particle（〜を）",
+          "ABL": "ablative particle（〜より：出所）",
+          "COP.ATTR": "copula, attributive form（断定助動詞『なり』の連体形）",
+          "CONJ": "conjunctive particle（接続助詞）",
+          "CAUS": "causative（使役）",
+          "PST.REP": "past, hearsay/reported（過去の伝聞・物語調）"
+        },
+        "translation-ja-natural": "お供の人が酒を持たせて、野から出てきた。",
+        "translation-en-natural": "The attendant had someone carry the sake and came back from the field."
       },
       {
         "date": "20240822",
