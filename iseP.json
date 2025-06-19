@@ -30458,13 +30458,72 @@
         "translation-en-natural": "They thought of drinking the sake, and while looking for a good spot, they came upon a place called Amanokawa."
       },
       {
-        "date": "20240822",
+        "date": [
+          20240822,
+          20250619
+        ],
         "id": 17,
         "text": "親王に馬の頭、大御酒まゐる。",
         "kana": "しんのうにうまのかみ、おほみきまゐる。",
         "honkoku": "みこにむまの/かみおほみきまいる",
-        "translation-ja": "親王に馬の頭が、大御酒を参りました。",
-        "translation-en": "The Right Captain of the Horse brought the sake to the prince."
+        "translation-ja": "親王に、馬の頭が、大御酒を差し上げた。",
+        "translation-en": "To the prince, the Captain of the Horse offered sacred sake.",
+        "phrase-gloss": [
+          {
+            "phrase": "親王に",
+            "gloss": "prince DAT",
+            "words": [
+              {
+                "word": "親王",
+                "gloss": "prince"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "馬の頭",
+            "gloss": "horse GEN head",
+            "words": [
+              {
+                "word": "馬",
+                "gloss": "horse"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "頭",
+                "gloss": "head"
+              }
+            ]
+          },
+          {
+            "phrase": "大御酒まゐる",
+            "gloss": "sacred.sake offer.HUM",
+            "words": [
+              {
+                "word": "大御酒",
+                "gloss": "sacred.sake"
+              },
+              {
+                "word": "まゐる",
+                "gloss": "offer.HUM"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "DAT": "dative particle（〜に）",
+          "GEN": "genitive particle（〜の）",
+          "HUM": "humble: humble expression lowering the speaker or their in-group (e.g., まゐる = to offer)",
+          "sacred.sake": "polite/high-register term for sake (大御酒)"
+        },
+        "translation-ja-natural": "親王に、馬の頭がお酒を差し上げた。",
+        "translation-en-natural": "The Captain of the Horse respectfully offered sake to the prince."
       },
       {
         "date": "20240822",
