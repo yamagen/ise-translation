@@ -30299,8 +30299,12 @@
                 "gloss": "exit"
               },
               {
-                "word": "来たり",
-                "gloss": "come.PST.REP"
+                "word": "来",
+                "gloss": "come.ADV.F"
+              },
+              {
+                "word": "たり",
+                "gloss": "PST.REP"
               }
             ]
           }
@@ -30317,13 +30321,141 @@
         "translation-en-natural": "The attendant had someone carry the sake and came back from the field."
       },
       {
-        "date": "20240822",
+        "date": [
+          20240822,
+          20250619
+        ],
         "id": 16,
         "text": "この酒を飲みてむとて、よき所を求めゆくに、天の河といふ所にいたりぬ。",
         "kana": "このさけをのみてむとて、よきところをもとめゆくに、あまのかはといふところにいたりぬ。",
         "honkoku": "このさけをのみ/てむとてよき所をもとめゆくにあまの/かはといふ所にいたりぬ",
-        "translation-ja": "この酒を飲もうと言って、良い場所を探しながらいくと、天の河という所に着きました。",
-        "translation-en": "They were looking for a good place to drink the sake, and as they continued their search, they arrived at a place called \"Amanokawa.\""
+        "translation-ja": "この酒を飲もうと思って、良い場所を探して行くと、天の河という所に着いた。",
+        "translation-en": "Thinking to drink this sake, they searched for a good spot and came to a place called Amanokawa.",
+        "phrase-gloss": [
+          {
+            "phrase": "この酒を飲みてむとて",
+            "gloss": "this sake ACC drink CONJ.INTEND QUOT CONJ",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "飲み",
+                "gloss": "drink"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "む",
+                "gloss": "INTEND"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "よき所を求めゆくに",
+            "gloss": "good place ACC search go COND.F",
+            "words": [
+              {
+                "word": "よき",
+                "gloss": "good.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "求め",
+                "gloss": "search"
+              },
+              {
+                "word": "ゆく",
+                "gloss": "go"
+              },
+              {
+                "word": "に",
+                "gloss": "COND.F"
+              }
+            ]
+          },
+          {
+            "phrase": "天の河といふ所にいたりぬ",
+            "gloss": "heaven GEN river QUOT say place LOC arrive.PERF",
+            "words": [
+              {
+                "word": "天",
+                "gloss": "heaven"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "河",
+                "gloss": "river"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "いたり",
+                "gloss": "arrive.ADV.F"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "ACC": "accusative particle（〜を）",
+          "ATTR": "attributive form（連体形）",
+          "CONJ": "conjunctive particle（〜て）",
+          "INTEND": "intentional auxiliary（〜む：意志）",
+          "QUOT": "quotative particle（〜と）",
+          "COND.F": "conditional form（〜に：仮定）",
+          "GEN": "genitive particle（〜の）",
+          "LOC": "locative particle（〜に）",
+          "PERF": "perfective（完了）"
+        },
+        "translation-ja-natural": "このお酒を飲もうと思って、いい場所を探していくうちに、天の河という場所にたどり着いた。",
+        "translation-en-natural": "They thought of drinking the sake, and while looking for a good spot, they came upon a place called Amanokawa."
       },
       {
         "date": "20240822",
