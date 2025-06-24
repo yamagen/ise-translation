@@ -30526,22 +30526,332 @@
         "translation-en-natural": "The Captain of the Horse respectfully offered sake to the prince."
       },
       {
-        "date": "20240822",
+        "date": [
+          20240822,
+          20250619
+        ],
         "id": 18,
         "text": "親王ののたまひける、「交野を狩りて、天の河のほとりにいたる、を題にて、歌よみて盃はさせ」とのたまうければ、かの馬の頭よみて奉りける。",
         "kana": "しんのうののたまひける、「かたのをかりて、あまのかはのほとりにいたる、をだいにて、うたよみてさかつきはさせ」とのたまうければ、かのうまのかみよみてたてまつりける。",
         "honkoku": "みこののたまひける/かたのをかりてあまのかはのほとりにい/たるをたいにてうたよみてさかつきは/s93r/させとのたまうけれはかのむまのかみよ/みてたてまつりける/",
-        "translation-ja": "親王が仰せになって、「交野を狩って、天の河のほとりにたどり着いた、という題で歌を詠んで杯を進めなさい」と仰せられたので、あの馬の頭が歌を詠んで献上しました。",
-        "translation-en": "The prince said, \"Compose a poem with the theme of hunting in Katano and arriving at the bank of the Amanokawa River, and then offer the cup.\" So, the Right Captain of the Horse composed a poem and presented it."
+        "translation-ja": "親王がおっしゃった、「交野を狩って、天の河のほとりに至る、を題として、歌を詠んで盃をさせよ」とおっしゃったので、あの馬の頭が詠んで奉った。",
+        "translation-en": "The prince said, 'With the theme of hunting in Katano and arriving at the bank of the Amanokawa, compose a poem and have the cup offered.' As he said so, that Captain of the Horse composed and offered it.",
+        "phrase-gloss": [
+          {
+            "phrase": "親王ののたまひける",
+            "gloss": "prince GEN say.HON.PST.ATTR",
+            "words": [
+              {
+                "word": "親王",
+                "gloss": "prince"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "のたまひ",
+                "gloss": "say.HON"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "交野を狩りて",
+            "gloss": "Katano ACC hunt CONJ",
+            "words": [
+              {
+                "word": "交野",
+                "gloss": "Katano"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "狩り",
+                "gloss": "hunt"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "天の河のほとりにいたる",
+            "gloss": "Amanokawa GEN bank LOC reach.ATTR",
+            "words": [
+              {
+                "word": "天の河",
+                "gloss": "Amanokawa"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ほとり",
+                "gloss": "bank"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "いたる",
+                "gloss": "reach.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "を題にて",
+            "gloss": "ACC theme COP.CONJ",
+            "words": [
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "題",
+                "gloss": "theme"
+              },
+              {
+                "word": "にて",
+                "gloss": "COP.CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "歌よみて盃はさせ",
+            "gloss": "poem compose.CONJ cup TOP offer.CAUS.IMP",
+            "words": [
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "よみ",
+                "gloss": "compose"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "盃",
+                "gloss": "cup"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "させ",
+                "gloss": "offer.CAUS.IMP"
+              }
+            ]
+          },
+          {
+            "phrase": "とのたまうければ",
+            "gloss": "QUOT say.HON.CONC",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "のたまう",
+                "gloss": "say.HON"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND.F"
+              }
+            ]
+          },
+          {
+            "phrase": "かの馬の頭よみて奉りける",
+            "gloss": "that horse GEN head compose.CONJ offer.HUM.PST.ATTR",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that"
+              },
+              {
+                "word": "馬",
+                "gloss": "horse"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "頭",
+                "gloss": "head"
+              },
+              {
+                "word": "よみ",
+                "gloss": "compose"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "奉り",
+                "gloss": "offer.HUM"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "CAUS": "causative: making/letting someone do something（〜させる）",
+          "IMP": "imperative: command form（命令形）",
+          "GEN": "genitive particle（〜の）",
+          "ACC": "accusative particle（〜を）",
+          "CONJ": "conjunctive form（〜て）",
+          "ATTR": "attributive form（連体形）",
+          "PST.ATTR": "past attributive（〜ける）",
+          "PST.REALIS": "past realis（〜けれ）",
+          "COND.F": "conditional form（〜ば）",
+          "COP.CONJ": "copula conjunctive form（〜にて）",
+          "QUOT": "quotative particle（〜と）",
+          "HON": "honorific（尊敬語）",
+          "HUM": "humble（謙譲語）"
+        },
+        "translation-ja-natural": "親王が『交野で狩りをして、天の川のほとりに着いたことを題にして歌を詠み、杯を進めよ』とおっしゃったので、馬の頭が歌を詠んで差し上げた。",
+        "translation-en-natural": "The prince said, 'Compose a poem on the theme of hunting in Katano and arriving at the Amanokawa riverbank, and offer the cup.' So the Captain of the Horse composed and presented a poem."
       },
       {
-        "date": "20240822",
+        "date": [
+          20240822,
+          20250624
+        ],
         "id": 19,
         "poem": "狩りくらし/たなばたつめに/宿からむ/天の河原に/われは来にけり",
         "kana": "かりくらし/たなばたつめに/やどからん/あまのかわらに/われはきにけり",
         "honkoku": "かりくらしたなはたつめに宿からん/あまのかはらに我はきにけり/",
-        "translation-ja": "狩り暮らしたなばたつめに宿を借りようとして、天の河原に私は来た。",
-        "translation-en": "Having spent the day hunting, I will ask the weaver for lodging tonight. I have come to the bank of the Amanokawa River."
+        "translation-ja": "狩りをして日を暮らし、たなばたつめに宿を借りようと、天の川原に私は来てしまった。",
+        "translation-en": "Hunting until nightfall, to borrow lodging from the weaving maiden, I have come to the riverbank of the Amanokawa.",
+        "phrase-gloss": [
+          {
+            "phrase": "狩りくらし",
+            "gloss": "hunt do.until.nightfall",
+            "words": [
+              {
+                "word": "狩り",
+                "gloss": "hunt"
+              },
+              {
+                "word": "くらし",
+                "gloss": "do.until.nightfall"
+              }
+            ]
+          },
+          {
+            "phrase": "たなばたつめに",
+            "gloss": "Tanabata.maiden DAT",
+            "words": [
+              {
+                "word": "たなばたつめ",
+                "gloss": "Tanabata.maiden"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "宿からむ",
+            "gloss": "lodging borrow.SUPP",
+            "words": [
+              {
+                "word": "宿",
+                "gloss": "lodging"
+              },
+              {
+                "word": "から",
+                "gloss": "borrow.NEG.BASE"
+              },
+              {
+                "word": "む",
+                "gloss": "SUPP"
+              }
+            ]
+          },
+          {
+            "phrase": "天の河原に",
+            "gloss": "heaven GEN riverbank LOC",
+            "words": [
+              {
+                "word": "天",
+                "gloss": "heaven"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "河原",
+                "gloss": "riverbank"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "われは来にけり",
+            "gloss": "I TOP come.PFV.EXCL",
+            "words": [
+              {
+                "word": "われ",
+                "gloss": "I"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "来",
+                "gloss": "come"
+              },
+              {
+                "word": "に",
+                "gloss": "PFV"
+              },
+              {
+                "word": "けり",
+                "gloss": "EXCL"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "DAT": "dative particle（〜に、〜へ）",
+          "SUPP": "suppositional auxiliary（〜む）",
+          "GEN": "genitive particle（〜の）",
+          "LOC": "locative particle（〜に）",
+          "TOP": "topic particle（〜は）",
+          "PFV": "perfective auxiliary（〜に）",
+          "EXCL": "exclamatory auxiliary（〜けり）"
+        },
+        "translation-ja-natural": "狩りをして日を暮らし、織女に今夜の宿を借りようと、天の川の河原まで来てしまった。",
+        "translation-en-natural": "After hunting all day, I've come to the riverbank of the Milky Way to ask the weaver maiden for a place to stay tonight."
       },
       {
         "date": "20240822",
