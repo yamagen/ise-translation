@@ -5615,7 +5615,7 @@
             "words": [
               {
                 "word": "え",
-                "gloss": "not"
+                "gloss": "POT.NEG"
               },
               {
                 "word": "得まじう",
@@ -19922,7 +19922,7 @@
               },
               {
                 "word": "え",
-                "gloss": "can"
+                "gloss": "POT.NEG"
               },
               {
                 "word": "せ",
@@ -20034,7 +20034,7 @@
               },
               {
                 "word": "え",
-                "gloss": "can"
+                "gloss": "POT.NEG"
               },
               {
                 "word": "あは",
@@ -21461,7 +21461,7 @@
               },
               {
                 "word": "え",
-                "gloss": "cannot"
+                "gloss": "POT.NEG"
               },
               {
                 "word": "あは",
@@ -30854,13 +30854,95 @@
         "translation-en-natural": "After hunting all day, I've come to the riverbank of the Milky Way to ask the weaver maiden for a place to stay tonight."
       },
       {
-        "date": "20240822",
+        "date": [
+          20240822,
+          20250627
+        ],
         "id": 20,
         "text": "親王、歌をかへすがへす誦じたまうて、返しえしたまはず。",
         "kana": "しんのう、うたをかへすがへすずしむて、かへしえしたまはず。",
         "honkoku": "みこうたを返々すし給うてかへし/えしたまはす",
-        "translation-ja": "親王は、歌を何度も繰り返し吟じられたが、返歌を詠むことはなさらなかった。",
-        "translation-en": "The prince recited the poem over and over again, but did not compose a reply."
+        "translation-ja": "親王は、歌をかへすがへす誦じられて、返しなされなかった。",
+        "translation-en": "The prince repeatedly recited the poem and was unable to reply.",
+        "phrase-gloss": [
+          {
+            "phrase": "親王、歌を",
+            "gloss": "The prince [took up] the poem",
+            "words": [
+              {
+                "word": "親王",
+                "gloss": "imperial prince"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem; waka"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "かへすがへす",
+            "gloss": "again and again",
+            "words": [
+              {
+                "word": "かへすがへす",
+                "gloss": "repeatedly; again and again"
+              }
+            ]
+          },
+          {
+            "phrase": "誦じたまうて、",
+            "gloss": "recited it aloud with respect, and...",
+            "words": [
+              {
+                "word": "誦じ",
+                "gloss": "recite aloud.ADV.F"
+              },
+              {
+                "word": "たまう",
+                "gloss": "HON"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "返しえしたまはず",
+            "gloss": "was unable to respond (respectfully)",
+            "words": [
+              {
+                "word": "返し",
+                "gloss": "respond; reply"
+              },
+              {
+                "word": "え",
+                "gloss": "POT.NEG"
+              },
+              {
+                "word": "たまは",
+                "gloss": "HON.NEG.BASE"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "POT.NEG": "potential negative auxiliary verb（え..ず）",
+          "ACC": "accusative case marker",
+          "HON": "honorific auxiliary verb",
+          "NEG": "negation auxiliary verb",
+          "and (sequential action)": "接続助詞「て」の意味"
+        },
+        "translation-ja-natural": "親王は、その歌を何度も繰り返し口ずさまれたが、ついに返歌をなさることはできなかった。",
+        "translation-en-natural": "The prince kept reciting the poem over and over, but in the end, he could not compose a reply."
       },
       {
         "date": "20240822",
