@@ -30903,7 +30903,7 @@
               },
               {
                 "word": "たまう",
-                "gloss": "HON"
+                "gloss": "HON.ADV.F"
               },
               {
                 "word": "て",
@@ -30945,13 +30945,58 @@
         "translation-en-natural": "The prince kept reciting the poem over and over, but in the end, he could not compose a reply."
       },
       {
-        "date": "20240822",
+        "date": [
+          20240822,
+          20250630
+        ],
         "id": 21,
         "text": "紀の有常、御供に仕うまつれり。",
         "kana": "きのありつね、おともにつかうまつれり。",
         "honkoku": "きのありつね御ともに/つかうまつれり",
-        "translation-ja": "紀の有常が、お供に仕えていた。",
-        "translation-en": "Kinoaritsune was serving as an attendant."
+        "translation-ja": "紀の有常が、お供に仕え申し上げていた。",
+        "translation-en": "Kinoaritsune humbly served as an attendant.",
+        "phrase-gloss": [
+          {
+            "phrase": "紀の有常",
+            "gloss": "Kinoaritsune.PN",
+            "words": [
+              {
+                "word": "紀の有常",
+                "gloss": "Kinoaritsune.PN"
+              }
+            ]
+          },
+          {
+            "phrase": "御供に仕うまつれり。",
+            "gloss": "humbly served as an attendant",
+            "words": [
+              {
+                "word": "御供",
+                "gloss": "attendant duty"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "仕うまつれ",
+                "gloss": "serve.HUM.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": {
+          "DAT": "dative case marker",
+          "PERF": "perfective aspect marker",
+          "PN": "proper noun (固有名詞)",
+          "REALIS": "realis form (已然形): form assuming an event is actual, often used with conditionals or perfective aspect auxiliaries"
+        },
+        "translation-ja-natural": "紀の有常はお供として謹んでお仕えしていました。",
+        "translation-en-natural": "Kinoaritsune respectfully served as an attendant."
       },
       {
         "date": "20240822",
