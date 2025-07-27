@@ -9068,7 +9068,7 @@
               },
               {
                 "word": "む",
-                "gloss": "MODAL"
+                "gloss": "MOD.ATTR"
               },
               {
                 "word": "人",
@@ -21479,7 +21479,8 @@
       {
         "date": [
           20240814,
-          20250529
+          20250529,
+          20250725
         ],
         "id": 6,
         "poem": "岩間より/生ふるみるめし/つれなくは/しほ干しほ満ちかひもありなむ",
@@ -21526,7 +21527,7 @@
             "words": [
               {
                 "word": "つれなく",
-                "gloss": "indifferent.ADV.F"
+                "gloss": "indifferent.ADV"
               },
               {
                 "word": "は",
@@ -21540,11 +21541,11 @@
             "words": [
               {
                 "word": "しほ干",
-                "gloss": "ebb.ADV.F"
+                "gloss": "ebb.ADV"
               },
               {
                 "word": "しほ満ち",
-                "gloss": "flow.ADV.F"
+                "gloss": "flow.ADV"
               }
             ]
           },
@@ -21562,18 +21563,38 @@
               },
               {
                 "word": "あり",
-                "gloss": "be.ADV.F"
+                "gloss": "exist.ADV"
               },
               {
                 "word": "なむ",
-                "gloss": "FUT.MODAL"
+                "gloss": "FOC"
               }
             ]
           }
         ],
         "glossary-abbreviations": null,
         "translation-ja-natural": "岩の間から生えている海松布がもし冷たく素っ気ないのなら、潮が引いたり満ちたりすることにも何かしらの甲斐があるのでしょう。",
-        "translation-en-natural": "If the seaweed growing between the rocks is indeed indifferent, then surely the ebbing and flowing tides must have some meaning or effect."
+        "translation-en-natural": "If the seaweed growing between the rocks is indeed indifferent, then surely the ebbing and flowing tides must have some meaning or effect.",
+        "notes-ja": [
+          {
+            "title": "なむ（な＝強意の助動詞「ぬ」未然形説）",
+            "notes": "「なむ」の「な」を強意の助動詞「ぬ」の未然形とし、「ぬ＋む」と分解する見解があるが、これは文法的に無理がある。第一に、「ぬ」は通常連用形に接続する助動詞であり、未然形「な」が助動詞「む」と直接接続する構造は古語文法上認められない。第二に、強意の「ぬ」という機能自体が曖昧であり、文法的に体系化されていない。第三に、「なむ」は係助詞または終助詞として一語で機能しており、文法的にも運用上もそのように扱うのが自然である。以上の理由により、「な＝ぬ（未然形）」とする説は言語学的には成立しがたく、採用しない。"
+          },
+          {
+            "title": "ありなむ",
+            "note": "「ありなむ」は、ラ変動詞「あり」の連用形＋係助詞（または終助詞）「なむ」と見るのが自然であり、「あらなむ」（未然形＋願望の終助詞）と異なり、願望の意味は持たない。係助詞「なむ」は、倒置されて動詞の後に置かれる例も見られ、話し手が発話の最後に即時的に補足・強調する形として使われることがある。この用法は、和歌において強調や祝意の断定表現として機能する場合がある。従って「かひもありなむ」は、『かひもあるのだ（価値はある）』という断定の表現である。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "namu (na = emphatic auxiliary verb 'nu' in the imperfective form)",
+            "note": "The term 'namu' is often interpreted as a focus particle or an emphatic ending, rather than being broken down into 'na' as a strong auxiliary verb and 'mu' as a volitional form. This interpretation aligns with the grammatical structure of Classical Japanese, where 'namu' functions as a single unit to emphasize the statement."
+          },
+          {
+            "title": "ari namu",
+            "note": "'ari namu' is more naturally understood as the continuative form of the intransitive verb 'ari' combined with the focus particle 'namu', rather than as a wish expressed through the imperfective form 'ara namu'. The focus particle 'namu' can appear after the verb, emphasizing the statement, and is often used in poetry to convey a sense of certainty or affirmation."
+          }
+        ]
       },
       {
         "date": [
@@ -21775,11 +21796,11 @@
           },
           {
             "phrase": "なむ",
-            "gloss": "EMPH",
+            "gloss": "FOC",
             "words": [
               {
                 "word": "なむ",
-                "gloss": "EMPH"
+                "gloss": "FOC"
               }
             ]
           }
@@ -29659,13 +29680,99 @@
         "translation-en-natural": "Until late at night, he drank sake and told stories, and the prince, drunk, tried to enter the room."
       },
       {
-        "date": "20240823",
+        "date": [
+          20240823,
+          20250725
+        ],
         "id": 26,
         "text": "十一日の月もかくれなむとすれば、かの馬の頭のよめる。",
         "kana": "とおかのつきもかくれなむとすれば、かのうまのかみのよめる。",
         "honkoku": "十一日の/月もかくれなんとすれはかのむまのかみ/のよめる/",
-        "translation-ja": "十一日の月も隠れようとしているので、馬の頭が詠んだ。",
-        "translation-en": "As the moon on the eleventh day is about to hide, the Right Captain of the Horse sang,"
+        "translation-ja": "十一日の月も隠れようとしているので、かの馬の頭が詠んだ。",
+        "translation-en": "As the moon on the eleventh day is about to hide, that Right Captain of the Horse sang,",
+        "phrase-gloss": [
+          {
+            "phrase": "十一日の月も",
+            "gloss": "the moon of the eleventh day, too",
+            "words": [
+              {
+                "word": "十一日",
+                "gloss": "eleventh day"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "かくれなむとすれば",
+            "gloss": "as (it) was about to hide",
+            "words": [
+              {
+                "word": "かくれ",
+                "gloss": "hide.ADV"
+              },
+              {
+                "word": "な",
+                "gloss": "PERF.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "MOD"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "すれ",
+                "gloss": "do.REALS"
+              },
+              {
+                "word": "ば",
+                "gloss": "as"
+              }
+            ]
+          },
+          {
+            "phrase": "かの馬の頭のよめる",
+            "gloss": "that Captain of the Horse composed",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that"
+              },
+              {
+                "word": "馬の頭",
+                "gloss": "Captain of the Horse"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "十一日の月が隠れようとしたとき、あの馬の頭が一首詠んだのだった。",
+        "translation-en-natural": "As the moon of the eleventh night was about to vanish, that Captain of the Horse composed a poem."
       },
       {
         "date": "20240823",
@@ -29673,7 +29780,7 @@
         "poem": "あかなくに/まだきも月の/かくるるか/山の端にげて/入れずもあらなむ",
         "kana": "あかなくに/まだきもつきの/かくるるか/やまのはにげて/いれずもあらなむ",
         "honkoku": "あかなくにまたきも月のかくるるか/山のはにけていれすもあらなん/",
-        "translation-ja": "名残惜しいのに、もう早くも月が隠れてしまうのか。山の端に逃げて、どうか隠れないでほしい。",
+        "translation-ja": "名残惜しいのに、もう早くも月が隠れるのか。山の端、逃げて、入れないようにしてほしい。",
         "translation-en": "Though I am not yet satisfied, is the moon already hiding so soon? Flee to the edge of the mountains, but please do not disappear."
       },
       {
