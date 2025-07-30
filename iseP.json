@@ -29775,13 +29775,119 @@
         "translation-en-natural": "As the moon of the eleventh night was about to vanish, that Captain of the Horse composed a poem."
       },
       {
-        "date": "20240823",
+        "date": [
+          20240823,
+          20250729
+        ],
         "id": 27,
         "poem": "あかなくに/まだきも月の/かくるるか/山の端にげて/入れずもあらなむ",
         "kana": "あかなくに/まだきもつきの/かくるるか/やまのはにげて/いれずもあらなむ",
         "honkoku": "あかなくにまたきも月のかくるるか/山のはにけていれすもあらなん/",
-        "translation-ja": "名残惜しいのに、もう早くも月が隠れるのか。山の端、逃げて、入れないようにしてほしい。",
-        "translation-en": "Though I am not yet satisfied, is the moon already hiding so soon? Flee to the edge of the mountains, but please do not disappear."
+        "translation-ja": "名残惜しいのに、もう早くも月が隠れるのか。山の端、逃げて、入れないでおくれ。",
+        "translation-en": "Though I am not yet satisfied, is the moon already hiding? Mountain’s edge, flee, and do not let it in.",
+        "phrase-gloss": [
+          {
+            "phrase": "あかなくに",
+            "gloss": "though (I) am not yet satisfied",
+            "words": [
+              {
+                "word": "あか",
+                "gloss": "be.satisfied"
+              },
+              {
+                "word": "なく",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "まだきも月の",
+            "gloss": "already even the moon",
+            "words": [
+              {
+                "word": "まだき",
+                "gloss": "already"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "かくるるか",
+            "gloss": "is it hiding?",
+            "words": [
+              {
+                "word": "かくるる",
+                "gloss": "hide.ATTR"
+              },
+              {
+                "word": "か",
+                "gloss": "QP"
+              }
+            ]
+          },
+          {
+            "phrase": "山の端にげて",
+            "gloss": "mountain edge, flee",
+            "words": [
+              {
+                "word": "山の端",
+                "gloss": "mountain.GEN.edge"
+              },
+              {
+                "word": "にげ",
+                "gloss": "flee.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "入れずもあらなむ",
+            "gloss": "so that (it) cannot enter, I wish",
+            "words": [
+              {
+                "word": "入れ",
+                "gloss": "let.in.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "なむ",
+                "gloss": "HOP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "もっと見ていたいのに、もう月が隠れそうだ。山の端よ、逃げておくれ、月がおまえの後ろに隠れないようにしておくれ。",
+        "translation-en-natural": "I still want to gaze at the moon, but it's already about to disappear. O mountain's edge, please flee—don't let the moon hide behind you."
       },
       {
         "date": "20240823",
