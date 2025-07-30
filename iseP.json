@@ -29890,22 +29890,182 @@
         "translation-en-natural": "I still want to gaze at the moon, but it's already about to disappear. O mountain's edge, please flee—don't let the moon hide behind you."
       },
       {
-        "date": "20240823",
+        "date": [
+          20240823,
+          20250730
+        ],
         "id": 28,
         "text": "親王にかはりたてまつりて、紀の有常、",
         "kana": "しんのうにかはりたてまつりて、きのありつね、",
         "honkoku": "みこにかはりたてまつりてきのありつね/",
-        "translation-ja": "親王に代わり、紀の有常が、",
-        "translation-en": "In place of the prince, Kinoaritsune ..,"
+        "translation-ja": "親王に代わってお仕えし、紀有常が、",
+        "translation-en": "Humbly serving in the prince's stead, Kino no Aritsune,",
+        "phrase-gloss": [
+          {
+            "phrase": "親王に",
+            "gloss": "to the prince",
+            "words": [
+              {
+                "word": "親王",
+                "gloss": "prince"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "かはりたてまつりて",
+            "gloss": "humbly serving in his place",
+            "words": [
+              {
+                "word": "かはり",
+                "gloss": "substitute.ADV"
+              },
+              {
+                "word": "たてまつり",
+                "gloss": "serve.HUM.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "紀有常",
+            "gloss": "Kino Aritsune",
+            "words": [
+              {
+                "word": "紀",
+                "gloss": "Kino"
+              },
+              {
+                "word": "有常",
+                "gloss": "Aritsune"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "親王に代わってお詠みした紀有常が、",
+        "translation-en-natural": "Composing in place of the prince — Kino no Aritsune,"
       },
       {
-        "date": "20240823",
+        "date": [
+          20240823,
+          20250730
+        ],
         "id": 29,
         "poem": "おしなべて/峰もたひらに/なりななむ/山の端なくは/月も入らじを",
         "kana": "おしなべて/みねもたひらに/なりななむ/やまのはなくは/つきもいらじを",
         "honkoku": "をしなへてみねもたいらになりななむ/s94l/やまのはなくは月もいらしを/s95r",
-        "translation-ja": "すべての峰が平らになってしまえばよいのに。山の端がなくなれば、月も隠れることはないだろうに。",
-        "translation-en": "If only all the mountain peaks could become flat. If there were no mountain ridges, the moon would never set."
+        "translation-ja": "すべての峰も平らになってほしい。山の端がなければ、月も入らないだろうに。",
+        "translation-en": "May even all the peaks become flat. If there were no mountain edge, the moon would not go in either.",
+        "phrase-gloss": [
+          {
+            "phrase": "おしなべて",
+            "gloss": "altogether",
+            "words": [
+              {
+                "word": "おしなべて",
+                "gloss": "altogether"
+              }
+            ]
+          },
+          {
+            "phrase": "峰もたひらに",
+            "gloss": "even the peaks flat",
+            "words": [
+              {
+                "word": "峰",
+                "gloss": "peak"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              },
+              {
+                "word": "たひらに",
+                "gloss": "flat.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "なりななむ",
+            "gloss": "I wish (it) would become (complete)",
+            "words": [
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "な",
+                "gloss": "PERF.IRR"
+              },
+              {
+                "word": "なむ",
+                "gloss": "HOP"
+              }
+            ]
+          },
+          {
+            "phrase": "山の端なくは",
+            "gloss": "if there were no mountain edge",
+            "words": [
+              {
+                "word": "山",
+                "gloss": "mountain"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "端",
+                "gloss": "edge"
+              },
+              {
+                "word": "なく",
+                "gloss": "not.exist"
+              },
+              {
+                "word": "は",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "月も入らじを",
+            "gloss": "the moon too would not go in",
+            "words": [
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              },
+              {
+                "word": "入ら",
+                "gloss": "enter.IRR"
+              },
+              {
+                "word": "じ",
+                "gloss": "NEG.SUP"
+              },
+              {
+                "word": "を",
+                "gloss": "CONC"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "すべての峰が平らになってくれたらいいのに。山の端さえなければ、月も隠れたりしないのに。",
+        "translation-en-natural": "If only all the mountain peaks could be flattened. Without those ridges, the moon would never have to disappear."
       }
     ]
   },
