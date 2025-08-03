@@ -30075,13 +30075,159 @@
     "romaji": "Ono",
     "paragraph": [
       {
-        "date": "20240824",
+        "date": [
+          20240824,
+          20250803
+        ],
         "id": 1,
         "text": "むかし、水無瀬に通ひたまひし惟喬の親王、例の狩しにおはします供に、馬の頭なるおきな仕うまつれり。",
         "kana": "むかし、みなせにかよひたまひしこれたかのみこ、れいのかりしにおはしますともに、うまのかみなるおきなつかうまつれり。",
         "honkoku": "むかしみなせにかよひ給ひしこれたかの/みこれいのかりしにおはしますとも/にうまのかみなるおきなつかうまつれり/。",
-        "translation-ja": "昔、水無瀬に通っていらっしゃった惟喬親王が、いつものように狩りにお出かけになる際に、馬の頭であった老人がお供をしました。",
-        "translation-en": "Once up a time, when Prince Koretaka would visit Minase, an old man who was the Right Captain of the Horse accompanied him on his usual hunting trips."
+        "translation-ja": "昔、水無瀬に通いなさっていた惟喬の親王が、例の狩りにお出ましになる供に、馬の頭である翁がお仕え申し上げた。",
+        "translation-en": "Once upon a time, Prince Koretaka, who had visited Minase, on the usual hunt came forth, and an old man who was the Captain of the Horse served him.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、",
+            "gloss": "once upon a time",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once.upon.a.time"
+              }
+            ]
+          },
+          {
+            "phrase": "水無瀬に通ひたまひし",
+            "gloss": "had visited Minase",
+            "words": [
+              {
+                "word": "水無瀬",
+                "gloss": "Minase"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "通ひ",
+                "gloss": "visit.ADV"
+              },
+              {
+                "word": "たまひ",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "惟喬の親王、",
+            "gloss": "Prince Koretaka",
+            "words": [
+              {
+                "word": "惟喬",
+                "gloss": "Koretaka"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "親王",
+                "gloss": "prince"
+              }
+            ]
+          },
+          {
+            "phrase": "例の狩しに",
+            "gloss": "on the usual hunt",
+            "words": [
+              {
+                "word": "例",
+                "gloss": "usual"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "狩",
+                "gloss": "hunt"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "ALL"
+              }
+            ]
+          },
+          {
+            "phrase": "おはします供に、",
+            "gloss": "as his accompaniment he came forth",
+            "words": [
+              {
+                "word": "おはします",
+                "gloss": "come.HON"
+              },
+              {
+                "word": "供",
+                "gloss": "accompaniment"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "馬の頭なるおきな",
+            "gloss": "an old man who was Captain of the Horse",
+            "words": [
+              {
+                "word": "馬",
+                "gloss": "horse"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "頭",
+                "gloss": "captain"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "おきな",
+                "gloss": "old.man"
+              }
+            ]
+          },
+          {
+            "phrase": "仕うまつれり。",
+            "gloss": "served him",
+            "words": [
+              {
+                "word": "仕うまつれ",
+                "gloss": "serve.HUM.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "昔、水無瀬に通っておられた惟喬親王が、いつもの狩りにお出かけになるとき、馬の頭という役の老人が従った。",
+        "translation-en-natural": "Once upon a time, Prince Koretaka, who used to visit Minase, went out on his usual hunt, accompanied by an old man who held the title of Captain of the Horse."
       },
       {
         "date": "20240823",
