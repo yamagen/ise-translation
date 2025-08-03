@@ -30215,8 +30215,12 @@
             "gloss": "served him",
             "words": [
               {
-                "word": "仕うまつれ",
-                "gloss": "serve.HUM.REALIS"
+                "word": "仕う",
+                "gloss": "serve.ADV"
+              },
+              {
+                "word": "まつれ",
+                "gloss": "HUM.REALIS"
               },
               {
                 "word": "り",
