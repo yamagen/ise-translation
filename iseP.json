@@ -30243,13 +30243,141 @@
         "translation-en": "After spending some days, he returned to the palace."
       },
       {
-        "date": "20240823",
+        "date": [
+          20240823,
+          20250803
+        ],
         "id": 3,
         "text": "御おくりしてとくいなむと思ふに、大御酒たまひ、禄たまはむとて、つかはさざりけり。",
         "kana": "みおくりしてとくいなむとおもふに、おほみきたまひ、ろくたまはむとて、つかはさざりけり。",
         "honkoku": "御を/くりしてとくいなむとおもふにおほみ/きたまひろくたまはんとてつかはささり/けり",
-        "translation-ja": "お見送りして早く帰ろうと思っていたが、大御酒を賜り、褒美を与えようと言って、すぐには帰れなかった。",
-        "translation-en": "He intended to send them off quickly and return home, but he was given sake and promised a reward, so he couldn't leave immediately."
+        "translation-ja": "お見送りして早く帰ろうと思ったところ、大御酒を賜り、禄を賜ろうとして、行かせなかった。",
+        "translation-en": "Having seen them off and intending to return quickly, he thought so, but sacred sake was bestowed, and saying 'I shall grant you a reward', they did not send him.",
+        "phrase-gloss": [
+          {
+            "phrase": "御おくりして",
+            "gloss": "having sent them off respectfully",
+            "words": [
+              {
+                "word": "御",
+                "gloss": "HON"
+              },
+              {
+                "word": "おくり",
+                "gloss": "send.off.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "とくいなむ",
+            "gloss": "intend to go quickly",
+            "words": [
+              {
+                "word": "とく",
+                "gloss": "quickly"
+              },
+              {
+                "word": "いな",
+                "gloss": "go.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "INTENT"
+              }
+            ]
+          },
+          {
+            "phrase": "と思ふに、",
+            "gloss": "he thought so and then",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "思ふ",
+                "gloss": "think"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "大御酒たまひ、",
+            "gloss": "sacred sake was bestowed",
+            "words": [
+              {
+                "word": "大御酒",
+                "gloss": "sacred.sake"
+              },
+              {
+                "word": "たまひ",
+                "gloss": "give.HON.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "禄たまはむとて、",
+            "gloss": "saying ‘I shall grant a reward’",
+            "words": [
+              {
+                "word": "禄",
+                "gloss": "reward"
+              },
+              {
+                "word": "たまは",
+                "gloss": "give.HON.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "つかはさざりけり。",
+            "gloss": "did not send him",
+            "words": [
+              {
+                "word": "つかは",
+                "gloss": "send.IRR"
+              },
+              {
+                "word": "さ",
+                "gloss": ".CAUS.IRR"
+              },
+              {
+                "word": "ざり",
+                "gloss": "NEG.REALIS"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "お見送りをして、すぐに帰ろうと思ったが、大御酒を賜り、褒美をやろうと言われて、すぐには帰してもらえなかった。",
+        "translation-en-natural": "He intended to send them off and return quickly, but he was offered sacred sake and promised a reward, so they didn’t let him leave right away."
       },
       {
         "date": "20240823",
