@@ -30504,13 +30504,119 @@
         "translation-en": "His mother lived in a place called Nagaoka."
       },
       {
-        "date": "20240825",
+        "date": [
+          20240825,
+          20250804
+        ],
         "id": 3,
         "text": "子は京に宮仕へしければ、まうづとしけれど、しばしばえまうでず。",
         "kana": "こはみやにみやづかへしければ、まうづとしけれど、しばしばえまうでず。",
         "honkoku": "子は京に宮つかへし/けれはまうつとしけれとしはしはえ/まうてす",
-        "translation-ja": "子は京の宮廷に仕えていたので、母のもとに参上しようとしたけれど、そうしばしば参上できなかった。",
-        "translation-en": "The child served at the court in Kyoto, and though he intended to visit his mother, he often failed to do so."
+        "translation-ja": "子は京に宮仕えしていたので、参上しようと思ったが、しばしば参上できなかった。",
+        "translation-en": "The child, since he served at court in the capital, thought to visit, but often could not go.",
+        "phrase-gloss": [
+          {
+            "phrase": "子は",
+            "gloss": "the child TOP",
+            "words": [
+              {
+                "word": "子",
+                "gloss": "child"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "京に",
+            "gloss": "in the capital",
+            "words": [
+              {
+                "word": "京",
+                "gloss": "capital"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "宮仕へしければ、",
+            "gloss": "served at court, and since that was so",
+            "words": [
+              {
+                "word": "宮仕へ",
+                "gloss": "court.service"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "まうづとしけれど、",
+            "gloss": "tried to visit, but",
+            "words": [
+              {
+                "word": "まうづ",
+                "gloss": "visit"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "しばしばえまうでず。",
+            "gloss": "could not often go",
+            "words": [
+              {
+                "word": "しばしば",
+                "gloss": "often"
+              },
+              {
+                "word": "え",
+                "gloss": "POT.NEG"
+              },
+              {
+                "word": "まうで",
+                "gloss": "visit.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "子は京で宮仕えしていたので、母のもとに行こうとは思ったが、たびたびは行けなかった。",
+        "translation-en-natural": "Since he served at court in the capital, the child wanted to visit his mother, but he couldn't go often."
       },
       {
         "date": "20240825",
