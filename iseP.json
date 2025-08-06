@@ -30619,13 +30619,77 @@
         "translation-en-natural": "Since he served at court in the capital, the child wanted to visit his mother, but he couldn't go often."
       },
       {
-        "date": "20240825",
+        "date": [
+          20240825,
+          20250806
+        ],
         "id": 4,
         "text": "ひとつ子にさへありければ、いとかなしうしたまひけり。",
         "kana": "ひとつこにさへありければ、いとかなしうしたまひけり。",
         "honkoku": "ひとつ子にさへありけれはいと/かなしうし給ひけり",
-        "translation-ja": "一人っ子だったので、なおさら深く悲しんでいらっしゃいました。",
-        "translation-en": "Because he was her only child, she was even more deeply grieved."
+        "translation-ja": "一人子でさえあったので、とても悲しくなさった。",
+        "translation-en": "Since he was even an only child, she very much made it sad.",
+        "phrase-gloss": [
+          {
+            "phrase": "ひとつ子にさへありければ、",
+            "gloss": "since he was even an only child",
+            "words": [
+              {
+                "word": "ひとつ子",
+                "gloss": "only.child"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "さへ",
+                "gloss": "even.FOC"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "いとかなしうしたまひけり。",
+            "gloss": "she very much made it sad",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "かなしう",
+                "gloss": "sad.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "たまひ",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "一人っ子だったので、なおさら深く悲しまれた。",
+        "translation-en-natural": "Because he was her only child, she was even more deeply grieved."
       },
       {
         "date": "20240825",
