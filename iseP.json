@@ -30437,13 +30437,127 @@
         "translation-en-natural": "The Right Captain of the Horse, feeling uneasy,"
       },
       {
-        "date": "20240823",
+        "date": [
+          20240823,
+          20250810
+        ],
         "id": 5,
         "poem": "枕とて/草ひきむすぶ/こともせじ/秋の夜とだに/たのまれなくに",
         "kana": "まくらとて/くさひきむすぶ/こともせじ/あきのよとだに/たのまれなくに",
         "honkoku": "まくらとてくさひきむすふこともせし/s95r/あきの夜とたにたのまれなくに/",
-        "translation-ja": "枕にしようと草を結んで寝ることもできない。秋の夜ですら頼りにできないのだから。",
-        "translation-en": "Not even on an autumn night, when I can't trust anything, would I bother to tie the grass to make a pillow."
+        "translation-ja": "枕として草を引き結ぶこともしない。秋の夜とさえ頼みにできないのに。",
+        "translation-en": "I will not even tie the grass as a pillow, since I cannot rely even on an autumn night.",
+        "phrase-gloss": [
+          {
+            "phrase": "枕とて",
+            "gloss": "as a pillow",
+            "words": [
+              {
+                "word": "枕",
+                "gloss": "pillow"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "草ひきむすぶ",
+            "gloss": "pull and tie grass",
+            "words": [
+              {
+                "word": "草",
+                "gloss": "grass"
+              },
+              {
+                "word": "ひき",
+                "gloss": "pull.ADV"
+              },
+              {
+                "word": "むすぶ",
+                "gloss": "tie.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "こともせじ",
+            "gloss": "will not even do",
+            "words": [
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "も",
+                "gloss": "even"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.IRR"
+              },
+              {
+                "word": "じ",
+                "gloss": "NEG.INT"
+              }
+            ]
+          },
+          {
+            "phrase": "秋の夜とだに",
+            "gloss": "even as an autumn night",
+            "words": [
+              {
+                "word": "秋",
+                "gloss": "autumn"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "だに",
+                "gloss": "even"
+              }
+            ]
+          },
+          {
+            "phrase": "たのまれなくに",
+            "gloss": "cannot be relied upon, although",
+            "words": [
+              {
+                "word": "たのま",
+                "gloss": "rely.on.IRR"
+              },
+              {
+                "word": "れ",
+                "gloss": "PASS.IRR"
+              },
+              {
+                "word": "なく",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "although"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "草を枕にしようとも思わない。秋の夜ですら頼りにならないのだから。",
+        "translation-en-natural": "I would not even think of using grass as a pillow, for even an autumn night cannot be trusted."
       },
       {
         "date": "20240824",
