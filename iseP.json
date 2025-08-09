@@ -30380,13 +30380,61 @@
         "translation-en-natural": "He intended to send them off and return quickly, but he was offered sacred sake and promised a reward, so they didn’t let him leave right away."
       },
       {
-        "date": "20240823",
+        "date": [
+          20240823,
+          20250809
+        ],
         "id": 4,
         "text": "この馬の頭、心もとながりて、",
         "kana": "このうまのかみ、こころもとながりて、",
         "honkoku": "このむまのかみ心もとなかりて/",
         "translation-ja": "この馬の頭は、不安に感じて、",
-        "translation-en": "The Right Captain of the Horse felt uneasy,"
+        "translation-en": "The Right Captain of the Horse felt uneasy,",
+        "phrase-gloss": [
+          {
+            "phrase": "この馬の頭",
+            "gloss": "this Right Captain of the Horse",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "馬",
+                "gloss": "horse"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "頭",
+                "gloss": "Captain"
+              }
+            ]
+          },
+          {
+            "phrase": "心もとながりて",
+            "gloss": "feeling uneasy and",
+            "words": [
+              {
+                "word": "心もとなし",
+                "gloss": "uneasy"
+              },
+              {
+                "word": "がり",
+                "gloss": "feel"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "この馬の頭は、不安に思って、",
+        "translation-en-natural": "The Right Captain of the Horse, feeling uneasy,"
       },
       {
         "date": "20240823",
@@ -30692,13 +30740,93 @@
         "translation-en-natural": "Because he was her only child, she was even more deeply grieved."
       },
       {
-        "date": "20240825",
+        "date": [
+          20240825,
+          20250809
+        ],
         "id": 5,
         "text": "さるに、十二月ばかりに、とみのこととて御文あり。",
         "kana": "さるに、しはすばかりに、とみのこととてふみあり。",
         "honkoku": "さるにしはすはかり/にとみのこととて御ふみあり",
-        "translation-ja": "そうしているうちに、12月頃に、急なことだと言って、お手紙がありました。",
-        "translation-en": "In the meantime, around December, there was a letter saying it was an urgent matter."
+        "translation-ja": "ところが、12月頃に、急なことだと言って、お手紙があった。",
+        "translation-en": "However, around December, there was a letter saying it was an urgent matter.",
+        "phrase-gloss": [
+          {
+            "phrase": "さるに",
+            "gloss": "however",
+            "words": [
+              {
+                "word": "さる",
+                "gloss": "such"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "十二月ばかりに",
+            "gloss": "around December",
+            "words": [
+              {
+                "word": "十二月",
+                "gloss": "December"
+              },
+              {
+                "word": "ばかり",
+                "gloss": "about"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "とみのこととて",
+            "gloss": "saying it was an urgent matter",
+            "words": [
+              {
+                "word": "とみ",
+                "gloss": "sudden"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "御文あり",
+            "gloss": "there was a letter",
+            "words": [
+              {
+                "word": "御文",
+                "gloss": "letter.HON"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "ところが、12月頃に、急ぎのお手紙が届いた。",
+        "translation-en-natural": "However, around December, a sudden letter arrived."
       },
       {
         "date": "20240825",
