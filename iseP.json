@@ -30560,13 +30560,39 @@
         "translation-en-natural": "I would not even think of using grass as a pillow, for even an autumn night cannot be trusted."
       },
       {
-        "date": "20240824",
+        "date": [
+          20240824,
+          20250811
+        ],
         "id": 6,
         "text": "とよみける。",
         "kana": "とよみける。",
         "honkoku": "とよみける",
-        "translation-ja": "と詠みました。",
-        "translation-en": "and he sang."
+        "translation-ja": "と詠んだ。",
+        "translation-en": "and he sang.",
+        "phrase-gloss": [
+          {
+            "phrase": "とよみける",
+            "gloss": "recited that",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "よみ",
+                "gloss": "recite.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PAST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "と詠んだ。",
+        "translation-en-natural": "and he sang."
       },
       {
         "date": "20240824",
