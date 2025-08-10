@@ -30585,7 +30585,7 @@
               },
               {
                 "word": "ける",
-                "gloss": "PAST"
+                "gloss": "PST"
               }
             ]
           }
@@ -30595,13 +30595,67 @@
         "translation-en-natural": "and he sang."
       },
       {
-        "date": "20240824",
+        "date": [
+          20240824,
+          20250811
+        ],
         "id": 7,
         "text": "時は三月のつごもりなりけり。",
         "kana": "ときはやよひのつごもりなりけり。",
         "honkoku": "ときはやよひのつこもりなり/けり",
-        "translation-ja": "時は三月の末でした。",
-        "translation-en": "It was the end of March."
+        "translation-ja": "時は三月の末だった。",
+        "translation-en": "It was the end of March.",
+        "phrase-gloss": [
+          {
+            "phrase": "時は",
+            "gloss": "the time is",
+            "words": [
+              {
+                "word": "時",
+                "gloss": "time"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "三月のつごもり",
+            "gloss": "the last day of the third month",
+            "words": [
+              {
+                "word": "三月",
+                "gloss": "third.month"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "つごもり",
+                "gloss": "last.day.of.month"
+              }
+            ]
+          },
+          {
+            "phrase": "なりけり",
+            "gloss": "was (evidential)",
+            "words": [
+              {
+                "word": "なり",
+                "gloss": "COP.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "その時は三月の末でした。",
+        "translation-en-natural": "It was the last day of the third month."
       },
       {
         "date": "20240824",
