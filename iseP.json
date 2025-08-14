@@ -30658,13 +30658,67 @@
         "translation-en-natural": "It was the last day of the third month."
       },
       {
-        "date": "20240824",
+        "date": [
+          20240824,
+          20250813
+        ],
         "id": 8,
         "text": "親王おほとのこもらで明かしたまうてけり。",
         "kana": "みこおほとのこもらであかしたまうてけり。",
         "honkoku": "みこおほとのこもらてあかし給てけ/り",
-        "translation-ja": "親王はお休みにならずに夜を明かされました。",
-        "translation-en": "The prince stayed up all night without going to bed."
+        "translation-ja": "親王はお休みにならずに夜を明かされた。",
+        "translation-en": "The prince stayed up all night without going to bed.",
+        "phrase-gloss": [
+          {
+            "phrase": "親王",
+            "gloss": "prince",
+            "words": [
+              {
+                "word": "親王",
+                "gloss": "prince"
+              }
+            ]
+          },
+          {
+            "phrase": "おほとのこもらで",
+            "gloss": "without going to bed",
+            "words": [
+              {
+                "word": "おほとのこもら",
+                "gloss": "go.to.bed.HON.IRR"
+              },
+              {
+                "word": "で",
+                "gloss": "NEG,ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "明かしたまうてけり",
+            "gloss": "stayed up all night",
+            "words": [
+              {
+                "word": "明かし",
+                "gloss": "pass.the.night.ADV"
+              },
+              {
+                "word": "たまう",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "親王は寝ずに一晩を過ごされた。",
+        "translation-en-natural": "The prince spent the whole night without sleeping."
       },
       {
         "date": "20240824",
