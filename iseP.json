@@ -7195,7 +7195,7 @@
       {
         "date": "20240716,20250212,20250427",
         "id": 11,
-        "poem": "うちわびて/おち穂ひろふと/きかませば/我も田面に/ゆかましものを",
+        "poem": "うちわびて/おち穂ひろふと/きかませば/我も田面に/ゆかましのを",
         "kana": "うちわびて/おちぼひろふと/きかませば/われもたおもに/ゆかましものを",
         "honkoku": "うちわひておちほひろふときかませは/われもたつらにゆかましものを/s66r/",
         "translation-ja": "すっかり困り果てて落ち穂を拾うと聞いたならば、私も田んぼに行ったでしょうに。",
@@ -7207,11 +7207,15 @@
             "words": [
               {
                 "word": "うち",
-                "gloss": "completely"
+                "gloss": "hit.ADV"
               },
               {
-                "word": "わびて",
-                "gloss": "distress.CONT"
+                "word": "わび",
+                "gloss": "distress.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
               }
             ]
           },
@@ -7239,10 +7243,10 @@
             "words": [
               {
                 "word": "きか",
-                "gloss": "hear"
+                "gloss": "hear.IRR"
               },
               {
-                "word": "まし",
+                "word": "ませ",
                 "gloss": "counterfactual"
               },
               {
@@ -7279,15 +7283,19 @@
             "words": [
               {
                 "word": "ゆか",
-                "gloss": "go"
+                "gloss": "go.IRR"
               },
               {
                 "word": "まし",
                 "gloss": "counterfactual"
               },
               {
-                "word": "ものを",
-                "gloss": "REGRET"
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "を",
+                "gloss": "CONJ"
               }
             ]
           }
@@ -30721,22 +30729,248 @@
         "translation-en-natural": "The prince spent the whole night without sleeping."
       },
       {
-        "date": "20240824",
+        "date": [
+          20240824,
+          20250815
+        ],
         "id": 9,
         "text": "かくしつつまうで仕うまつりけるを、思ひのほかに、御ぐしおろしたまうてけり。",
         "kana": "かくしつつまうてつかうまつりけるを、おもひのほかにみぐしおろし、たまうてけり。",
         "honkoku": "かくしつつまうてつかうまつりける/をおもひのほかに御くしおろし/たまうてけり",
         "translation-ja": "このようにしてお仕えしていたところ、思いがけず、髪をおろして出家なさいました。",
-        "translation-en": "While serving in this way, unexpectedly, he cut his hair and became a monk."
+        "translation-en": "While serving in this way, unexpectedly, he cut his hair and became a monk.",
+        "phrase-gloss": [
+          {
+            "phrase": "かくしつつ",
+            "gloss": "thus doing repeatedly",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "つつ",
+                "gloss": "continuative"
+              }
+            ]
+          },
+          {
+            "phrase": "まうで仕うまつりけるを",
+            "gloss": "while respectfully serving",
+            "words": [
+              {
+                "word": "まうで",
+                "gloss": "go.serve.HON.ADV"
+              },
+              {
+                "word": "仕う",
+                "gloss": "serve.ADV"
+              },
+              {
+                "word": "まつり",
+                "gloss": "HUM.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "思ひのほかに",
+            "gloss": "unexpectedly",
+            "words": [
+              {
+                "word": "思ひ",
+                "gloss": "thought"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ほか",
+                "gloss": "outside"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "御ぐしおろしたまうてけり",
+            "gloss": "cut hair and became a monk",
+            "words": [
+              {
+                "word": "御ぐし",
+                "gloss": "hair.HON"
+              },
+              {
+                "word": "おろし",
+                "gloss": "cut.ADV"
+              },
+              {
+                "word": "たまう",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "こうして長くお仕えしていたが、思いもよらず、親王は髪をおろして出家された。",
+        "translation-en-natural": "He had long been serving in this way, but to everyone's surprise, the prince cut his hair and entered the priesthood."
       },
       {
-        "date": "20240824",
+        "date": [
+          20240824,
+          20250815
+        ],
         "id": 10,
         "text": "正月におがみたてまつらむとて、小野にもうでたるに、比叡の山のふもとなれば、雪いと高し。",
         "kana": "むつきにおがみたてまつらむとて、をのにもうでたるに、ひえのやまのふもとなれば、ゆきいとたかし。",
         "honkoku": "む月におかみたてまつらん/とてをのにまうてたるにひえの山のふ/もとなれは雪いとたかし",
-        "translation-ja": "正月に参拝しようと思って、小野に参りましたところ、比叡山のふもとですので、雪が非常に高く積もっていました。",
-        "translation-en": "Intending to worship in the New Year, I visited Ono, but since it was at the foot of Mount Hiei, the snow was piled very high."
+        "translation-ja": "正月に参拝しようと思って、小野に参ったところ、比叡山のふもとですので、雪が非常に深かった。",
+        "translation-en": "Intending to worship in the New Year, I visited Ono, but since it was at the foot of Mount Hiei, the snow was very deep.",
+        "phrase-gloss": [
+          {
+            "phrase": "正月に",
+            "gloss": "in the New Year",
+            "words": [
+              {
+                "word": "正月",
+                "gloss": "New.Year"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "おがみたてまつらむとて",
+            "gloss": "intending to worship",
+            "words": [
+              {
+                "word": "おがみ",
+                "gloss": "worship.HUM"
+              },
+              {
+                "word": "たてまつら",
+                "gloss": "HUM.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "VOL"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "小野にもうでたるに",
+            "gloss": "having visited Ono",
+            "words": [
+              {
+                "word": "小野",
+                "gloss": "Ono"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "もうで",
+                "gloss": "visit.HUM.ADV"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "比叡の山のふもとなれば",
+            "gloss": "since it was at the foot of Mount Hiei",
+            "words": [
+              {
+                "word": "比叡",
+                "gloss": "Hiei.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "山",
+                "gloss": "mountain"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ふもと",
+                "gloss": "foot.of.mountain"
+              },
+              {
+                "word": "なれ",
+                "gloss": "COP.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "雪いと高し",
+            "gloss": "the snow was very deep",
+            "words": [
+              {
+                "word": "雪",
+                "gloss": "snow"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "高し",
+                "gloss": "deep"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "正月に参拝しようと思って小野に行ったところ、比叡山のふもとにあたるので雪がとても深く積もっていた。",
+        "translation-en-natural": "I went to Ono to worship in the New Year, but since it was at the foot of Mount Hiei, the snow was very deep."
       },
       {
         "date": "20240824",
