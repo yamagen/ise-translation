@@ -30973,13 +30973,149 @@
         "translation-en-natural": "I went to Ono to worship in the New Year, but since it was at the foot of Mount Hiei, the snow was very deep."
       },
       {
-        "date": "20240824",
+        "date": [
+          20240824,
+          20250816
+        ],
         "id": 11,
         "text": "しひ御室にまうでておがみたてまつるに、つれづれといともの悲しくておはしましければ、 やや久しくさぶらひて、いにしへのことなど思ひいで聞えけり。",
         "kana": "しひみむろにまうでておかみたてまつるに、つれづれといとものかなしくておはしましければ、ややひさしくさふらひて、いにしへのことなとおもひいできこえけり。",
         "honkoku": "しゐてみむろ/にまうてておかみたてまつるにつれつれ/s95l/といとものかなしくておはしましけれは/ややひさしくさふらひていにしへ/のことなとおもひいててきこえけり",
-        "translation-ja": "無理に御室に参拝してお参りしたところ、もの寂しく、とても悲しいお気持ちでいらっしゃったので、しばらくの間お供して、昔のことなどを思い出してお話しされました。",
-        "translation-en": "Forcibly visiting the temple at Omuro and offering prayers, he felt lonely and deeply saddened, so I stayed with him for a while, and we reminisced about the old days."
+        "translation-ja": "無理に御室に参上して拝み奉ったところ、所在なくとても悲しいご様子でいらっしゃったので、しばらくお仕え申し上げて、昔のことなどを思い出して申し上げた。",
+        "translation-en": "Forcibly going to Omuro and offering reverent prayers, since he was in idleness and deep sorrow, I served him for a while and spoke of old times.",
+        "phrase-gloss": [
+          {
+            "phrase": "しひ御室にまうでておがみたてまつるに",
+            "gloss": "forcibly going to Omuro and offering reverent prayers",
+            "words": [
+              {
+                "word": "しひ",
+                "gloss": "forcibly"
+              },
+              {
+                "word": "御室",
+                "gloss": "Omuro"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "まうで",
+                "gloss": "visit.HUM.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "おがみ",
+                "gloss": "worship.ADV"
+              },
+              {
+                "word": "たてまつる",
+                "gloss": "HUM"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "つれづれといともの悲しくておはしましければ",
+            "gloss": "being idle and very sorrowful",
+            "words": [
+              {
+                "word": "つれづれと",
+                "gloss": "idleness"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "もの悲しく",
+                "gloss": "sorrowful.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "おはしまし",
+                "gloss": "exist.HON.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "やや久しくさぶらひて",
+            "gloss": "served for a while",
+            "words": [
+              {
+                "word": "やや",
+                "gloss": "little"
+              },
+              {
+                "word": "久しく",
+                "gloss": "for a while"
+              },
+              {
+                "word": "さぶらひ",
+                "gloss": "serve.HUM.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "いにしへのことなど思ひいで聞えけり",
+            "gloss": "recalled old things and spoke reverently",
+            "words": [
+              {
+                "word": "いにしへ",
+                "gloss": "old.times"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "など",
+                "gloss": "etc."
+              },
+              {
+                "word": "思ひいで",
+                "gloss": "recall.ADV"
+              },
+              {
+                "word": "聞え",
+                "gloss": "say.HUM.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "無理に御室に参ってお参りしたところ、所在なくとても悲しいご様子でいらっしゃったので、しばらくお供して、昔のことなどを思い出してお話し申し上げた。",
+        "translation-en-natural": "When I went to Omuro by compulsion and offered prayers, he seemed lonely and deeply sad, so I stayed with him for a while and spoke of old times."
       },
       {
         "date": "20240824",
