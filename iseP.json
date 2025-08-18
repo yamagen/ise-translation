@@ -31264,11 +31264,11 @@
               },
               {
                 "word": "ぶらは",
-                "gloss": "linger"
+                "gloss": "linger.IRR"
               },
               {
                 "word": "で",
-                "gloss": "NEG"
+                "gloss": "NEG.ADV"
               }
             ]
           },
@@ -31286,11 +31286,15 @@
               },
               {
                 "word": "かへる",
-                "gloss": "return"
+                "gloss": "return.ATTR"
               },
               {
-                "word": "とて",
-                "gloss": "QUOT.CONJ"
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
               }
             ]
           }
