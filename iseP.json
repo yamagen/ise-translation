@@ -5408,7 +5408,10 @@
         "translation-en-natural": "Once upon a time, a man sent a poem to a woman who had been cold to him."
       },
       {
-        "date": "20240712,20250211",
+        "date": [
+          20240712,
+          20250211
+        ],
         "id": 2,
         "poem": "行きやらぬ/夢路を頼む/たもとには/天つ空なる/露やおくらむ",
         "kana": "ゆきやらぬ/ゆめぢをたのむ/たもとには/あまつそらなる/つゆやおくらむ",
@@ -5543,7 +5546,11 @@
     "romaji": "kotonoha",
     "paragraph": [
       {
-        "date": "20240713,20250212,20250422",
+        "date": [
+          20240713,
+          20250212,
+          20250422
+        ],
         "id": 1,
         "text": "むかし、男、思ひかけたる女の、え得まじうなりての世に、",
         "kana": "むかし、をとこ、おもひかけたるをんなの、ええまじうなりてのよに、",
@@ -5630,7 +5637,11 @@
         }
       },
       {
-        "date": "20240713,20250212,20250422",
+        "date": [
+          20240713,
+          20250212,
+          20250422
+        ],
         "id": 2,
         "poem": "思はずは/ありもすらめど/言の葉の/をりふしごとに/頼まるゝかな",
         "kana": "おもはずは/ありもすらめど/ことのはの/をりふしごとに/たのまるるかな",
@@ -30240,13 +30251,65 @@
         "translation-en-natural": "Once upon a time, Prince Koretaka, who used to visit Minase, went out on his usual hunt, accompanied by an old man who held the title of Captain of the Horse."
       },
       {
-        "date": "20240823",
+        "date": [
+          20240823,
+          20250818
+        ],
         "id": 2,
         "text": "日ごろ経て、宮にかへりたまうけり。",
         "kana": "ひごろへて、みやにかへりたまうけり。",
         "honkoku": "日ころへて宮にかへり給うけり",
-        "translation-ja": "何日かして、宮にお帰りになりました。",
-        "translation-en": "After spending some days, he returned to the palace."
+        "translation-ja": "何日かして、宮にお帰りになった。",
+        "translation-en": "After some days had passed, he returned to the palace.",
+        "phrase-gloss": [
+          {
+            "phrase": "日ごろ経て",
+            "gloss": "after some days had passed",
+            "words": [
+              {
+                "word": "日ごろ",
+                "gloss": "some.days"
+              },
+              {
+                "word": "経",
+                "gloss": "pass.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "宮にかへりたまうけり",
+            "gloss": "he returned to the palace",
+            "words": [
+              {
+                "word": "宮",
+                "gloss": "palace"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "かへり",
+                "gloss": "return.ADV"
+              },
+              {
+                "word": "たまう",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "数日が経ってから、宮にお戻りになった。",
+        "translation-en-natural": "After a few days, he returned to the palace."
       },
       {
         "date": [
