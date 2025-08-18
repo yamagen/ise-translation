@@ -5674,7 +5674,7 @@
               },
               {
                 "word": "らめ",
-                "gloss": "spec.IRR"
+                "gloss": "spec.REALIS"
               },
               {
                 "word": "ど",
@@ -5720,7 +5720,7 @@
             "words": [
               {
                 "word": "頼ま",
-                "gloss": "rely"
+                "gloss": "rely.IRR"
               },
               {
                 "word": "るる",
@@ -5737,9 +5737,7 @@
             ]
           }
         ],
-        "glossary-abbreviations": null,
-        "translation-ja-natural": "思ってくれていないのかもしれないけど、その言葉のひとつひとつに、どうしても期待してしまうのです。",
-        "translation-en-natural": "You may not really be thinking of me, but I can't help holding on to every single word you say."
+        "glossary-abbreviations": null
       }
     ]
   },
@@ -31118,13 +31116,125 @@
         "translation-en-natural": "When I went to Omuro by compulsion and offered prayers, he seemed lonely and deeply sad, so I stayed with him for a while and spoke of old times."
       },
       {
-        "date": "20240824",
+        "date": [
+          20240824,
+          20250818
+        ],
         "id": 12,
         "text": "さてもさぶらひてしがなと思へど、おほやけごとどもありければ、えぶらはで、夕暮にかへ るとて、",
         "kana": "さてもさぶらひてしがなとおもへど、おほやけごとどもありければ、えぶらはで、ゆふくれにかへるとて、",
         "honkoku": "さて/もさふらひてしかなと思へとおほや/けことともありけれはえさふらはてゆふ/くれにかへるとて/",
-        "translation-ja": "そのままお供していたいと思いましたが、公務があったため、長くいることはできず、夕暮れに帰ろうとして、",
-        "translation-en": "I wished to stay with him, but as there were public duties to attend to, I couldn't stay long and began to leave at dusk."
+        "translation-ja": "そのままお供していたいと思ったけれど、公務があったので長居できず、夕暮れに帰ろうとして、",
+        "translation-en": "I wished to remain in attendance, but since there were public duties, I could not stay on and, at dusk, began to take my leave.",
+        "phrase-gloss": [
+          {
+            "phrase": "さてもさぶらひてしがなと思へど",
+            "gloss": "though I wished to remain in attendance",
+            "words": [
+              {
+                "word": "さても",
+                "gloss": "even.so"
+              },
+              {
+                "word": "さぶらひ",
+                "gloss": "serve.HUM.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "しがな",
+                "gloss": "desiderative"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "思へ",
+                "gloss": "think.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "おほやけごとどもありければ",
+            "gloss": "since there were public duties",
+            "words": [
+              {
+                "word": "おほやけ",
+                "gloss": "public"
+              },
+              {
+                "word": "ごと",
+                "gloss": "matter"
+              },
+              {
+                "word": "ども",
+                "gloss": "plural"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "えぶらはで",
+            "gloss": "unable to linger",
+            "words": [
+              {
+                "word": "え",
+                "gloss": "NEG.POT"
+              },
+              {
+                "word": "ぶらは",
+                "gloss": "linger"
+              },
+              {
+                "word": "で",
+                "gloss": "NEG"
+              }
+            ]
+          },
+          {
+            "phrase": "夕暮にかへるとて",
+            "gloss": "at dusk intending to return",
+            "words": [
+              {
+                "word": "夕暮",
+                "gloss": "dusk"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "かへる",
+                "gloss": "return"
+              },
+              {
+                "word": "とて",
+                "gloss": "QUOT.CONJ"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "できればずっとお供していたかったのですが、公務があったので長居はできず、夕暮れに帰ろうとして、",
+        "translation-en-natural": "I would have liked to stay on, but since there were official duties, I couldn’t linger and started to head back at dusk."
       },
       {
         "date": "20240824",
