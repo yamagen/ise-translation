@@ -31304,13 +31304,147 @@
         "translation-en-natural": "I would have liked to stay on, but since there were official duties, I couldn’t linger and started to head back at dusk."
       },
       {
-        "date": "20240824",
+        "date": [
+          20240824,
+          20250820
+        ],
         "id": 13,
         "poem": "忘れては/夢かとぞ思ふ/おもひきや/雪ふみわけて/君を見むとは",
         "kana": "わすれては/ゆめかとぞおもひきや/ゆきふみわけて/きみをみむとは",
         "honkoku": "わすれては夢かとそ思ふおもひきや/雪ふみわけてきみを見んとは/",
-        "translation-ja": "忘れてしまうと夢かと思ってしまいます。まさか、雪を踏み分けてあなたにお会いすることになるとは思いませんでした。",
-        "translation-en": "When I forget, I think it must be a dream. Who would have thought that I would tread through the snow to see you?"
+        "translation-ja": "忘れては夢かと思う。と思いきや、雪を踏み分けてあなたを見るとは。",
+        "translation-en": "Whenever I forget, I think it must be a dream. And yet, who would have thought that I would tread through the snow to see you?",
+        "phrase-gloss": [
+          {
+            "phrase": "忘れては",
+            "gloss": "whenever I forget",
+            "words": [
+              {
+                "word": "忘れ",
+                "gloss": "forget"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "は",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "夢かとぞ思ふ",
+            "gloss": "I think it must be a dream",
+            "words": [
+              {
+                "word": "夢",
+                "gloss": "dream"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "思ふ",
+                "gloss": "think"
+              }
+            ]
+          },
+          {
+            "phrase": "おもひきや",
+            "gloss": "who would have thought",
+            "words": [
+              {
+                "word": "おもひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "き",
+                "gloss": "PST"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          },
+          {
+            "phrase": "雪ふみわけて",
+            "gloss": "treading through the snow",
+            "words": [
+              {
+                "word": "雪",
+                "gloss": "snow"
+              },
+              {
+                "word": "ふみ",
+                "gloss": "tread.ADV"
+              },
+              {
+                "word": "わけ",
+                "gloss": "divide.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "君を見むとは",
+            "gloss": "to see you",
+            "words": [
+              {
+                "word": "君",
+                "gloss": "you"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "忘れるたびに夢かと思う。まさか雪を踏み分けて、あなたに会うことになろうとは。",
+        "translation-en-natural": "Each time I forget, I think it is just a dream. Little did I imagine that I would tread through the snow to see you.",
+        "notes-ja": [
+          {
+            "title": "雪を踏み分けて君を見むとは: 単独で響く歌",
+            "note": "この歌は、文脈に依存せずともひとつの完結した恋歌として成立する。『忘れては夢かと思う』が夢と現実の交錯を示し、『おもひきや』が反語的な驚きを生む。結句『雪ふみわけて君を見むとは』は困難を越えた意外性と情熱を鮮明に刻む。背景や状況が明示されないため、読者は自らの経験を差し込み、余白をもって読むことができる。この曖昧さを守ることこそ、注釈の役割である。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Snow, and Yet I See You: A Poem That Stands Alone",
+            "note": "This poem stands complete even outside its narrative frame. The opening 'Whenever I forget, I think it must be a dream' evokes the fragile, dreamlike presence of the beloved. With 'omoikiya' (who would have thought), the voice pivots into rhetorical surprise. The closing line, 'treading through the snow to see you,' marks passion and unexpectedness with clarity. Because the depth of the snow or the scene is left unsaid, the reader fills in the gaps with their own experience. Preserving such ambiguity, rather than over-annotation, is essential to the act of reading."
+          }
+        ]
       },
       {
         "date": "20240824",
