@@ -31447,13 +31447,73 @@
         ]
       },
       {
-        "date": "20240824",
+        "date": [
+          20240824,
+          20250825
+        ],
         "id": 14,
         "text": "とてなむ泣く泣く来にける。",
         "kana": "とてなむなくなくきにける。",
         "honkoku": "とてなんなくなくきにける/s96r/",
-        "translation-ja": "そう言って泣きながらやって来ました。",
-        "translation-en": "Saying that, he came while crying."
+        "translation-ja": "と言って、泣く泣く来てしまった。",
+        "translation-en": "Saying so, he had come weeping indeed.",
+        "phrase-gloss": [
+          {
+            "phrase": "とて",
+            "gloss": "saying so",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "なむ",
+            "gloss": "indeed",
+            "words": [
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "泣く泣く",
+            "gloss": "weeping",
+            "words": [
+              {
+                "word": "泣く泣く",
+                "gloss": "weeping"
+              }
+            ]
+          },
+          {
+            "phrase": "来にける",
+            "gloss": "had come",
+            "words": [
+              {
+                "word": "来",
+                "gloss": "come"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "そう言って、泣く泣くやって来たのだ。",
+        "translation-en-natural": "Saying that, he came in tears."
       }
     ]
   },
@@ -31463,13 +31523,97 @@
     "romaji": "Saranu wakare",
     "paragraph": [
       {
-        "date": "20240825",
+        "date": [
+          20240825,
+          20250826
+        ],
         "id": 1,
         "text": "むかし、男ありけり。身はいやしながら、母なむ宮なりける。",
         "kana": "むかし、をとこありけり。みはいやしながら、ははなむみやなりける。",
         "honkoku": "昔おとこありけり身はいやしなからはは/なむ宮なりける",
-        "translation-ja": "昔、男がいました。身は賤しながら、母君は宮様でした。",
-        "translation-en": "Once upon a time, there was a man. Though he was of low rank, his mother was a princess."
+        "translation-ja": "昔、男がいた。身はいやしかったが、母こそ宮であった。",
+        "translation-en": "Once upon a time, there was a man. Though his status was low, it was his mother who was a court lady.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、",
+            "gloss": "once upon a time",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.ago"
+              }
+            ]
+          },
+          {
+            "phrase": "男ありけり。",
+            "gloss": "there was a man.",
+            "words": [
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          },
+          {
+            "phrase": "身はいやしながら、",
+            "gloss": "though his status was low,",
+            "words": [
+              {
+                "word": "身",
+                "gloss": "status"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "いやし",
+                "gloss": "low.ADV"
+              },
+              {
+                "word": "ながら",
+                "gloss": "though"
+              }
+            ]
+          },
+          {
+            "phrase": "母なむ宮なりける。",
+            "gloss": "it was his mother who was a court lady.",
+            "words": [
+              {
+                "word": "母",
+                "gloss": "mother"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "宮",
+                "gloss": "court.lady"
+              },
+              {
+                "word": "なり",
+                "gloss": "COP.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "昔、ある男がいた。身分は低かったのですが、母親はなんと宮様だった。",
+        "translation-en-natural": "Once upon a time, there was a man. Although he was of humble status, his mother was, surprisingly, a lady of the court."
       },
       {
         "date": "20240825",
