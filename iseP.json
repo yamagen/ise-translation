@@ -31616,13 +31616,79 @@
         "translation-en-natural": "Once upon a time, there was a man. Although he was of humble status, his mother was, surprisingly, a lady of the court."
       },
       {
-        "date": "20240825",
+        "date": [
+          20240825,
+          20250827
+        ],
         "id": 2,
         "text": "その母、長岡といふ所にすみたまひけり。",
         "kana": "そのはは、ながおかといふところにすみたまひけり。",
         "honkoku": "そのははなかをかといふ/所にすみ給けり",
-        "translation-ja": "その母は長岡という所に住んでいました。",
-        "translation-en": "His mother lived in a place called Nagaoka."
+        "translation-ja": "その母は長岡という所に住んでいらっしゃった。",
+        "translation-en": "His mother lived in a place called Nagaoka.",
+        "phrase-gloss": [
+          {
+            "phrase": "その母、",
+            "gloss": "that mother,",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "母",
+                "gloss": "mother"
+              }
+            ]
+          },
+          {
+            "phrase": "長岡といふ所に",
+            "gloss": "in a place called Nagaoka",
+            "words": [
+              {
+                "word": "長岡",
+                "gloss": "Nagaoka.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "call"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "すみたまひけり。",
+            "gloss": "lived (hon.)",
+            "words": [
+              {
+                "word": "すみ",
+                "gloss": "live.ADV"
+              },
+              {
+                "word": "たまひ",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "その母は長岡という場所に住んでおられた。",
+        "translation-en-natural": "His mother was living in Nagaoka, a place so called."
       },
       {
         "date": [
@@ -31902,13 +31968,63 @@
         "translation-en-natural": "However, around December, a sudden letter arrived."
       },
       {
-        "date": "20240825",
+        "date": [
+          20240825,
+          20250828
+        ],
         "id": 6,
         "text": "おどろきて見れば歌あり。",
         "kana": "おどろきてみればうたあり。",
         "honkoku": "おとろきて/みれはうたあり/",
-        "translation-ja": "驚いて見てみると、歌がありました。",
-        "translation-en": "Surprised, he looked and found a poem."
+        "translation-ja": "驚いて見てみると、歌がある。",
+        "translation-en": "Surprised, when he looked, there was a poem.",
+        "phrase-gloss": [
+          {
+            "phrase": "おどろきて",
+            "gloss": "being surprised,",
+            "words": [
+              {
+                "word": "おどろき",
+                "gloss": "be.surprised.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "見れば",
+            "gloss": "when (he) looked,",
+            "words": [
+              {
+                "word": "見れ",
+                "gloss": "look.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "歌あり。",
+            "gloss": "there was a poem.",
+            "words": [
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "驚いて見てみると、歌があった。",
+        "translation-en-natural": "Surprised, he looked and there was a poem."
       },
       {
         "date": "20240825",
