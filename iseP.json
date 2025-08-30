@@ -15380,7 +15380,7 @@
               },
               {
                 "word": "まく",
-                "gloss": "INF.NOM (nominalizer for desire)"
+                "gloss": "INT.FUT"
               },
               {
                 "word": "ほし",
@@ -32027,13 +32027,115 @@
         "translation-en-natural": "Surprised, he looked and there was a poem."
       },
       {
-        "date": "20240825",
+        "date": [
+          20240825,
+          20250830
+        ],
         "id": 7,
         "poem": "老いぬれば/さらぬ別れの/ありといへば/いよいよ見まく/ほしき君かな",
         "kana": "おいぬればさらぬわかれのありといへばいよいよみまくほしききみかな",
         "honkoku": "おいぬれはさらぬ別のありといへは/s97r/いよいよみまくほしき君かな/",
-        "translation-ja": "老いてしまうと、避けられない別れがあるというので、ますます会いたく思うあなたなのです。",
-        "translation-en": "Since I have grown old, and they say there is an inevitable parting, you are someone I increasingly wish to see."
+        "translation-ja": "老いてしまうと、避けられない別れがあるというので、ますます見ることを欲する君であるなあ。",
+        "translation-en": "Since I have grown old, and they say there is an unavoidable parting, you are the one whom I increasingly wish to see.",
+        "phrase-gloss": [
+          {
+            "phrase": "老いぬれば",
+            "gloss": "since (I) have grown old,",
+            "words": [
+              {
+                "word": "老い",
+                "gloss": "grow.old.ADV"
+              },
+              {
+                "word": "ぬれ",
+                "gloss": "PRF.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "さらぬ別れの",
+            "gloss": "of the unavoidable parting",
+            "words": [
+              {
+                "word": "さらぬ",
+                "gloss": "unavoidable"
+              },
+              {
+                "word": "別れ",
+                "gloss": "parting"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "ありといへば",
+            "gloss": "because they say (there) is,",
+            "words": [
+              {
+                "word": "あり",
+                "gloss": "exist"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いへ",
+                "gloss": "say.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "いよいよ見まく",
+            "gloss": "all the more to see,",
+            "words": [
+              {
+                "word": "いよいよ",
+                "gloss": "increasingly"
+              },
+              {
+                "word": "見",
+                "gloss": "see.IRR"
+              },
+              {
+                "word": "まく",
+                "gloss": "INT.FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "ほしき君かな",
+            "gloss": "you whom (I) wish to see indeed",
+            "words": [
+              {
+                "word": "ほしき",
+                "gloss": "desirable.ATTR"
+              },
+              {
+                "word": "君",
+                "gloss": "you"
+              },
+              {
+                "word": "かな",
+                "gloss": "EXCL"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "年をとると、避けられない別れがあるというので、ますます会いたくなるあなたなのです。",
+        "translation-en-natural": "As I grow old and know there will be an inevitable parting, you are the one I long ever more to see."
       },
       {
         "date": "20240825",
