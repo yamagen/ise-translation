@@ -32138,13 +32138,77 @@
         "translation-en-natural": "As I grow old and know there will be an inevitable parting, you are the one I long ever more to see."
       },
       {
-        "date": "20240825",
+        "date": [
+          20240825,
+          20250901
+        ],
         "id": 8,
         "text": "かの子、いたううち泣きてよめる。",
         "kana": "かのこ、いたううちなきてよめる。",
         "honkoku": "かの子いたううちなきてよめる/",
-        "translation-ja": "その子は、ひどく泣きながら、こう詠みました。",
-        "translation-en": "The child, shedding tears, sang."
+        "translation-ja": "その子は、ひどく泣いて、詠んだ。",
+        "translation-en": "The child, weeping bitterly, composed a poem.",
+        "phrase-gloss": [
+          {
+            "phrase": "かの子、",
+            "gloss": "that child,",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that"
+              },
+              {
+                "word": "子",
+                "gloss": "child"
+              }
+            ]
+          },
+          {
+            "phrase": "いたう",
+            "gloss": "bitterly",
+            "words": [
+              {
+                "word": "いたう",
+                "gloss": "severely.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "うち泣きて",
+            "gloss": "weeping,",
+            "words": [
+              {
+                "word": "うち",
+                "gloss": "severly.ADV"
+              },
+              {
+                "word": "泣き",
+                "gloss": "weep.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "よめる。",
+            "gloss": "composed (a poem).",
+            "words": [
+              {
+                "word": "よめ",
+                "gloss": "compose.poem.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "その子は、ひどく泣きながら歌を詠んだ。",
+        "translation-en-natural": "The child, crying bitterly, composed a poem."
       },
       {
         "date": "20240825",
