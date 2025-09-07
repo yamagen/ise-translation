@@ -32211,13 +32211,119 @@
         "translation-en-natural": "The child, crying bitterly, composed a poem."
       },
       {
-        "date": "20240825",
+        "date": [
+          20240825,
+          20250906
+        ],
         "id": 9,
         "poem": "世の中に/さらぬ別れの/なくもがな/千代もといのる/人の子のため",
         "kana": "よのなかにさらぬわかれのなくもかなちよもといのるひとのこのため",
         "honkoku": "世中にさらぬわかれのなくもかな/千よもといのる人のこのため/s97l/",
         "translation-ja": "世の中に、避けられない別れがなければいいのに。千年もと祈る子のために。",
-        "translation-en": "If only, in this world, there were no inevitable partings... for the sake of the child who prays for a thousand years."
+        "translation-en": "If only, in this world, there were no unavoidable partings, for the sake of the child who prays 'for a thousand years'.",
+        "phrase-gloss": [
+          {
+            "phrase": "世の中に",
+            "gloss": "in the world,",
+            "words": [
+              {
+                "word": "世の中",
+                "gloss": "world"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "さらぬ別れの",
+            "gloss": "of the unavoidable parting",
+            "words": [
+              {
+                "word": "さら",
+                "gloss": "unavoidable.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "別れ",
+                "gloss": "parting"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "なくもがな",
+            "gloss": "if only there were not,",
+            "words": [
+              {
+                "word": "なく",
+                "gloss": "not.exist"
+              },
+              {
+                "word": "もがな",
+                "gloss": "OPT"
+              }
+            ]
+          },
+          {
+            "phrase": "千代もといのる",
+            "gloss": "pray 'for a thousand years',",
+            "words": [
+              {
+                "word": "千代",
+                "gloss": "thousand.years"
+              },
+              {
+                "word": "も",
+                "gloss": "ADD"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いのる",
+                "gloss": "pray.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "人の子のため",
+            "gloss": "for the sake of the child",
+            "words": [
+              {
+                "word": "人",
+                "gloss": "someone"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "子",
+                "gloss": "child"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ため",
+                "gloss": "for"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "この世に、避けられない別れがなければよいのに。『千年も』と祈る子のために。",
+        "translation-en-natural": "If only in this world there were no partings by death, for the sake of the child who prays 'for a thousand years'."
       }
     ]
   },
@@ -32227,13 +32333,49 @@
     "romaji": "Mekare senu yuki",
     "paragraph": [
       {
-        "date": "20240826",
+        "date": [
+          20240826,
+          20250907
+        ],
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
         "honkoku": "むかしおとこありけり",
-        "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja": "昔、男がいた。",
+        "translation-en": "Once upon a time, there was a man.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、",
+            "gloss": "once upon a time,",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.ago"
+              }
+            ]
+          },
+          {
+            "phrase": "男ありけり。",
+            "gloss": "there was a man.",
+            "words": [
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "昔、男がいた。",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
         "date": "20240826",
