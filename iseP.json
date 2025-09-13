@@ -32457,13 +32457,57 @@
         "translation-en-natural": "The lord whom I had served since childhood lowered the hair."
       },
       {
-        "date": "20240826",
+        "date": [
+          20240826,
+          20250913
+        ],
         "id": 3,
         "text": "正月にはかならずまうでけり。",
         "kana": "むつきにはかならずまうでけり。",
         "honkoku": "む月にはかならすまうてけり",
-        "translation-ja": "男は正月には必ず参上しました。",
-        "translation-en": "The man always visited in the New Year."
+        "translation-ja": "正月には必ず参上した。",
+        "translation-en": "Unfailingly, (he) paid a visit in the New Year.",
+        "phrase-gloss": [
+          {
+            "phrase": "正月には",
+            "gloss": "in the New Year,",
+            "words": [
+              {
+                "word": "正月",
+                "gloss": "New.Year"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "かならずまうでけり。",
+            "gloss": "without fail, paid a visit.",
+            "words": [
+              {
+                "word": "かならず",
+                "gloss": "certainly"
+              },
+              {
+                "word": "まうで",
+                "gloss": "pay.visit.HUM.REALIS"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "男は正月には必ず参上したのだった。",
+        "translation-en-natural": "The man always paid a visit in the New Year."
       },
       {
         "date": "20240826",
