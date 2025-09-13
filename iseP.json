@@ -32378,13 +32378,83 @@
         "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240826",
+        "date": [
+          20240826,
+          20250912
+        ],
         "id": 2,
         "text": "わらはより仕うまつりける君、御ぐしおろしたまうてけり。",
         "kana": "わらはよりつかうまつりけるきみ、みぐしおろしたまうてけり。",
         "honkoku": "わらはよりつかう/まつりけるきみ御くしおろし給うて/けり",
-        "translation-ja": "幼い頃からお仕えしていた君主が、出家されました。",
-        "translation-en": "The lord whom I had served since childhood has taken the tonsure."
+        "translation-ja": "幼い頃からお仕えしていた君が、御髪をお下ろしになった。",
+        "translation-en": "The lord whom I had served since childhood lowered the hair.",
+        "phrase-gloss": [
+          {
+            "phrase": "わらはより",
+            "gloss": "since childhood,",
+            "words": [
+              {
+                "word": "わらは",
+                "gloss": "childhood"
+              },
+              {
+                "word": "より",
+                "gloss": "ABL"
+              }
+            ]
+          },
+          {
+            "phrase": "仕うまつりける君、",
+            "gloss": "the lord whom (I) had served,",
+            "words": [
+              {
+                "word": "仕う",
+                "gloss": "serve.ADV"
+              },
+              {
+                "word": "まつり",
+                "gloss": "HUM.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "君",
+                "gloss": "lord"
+              }
+            ]
+          },
+          {
+            "phrase": "御ぐしおろしたまうてけり。",
+            "gloss": "lowered his hair.",
+            "words": [
+              {
+                "word": "御ぐし",
+                "gloss": "hair.HON"
+              },
+              {
+                "word": "おろし",
+                "gloss": "lower.ADV"
+              },
+              {
+                "word": "たまう",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "幼い頃からお仕えしていた君が、御髪をおろしになった。",
+        "translation-en-natural": "The lord whom I had served since childhood lowered the hair."
       },
       {
         "date": "20240826",
