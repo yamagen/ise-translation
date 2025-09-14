@@ -32510,13 +32510,89 @@
         "translation-en-natural": "The man always paid a visit in the New Year."
       },
       {
-        "date": "20240826",
+        "date": [
+          20240826,
+          20250914
+        ],
         "id": 4,
         "text": "おほやけの宮仕へしければ、つねにはえまうでず。",
         "kana": "おほやけのみやつかへしければ、つねにはえまうでず。",
         "honkoku": "おほ/やけの宮つかへしけれはつねには/えまうてす",
-        "translation-ja": "朝廷のご奉公をしたので、普段は参上できませんでした。",
-        "translation-en": "He served at the court, so he couldn't visit regularly."
+        "translation-ja": "朝廷への宮仕えをしていたので、普段は参上できなかった。",
+        "translation-en": "Since he was serving at the court, he could not pay a visit at ordinary times.",
+        "phrase-gloss": [
+          {
+            "phrase": "おほやけの",
+            "gloss": "of the court,",
+            "words": [
+              {
+                "word": "おほやけ",
+                "gloss": "court"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "宮仕へしければ、",
+            "gloss": "since (he) was serving at the court,",
+            "words": [
+              {
+                "word": "宮仕へ",
+                "gloss": "court.service"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CAUSE"
+              }
+            ]
+          },
+          {
+            "phrase": "つねには",
+            "gloss": "at ordinary times,",
+            "words": [
+              {
+                "word": "つねに",
+                "gloss": "ordinarily"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "えまうでず。",
+            "gloss": "could not visit.",
+            "words": [
+              {
+                "word": "え",
+                "gloss": "POT.NEG"
+              },
+              {
+                "word": "まうで",
+                "gloss": "visit.HUM.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "朝廷に仕えていたので、普段は参上することができなかった。",
+        "translation-en-natural": "Because he was serving at court, he was unable to pay visits on ordinary occasions."
       },
       {
         "date": "20240826",
