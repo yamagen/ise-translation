@@ -10417,7 +10417,10 @@
         "translation-en-natural": "Once upon a time, a woman with an interest in the world longed to meet a kind and tender-hearted man. But with no way to express her feelings, she resorted to telling dream stories that weren't true."
       },
       {
-        "date": "20240721,20250214",
+        "date": [
+          20240721,
+          20250214
+        ],
         "id": 2,
         "text": "子三人を呼びて語りけり。",
         "kana": "こさんにんをよびてかたりけり。",
@@ -10477,7 +10480,11 @@
         "translation-en-natural": "She called over three children and shared the story with them."
       },
       {
-        "date": "20240721,20250214,20250506",
+        "date": [
+          20240721,
+          20250214,
+          20250506
+        ],
         "id": 3,
         "text": "二人の子は、情けなくいらへてやみぬ。",
         "kana": "ふたりのこは、なさけなくいらへてやみぬ。",
@@ -10545,7 +10552,11 @@
         "translation-en-natural": "The two children gave a curt reply, and that was the end of it."
       },
       {
-        "date": "20240721,20250214,20250506",
+        "date": [
+          20240721,
+          20250214,
+          20250506
+        ],
         "id": 4,
         "text": "三郎なりけむ子なむ、「よき御男ぞいで来む」とあはするに、この女けしきいとよし。",
         "kana": "さぶらうなりけむこなむ、「よきおとこぞいでこむ」とあはするに、このをんなけしきいとよし。",
@@ -10771,7 +10782,11 @@
         ]
       },
       {
-        "date": "20240721,20250214,20250508",
+        "date": [
+          20240721,
+          20250214,
+          20250508
+        ],
         "id": 6,
         "text": "狩しありきけるにいきあひて、道にて馬の口をとりて、「かうかうなむ思ふ」といひければ、あはれがりて、来て寝にけり。",
         "kana": "かりしありきけるにいきあひて、みちにてうまのくちをとりて、「かうかうなむおもふ」といひければ、あはれがりて、きてねにけり。",
@@ -32595,13 +32610,92 @@
         "translation-en-natural": "Because he was serving at court, he was unable to pay visits on ordinary occasions."
       },
       {
-        "date": "20240826",
+        "date": [
+          20240826,
+          20250920
+        ],
         "id": 5,
         "text": "されど、もとの心うしなはでまうでけるになむありける。",
         "kana": "されど、もとのこころうしなはでまうでけるになむありける。",
         "honkoku": "されともとの心うしなはて/s97l/まうてけるになんありける",
-        "translation-ja": "しかし、元の気持ちを失わずに訪ねて行きました。",
-        "translation-en": "However, he went to visit without losing his original feelings."
+        "translation-ja": "しかし、もとの気持ちを失わないで参上したということであったのだった。",
+        "translation-en": "However, it was that he had come to visit without losing his original feelings.",
+        "phrase-gloss": [
+          {
+            "phrase": "されど、",
+            "gloss": "しかし、",
+            "words": [
+              {
+                "word": "されど",
+                "gloss": "but"
+              }
+            ]
+          },
+          {
+            "phrase": "もとの心うしなはで",
+            "gloss": "元の気持ちを失わないで",
+            "words": [
+              {
+                "word": "もと",
+                "gloss": "origin"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "心",
+                "gloss": "feeling"
+              },
+              {
+                "word": "うしなは",
+                "gloss": "lose.IRR"
+              },
+              {
+                "word": "で",
+                "gloss": "NEG.CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "まうでけるに",
+            "gloss": "参上したので",
+            "words": [
+              {
+                "word": "まうで",
+                "gloss": "visit.HUM.REALIS"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "なむありける。",
+            "gloss": "であったのだった。",
+            "words": [
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "それでも、元の思いを忘れずに通っていたのである。",
+        "translation-en-natural": "Still, he continued to visit her without forgetting his original feelings."
       },
       {
         "date": "20240826",
