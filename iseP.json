@@ -32698,13 +32698,123 @@
         "translation-en-natural": "Still, he continued to visit her without forgetting his original feelings."
       },
       {
-        "date": "20240826",
+        "date": [
+          20240826,
+          20250921
+        ],
         "id": 6,
         "text": "むかし仕うまつりし人、俗なる、禅師なる、あまた参り集りて、正月なればことだつとて大御酒たまひけり。",
         "kana": "むかしつかうまつりしひと、ぞくなる、せんじなる、あまたまいりあつまりて、まうつきなれはことたつとておほみきたまひけり。",
         "honkoku": "むかしつかう/まつりし人そくなるせんしなるあまた/まいりあつまりてむ月なれはことたつと/ておほみきたまひけり",
-        "translation-ja": "昔お仕えしていた人たちが、俗人も出家者も多く集まり、正月なので縁起を祝うと言って、大御酒をお振る舞いになりました。",
-        "translation-en": "People who had served in the past, both laymen and monks, gathered in large numbers, and since it was the New Year, they celebrated with offerings of sacred sake."
+        "translation-ja": "昔お仕え申した人で、俗人である者や、禅師である者が、大勢参り集まって、正月であるので縁起を祝うと言って、大御酒をお与えになった。",
+        "translation-en": "Those who had once served (him)—both laypeople and Zen masters—gathered in large numbers, and since it was the New Year, he bestowed sacred sake, saying it was for celebration.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし仕うまつりし人、",
+            "gloss": "long ago serve-HON-PST person",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.ago"
+              },
+              {
+                "word": "仕うまつりし",
+                "gloss": "serve.HON.PST.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "俗なる、禅師なる、",
+            "gloss": "layperson be, Zen.master be",
+            "words": [
+              {
+                "word": "俗なる",
+                "gloss": "layperson be"
+              },
+              {
+                "word": "禅師なる",
+                "gloss": "Zen.master be"
+              }
+            ]
+          },
+          {
+            "phrase": "あまた参り集りて、",
+            "gloss": "many come-HON gather-GER",
+            "words": [
+              {
+                "word": "あまた",
+                "gloss": "many"
+              },
+              {
+                "word": "参り",
+                "gloss": "come.HON"
+              },
+              {
+                "word": "集りて",
+                "gloss": "gather.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "正月なればことだつとて",
+            "gloss": "New.Year be-COND celebration do say-GER",
+            "words": [
+              {
+                "word": "正月",
+                "gloss": "New.Year"
+              },
+              {
+                "word": "なれ",
+                "gloss": "be.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "ことだつ",
+                "gloss": "celebrate"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "大御酒たまひけり。",
+            "gloss": "sacred.sake give.HON.PST",
+            "words": [
+              {
+                "word": "大御酒",
+                "gloss": "sacred.sake"
+              },
+              {
+                "word": "たまひ",
+                "gloss": "give.HON.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "かつて仕えていた人々が、出家も俗人も多く集まり、正月の祝いとして、お酒をふるまわれた。",
+        "translation-en-natural": "Many former attendants, both monks and laypeople, gathered to celebrate the New Year, and he offered them sake in festive spirit."
       },
       {
         "date": "20240826",
