@@ -32817,13 +32817,73 @@
         "translation-en-natural": "Many former attendants, both monks and laypeople, gathered to celebrate the New Year, and he offered them sake in festive spirit."
       },
       {
-        "date": "20240826",
+        "date": [
+          20240826,
+          20250923
+        ],
         "id": 7,
         "text": "雪こぼすがごとふりて、ひねもすにやまず。",
         "kana": "ゆきこぼすがごとふりて、ひねもすにやまず。",
         "honkoku": "ゆきこほすかこと/ふりてひねもすにやます",
-        "translation-ja": "雪がこぼれ落ちるように降り、一日中やむことがありません。",
-        "translation-en": "Snow fell as if it were spilling down, and it continued all day without stopping."
+        "translation-ja": "雪がこぼれ落ちるように降り、一日中やまない。",
+        "translation-en": "Snow fell as if it were spilling down, and it continued all day without stopping.",
+        "phrase-gloss": [
+          {
+            "phrase": "雪こぼすがごとふりて、",
+            "gloss": "snow spill-like fall-CONJ",
+            "words": [
+              {
+                "word": "雪",
+                "gloss": "snow"
+              },
+              {
+                "word": "こぼす",
+                "gloss": "spill.ATTR"
+              },
+              {
+                "word": "が",
+                "gloss": "SIM"
+              },
+              {
+                "word": "ごと",
+                "gloss": "like"
+              },
+              {
+                "word": "ふり",
+                "gloss": "fall.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ひねもすにやまず。",
+            "gloss": "all.day NEG.stop",
+            "words": [
+              {
+                "word": "ひねもす",
+                "gloss": "all.day"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "やま",
+                "gloss": "stop.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "雪がこぼれ落ちるように降り、一日中やむことがなかった。",
+        "translation-en-natural": "Snow fell as if spilling down, and it did not stop all day."
       },
       {
         "date": "20240826",
