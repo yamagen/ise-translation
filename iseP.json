@@ -32886,13 +32886,117 @@
         "translation-en-natural": "Snow fell as if spilling down, and it did not stop all day."
       },
       {
-        "date": "20240826",
+        "date": [
+          20240826,
+          20250923
+        ],
         "id": 8,
         "text": "みな人酔ひて、雪にかりこめられたり、といふを題にて、歌ありけり。",
         "kana": "みなひとゑひて、ゆきにかりこめられたり、といふをだいにて、うたありけり。",
         "honkoku": "みなひとゑ/ひて雪にふりこめられたりといふを題/にてうたありけり/",
-        "translation-ja": "皆が酔って、雪に閉じ込められたことを題材にして、歌を詠みました。",
-        "translation-en": "Everyone got drunk and, being snowed in, sang a song on that theme."
+        "translation-ja": "皆、人は酔って、雪に閉じ込められたという題で、歌を詠んだ。",
+        "translation-en": "Everyone got drunk and, being snowed in, sang a song on that theme.",
+        "phrase-gloss": [
+          {
+            "phrase": "みな人酔ひて、",
+            "gloss": "everyone drunk-CONJ",
+            "words": [
+              {
+                "word": "みな",
+                "gloss": "everyone"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "酔ひ",
+                "gloss": "get.drunk.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "雪にかりこめられたり、",
+            "gloss": "snow LOC be.snowed.in-PST",
+            "words": [
+              {
+                "word": "雪",
+                "gloss": "snow"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "かりこめ",
+                "gloss": "be.snowed.in.IRR"
+              },
+              {
+                "word": "られ",
+                "gloss": "PASSIVE.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PST"
+              }
+            ]
+          },
+          {
+            "phrase": "といふを題にて、",
+            "gloss": "'say' TOP theme-CONJ",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "題",
+                "gloss": "theme"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "歌ありけり。",
+            "gloss": "be song.PST",
+            "words": [
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.REALIS"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "皆、酔って雪に閉じ込められたという題で歌を詠んだ。",
+        "translation-en-natural": "Everyone, drunk, sang a song on the theme of being snowed in."
       },
       {
         "date": "20240826",
@@ -32900,17 +33004,226 @@
         "poem": "思へども/身をしわければ/目離れせぬ/雪の積るぞ/わが心なる",
         "kana": "おもへども/みをしわければ/めかれせぬ/ゆきのつもるぞ/わがこころなる",
         "honkoku": "思へとも身をしわけねはめかれせぬ/ゆきのつもるそわかこころなる/s98r/",
-        "translation-ja": "思うけれども、自分が身を引いたので、心が離れない雪が積もるのは、私の心なのです。",
-        "translation-en": "Though I think of you, because I have withdrawn, the snow that does not leave my sight and keeps piling up is my heart."
+        "translation-ja": "思っても、身を分けるので、目を離さない雪が積もるのが私の心なのです。",
+        "translation-en": "Though I think of you, because I have withdrawn, the snow that does not leave my sight and keeps piling up is my heart.",
+        "phrase-gloss": [
+          {
+            "phrase": "思へども",
+            "gloss": "think-CONJ",
+            "words": [
+              {
+                "word": "思へ",
+                "gloss": "think.REALIS"
+              },
+              {
+                "word": "ども",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "身をしわければ",
+            "gloss": "body ACC divide-CAUSE",
+            "words": [
+              {
+                "word": "身",
+                "gloss": "body"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "し",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "わけ",
+                "gloss": "divide.ADV"
+              },
+              {
+                "word": "れ",
+                "gloss": "POT.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CAUSE"
+              }
+            ]
+          },
+          {
+            "phrase": "目離れせぬ",
+            "gloss": "sight離れNEG.ATTR",
+            "words": [
+              {
+                "word": "目",
+                "gloss": "sight"
+              },
+              {
+                "word": "離れ",
+                "gloss": "separate.IRR"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.POT.REALIS"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "雪の積るぞ",
+            "gloss": "snow GEN pile-EMPH",
+            "words": [
+              {
+                "word": "雪",
+                "gloss": "snow"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "積る",
+                "gloss": "pile"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "わが心なる",
+            "gloss": "my heart be",
+            "words": [
+              {
+                "word": "わが",
+                "gloss": "my"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "思っておりますけれども、自分が身を引いたので、雪が積もるのは、あなたに会えない私の心なのです。",
+        "translation-en-natural": "Though I think of you, because I have withdrawn, the snow that piles up is my heart that cannot see you."
       },
       {
-        "date": "20240826",
+        "date": [
+          20240826,
+          20250929
+        ],
         "id": 10,
         "text": "とよめりければ、親王、いといたうあはれがりたまうて、衣ぬぎてたまへりけり。",
         "kana": "とよめりければ、みこ、いといたうあはれがりたまうて、ころもぬぎてたまへりけり。",
         "honkoku": "とよめりけれはみこいといたうあはれか/り給うて御そぬきてたまへりけり/s98l/",
-        "translation-ja": "と詠んだので、親王はとても深く感動され、衣を脱いでお与えになりました。",
-        "translation-en": "Because he sang this, the prince was deeply moved and took off his robe and gave it to him."
+        "translation-ja": "と詠んだので、親王はとても深く感動され、衣を脱いでお与えになった。",
+        "translation-en": "Because he sang this, the prince was deeply moved and took off his robe and gave it to him.",
+        "phrase-gloss": [
+          {
+            "phrase": "とよめりければ、",
+            "gloss": "'say' sing-PST-CAUSE",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "よめ",
+                "gloss": "sing.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CAUSE"
+              }
+            ]
+          },
+          {
+            "phrase": "親王、いといたうあはれがりたまうて、",
+            "gloss": "prince very deeply moved-HON-CONJ",
+            "words": [
+              {
+                "word": "親王",
+                "gloss": "prince"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "いたう",
+                "gloss": "deeply"
+              },
+              {
+                "word": "あはれ",
+                "gloss": "impress.NOM"
+              },
+              {
+                "word": "がり",
+                "gloss": "expose.ADV"
+              },
+              {
+                "word": "たまう",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "衣ぬぎてたまへりけり。",
+            "gloss": "robe脱ぐ-CONJ-give.HON-PST",
+            "words": [
+              {
+                "word": "衣",
+                "gloss": "robe"
+              },
+              {
+                "word": "ぬぎ",
+                "gloss": "take.off.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "たまへ",
+                "gloss": "give.HON.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "と詠んだので、親王はとても深く感動され、衣を脱いでお与えになったのだった。",
+        "translation-en-natural": "Because he sang this, the prince was deeply moved and took off his robe and gave it to him."
       }
     ]
   },
@@ -32920,13 +33233,77 @@
     "romaji": "Ono ga samazama",
     "paragraph": [
       {
-        "date": "20240827",
+        "date": [
+          20240827,
+          20250929
+        ],
         "id": 1,
         "text": "むかし、いと若き男、若き女をあひいへりけり。",
         "kana": "むかし、いとわかきをとこ、わかきをんなをあひいへりけり。",
         "honkoku": "むかしいとわかきおとこわかき女をあひ/いへりけり",
-        "translation-ja": "昔、とても若い男が、若い女を愛おしく思っていました。",
-        "translation-en": "Once upon a time, a very young man cherished a young woman."
+        "translation-ja": "昔、とても若い男が、若い女を愛おしく思っていた。",
+        "translation-en": "Once upon a time, a very young man cherished a young woman.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、いと若き男、",
+            "gloss": "long.ago very young man",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.ago"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "若き",
+                "gloss": "young.ATTR"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              }
+            ]
+          },
+          {
+            "phrase": "若き女をあひいへりけり。",
+            "gloss": "young woman ACC meet-talk-PST",
+            "words": [
+              {
+                "word": "若き",
+                "gloss": "young.ATTR"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "あひ",
+                "gloss": "meet.ADV"
+              },
+              {
+                "word": "いへ",
+                "gloss": "talk.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "昔、とても若い男が、若い女を愛おしく思っていた。",
+        "translation-en-natural": "Once upon a time, a very young man cherished a young woman."
       },
       {
         "date": "20240827",
