@@ -10257,7 +10257,11 @@
     "romaji": "Tsukumogami",
     "paragraph": [
       {
-        "date": "20240721,20250214,20250506",
+        "date": [
+          20240721,
+          20250214,
+          20250506
+        ],
         "id": 1,
         "text": "むかし、世心つける女、いかで心情けあらむ男にあひ得てしがなと思へど、いひいでむもたよりなさに、まことならぬ夢がたりをす。",
         "kana": "むかし、よごころつけるをんな、いかでこころなさけあらむをとこにあひえてしがなと思へど、いひいでむもたよりなさに、まことならぬ夢がたりをす。",
@@ -33306,13 +33310,85 @@
         "translation-en-natural": "Once upon a time, a very young man cherished a young woman."
       },
       {
-        "date": "20240827",
+        "date": [
+          20240827,
+          20251001
+        ],
         "id": 2,
         "text": "おのおの親ありければ、つつみていひさしてやみにけり。",
         "kana": "おのおのおやありければ、つつみていひさしてやみにけり。",
         "honkoku": "をのをのおや有けれはつつ/みていひさしてやみにけり",
-        "translation-ja": "それぞれ親がいたので、慎重になって言いたいことも言わずに終わってしまいました。",
-        "translation-en": "Since they each had parents, they became cautious and ended up not saying what they wanted to say."
+        "translation-ja": "それぞれ親がいたので、慎重になって言いたいことも言わずに終わってしまった。",
+        "translation-en": "Since they each had parents, they became cautious and ended up not saying what they wanted to say.",
+        "phrase-gloss": [
+          {
+            "phrase": "おのおの親ありければ、",
+            "gloss": "each parent be-COND",
+            "words": [
+              {
+                "word": "おのおの",
+                "gloss": "each"
+              },
+              {
+                "word": "親",
+                "gloss": "parent"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.REALIS"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "つつみていひさしてやみにけり。",
+            "gloss": "cautious-CONJ-say-let.end-PST",
+            "words": [
+              {
+                "word": "つつみ",
+                "gloss": "cautious.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "さし",
+                "gloss": "let.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "やみ",
+                "gloss": "end.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.REALIS"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "それぞれ親がいたので、慎重になって言いたいことも言わずに終わってしまったのだった。",
+        "translation-en-natural": "Since they each had parents, they became cautious and ended up not saying what they wanted to say."
       },
       {
         "date": "20240827",
