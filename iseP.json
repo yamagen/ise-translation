@@ -10314,8 +10314,12 @@
                 "gloss": "tender.heart"
               },
               {
-                "word": "あらむ",
+                "word": "あら",
                 "gloss": "exist.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "INTEND.ATTR"
               },
               {
                 "word": "男",
@@ -10327,11 +10331,11 @@
               },
               {
                 "word": "あひ",
-                "gloss": "meet"
+                "gloss": "meet.ADV"
               },
               {
                 "word": "得",
-                "gloss": "obtain"
+                "gloss": "obtain.ADV"
               },
               {
                 "word": "て",
@@ -10347,7 +10351,7 @@
               },
               {
                 "word": "思へ",
-                "gloss": "think"
+                "gloss": "think.REALIS"
               },
               {
                 "word": "ど",
@@ -10376,12 +10380,16 @@
                 "gloss": "ADD"
               },
               {
-                "word": "たよりなさ",
-                "gloss": "lack.of.means"
+                "word": "たより",
+                "gloss": "means"
+              },
+              {
+                "word": "なさ",
+                "gloss": "NEG.NMLZ"
               },
               {
                 "word": "に",
-                "gloss": "because.of"
+                "gloss": "because"
               }
             ]
           },
@@ -10395,11 +10403,11 @@
               },
               {
                 "word": "なら",
-                "gloss": "become"
+                "gloss": "become.IRR"
               },
               {
                 "word": "ぬ",
-                "gloss": "NEG"
+                "gloss": "NEG.ATTR"
               },
               {
                 "word": "夢がたり",
@@ -33651,13 +33659,53 @@
         "translation-en-natural": "There is probably no one in this world who hasn't forgotten by now. My years have passed in various ways."
       },
       {
-        "date": "20240827",
+        "date": [
+          20240827,
+          20251006
+        ],
         "id": 5,
         "text": "とてやみにけり。",
         "kana": "とてやみにけり。",
         "honkoku": "とてやみにけり",
-        "translation-ja": "ということで、終わりました。",
-        "translation-en": "Saying that, it was over."
+        "translation-ja": "ということで、終わってしまった。",
+        "translation-en": "And with that, it ended.",
+        "phrase-gloss": [
+          {
+            "phrase": "とて",
+            "gloss": "'say' with.that",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "with.that"
+              }
+            ]
+          },
+          {
+            "phrase": "やみにけり。",
+            "gloss": "end.PST",
+            "words": [
+              {
+                "word": "やみ",
+                "gloss": "end.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "ということで、終わってしまったのだった。",
+        "translation-en-natural": "And with that, it ended."
       },
       {
         "date": "20240827",
