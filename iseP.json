@@ -33391,22 +33391,264 @@
         "translation-en-natural": "Since they each had parents, they became cautious and ended up not saying what they wanted to say."
       },
       {
-        "date": "20240827",
+        "date": [
+          20240827,
+          20251003
+        ],
         "id": 3,
         "text": "年ごろ経て、女のもとに、なほ心ざし果たさむとや思ひけむ、男、歌をよみてやれりけり。",
         "kana": "としごろへて、をんなのもとに、なほこころざしはたさむとやおもひけむ、をとこ、うたをよみてやれりけり。",
         "honkoku": "年ころへて/女のもとになを心さしはたさんとや思/けんおとこうたをよみてやれりけり/",
-        "translation-ja": "年月が経ち、女のもとに、やはり初めの思いを果たそうと思ったのだろう、男が、歌を詠んでやりました。",
-        "translation-en": "Years passed, since he still had feelings for her, he sang a song for her."
+        "translation-ja": "年月が経ち、女のもとに、やはり初めの思いを果たそうと思ったのだろう、男が、歌を詠んでやった。",
+        "translation-en": "Years passed, since he still had feelings for her, he sang a song for her.",
+        "phrase-gloss": [
+          {
+            "phrase": "年ごろ経て、",
+            "gloss": "years pass-CONJ",
+            "words": [
+              {
+                "word": "年ごろ",
+                "gloss": "years"
+              },
+              {
+                "word": "経",
+                "gloss": "pass.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "女のもとに、",
+            "gloss": "woman GEN place-DAT",
+            "words": [
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "もと",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "なほ心ざし果たさむとや思ひけむ、",
+            "gloss": "still intention fulfill-FUT 'say' think-FUT",
+            "words": [
+              {
+                "word": "なほ",
+                "gloss": "still"
+              },
+              {
+                "word": "心ざし",
+                "gloss": "intention"
+              },
+              {
+                "word": "果たさ",
+                "gloss": "fulfill.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "や",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "けむ",
+                "gloss": "PST.SUP"
+              }
+            ]
+          },
+          {
+            "phrase": "男、歌をよみてやれりけり。",
+            "gloss": "man song ACC sing-CONJ-give-PST",
+            "words": [
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "よみ",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "やれ",
+                "gloss": "give.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "年月が経ち、女のもとに、やはり初めの思いを果たそうと思ったのだろう、男が、歌を詠んでやったのだった。",
+        "translation-en-natural": "Years passed, and since he still had feelings for her, he sang a song for her."
       },
       {
-        "date": "20240827",
+        "date": [
+          20240827,
+          20251006
+        ],
         "id": 4,
         "poem": "いままでに/忘れぬ人は/世にもあらじ/おのがさまざま/年の経ぬれば",
         "kana": "いままでに/わすれぬひとは/よにもあらじ/おのがさまざま/としのへぬれば",
         "honkoku": "今まてにわすれぬ人は世にもあらし/をのかさまさま年のへぬれは/s98l/",
-        "translation-ja": "今までに忘れられない人は、この世にはいないでしょう。私もさまざまなことを経験して、長い年月が過ぎてしまったから。",
-        "translation-en": "There is probably no one in this world who hasn't forgotten by now. I, too, have experienced various things as the years have passed."
+        "translation-ja": "今までに忘れない人は、この世にはないでしょう。私の年月がさまざまに過ぎてしまったので。",
+        "translation-en": "There is probably no one in this world who hasn't forgotten by now. Each of us has lived our own lives, and the years have passed.",
+        "phrase-gloss": [
+          {
+            "phrase": "いままでに",
+            "gloss": "until.now LOC",
+            "words": [
+              {
+                "word": "いま",
+                "gloss": "now"
+              },
+              {
+                "word": "まで",
+                "gloss": "until"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "忘れぬ人は",
+            "gloss": "forget-NEG.ATTR person-TOP",
+            "words": [
+              {
+                "word": "忘れ",
+                "gloss": "forget.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "世にもあらじ",
+            "gloss": "world also not.exist-ATTR",
+            "words": [
+              {
+                "word": "世",
+                "gloss": "world"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "じ",
+                "gloss": "NEG"
+              }
+            ]
+          },
+          {
+            "phrase": "おのがさまざま",
+            "gloss": "one's own various",
+            "words": [
+              {
+                "word": "おのが",
+                "gloss": "one's own"
+              },
+              {
+                "word": "さまざま",
+                "gloss": "various"
+              }
+            ]
+          },
+          {
+            "phrase": "年の経ぬれば",
+            "gloss": "year GEN pass-CAUSE",
+            "words": [
+              {
+                "word": "年",
+                "gloss": "year"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "経",
+                "gloss": "pass.ADV"
+              },
+              {
+                "word": "ぬれ",
+                "gloss": "POT.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CAUSE"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "今までに忘れない人は、この世にはないでしょう。私の年月がさまざまに過ぎてしまったのですから。",
+        "translation-en-natural": "There is probably no one in this world who hasn't forgotten by now. My years have passed in various ways."
       },
       {
         "date": "20240827",
