@@ -34143,13 +34143,73 @@
         "translation-en-natural": "that he sang, which is this village."
       },
       {
-        "date": "20240830",
+        "date": [
+          20240830,
+          20251017
+        ],
         "id": 5,
         "text": "ここをなむ蘆屋の灘とはいひける。",
         "kana": "ここをなむあしやのなだとはいひける。",
         "honkoku": "ここ/をなんあしやのなたとはいひける",
-        "translation-ja": "ここを蘆屋の灘と言っています。",
-        "translation-en": "This place is called Ashiya Bay."
+        "translation-ja": "ここを蘆屋の灘と言った。",
+        "translation-en": "This place is called Ashiya Bay.",
+        "phrase-gloss": [
+          {
+            "phrase": "ここをなむ",
+            "gloss": "here ACC EMPH",
+            "words": [
+              {
+                "word": "ここ",
+                "gloss": "here"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "蘆屋の灘とはいひける。",
+            "gloss": "Ashiya GEN bay QUOT say-PST",
+            "words": [
+              {
+                "word": "蘆屋",
+                "gloss": "Ashiya.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "灘",
+                "gloss": "bay"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "ここを蘆屋の灘と呼んだのだった。",
+        "translation-en-natural": "This place is called Ashiya Bay."
       },
       {
         "date": [
