@@ -33708,13 +33708,85 @@
         "translation-en-natural": "And with that, it ended."
       },
       {
-        "date": "20240827",
+        "date": [
+          20240827,
+          20251007
+        ],
         "id": 6,
         "text": "男も女も、あひはなれぬ宮仕へになむいでにける。",
         "kana": "をとこもをんなも、あひはなれぬみやつかへになむいでにける。",
         "honkoku": "おとこも女もあひはな/れぬ宮つかへになんいてにける/s99r/",
-        "translation-ja": "男も女も、一緒に離れることなく、宮様にお仕えしました。",
-        "translation-en": "The man and the woman, together without parting, served the lord."
+        "translation-ja": "男も女も、相離れることなく、宮仕えに出掛けた。",
+        "translation-en": "The man and the woman, together without parting, served the lord.",
+        "phrase-gloss": [
+          {
+            "phrase": "男も女も、",
+            "gloss": "man also woman also",
+            "words": [
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "あひはなれぬ宮仕へになむいでにける。",
+            "gloss": "meet-separate-NEG.ATTR palace.serve-EMPH-go.out-PST",
+            "words": [
+              {
+                "word": "あひ",
+                "gloss": "meet.ADV"
+              },
+              {
+                "word": "はなれ",
+                "gloss": "separate.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "宮仕へ",
+                "gloss": "palace.serve"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "いで",
+                "gloss": "go.out.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "男も女も、相離れることなく、宮仕えに出掛けたのだった。",
+        "translation-en-natural": "The man and the woman, together without parting, served the lord."
       }
     ]
   },
@@ -33724,40 +33796,351 @@
     "romaji": "Nunohiki no taki",
     "paragraph": [
       {
-        "date": "20240828",
+        "date": [
+          20240828,
+          20251008,
+          20251014
+        ],
         "id": 1,
         "text": "むかし、男、津の国、菟原の郡、蘆屋の里にしるよしして、いきてすみけり。",
         "kana": "むかし、をとこ、つのくに、うばらのこほり、あしやのさとにしるよしして、いきてすみけり。",
         "honkoku": "むかしおとこつの国むはらのこほりあし/やのさとにしるよししていきてすみ/けり",
-        "translation-ja": "昔、ある男が摂津国の菟原郡、蘆屋の里に領地を持ち、そこに住んでいました。",
-        "translation-en": "Once upon a time, a man owned land in Ashiya Village, Ubara District, in the province of Settsu, and he lived there."
+        "translation-ja": "昔、男が摂津国の菟原郡、蘆屋の里に領る由があり、行って住んでいた。",
+        "translation-en": "Once upon a time, a man had a domain in the village of Ashiya in Ubara District, Tsuno Province, and he went to live there.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、男、",
+            "gloss": "long time ago a man",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long time ago"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              }
+            ]
+          },
+          {
+            "phrase": "津の国、菟原の郡、蘆屋の里にしるよしして、",
+            "gloss": "Tsuno GEN province Ubara GEN district Ashiya GEN village LOC know reason do",
+            "words": [
+              {
+                "word": "津",
+                "gloss": "Tsu.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "国",
+                "gloss": "province"
+              },
+              {
+                "word": "菟原",
+                "gloss": "Ubara.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "郡",
+                "gloss": "district"
+              },
+              {
+                "word": "蘆屋",
+                "gloss": "Ashiya.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "里",
+                "gloss": "village"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "しる",
+                "gloss": "know.ATTR"
+              },
+              {
+                "word": "よし",
+                "gloss": "reason"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "いきてすみけり。",
+            "gloss": "go-CONJ-live-PST",
+            "words": [
+              {
+                "word": "いき",
+                "gloss": "go.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "すみ",
+                "gloss": "live.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "昔、男が摂津国の菟原郡、蘆屋の里に領る由があり、行って住んでいたのだった。",
+        "translation-en-natural": "Once upon a time, a man had a domain in the village of Ashiya in Ubara District, Tsuno Province, and he went to live there."
       },
       {
-        "date": "20240828",
+        "date": [
+          20240828,
+          20251014
+        ],
         "id": 2,
         "text": "昔の歌に、",
         "kana": "むかしのうたに、",
         "honkoku": "むかしのうたに/",
         "translation-ja": "昔の歌に、",
-        "translation-en": "In an old song,"
+        "translation-en": "In an old song,",
+        "phrase-gloss": [
+          {
+            "phrase": "昔の歌に、",
+            "gloss": "old GEN song LOC",
+            "words": [
+              {
+                "word": "昔",
+                "gloss": "old"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "昔の歌に、",
+        "translation-en-natural": "In an old song,"
       },
       {
-        "date": "20240828",
+        "date": [
+          20240828,
+          20251016
+        ],
         "id": 3,
         "poem": "蘆の屋の/灘のしほ焼き/いとまなみ/つげの小櫛も/ささず来にけり",
         "kana": "あしのやの/なだのしほやき/いとまなみ/つげのをぐしも/ささずきにけり",
         "honkoku": "蘆のやのなたのしほやきいとまなみ/つけのをくしもささすきにけり/",
-        "translation-ja": "蘆屋の灘で塩を焼くのが忙しくて、つげの小櫛もささずにここまで来てしまいました。",
-        "translation-en": "In Ashiya Bay, busy with the salt burning, I came here without even adorning my hair with a small boxwood comb."
+        "translation-ja": "蘆屋の灘で塩を焼くのが忙しくて、つげの小櫛もささずにここまで来てしまった。",
+        "translation-en": "In Ashiya Bay, busy with the salt burning, I came here without even adorning my hair with a small boxwood comb.",
+        "phrase-gloss": [
+          {
+            "phrase": "蘆の屋の",
+            "gloss": "reed GEN house GEN",
+            "words": [
+              {
+                "word": "蘆",
+                "gloss": "reed"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "屋",
+                "gloss": "house"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "灘のしほ焼き",
+            "gloss": "bay GEN salt burn.NOM",
+            "words": [
+              {
+                "word": "灘",
+                "gloss": "bay"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "しほ",
+                "gloss": "salt"
+              },
+              {
+                "word": "焼き",
+                "gloss": "burn.VN"
+              }
+            ]
+          },
+          {
+            "phrase": "いとまなみ",
+            "gloss": "time spare not.exist",
+            "words": [
+              {
+                "word": "いとま",
+                "gloss": "time.spare"
+              },
+              {
+                "word": "な",
+                "gloss": "not.exist.STEM"
+              },
+              {
+                "word": "み",
+                "gloss": "because"
+              }
+            ]
+          },
+          {
+            "phrase": "つげの小櫛も",
+            "gloss": "boxwood GEN small.comb also",
+            "words": [
+              {
+                "word": "つげ",
+                "gloss": "boxwood"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "小櫛",
+                "gloss": "small.comb"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "ささず来にけり",
+            "gloss": "not.insert-NEG come-PST",
+            "words": [
+              {
+                "word": "ささ",
+                "gloss": "not.insert.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "来",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "蘆屋の灘で塩を焼くのが忙しくて、つげの小櫛もささずにここまで来てしまったのだった。",
+        "translation-en-natural": "In Ashiya Bay, busy with the salt burning, I came here without even adorning my hair with a small boxwood comb."
       },
       {
-        "date": "20240828",
+        "date": [
+          20240828,
+          20251016
+        ],
         "id": 4,
         "text": "とよみけるぞ、この里をよみける。",
         "kana": "とよみけるぞ、このさとをよみける。",
         "honkoku": "とよみけるそ、このさとをよみける",
-        "translation-ja": "と詠んだのは、この里を詠んだのでした。",
-        "translation-en": "that he sang, which is this village."
+        "translation-ja": "と詠んだのは、この里を詠んだのだった。",
+        "translation-en": "that he sang, which is this village.",
+        "phrase-gloss": [
+          {
+            "phrase": "とよみけるぞ、",
+            "gloss": "'say' sing-PST.EMPH",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "よみ",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "この里をよみける。",
+            "gloss": "this village ACC sing-PST",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "里",
+                "gloss": "village"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "よみ",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "と詠んだのは、この里を詠んだのだった。",
+        "translation-en-natural": "that he sang, which is this village."
       },
       {
         "date": "20240830",
@@ -33769,13 +34152,129 @@
         "translation-en": "This place is called Ashiya Bay."
       },
       {
-        "date": "20240830",
+        "date": [
+          20240830,
+          20251016
+        ],
         "id": 6,
         "text": "この男、なま宮づかへしければ、それをたよりにて、衛府の佐ども集り来にけり。",
         "kana": "このをとこ、なまみやづかへしければ、それをたよりにて、えふのすけどもつども集りきにけり。",
         "honkoku": "この/s99r/おとこなま宮つかへしけれはそれを/たよりにてゑうのすけともあつまり/きにけり",
-        "translation-ja": "この男は生まれつき宮仕えであったので、それを頼りにして、衛府の佐どもが集まってきました。",
-        "translation-en": "The man was born to serve at the court, and relying on that, the officers of the imperial guard gathered around him."
+        "translation-ja": "この男は生まれつき宮仕えであったので、それを頼りにして、衛府の佐どもが集まってきた。",
+        "translation-en": "The man was born to serve at the court, and relying on that, the officers of the imperial guard gathered around him.",
+        "phrase-gloss": [
+          {
+            "phrase": "この男、",
+            "gloss": "this man",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              }
+            ]
+          },
+          {
+            "phrase": "なま宮づかへしければ、",
+            "gloss": "born palace.serve-REALIS-COND",
+            "words": [
+              {
+                "word": "なま",
+                "gloss": "born"
+              },
+              {
+                "word": "宮づかへ",
+                "gloss": "palace.serve"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "それをたよりにて、",
+            "gloss": "that ACC reliance with",
+            "words": [
+              {
+                "word": "それ",
+                "gloss": "that"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "たより",
+                "gloss": "reliance"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "衛府の佐ども集り来にけり。",
+            "gloss": "imperial.guard GEN officer also gather-CONJ-come-PST",
+            "words": [
+              {
+                "word": "衛府",
+                "gloss": "imperial.guard"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "佐",
+                "gloss": "officer"
+              },
+              {
+                "word": "ども",
+                "gloss": "also"
+              },
+              {
+                "word": "集り",
+                "gloss": "gather.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "来",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "この男は生まれつき宮仕えであったので、それを頼りにして、衛府の佐どもが集まってきたのだった。",
+        "translation-en-natural": "The man was born to serve at the court, and relying on that, the officers of the imperial guard gathered around him."
       },
       {
         "date": "20240831",
