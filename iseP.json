@@ -34337,22 +34337,288 @@
         "translation-en-natural": "The man was born to serve at the court, and relying on that, the officers of the imperial guard gathered around him."
       },
       {
-        "date": "20240831",
+        "date": [
+          20240831,
+          20251018
+        ],
         "id": 7,
         "text": "この男のこのかみも衛府の督なりけり。",
         "kana": "このをとこのこのかみもえふのかみなりけり。",
         "honkoku": "この男のこのかみもゑふのかみ/なりけり",
-        "translation-ja": "この男のこのかみも衛府の督でした。",
-        "translation-en": "The supervisor of this man was also the head of the imperial guard."
+        "translation-ja": "この男のこのかみも衛府の督であった。",
+        "translation-en": "The supervisor of this man was also the head of the imperial guard.",
+        "phrase-gloss": [
+          {
+            "phrase": "この男のこのかみも",
+            "gloss": "this man GEN this elder.brother also",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "かみ",
+                "gloss": "elder.brother"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "衛府の督なりけり。",
+            "gloss": "imperial.guard GEN supervisor be-PST",
+            "words": [
+              {
+                "word": "衛府",
+                "gloss": "imperial.guard"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "督",
+                "gloss": "supervisor"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "この男の兄も衛府の督であったのだった。",
+        "translation-en-natural": "The supervisor of this man was also the head of the imperial guard."
       },
       {
-        "date": "20240831",
+        "date": [
+          20240831,
+          20251019
+        ],
         "id": 8,
-        "text": "その家の前の海のほとりに、遊び歩きて、「いざ、この山のかみにありといふ布引の滝見にのばらむ」といひて、のぼりて見るに、その滝、ものよりことなり。",
-        "kana": "そのやどのまへのうみのほとりに、あそびありきて、「いざ、このやまのかみにありといふぬのひきのたきみにのばらむ」といひて、のぼりてみるに、そのたき、ものよりことなり。",
-        "honkoku": "そのいゑのまへの海のほとりに/あそひありきていさこの山のかみにあり/といふぬのひきのたき見にのほらんと/いひてのほりて見るにそのたきものより/ことなり",
-        "translation-ja": "その家の前にある海辺で遊んで、「さあ、この山の神がいると言われている布引の滝を見に行こう」と登ってみたところ、その滝は他のものとは異なっていました。",
-        "translation-en": "Playing along the shore in front of that house, he said, \"Let's go see the Nunobiki Falls, which is said to be where the mountain deity resides,\" and when he climbed up to see it, he found that the falls were different from anything else."
+        "text": "その家の前の海のほとりに、遊び歩きて、「いざ、この山のかみにありといふ布引の滝見にのぼらむ」といひて、のぼりて見るに、その滝、ものよりことなり。",
+        "kana": "そのやどのまへのうみのほとりに、あそびありきて、「いざ、このやまのかみにありといふぬのひきのたきみにのぼらむ」といひて、のぼりてみるに、そのたき、ものよりことなり。",
+        "honkoku": "そのいゑのまへの海のほとりに/あそひありきていさこの山のかみにあり/といふぬのひきのたき見にのぼらんと/いひてのほりて見るにそのたきものより/ことなり",
+        "translation-ja": "その家の前にある海辺に、遊び歩いて、「さあ、この山の神がいると言う布引の滝を見に登ろう」と言って登って見るに、その滝はものとは異なっていた。",
+        "translation-en": "Playing around by the seaside in front of the house, he said, 'Come, let's climb up to see the Nunohiki Waterfall said to be on top of this mountain.' When he climbed up and saw it, the waterfall was unlike any other.",
+        "phrase-gloss": [
+          {
+            "phrase": "その家の前の海のほとりに、",
+            "gloss": "that house GEN front GEN sea GEN shore LOC",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "家",
+                "gloss": "house"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "前",
+                "gloss": "front"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ほとり",
+                "gloss": "shore"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "遊び歩きて、",
+            "gloss": "play-walk-CONJ",
+            "words": [
+              {
+                "word": "遊び",
+                "gloss": "play.ADV"
+              },
+              {
+                "word": "歩き",
+                "gloss": "walk.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "「いざ、この山のかみにありといふ布引の滝見にのぼらむ」といひて、",
+            "gloss": "'come' this mountain GEN top LOC exist-QUOT say-NOM Nunohiki GEN waterfall see-DAT climb-WILL-CONJ",
+            "words": [
+              {
+                "word": "いざ",
+                "gloss": "'come'"
+              },
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "山",
+                "gloss": "mountain"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "かみ",
+                "gloss": "top"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.END"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "布引",
+                "gloss": "Nunohiki.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "滝",
+                "gloss": "waterfall"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "のぼら",
+                "gloss": "climb.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "のぼりて見るに、",
+            "gloss": "climb-CONJ-see-DAT",
+            "words": [
+              {
+                "word": "のぼり",
+                "gloss": "climb.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "見る",
+                "gloss": "see.END"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "その滝、ものよりことなり。",
+            "gloss": "that waterfall thing than different",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "滝",
+                "gloss": "waterfall"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "より",
+                "gloss": "than"
+              },
+              {
+                "word": "こと",
+                "gloss": "different"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.END"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "その家の前にある海辺に、遊び歩いて、「さあ、この山の神がいると言う布引の滝を見に登ろう」と言って登って見るに、その滝は他のものとは異なっていたのだった。",
+        "translation-en-natural": "Playing around by the seaside in front of the house, he said, 'Come, let's climb up to see the Nunohiki Waterfall said to be on top of this mountain.' When he climbed up and saw it, the waterfall was unlike any other."
       },
       {
         "date": "20240902",
