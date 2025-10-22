@@ -34418,7 +34418,7 @@
         "text": "その家の前の海のほとりに、遊び歩きて、「いざ、この山のかみにありといふ布引の滝見にのぼらむ」といひて、のぼりて見るに、その滝、ものよりことなり。",
         "kana": "そのやどのまへのうみのほとりに、あそびありきて、「いざ、このやまのかみにありといふぬのひきのたきみにのぼらむ」といひて、のぼりてみるに、そのたき、ものよりことなり。",
         "honkoku": "そのいゑのまへの海のほとりに/あそひありきていさこの山のかみにあり/といふぬのひきのたき見にのぼらんと/いひてのほりて見るにそのたきものより/ことなり",
-        "translation-ja": "その家の前にある海辺に、遊び歩いて、「さあ、この山の神がいると言う布引の滝を見に登ろう」と言って登って見るに、その滝はものとは異なっていた。",
+        "translation-ja": "その家の前の海のほとりを、遊び歩いて、「さあ、この山の神がいると言う布引の滝に登ろう」と言って登って見るに、その滝はものより異なる。",
         "translation-en": "Playing around by the seaside in front of the house, he said, 'Come, let's climb up to see the Nunohiki Waterfall said to be on top of this mountain.' When he climbed up and saw it, the waterfall was unlike any other.",
         "phrase-gloss": [
           {
@@ -34565,7 +34565,7 @@
           },
           {
             "phrase": "のぼりて見るに、",
-            "gloss": "climb-CONJ-see-DAT",
+            "gloss": "climb CONJ see DAT",
             "words": [
               {
                 "word": "のぼり",
@@ -34617,11 +34617,14 @@
           }
         ],
         "glossary-abbreviations": null,
-        "translation-ja-natural": "その家の前にある海辺に、遊び歩いて、「さあ、この山の神がいると言う布引の滝を見に登ろう」と言って登って見るに、その滝は他のものとは異なっていたのだった。",
+        "translation-ja-natural": "その家の前にある海辺に、遊び歩いて、「さあ、この山の神がいると言う布引の滝を見に登ろう」と言って登って見るに、その滝は他のものとは異なっているのだった。",
         "translation-en-natural": "Playing around by the seaside in front of the house, he said, 'Come, let's climb up to see the Nunohiki Waterfall said to be on top of this mountain.' When he climbed up and saw it, the waterfall was unlike any other."
       },
       {
-        "date": "20240902",
+        "date": [
+          20240902,
+          20251023
+        ],
         "id": 9,
         "text": "長さ二十丈、広さ五丈ばかりなる石のおもて、白絹に岩をつつめらむやうになむありける。",
         "kana": "ながさにじふぢやう、ひろさごぢやうばかりなるいしのおもて、しらきぬにいわをつつめらむやうになむありける。",
