@@ -34234,6 +34234,10 @@
               {
                 "word": "男",
                 "gloss": "man"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
               }
             ]
           },
@@ -34629,17 +34633,212 @@
         "text": "長さ二十丈、広さ五丈ばかりなる石のおもて、白絹に岩をつつめらむやうになむありける。",
         "kana": "ながさにじふぢやう、ひろさごぢやうばかりなるいしのおもて、しらきぬにいわをつつめらむやうになむありける。",
         "honkoku": "なかさ二十丈ひろさ五丈はかり/なるいしのおもてにしらきぬにいはを/s99l/つつめらんやうになんありける",
-        "translation-ja": "長さが約二十丈、広さが約五丈の石の表面が、白い絹で岩が包まれていました。",
-        "translation-en": "The surface of the stone, which was about twenty fathoms long and five fathoms wide, appeared as if the rock were wrapped in white silk."
+        "translation-ja": "長さ約二十丈、広さ約五丈ほどの石の表が、白絹に岩が包まれているようであった。",
+        "translation-en": "The surface of the stone, which was about twenty jo long and five fathoms wide, appeared as if the rock were wrapped in white silk.",
+        "phrase-gloss": [
+          {
+            "phrase": "長さ二十丈、広さ五丈ばかりなる石のおもて、",
+            "gloss": "length twenty jo width five jo about exist-ATTR stone GEN surface LOC",
+            "words": [
+              {
+                "word": "長さ",
+                "gloss": "length"
+              },
+              {
+                "word": "二十丈",
+                "gloss": "twenty jo"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "広さ",
+                "gloss": "width"
+              },
+              {
+                "word": "五丈",
+                "gloss": "five jo"
+              },
+              {
+                "word": "ばかり",
+                "gloss": "about"
+              },
+              {
+                "word": "なる",
+                "gloss": "exist-ATTR"
+              },
+              {
+                "word": "石",
+                "gloss": "stone"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "おもて",
+                "gloss": "surface"
+              }
+            ]
+          },
+          {
+            "phrase": "白絹に岩をつつめらむやうになむありける。",
+            "gloss": "white.silk DAT rock ACC wrap FUT like EMPH exist PST",
+            "words": [
+              {
+                "word": "白絹",
+                "gloss": "white.silk"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "岩",
+                "gloss": "rock"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "つつめ",
+                "gloss": "wrap.IRR"
+              },
+              {
+                "word": "らむ",
+                "gloss": "FUT"
+              },
+              {
+                "word": "やう",
+                "gloss": "like"
+              },
+              {
+                "word": "に",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "長さ約二十丈、広さ約五丈ほどの石の表が、白絹に岩が包まれているようであったのだった。",
+        "translation-en-natural": "The surface of the stone, which was about twenty jo long and five jo wide, appeared as if the rock were wrapped in white silk.",
+        "notes-ja": [
+          {
+            "title": "丈の長さについて",
+            "note": "丈（じょう）は古代から近世にかけて使われた長さの単位で、1丈は10尺に相当する。時代や地域によって差はあるが、一般的には約3.03メートル前後とされる。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "About the Length of 'Jo'",
+            "note": "The 'jo' is a traditional Japanese unit of length, defined as ten 'shaku'. Its exact value varied with era and region, but it is generally taken to be approximately 3.03 meters."
+          }
+        ]
       },
       {
-        "date": "20240903",
+        "date": [
+          20240903,
+          20251023
+        ],
         "id": 10,
         "text": "さる滝のかみに、わらうだの大きさして、さしいでたる石あり。",
         "kana": "そのたきのかみに、わらうだのおほさして、さしいでたるいしあり。",
         "honkoku": "さる/たきのかみにわらうたのおほきさして/さしいてたるいしあり",
-        "translation-ja": "さる滝の上に、円座のような大きさの差し出た石がある。",
-        "translation-en": "Above a certain waterfall, there is a stone that protrudes and is of a size like a round seat."
+        "translation-ja": "さる滝の上に、円座の大きさの差し出た石がある。",
+        "translation-en": "Above a certain waterfall, there is a stone that protrudes and is of a size like a round seat.",
+        "phrase-gloss": [
+          {
+            "phrase": "さる滝のかみに、",
+            "gloss": "certain waterfall GEN top LOC",
+            "words": [
+              {
+                "word": "さる",
+                "gloss": "certain"
+              },
+              {
+                "word": "滝",
+                "gloss": "waterfall"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "かみ",
+                "gloss": "top"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "わらうだの大きさして、",
+            "gloss": "round.seat GEN size do.ADV",
+            "words": [
+              {
+                "word": "わらうだ",
+                "gloss": "round.seat"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "大きさ",
+                "gloss": "size"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "さしいでたる石あり。",
+            "gloss": "protrude-PST stone exist.END",
+            "words": [
+              {
+                "word": "さし出で",
+                "gloss": "protrude.ADV"
+              },
+              {
+                "word": "たる",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "石",
+                "gloss": "stone"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.END"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "さる滝の上に、円座ほどの大きさの差し出た石があるのだった。",
+        "translation-en-natural": "Above a certain waterfall, there is a stone that protrudes and is of a size like a round seat."
       },
       {
         "date": "20240903",
