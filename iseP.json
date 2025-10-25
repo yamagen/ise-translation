@@ -34841,13 +34841,101 @@
         "translation-en-natural": "Above a certain waterfall, there is a stone that protrudes and is of a size like a round seat."
       },
       {
-        "date": "20240903",
+        "date": [
+          20240903,
+          20251025
+        ],
         "id": 11,
         "text": "その石の上に走りかかる水は、 小柑子、栗の大きさにてこぼれ落つ。",
         "kana": "そのいしのうへにはしりかかるみづは、せうかうじ、くりのおほきさにてこほれおつ。",
         "honkoku": "そのいしの/うへにはしりかかる水はせうかうし/くりのおほきさにてこほれおつ",
-        "translation-ja": "その石の上に流れ落ちる水は、小さなみかんや栗の大きさほどで、こぼれ落ちている。",
-        "translation-en": "The water running over the stone is of the size of small mandarins or chestnuts, and spills over."
+        "translation-ja": "その石の上に走りかかる水は、小さなみかん、栗の大きさで、こぼれ落ちる。",
+        "translation-en": "The water running over the stone is of the size of small mandarins or chestnuts, and spills over.",
+        "phrase-gloss": [
+          {
+            "phrase": "その石の上に走りかかる水は、",
+            "gloss": "that stone GEN top LOC run-over water TOP",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "石",
+                "gloss": "stone"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "上",
+                "gloss": "top"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "走り",
+                "gloss": "run.ADV"
+              },
+              {
+                "word": "かかる",
+                "gloss": "fall.ATTR"
+              },
+              {
+                "word": "水",
+                "gloss": "water"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "小柑子、栗の大きさにてこぼれ落つ。",
+            "gloss": "small.mandarin chestnut GEN size with spill-fall",
+            "words": [
+              {
+                "word": "小柑子",
+                "gloss": "small.mandarin"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "栗",
+                "gloss": "chestnut"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "大きさ",
+                "gloss": "size"
+              },
+              {
+                "word": "にて",
+                "gloss": "with"
+              },
+              {
+                "word": "こぼれ",
+                "gloss": "spill.ADV"
+              },
+              {
+                "word": "落つ",
+                "gloss": "fall.END"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "その石の上に走りかかる水は、小さなみかん、栗の大きさで、こぼれ落ちるのだった。",
+        "translation-en-natural": "The water running over the stone is of the size of small mandarins or chestnuts, and spills over."
       },
       {
         "date": "20240904",
