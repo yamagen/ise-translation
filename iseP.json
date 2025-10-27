@@ -34938,13 +34938,73 @@
         "translation-en-natural": "The water running over the stone is of the size of small mandarins or chestnuts, and spills over."
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251026
+        ],
         "id": 12,
         "text": "そこなる人にみな滝の歌よます。",
         "kana": "そこなるひとにみなたきのうたよます。",
         "honkoku": "そこ/なる人にみなたきのうたよます",
-        "translation-ja": "そこにいる人に、みな滝の歌を詠ませました。",
-        "translation-en": "Everyone at that place composes poems about the waterfall."
+        "translation-ja": "そこにいる人に、みな滝の歌を詠ませた。",
+        "translation-en": "One made everyone there compose poems about the waterfall.",
+        "phrase-gloss": [
+          {
+            "phrase": "そこなる人に",
+            "gloss": "there exist person DAT",
+            "words": [
+              {
+                "word": "そこ",
+                "gloss": "there"
+              },
+              {
+                "word": "なる",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "みな滝の歌よます。",
+            "gloss": "all waterfall GEN poem compose-HON",
+            "words": [
+              {
+                "word": "みな",
+                "gloss": "all"
+              },
+              {
+                "word": "滝",
+                "gloss": "waterfall"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "よま",
+                "gloss": "compose.IRR"
+              },
+              {
+                "word": "す",
+                "gloss": "CAUS"
+              }
+            ]
+          }
+        ],
+        "glossary-abbreviations": null,
+        "translation-ja-natural": "そこにいる人に、みな滝の歌を詠ませたのだった。",
+        "translation-en-natural": "One made everyone there compose poems about the waterfall."
       },
       {
         "date": "20240904",
