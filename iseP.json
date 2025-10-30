@@ -37187,13 +37187,117 @@
         "translation-en-natural": "First, the head of the imperial guard sang a poem."
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251030
+        ],
         "id": 14,
         "poem": "わが世をば/今日か明日かと/待つかひの/涙の滝と/いづれ高けむ",
         "kana": "わがよをば/けふかあすかと/まつかひの/なみたきと/いづれたかけむ",
         "honkoku": "我世をはけふかあすかとまつかひの/なみたのたきといつれたかけん/s100r",
-        "translation-ja": "我が世が今日か明日かと待つ私の涙の滝とこの滝とでは、どちらが高いでしょうか。",
-        "translation-en": "Which is higher, the waterfall of my tears waiting for my time, whether today or tomorrow, or this waterfall?"
+        "translation-ja": "我が世が今日か明日かと待つかいの涙の滝とどちらが高いだろうか。",
+        "translation-en": "Which is higher, the waterfall of tears that flows without hope as I wait for my moment of triumph to come, whether today or tomorrow, or this waterfall?",
+        "phrase-gloss": [
+          {
+            "phrase": "わが世をば今日か明日かと待つかひの",
+            "gloss": "my world ACC-TOP today or tomorrow QUOT wait-worth GEN",
+            "words": [
+              {
+                "word": "わが",
+                "gloss": "my"
+              },
+              {
+                "word": "世",
+                "gloss": "world"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "ば",
+                "gloss": "TOP"
+              },
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "か",
+                "gloss": "or"
+              },
+              {
+                "word": "明日",
+                "gloss": "tomorrow"
+              },
+              {
+                "word": "か",
+                "gloss": "or"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "待つ",
+                "gloss": "wait.ATTR"
+              },
+              {
+                "word": "かひ",
+                "gloss": "worth"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "涙の滝といづれ高けむ",
+            "gloss": "tears GEN waterfall and which high-FUT",
+            "words": [
+              {
+                "word": "涙",
+                "gloss": "tears"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "滝",
+                "gloss": "waterfall"
+              },
+              {
+                "word": "と",
+                "gloss": "and"
+              },
+              {
+                "word": "いづれ",
+                "gloss": "which"
+              },
+              {
+                "word": "高け",
+                "gloss": "high.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "FUT": "future auxiliary",
+          "ATTR": "attributive",
+          "IRR": "irrealis form (mizenkei)",
+          "GEN": "genitive particle",
+          "QUOT": "quotative particle",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "我が世が今日か明日かと待つかいの涙の滝とどちらが高いだろうか。",
+        "translation-en-natural": "Which is higher, the waterfall of tears that flows without hope as I wait for my moment of triumph to come, whether today or tomorrow, or this waterfall?"
       },
       {
         "date": "20240904",
