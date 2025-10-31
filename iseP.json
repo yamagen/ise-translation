@@ -37300,13 +37300,52 @@
         "translation-en-natural": "Which is higher, the waterfall of tears that flows without hope as I wait for my moment of triumph to come, whether today or tomorrow, or this waterfall?"
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251031
+        ],
         "id": 15,
         "text": "あるじ、次によむ。",
         "kana": "あるじ、つぎによむ。",
         "honkoku": "あるしつきによむ/",
         "translation-ja": "主人が次に詠む。",
-        "translation-en": "The master then sang."
+        "translation-en": "The master then sang.",
+        "phrase-gloss": [
+          {
+            "phrase": "あるじ、次に",
+            "gloss": "master next DAT",
+            "words": [
+              {
+                "word": "あるじ",
+                "gloss": "master"
+              },
+              {
+                "word": "次",
+                "gloss": "next"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "よむ。",
+            "gloss": "compose",
+            "words": [
+              {
+                "word": "よむ",
+                "gloss": "compose.END"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "END": "end form",
+          "DAT": "dative particle"
+        },
+        "translation-ja-natural": "主人が次に詠んだのだった。",
+        "translation-en-natural": "The master then sang."
       },
       {
         "date": "20240904",
