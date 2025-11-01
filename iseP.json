@@ -37348,13 +37348,104 @@
         "translation-en-natural": "The master then sang."
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251101
+        ],
         "id": 16,
         "poem": "ぬき乱る/人こそあるらし/白玉の/まなくも散るか/袖のせばきに",
         "kana": "ぬきみだる/ひとこそあるらし/しらたまの/まなくもちるか/そでのせばきに",
         "honkoku": "ぬきみたる人こそあるらししら玉の/まなくもちるか袖のせはきに/",
-        "translation-ja": "乱れて抜け落ちるような人もいるらしい。白玉が、もうすぐ散ってしまうのではないかと袖で拭いながら。",
-        "translation-en": "It seems there are people who are as disordered as to fall out. As I wipe my sleeve, I wonder if the white jewels will soon scatter."
+        "translation-ja": "抜き乱れる人もいるらしい。白玉が、間なくも散るかと袖は狭いのに。",
+        "translation-en": "It seems that there is a person at the top of the waterfall who is pulling out and scattering the white jewels arranged in a row. How continuously the white jewels scatter, even though my sleeve is narrow to catch them.",
+        "phrase-gloss": [
+          {
+            "phrase": "ぬき乱る人こそあるらし",
+            "gloss": "pull-out-disorder person EMPH exist-SEEM",
+            "words": [
+              {
+                "word": "ぬき",
+                "gloss": "pull-out.ADV"
+              },
+              {
+                "word": "乱る",
+                "gloss": "disorder.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "らし",
+                "gloss": "SEEM"
+              }
+            ]
+          },
+          {
+            "phrase": "白玉の間なくも散るか袖の狭きに",
+            "gloss": "white.jewel GEN continuously also scatter QUOT sleeve GEN narrow LOC",
+            "words": [
+              {
+                "word": "白玉",
+                "gloss": "white.jewel"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "間なく",
+                "gloss": "continuously"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "散る",
+                "gloss": "scatter.ATTR"
+              },
+              {
+                "word": "か",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "袖",
+                "gloss": "sleeve"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "狭き",
+                "gloss": "narrow.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "END": "end form",
+          "ATTR": "attributive",
+          "LOC": "locative particle",
+          "QUOT": "quotative particle",
+          "SEEM": "seeming auxiliary",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "抜き乱れる人もいるらしい。白玉が、間なくも散るかと袖は狭いのに。",
+        "translation-en-natural": "It seems that there is a person at the top of the waterfall who is pulling out and scattering the white jewels arranged in a row. How continuously the white jewels scatter, even though my sleeve is narrow to catch them."
       },
       {
         "date": "20240904",
