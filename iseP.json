@@ -37448,22 +37448,257 @@
         "translation-en-natural": "It seems that there is a person at the top of the waterfall who is pulling out and scattering the white jewels arranged in a row. How continuously the white jewels scatter, even though my sleeve is narrow to catch them."
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251102
+        ],
         "id": 17,
         "text": "とよめりければ、かたへの人、笑ふことにやありけむ、この歌にめでてやみにけり。",
         "kana": "とよめりければ、かたへのひと、わらふことにやありけむ、このうたにめててやみにけり。",
         "honkoku": "とよめりけれはかたへの人わらふことに/やありけんこのうたにめててやみにけり/s100l",
-        "translation-ja": "（歌が）詠まれていると聞いたので、相手の人が笑っていたのかもしれませんが、この歌に感心して、その気持ちはすぐに収まってしまいました。",
-        "translation-en": "Since it was said to have been recited, the person on the other side might have been laughing. They were so impressed by this poem that their feelings soon subsided."
+        "translation-ja": "と詠んだので、傍の人は、笑うことにでもあったのか、この歌に感心して止んでしまった。",
+        "translation-en": "After singing the poem, the person beside him must have found it amusing, for he became engrossed in the poem and ceased singing.",
+        "phrase-gloss": [
+          {
+            "phrase": "と詠めりければ、",
+            "gloss": "QUOT compose PST BECAUSE",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "かたへの人、笑ふことにやありけん、",
+            "gloss": "side GEN person laugh thing LOC EMPH exist-SEEM",
+            "words": [
+              {
+                "word": "かたへ",
+                "gloss": "side"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "笑ふ",
+                "gloss": "laugh.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けん",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "この歌にめでてやみにけり。",
+            "gloss": "this poem DAT admire-and stop-PST",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "めで",
+                "gloss": "admire.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "やみ",
+                "gloss": "stop.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "REALIS": "realis form",
+          "PERF": "perfect auxiliary",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "GEN": "genitive particle",
+          "LOC": "locative particle",
+          "EMPH": "emphatic particle",
+          "FUT": "future auxiliary",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "と詠んだので、傍の人は、笑うことにでもあったのか、この歌に感心して止んでしまった。",
+        "translation-en-natural": "After singing the poem, the person beside him must have found it amusing, for he became engrossed in the poem and ceased singing."
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251103
+        ],
         "id": 18,
         "text": "かへり来る道とほくて、うせにし宮内卿もちよしが家の前来るに、日暮れぬ。",
         "kana": "かへりくるみちとほくて、うせにしみやつけいもちよしがいえのまへくるに、ひくれぬ。",
         "honkoku": "かへりくるみちとをくてうせにし宮内卿/もちよしか家のまへくるに日くれ/ぬ",
-        "translation-ja": "帰り来る道が遠くて、お亡くなりになった宮内卿もちよしの家の前来たころには、日は暮れていました。",
-        "translation-en": "The road home was long, and by the time we arrived at the residence of the late Master of the Imperial Household in Mochiyoshi, who had passed away, the day had already ended."
+        "translation-ja": "帰り来る道が遠くて、お亡くなりになった宮内卿もちよしの家の前に来たころには、日は暮れていた。",
+        "translation-en": "The road home was long, and by the time we arrived at the residence of the late Master of the Imperial Household in Mochiyoshi, who had passed away, the day had already ended.",
+        "phrase-gloss": [
+          {
+            "phrase": "かへり来る道遠くて、",
+            "gloss": "return-come road far-CONJ",
+            "words": [
+              {
+                "word": "かへり",
+                "gloss": "return.ADV"
+              },
+              {
+                "word": "来る",
+                "gloss": "come.ATTR"
+              },
+              {
+                "word": "道",
+                "gloss": "road"
+              },
+              {
+                "word": "遠く",
+                "gloss": "far.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "失せにし宮内卿もちよしが家の前来るに、",
+            "gloss": "disappear PERF PST Imperial.Household.MINISTER Mochiyoshi GEN house GEN front come DAT",
+            "words": [
+              {
+                "word": "うせ",
+                "gloss": "disappear.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "宮内卿",
+                "gloss": "Imperial.Household.MINISTER"
+              },
+              {
+                "word": "もちよし",
+                "gloss": "Mochiyoshi"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "家",
+                "gloss": "house"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "前",
+                "gloss": "front"
+              },
+              {
+                "word": "来る",
+                "gloss": "come.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "日暮れぬ。",
+            "gloss": "sunset PERF",
+            "words": [
+              {
+                "word": "日",
+                "gloss": "sun"
+              },
+              {
+                "word": "暮れ",
+                "gloss": "sunset.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfect auxiliary",
+          "PST": "past tense",
+          "ATTR": "attributive",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "DAT": "dative particle"
+        },
+        "translation-ja-natural": "帰り来る道が遠くて、お亡くなりになった宮内卿もちよしの家の前に来たころには、日は暮れていた。",
+        "translation-en-natural": "The road home was long, and by the time we arrived at the residence of the late Master of the Imperial Household in Mochiyoshi, who had passed away, the day had already ended."
       },
       {
         "date": "20240904",
