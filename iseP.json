@@ -37701,13 +37701,131 @@
         "translation-en-natural": "The road home was long, and by the time we arrived at the residence of the late Master of the Imperial Household in Mochiyoshi, who had passed away, the day had already ended."
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251104
+        ],
         "id": 19,
         "text": "やどりの方を見やれば、あまのいさり火多く見ゆるに、かのあるじの男よむ。",
         "kana": "やどりのかたをみやれば、あまのいさりびおほくみゆるに、かのあるじのおとこよむ。",
         "honkoku": "やとりのかたをみやれはあまのいさり/する火おほく見ゆるにかのあるしの/おとこよむ/",
-        "translation-ja": "宿の方を見ると、海人の漁火が多く見えるので、あの主人の男が詠みました。",
-        "translation-en": "Looking towards, the place where we stayed, we saw many fishing fires of the fishermen, and the master of the house sang."
+        "translation-ja": "宿の方を見ると、海人の漁火が多く見えるので、あの主人の男が詠んだ。",
+        "translation-en": "Looking towards, the place where we stayed, we saw many fishing fires of the fishermen, and the master of the house sang.",
+        "phrase-gloss": [
+          {
+            "phrase": "やどりの方を見やれば、",
+            "gloss": "lodging GEN direction ACC see-if",
+            "words": [
+              {
+                "word": "やどり",
+                "gloss": "lodging"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "方",
+                "gloss": "direction"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "やれ",
+                "gloss": "give.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "海人の漁火する火、多く見ゆるに、",
+            "gloss": "fisherman GEN fishing.fire do fire many appear DAT",
+            "words": [
+              {
+                "word": "海人",
+                "gloss": "fisherman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "漁火",
+                "gloss": "fishing.fire"
+              },
+              {
+                "word": "する",
+                "gloss": "do.ATTR"
+              },
+              {
+                "word": "火",
+                "gloss": "fire"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "多く",
+                "gloss": "many.ADV"
+              },
+              {
+                "word": "見ゆる",
+                "gloss": "appear.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "かのあるじの男詠む。",
+            "gloss": "that master GEN man compose",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that"
+              },
+              {
+                "word": "あるじ",
+                "gloss": "master"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "詠む",
+                "gloss": "compose.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PUNCT": "punctuation",
+          "ATTR": "attributive",
+          "ACC": "accusative particle",
+          "GEN": "genitive particle",
+          "DAT": "dative particle",
+          "CONJ": "conjunctive particle",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "宿の方を見ると、海人の漁火が多く見えるので、あの主人の男が詠んだ。",
+        "translation-en-natural": "Looking towards, the place where we stayed, we saw many fishing fires of the fishermen, and the master of the house sang."
       },
       {
         "date": "20240904",
