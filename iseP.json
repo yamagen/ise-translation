@@ -37828,22 +37828,181 @@
         "translation-en-natural": "Looking towards, the place where we stayed, we saw many fishing fires of the fishermen, and the master of the house sang."
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251105
+        ],
         "id": 20,
         "poem": "晴るる夜の/星か河べの/蛍かも/わがすむかたの/あまのたく火か",
         "kana": "はるるよの/ほしかかわべの/ほたるかも/わがすむかたの/あまのたくひか",
         "honkoku": "はるる夜のほしか河辺のほたるかも/わかすむかたのあまのたく火か/",
-        "translation-ja": "晴れた夜の星でしょうか、川辺の蛍でしょうか、私の住む家の方で海人がたく火でしょうか。",
-        "translation-en": "Is it the stars in the clear night sky, the fireflies by the river, or the fishermen's bonfire near my house?"
+        "translation-ja": "晴れた夜の星か、川辺の蛍か、私の住む家の方の海人がたく火だろうか。",
+        "translation-en": "Is it the stars in the clear night sky, the fireflies by the riverbank, or the fishing fires of the fishermen near my home?",
+        "phrase-gloss": [
+          {
+            "phrase": "晴るる夜の星か河辺の蛍かも",
+            "gloss": "clear.up night GEN star Q riverbank GEN firefly Q EMPH",
+            "words": [
+              {
+                "word": "晴るる",
+                "gloss": "clear.up.ATTR"
+              },
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "星",
+                "gloss": "star"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              },
+              {
+                "word": "河辺",
+                "gloss": "riverbank"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "蛍",
+                "gloss": "firefly"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              },
+              {
+                "word": "も",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "わが住むかたの海人のたく火か",
+            "gloss": "my live place GEN fisherman GEN light Q",
+            "words": [
+              {
+                "word": "わが",
+                "gloss": "my"
+              },
+              {
+                "word": "住む",
+                "gloss": "live.ATTR"
+              },
+              {
+                "word": "かた",
+                "gloss": "place"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "海人",
+                "gloss": "fisherman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "たく",
+                "gloss": "light.ATTR"
+              },
+              {
+                "word": "火",
+                "gloss": "fire"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive",
+          "GEN": "genitive particle",
+          "Q": "question particle",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "晴れた夜の星か、川辺の蛍か、私の住む家の方の海人がたく火だろうか。",
+        "translation-en-natural": "Is it the stars in the clear night sky, the fireflies by the riverbank, or the fishing fires of the fishermen near my home?"
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251106
+        ],
         "id": 21,
         "text": "とよみて、家にかへり来ぬ。",
         "kana": "とよみて、いへにかへりきぬ。",
         "honkoku": "とよみていゑにかへりきぬ",
-        "translation-ja": "と詠んで家に帰ってきました。",
-        "translation-en": "After singing the poem, he returned home."
+        "translation-ja": "と詠んで家に帰ってきた。",
+        "translation-en": "After singing the poem, he returned home.",
+        "phrase-gloss": [
+          {
+            "phrase": "と詠みて、",
+            "gloss": "QUOT compose-CONJ",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "詠み",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "家に帰り来ぬ。",
+            "gloss": "house DAT return-come PERF",
+            "words": [
+              {
+                "word": "家",
+                "gloss": "house"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "帰り",
+                "gloss": "return.ADV"
+              },
+              {
+                "word": "来",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": ".PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfect auxiliary",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "QUOT": "quotative particle",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "と詠んで家に帰ってきた。",
+        "translation-en-natural": "After singing the poem, he returned home."
       },
       {
         "date": "20240904",
