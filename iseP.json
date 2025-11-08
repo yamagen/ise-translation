@@ -38005,13 +38005,82 @@
         "translation-en-natural": "After singing the poem, he returned home."
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251108
+        ],
         "id": 22,
         "text": "その夜、南の風吹きて、浪いと高し。",
         "kana": "そのよ、みなみのかぜふきて、なみいとたかし。",
         "honkoku": "その夜みな/みの風ふきてなみいとたかし",
         "translation-ja": "その夜、南の風が吹いて、波が非常に高かった。",
-        "translation-en": "That night, the south wind blew, and the waves were very high."
+        "translation-en": "That night, the south wind blew, and the waves were very high.",
+        "phrase-gloss": [
+          {
+            "phrase": "その夜、",
+            "gloss": "that night",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "夜",
+                "gloss": "night"
+              }
+            ]
+          },
+          {
+            "phrase": "南の風吹きて、",
+            "gloss": "south GEN wind blow-CONJ",
+            "words": [
+              {
+                "word": "南",
+                "gloss": "south"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "吹き",
+                "gloss": "blow.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "波いと高し。",
+            "gloss": "wave very high",
+            "words": [
+              {
+                "word": "波",
+                "gloss": "wave"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "高し",
+                "gloss": "high"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "その夜、南の風が吹いて、波が非常に高かった。",
+        "translation-en-natural": "That night, the south wind blew, and the waves were very high."
       },
       {
         "date": "20240904",
