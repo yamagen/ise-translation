@@ -38083,13 +38083,153 @@
         "translation-en-natural": "That night, the south wind blew, and the waves were very high."
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251109
+        ],
         "id": 23,
         "text": "つとめて、その家の女の子どもいでて、浮き海松の浪に寄せられたるひろひて、家の内にもて来ぬ。",
         "kana": "つとめて、そのいえのめのこどもいでて、うきみるのなみによせられたるひろひて、いえのうちにもてきぬ。",
         "honkoku": "つとめて/s101l/そのいゑのめのこともいててうきみるの/なみによせられたるひろひていゑのうち/にもてきぬ",
-        "translation-ja": "早朝、その家の女の子たちが出てきて、浮いている海松が波に寄せられたのを拾って、家の中に持ってきました。",
-        "translation-en": "Early morning, the children of the house came out and picked up the floating seaweed that had been washed up by the waves and brought it into the house."
+        "translation-ja": "早朝、その家の女の子たちが出てきて、浮いている海松が波に寄せられたのを拾って、家の中に持ってきた。",
+        "translation-en": "Early morning, the children of the house came out and picked up the floating seaweed that had been washed up by the waves and brought it into the house.",
+        "phrase-gloss": [
+          {
+            "phrase": "つとめて、",
+            "gloss": "early.morning",
+            "words": [
+              {
+                "word": "つとめて",
+                "gloss": "early.morning"
+              }
+            ]
+          },
+          {
+            "phrase": "その家の女の子ども出でて、",
+            "gloss": "that house GEN children of woman come.out-CONJ",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "家",
+                "gloss": "house"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "子ども",
+                "gloss": "children"
+              },
+              {
+                "word": "出で",
+                "gloss": "come.out.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "浮海松の波に寄せられたる拾ひて、",
+            "gloss": "mirume.seaweed GEN wave DAT wash.up-PST pick.up-CONJ",
+            "words": [
+              {
+                "word": "浮海松",
+                "gloss": "mirume.seaweed"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "波",
+                "gloss": "wave"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "寄せ",
+                "gloss": "wash.up.ADV"
+              },
+              {
+                "word": "られ",
+                "gloss": "PASS.ADV"
+              },
+              {
+                "word": "たる",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "拾ひ",
+                "gloss": "pick.up.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "家のうちに持て来ぬ。",
+            "gloss": "house GEN inside DAT carry-come PERF",
+            "words": [
+              {
+                "word": "家",
+                "gloss": "house"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "うち",
+                "gloss": "inside"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "持て",
+                "gloss": "carry.ADV"
+              },
+              {
+                "word": "来",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfect auxiliary",
+          "PST": "past tense",
+          "ATTR": "attributive",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "GEN": "genitive particle",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "早朝、その家の女の子たちが出てきて、浮いている海松が波に寄せられたのを拾って、家の中に持ってきた。",
+        "translation-en-natural": "Early morning, the children of the house came out and picked up the floating seaweed that had been washed up by the waves and brought it into the house."
       },
       {
         "date": "20240904",
