@@ -38232,13 +38232,125 @@
         "translation-en-natural": "Early morning, the children of the house came out and picked up the floating seaweed that had been washed up by the waves and brought it into the house."
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251110
+        ],
         "id": 24,
         "text": "女方より、その海松を高坏にもりて、かしはをおはひていだしたる、かしはにかけり。",
-        "kana": "おんなのかたより、そのみるをたかつきにもりて、かしはをおはいていだしたる、かしはにかけり。",
-        "honkoku": "女かたよりそのみるをたかつ/きにもりてかしはをおほひていたしたる/かしはにかけり/",
-        "translation-ja": "女方から、その海松を高坏に盛って、柏の葉を覆って出した柏の葉に書いてあったのは、",
-        "translation-en": "From the woman, the seaweed was piled high on a high stand, and the leaves were covered with a boxwood leaf, and the boxwood leaf was written."
+        "kana": "をんながたより、そのみるをたかつきにもりて、かしはをおはいていだしたる、かしはにかけり。",
+        "honkoku": "女がたよりそのみるをたかつ/きにもりてかしはをおほひていたしたる/かしはにかけり/",
+        "translation-ja": "女方より、その海松を高坏に盛って、柏の葉を覆って出した柏の葉に書いた。",
+        "translation-en": "From the woman, the seaweed was piled high on a high stand, and the leaves were covered with a boxwood leaf, and the boxwood leaf was written.",
+        "phrase-gloss": [
+          {
+            "phrase": "女がたより、",
+            "gloss": "woman side from",
+            "words": [
+              {
+                "word": "をんな",
+                "gloss": "woman"
+              },
+              {
+                "word": "がた",
+                "gloss": "side"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              }
+            ]
+          },
+          {
+            "phrase": "その海松を高坏に盛りて、",
+            "gloss": "that mirume.seaweed ACC high.stand DAT pile-CONJ",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "海松",
+                "gloss": "mirume.seaweed"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "高坏",
+                "gloss": "high.stand"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "盛り",
+                "gloss": "pile.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "かしはを覆ひて、出だしたるかしはに書けり、",
+            "gloss": "boxwood.leaf ACC cover-CONJ come.out-PST boxwood.leaf DAT write-PST",
+            "words": [
+              {
+                "word": "かしは",
+                "gloss": "boxwood.leaf"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "覆ひ",
+                "gloss": "cover.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "出だし",
+                "gloss": "come.out.ADV"
+              },
+              {
+                "word": "たる",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "かしは",
+                "gloss": "boxwood.leaf"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "書け",
+                "gloss": "write.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "ATTR": "attributive",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "ACC": "accusative particle"
+        },
+        "translation-ja-natural": "女方より、その海松を高坏に盛って、柏の葉を覆って出した柏の葉に書いた。",
+        "translation-en-natural": "From the woman, the seaweed was piled high on a high stand, and the leaves were covered with a boxwood leaf, and the boxwood leaf was written."
       },
       {
         "date": "20240904",
