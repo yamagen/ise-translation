@@ -38353,13 +38353,111 @@
         "translation-en-natural": "From the woman, the seaweed was piled high on a high stand, and the leaves were covered with a boxwood leaf, and the boxwood leaf was written."
       },
       {
-        "date": "20240904",
+        "date": [
+          20240904,
+          20251111
+        ],
         "id": 25,
         "poem": "わたつみの/かざしにさすと/いはふ藻も/君がためには/をしまざりけり",
         "kana": "わたつみの/かざしにさすと/いはふもも/きみがためには/をしまざりけり",
         "honkoku": "わたつ海のかさしにさすといはふもも/きみかためにはおしまさりけり/",
         "translation-ja": "海の神が髪飾りに差すと言って祭る藻も、あなたのためには惜しみませんでした。",
-        "translation-en": "Even the seaweed, which is used as a hair ornament by the sea deity in rituals, was not spared for your sake."
+        "translation-en": "Even the seaweed, which is used as a hair ornament by the sea deity in rituals, was not spared for your sake.",
+        "phrase-gloss": [
+          {
+            "phrase": "わたつみのかざしに挿すと",
+            "gloss": "sea.god GEN hair.ornament DAT insert QUOT",
+            "words": [
+              {
+                "word": "わたつみ",
+                "gloss": "sea.god"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "かざし",
+                "gloss": "hair.ornament"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "挿す",
+                "gloss": "insert.END"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "いはふ藻も君がためには惜しまざりけり",
+            "gloss": "ritual.seaweed EMPH you GEN sake DAT not.spare-PST",
+            "words": [
+              {
+                "word": "いはふ",
+                "gloss": "ritual"
+              },
+              {
+                "word": "藻",
+                "gloss": "seaweed"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "君",
+                "gloss": "you"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ため",
+                "gloss": "sake"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOPIC"
+              },
+              {
+                "word": "惜しま",
+                "gloss": "not.spare.ADV"
+              },
+              {
+                "word": "ざり",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "END": "end particle",
+          "GEN": "genitive particle",
+          "DAT": "dative particle",
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle",
+          "TOPIC": "topic particle",
+          "NEG": "negative auxiliary",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "海の神が髪飾りに差すと言って祭る藻も、あなたのためには惜しみませんでした。",
+        "translation-en-natural": "Even the seaweed, which is used as a hair ornament by the sea deity in rituals, was not spared for your sake."
       },
       {
         "date": "20240905",
