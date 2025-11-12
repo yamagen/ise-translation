@@ -38460,13 +38460,93 @@
         "translation-en-natural": "Even the seaweed, which is used as a hair ornament by the sea deity in rituals, was not spared for your sake."
       },
       {
-        "date": "20240905",
+        "date": [
+          20240905,
+          20251112
+        ],
         "id": 26,
         "text": "ゐなかの人の歌にては、あまれりや、たらずや。",
         "kana": "ゐなかのひとのうたにてはあまれりや、たらずや。",
         "honkoku": "ゐなかひとのうたにてはあまれり/やたらすや/s102r/",
         "translation-ja": "田舎の人の歌にしては、字余りなのか、それとも字足らずなのか。",
-        "translation-en": "As for a song by a rural person, does it have excess or lacking syllables?"
+        "translation-en": "As for a song by a rural person, does it have excess or lacking syllables?",
+        "phrase-gloss": [
+          {
+            "phrase": "田舎人の歌にては",
+            "gloss": "rural.person GEN song by CONJ TOPIC",
+            "words": [
+              {
+                "word": "田舎人",
+                "gloss": "rural.person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "に",
+                "gloss": "by"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "は",
+                "gloss": "TOPIC"
+              }
+            ]
+          },
+          {
+            "phrase": "あまれりや、たらずや。",
+            "gloss": "excess-PST-Q lacking-PST-Q",
+            "words": [
+              {
+                "word": "あまれ",
+                "gloss": "excess.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.END"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "たら",
+                "gloss": "lacking.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG.END"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "END": "end particle",
+          "IRR": "irrealis auxiliary",
+          "PERF": "perfect auxiliary",
+          "GEN": "genitive particle",
+          "TOPIC": "topic particle",
+          "Q": "question particle",
+          "PUNCT": "punctuation"
+        },
+        "translation-ja-natural": "田舎の人の歌としては、十分な出来だろうか、まだまだというところだろうか。",
+        "translation-en-natural": "As for a song by a rural person, does it have excess or lacking syllables?"
       }
     ]
   },
