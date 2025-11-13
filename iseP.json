@@ -38695,13 +38695,116 @@
         "translation-en-natural": "In the past, when I was young, I had friends gather to look at the moon, and among them, one person,"
       },
       {
-        "date": "20240905",
+        "date": [
+          20240905,
+          20251114
+        ],
         "id": 2,
         "poem": "おほかたは/月をもめでじ/これぞこの/つもれば人の/老いとなるもの",
         "kana": "おほかたは/つきをもめでじ/これぞこの/つもればひとの/おいとなるもの",
         "honkoku": "おほかたは月をもめてしこれそこの/つもれはひとの老となるもの/s103r/",
-        "translation-ja": "これからは月を鑑賞するのはやめよう、これが積れば、人の老いになるのですから",
-        "translation-en": "From now on, let us stop admiring the moon, for this, when accumulated, leads to human aging."
+        "translation-ja": "これからは月を鑑賞するのはやめよう、これが積れば、人の老いになるのだから",
+        "translation-en": "From now on, let us stop admiring the moon, for this, when accumulated, leads to human aging.",
+        "phrase-gloss": [
+          {
+            "phrase": "おほかたは月をもめでじ",
+            "gloss": "generally TOPIC moon ACC also not.appreciate",
+            "words": [
+              {
+                "word": "おほかた",
+                "gloss": "generally"
+              },
+              {
+                "word": "は",
+                "gloss": "TOPIC"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "めで",
+                "gloss": "appreciate.IRR"
+              },
+              {
+                "word": "じ",
+                "gloss": "NEG.SUP"
+              }
+            ]
+          },
+          {
+            "phrase": "これぞこのつもれば人の老いとなるもの",
+            "gloss": "this EMPH this accumulate-if person GEN aging become-NOM thing",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "つもれ",
+                "gloss": "accumulate.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "老い",
+                "gloss": "aging"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "なる",
+                "gloss": "become.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ATTR": "attributive",
+          "REALIS": "realis auxiliary",
+          "QUOT": "quotative particle",
+          "SUP": "suppositional auxiliary",
+          "NEG": "negative auxiliary",
+          "EMPH": "emphatic particle",
+          "IRR": "irrealis auxiliary",
+          "COND": "conditional particle",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "これからは月を鑑賞するのはやましょう、これが積れば、人の老いになるのですから",
+        "translation-en-natural": "From now on, let us stop admiring the moon, for this, when accumulated, leads to human aging."
       }
     ]
   },
