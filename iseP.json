@@ -38556,13 +38556,143 @@
     "romaji": "tsuki wo mo medeji",
     "paragraph": [
       {
-        "date": "20240905",
+        "date": [
+          20240905,
+          20251113
+        ],
         "id": 1,
         "text": "むかし、いと若きにはあらぬ、これかれ友だちども集りて、月を見て、それがなかにひとり、",
         "kana": "むかし、いとわかきにはあらぬ、これかれともだちどもつどりて、つきをみて、それがなかにひとり、",
         "honkoku": "むかしいとわかきにはあらぬこれかれと/もたちともあつまりて月を見てそれか/中にひとり/",
         "translation-ja": "昔、若い頃にはない、友達が集まって、月を見ていると、その中に一人、",
-        "translation-en": "In the past, when I was young, I had friends gather to look at the moon, and among them, one person,"
+        "translation-en": "In the past, when I was young, I had friends gather to look at the moon, and among them, one person,",
+        "phrase-gloss": [
+          {
+            "phrase": "昔、いと若きにはあらぬ、",
+            "gloss": "long.ago very young TOPIC not.be",
+            "words": [
+              {
+                "word": "昔",
+                "gloss": "long.ago"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "若き",
+                "gloss": "young.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOPIC"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG"
+              }
+            ]
+          },
+          {
+            "phrase": "これかれ友だちども集まりて、月を見て、",
+            "gloss": "this.that friends also gather-CONJ moon ACC see-CONJ",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "かれ",
+                "gloss": "that"
+              },
+              {
+                "word": "友だち",
+                "gloss": "friends"
+              },
+              {
+                "word": "ども",
+                "gloss": "PL.HUM"
+              },
+              {
+                "word": "集まり",
+                "gloss": "gather.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "それが中に一人、",
+            "gloss": "that GEN among DAT one.person",
+            "words": [
+              {
+                "word": "それ",
+                "gloss": "that"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "中",
+                "gloss": "among"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "一人",
+                "gloss": "one.person"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "NEG": "negative auxiliary",
+          "IRR": "irrealis auxiliary",
+          "PL.HUM": "plural human marker",
+          "REALIS": "realis auxiliary",
+          "ATTR": "attributive",
+          "TOPIC": "topic particle",
+          "PUNCT": "punctuation",
+          "CONJ": "conjunctive particle",
+          "ACC": "accusative particle",
+          "GEN": "genitive particle",
+          "DAT": "dative particle"
+        },
+        "translation-ja-natural": "昔、若い頃にはない、友達が集まって、月を見ていると、その中に一人、",
+        "translation-en-natural": "In the past, when I was young, I had friends gather to look at the moon, and among them, one person,"
       },
       {
         "date": "20240905",
