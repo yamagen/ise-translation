@@ -38937,7 +38937,7 @@
         "phrase-gloss": [
           {
             "phrase": "人知れずわれ恋ひ死なば",
-            "gloss": "people without.knowledge I love die-COND",
+            "gloss": "people knot NEG I love.die.COND",
             "words": [
               {
                 "word": "人",
@@ -38971,7 +38971,7 @@
           },
           {
             "phrase": "あぢきなくいづれの神になき名おほせむ",
-            "gloss": "pointless which GEN god DAT no.name impose-FUT",
+            "gloss": "pointless which GEN god DAT no.name impose.FUT",
             "words": [
               {
                 "word": "あぢきなく",
@@ -39013,6 +39013,9 @@
           }
         ],
         "abbreviations": {
+          "NEG": "negative auxiliary",
+          "END": "end particle",
+          "IRR": "irrealis auxiliary",
           "COND": "conditional particle",
           "FUT": "future auxiliary",
           "REALIS": "realis auxiliary",
