@@ -38814,22 +38814,213 @@
     "romaji": "naki na",
     "paragraph": [
       {
-        "date": "20240906",
+        "date": [
+          20240906,
+          20251115
+        ],
         "id": 1,
         "text": "むかし、いやしからぬ男、われよりはまさりたる人を思ひかけて、年経ける。",
         "kana": "むかし、いやしからぬおとこ、われよりはまさりたるひとをおもひかけて、としふける。",
         "honkoku": "むかしいやしからぬおとこわれよりはま/さりたる人をおもひかけてとしへける/",
-        "translation-ja": "昔、品位のある男が、自分よりも優れた人を思いをかけて、年を重ねました。",
-        "translation-en": "Once upon a time, a noble man, who thought of someone greater than himself, grew older."
+        "translation-ja": "昔、品位のある男が、自分よりも優れた人を思いをかけて、年を重ねた。",
+        "translation-en": "Once upon a time, a noble man, who thought of someone greater than himself, grew older.",
+        "phrase-gloss": [
+          {
+            "phrase": "昔、いやしからぬ男、",
+            "gloss": "long.ago not.low.status man",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.ago"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "いやしから",
+                "gloss": "low.status.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              }
+            ]
+          },
+          {
+            "phrase": "われよりはまさりたる人を思ひかけて、年経ける。",
+            "gloss": "I than TOPIC surpass-PST person ACC think.about-CONJ year pass-PST",
+            "words": [
+              {
+                "word": "われ",
+                "gloss": "I"
+              },
+              {
+                "word": "より",
+                "gloss": "than"
+              },
+              {
+                "word": "は",
+                "gloss": "TOPIC"
+              },
+              {
+                "word": "まさり",
+                "gloss": "surpass.ADV"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "かけ",
+                "gloss": "over.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "年",
+                "gloss": "year"
+              },
+              {
+                "word": "経",
+                "gloss": "pass.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "NEG": "negative auxiliary",
+          "COPULA": "copula",
+          "PST": "past tense",
+          "ATTR": "attributive",
+          "CONJ": "conjunctive particle",
+          "ACC": "accusative particle",
+          "TOPIC": "topic particle",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "昔、品位のある男が、自分よりも優れた人を思いをかけて、年を重ねた。",
+        "translation-en-natural": "Once upon a time, a noble man, who thought of someone greater than himself, grew older."
       },
       {
-        "date": "20240906",
+        "date": [
+          20240906,
+          20251116
+        ],
         "id": 2,
         "poem": "人しれず/われ恋ひ死なば/あぢきなく/いづれの神に/なき名おほせむ",
         "kana": "ひとしれず/われこひしなば/あぢきなく/いづれのかみに/なきなおほせむ",
         "honkoku": "人しれすわれ恋しなはあちきなく/いつれの神になき名おほせむ/s103r/",
         "translation-ja": "人に知られずに私が恋して死んでしまったなら、意味もなく、どの神に謂れなき罪をきせられるのでしょうか。",
-        "translation-en": "If I were to fall in love and die without anyone knowing, in vain, which deity would impose an unfounded guilt upon me?"
+        "translation-en": "If I were to fall in love and die without anyone knowing, in vain, which deity would impose an unfounded guilt upon me?",
+        "phrase-gloss": [
+          {
+            "phrase": "人知れずわれ恋ひ死なば",
+            "gloss": "people without.knowledge I love die-COND",
+            "words": [
+              {
+                "word": "人",
+                "gloss": "people"
+              },
+              {
+                "word": "しれ",
+                "gloss": "knowledge.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG.END"
+              },
+              {
+                "word": "われ",
+                "gloss": "I"
+              },
+              {
+                "word": "恋ひ",
+                "gloss": "love.ADV"
+              },
+              {
+                "word": "死な",
+                "gloss": "die.IRR"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "あぢきなくいづれの神になき名おほせむ",
+            "gloss": "pointless which GEN god DAT no.name impose-FUT",
+            "words": [
+              {
+                "word": "あぢきなく",
+                "gloss": "pointless"
+              },
+              {
+                "word": "いづれ",
+                "gloss": "which"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "神",
+                "gloss": "god"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "なき",
+                "gloss": "no-exist.ATTR"
+              },
+              {
+                "word": "名",
+                "gloss": "name"
+              },
+              {
+                "word": "おほせ",
+                "gloss": "impose.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "COND": "conditional particle",
+          "FUT": "future auxiliary",
+          "REALIS": "realis auxiliary",
+          "GEN": "genitive particle",
+          "DAT": "dative particle"
+        },
+        "translation-ja-natural": "人に知られずに私が恋して死んでしまったなら、意味もなく、どの神に謂れなき罪をきせられるのでしょうか。",
+        "translation-en-natural": "If I were to fall in love and die without anyone knowing, in vain, which deity would impose an unfounded guilt upon me?"
       }
     ]
   },
