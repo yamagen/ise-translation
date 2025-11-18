@@ -39033,13 +39033,222 @@
     "romaji": "sakura bana",
     "paragraph": [
       {
-        "date": "20240907",
+        "date": [
+          20240907,
+          20251118
+        ],
         "id": 1,
         "text": "むかし、つれなき人をいかでと思ひわたりければ、あはれとや思ひけむ、「さらば、あす、ものごしにても」といへりけるを、かぎりなくうれしく、またうたがはしかりければ、おもしろかりける桜につけて、",
         "kana": "むかし、つれなきひとをいかでとおもひわたりければ、あはれとやおもひけむ、「さらば、あす、ものごしにても」といへりけるを、かぎりなくうれしく、またうたがはしかりければ、おもしろかりけるさくらにつけて、",
         "honkoku": "むかしつれなき人をいかてと思ひわたり/けれはあはれとやおもひけんさらはあす/ものこしにてもといへりけるをかきり/なくうれしく又うたかはしかりけれは/おもしろかりける桜につけて/",
         "translation-ja": "昔、冷淡な人をどうしようかと考えていたが、可哀想に思えたのか、「それなら、明日、物のついでにでも」と言っていたのを、非常に嬉しく思い、また疑わしい気持ちもあったので、楽しかった桜にちなんで、",
-        "translation-en": "Once upon a time, contemplating how to deal with an indifferent person, I wondered if they might have felt pity and said, \"Well then, perhaps tomorrow, as an incidental matter.\" I was extremely pleased by this and also somewhat skeptical, so I associated it with the enjoyable cherry blossoms."
+        "translation-en": "Once upon a time, contemplating how to deal with an indifferent person, I wondered if they might have felt pity and said, \"Well then, perhaps tomorrow, as an incidental matter.\" I was extremely pleased by this and also somewhat skeptical, so I associated it with the enjoyable cherry blossoms.",
+        "phrase-gloss": [
+          {
+            "phrase": "昔、つれなき人を、「いかで」と思ひわたりければ、",
+            "gloss": "long.ago indifferent person ACC how think.about-PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.ago"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "つれなき",
+                "gloss": "indifferent.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "いかで",
+                "gloss": "how"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "わたり",
+                "gloss": "through.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "「あはれ」とや思ひけん、",
+            "gloss": "pity QUOT Q think.PST",
+            "words": [
+              {
+                "word": "あはれ",
+                "gloss": "pity"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "けん",
+                "gloss": "PST"
+              }
+            ]
+          },
+          {
+            "phrase": "「さらば、明日ものごしにても」と言へりけるを、",
+            "gloss": "\"well.then tomorrow thing.separation even\" say.PST.ACC",
+            "words": [
+              {
+                "word": "さらば",
+                "gloss": "well.then"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "あす",
+                "gloss": "tomorrow"
+              },
+              {
+                "word": "ものごし",
+                "gloss": "thing.separation"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "ても",
+                "gloss": "even"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "言へ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.REALIS"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "かぎりなく嬉しく、また疑はしかりければ、",
+            "gloss": "limitless happy also doubtful PST COND",
+            "words": [
+              {
+                "word": "かぎりなく",
+                "gloss": "limitless"
+              },
+              {
+                "word": "嬉しく",
+                "gloss": "happy.ADV"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "また",
+                "gloss": "also"
+              },
+              {
+                "word": "疑はしかり",
+                "gloss": "doubtful.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "おもしろかりける桜に付けて、",
+            "gloss": "interesting PST.ATTR cherry DAT attach CONJ",
+            "words": [
+              {
+                "word": "おもしろかり",
+                "gloss": "interesting.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "桜",
+                "gloss": "cherry"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "付け",
+                "gloss": "attach.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "ATTR": "attributive",
+          "ACC": "accusative particle",
+          "QUOT": "quotative particle",
+          "COND": "conditional particle",
+          "PERF": "perfect auxiliary",
+          "DAT": "dative particle",
+          "ADV": "adverbial form",
+          "REALIS": "realis auxiliary",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "昔、冷淡な人をどうしようかと考えていたが、可哀想に思えたのか、「それなら、明日、物のついでにでも」と言っていたのを、非常に嬉しく思い、また疑わしい気持ちもあったので、楽しかった桜にちなんで、",
+        "translation-en-natural": "Once upon a time, contemplating how to deal with an indifferent person, I wondered if they might have felt pity and said, \"Well then, perhaps tomorrow, as an incidental matter.\" I was extremely pleased by this and also somewhat skeptical, so I associated it with the enjoyable cherry blossoms."
       },
       {
         "date": "20240907",
