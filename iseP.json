@@ -38537,7 +38537,7 @@
           }
         ],
         "abbreviations": {
-          "END": "end particle",
+          "END": "end form",
           "IRR": "irrealis auxiliary",
           "PERF": "perfect auxiliary",
           "GEN": "genitive particle",
@@ -39014,7 +39014,7 @@
         ],
         "abbreviations": {
           "NEG": "negative auxiliary",
-          "END": "end particle",
+          "END": "end form",
           "IRR": "irrealis auxiliary",
           "COND": "conditional particle",
           "FUT": "future auxiliary",
@@ -39041,8 +39041,8 @@
         "text": "むかし、つれなき人をいかでと思ひわたりければ、あはれとや思ひけむ、「さらば、あす、ものごしにても」といへりけるを、かぎりなくうれしく、またうたがはしかりければ、おもしろかりける桜につけて、",
         "kana": "むかし、つれなきひとをいかでとおもひわたりければ、あはれとやおもひけむ、「さらば、あす、ものごしにても」といへりけるを、かぎりなくうれしく、またうたがはしかりければ、おもしろかりけるさくらにつけて、",
         "honkoku": "むかしつれなき人をいかてと思ひわたり/けれはあはれとやおもひけんさらはあす/ものこしにてもといへりけるをかきり/なくうれしく又うたかはしかりけれは/おもしろかりける桜につけて/",
-        "translation-ja": "昔、冷淡な人をどうしようかと考えていたが、可哀想に思えたのか、「それなら、明日、物のついでにでも」と言っていたのを、非常に嬉しく思い、また疑わしい気持ちもあったので、楽しかった桜にちなんで、",
-        "translation-en": "Once upon a time, contemplating how to deal with an indifferent person, I wondered if they might have felt pity and said, \"Well then, perhaps tomorrow, as an incidental matter.\" I was extremely pleased by this and also somewhat skeptical, so I associated it with the enjoyable cherry blossoms.",
+        "translation-ja": "昔、冷淡な人をどうにかしたいと思い続けていたので、相手も「あわれ」と思ったのだろうか、「それなら、明日、物越しにでも」と言ったのを、限りなく嬉しく、また疑わしく思ったので、おもしろかった桜に付けて、",
+        "translation-en": "Once upon a time, since someone kept thinking 'how could I' about an indifferent person, perhaps that person felt pity and said, 'Well then, tomorrow, even through something between us.' Being exceedingly glad yet also doubtful, (he) attached (it) to the cherry blossoms that had been interesting.",
         "phrase-gloss": [
           {
             "phrase": "昔、つれなき人を、「いかで」と思ひわたりければ、",
@@ -39247,17 +39247,103 @@
           "REALIS": "realis auxiliary",
           "CONJ": "conjunctive particle"
         },
-        "translation-ja-natural": "昔、冷淡な人をどうしようかと考えていたが、可哀想に思えたのか、「それなら、明日、物のついでにでも」と言っていたのを、非常に嬉しく思い、また疑わしい気持ちもあったので、楽しかった桜にちなんで、",
-        "translation-en-natural": "Once upon a time, contemplating how to deal with an indifferent person, I wondered if they might have felt pity and said, \"Well then, perhaps tomorrow, as an incidental matter.\" I was extremely pleased by this and also somewhat skeptical, so I associated it with the enjoyable cherry blossoms."
+        "translation-ja-natural": "昔、冷淡な人をどうしたものかと考えていたとき、その人も可哀想に思ったのか、「それなら、明日、物のついでにでも」と言ったのを、とても嬉しく思い、またどこか半信半疑でもあったので、楽しかった桜につけて、",
+        "translation-en-natural": "Once upon a time, while a man was wondering what to do about an indifferent woman, it seemed that she felt some pity when she said, 'Well then, perhaps tomorrow, just in passing.' He was very happy to hear this, though still somewhat doubtful, and so he fastened a poem to a cherry branch he had enjoyed and presented it to her."
       },
       {
-        "date": "20240907",
+        "date": [
+          20240907,
+          20251119
+        ],
         "id": 2,
         "poem": "さくらばな/けふこそかくも/にほふとも/あなたのみかた/あすのよのこと",
         "kana": "さくらばな/けふこそかくも/にほふとも/あなたのみかた/あすのよのこと",
         "honkoku": "さくらばなけふこそかくもにほふとも/あなたのみかたあすのよのこと/s103l/",
         "translation-ja": "桜の花が今日こそはこのように美しく咲いてもなんと頼みがたい、明日の夜のことは。",
-        "translation-en": "Even if the cherry blossoms, today, are so fragrant, oh, it is difficult to rely on the things of tomorrow night."
+        "translation-en": "Even if the cherry blossoms, today, are so fragrant, oh, it is difficult to rely on the things of tomorrow night.",
+        "phrase-gloss": [
+          {
+            "phrase": "さくら花今日こそかくも匂ふとも",
+            "gloss": "cherry.blossom today EMPH thus also fragrant even.if",
+            "words": [
+              {
+                "word": "さくら",
+                "gloss": "cherry"
+              },
+              {
+                "word": "花",
+                "gloss": "blossom"
+              },
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "かくも",
+                "gloss": "thus"
+              },
+              {
+                "word": "にほう",
+                "gloss": "fragrant.END"
+              },
+              {
+                "word": "とも",
+                "gloss": "even.if"
+              }
+            ]
+          },
+          {
+            "phrase": "あな頼みがた明日の夜のこと",
+            "gloss": "oh rely.difficult tomorrow GEN night NOM thing",
+            "words": [
+              {
+                "word": "あな",
+                "gloss": "oh"
+              },
+              {
+                "word": "頼み",
+                "gloss": "rely.ADV"
+              },
+              {
+                "word": "がた",
+                "gloss": "difficult"
+              },
+              {
+                "word": "明日",
+                "gloss": "tomorrow"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "END": "end form",
+          "ADV": "adverbial form",
+          "EMPH": "emphatic particle",
+          "NOM": "nominalizer",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "桜の花が今日こそはこのように美しく咲いてもなんと頼みがたい、明日の夜のことは。",
+        "translation-en-natural": "Even if the cherry blossoms, today, are so fragrant, oh, it is difficult to rely on the things of tomorrow night."
       },
       {
         "date": "20240907",
