@@ -39346,13 +39346,55 @@
         "translation-en-natural": "Even if the cherry blossoms, today, are so fragrant, oh, it is difficult to rely on the things of tomorrow night."
       },
       {
-        "date": "20240907",
+        "date": [
+          20240907,
+          20251120
+        ],
         "id": 3,
         "text": "といふ心ばへもあるべし。",
         "kana": "といふこころばへもあるべし。",
         "honkoku": "といふ心はへもあるへし/s103l",
-        "translation-ja": "という気持ちになるのももっともでしょう。",
-        "translation-en": "It is reasonable to sing it with such feelings."
+        "translation-ja": "という心生えもあるだろう。",
+        "translation-en": "It is reasonable to sing it with such feelings.",
+        "phrase-gloss": [
+          {
+            "phrase": "といふ心ばへもあるべし。",
+            "gloss": "QUOT say heart.manner also exist.FUT",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "心ばへ",
+                "gloss": "heart.manner"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "べし",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "FUT": "future auxiliary",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "という心生えもあるだろう。",
+        "translation-en-natural": "It is reasonable to sing it with such feelings."
       }
     ]
   },
