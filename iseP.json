@@ -5150,11 +5150,11 @@
             "words": [
               {
                 "word": "思は",
-                "gloss": "think-MZR"
+                "gloss": "think.IRR"
               },
               {
                 "word": "ぬ",
-                "gloss": "NEG.RNT"
+                "gloss": "NEG.ATTR"
               },
               {
                 "word": "人",
@@ -5176,11 +5176,11 @@
               },
               {
                 "word": "なり",
-                "gloss": "COP"
+                "gloss": "COP.ADV"
               },
               {
                 "word": "けり",
-                "gloss": "EXCL"
+                "gloss": "PST"
               }
             ]
           }
@@ -5194,9 +5194,8 @@
           "COP": "copula（断定：〜である）",
           "EXCL": "exclamatory（詠嘆：〜けり）",
           "PRS": "present tense（現在形）",
-          "MZR": "mizenkei（未然形：助動詞接続用）",
-          "NEG.RNT": "negation, rentaikei（打消の助動詞「ず」連体形）",
-          "RNT": "rentaikei（連体形）"
+          "IRR": "irrealis（未然形）",
+          "ATTR": "attributive（連体形）"
         },
         "translation-ja-natural": "流れ去って二度と戻ってこない水の表面に、ひとつ、ふたつ、と数を書く。これは当然、無為ですが、その明らかに無為なことよりも無為なことは、私を思わない人を思う——そんな馬鹿なことをしている私ですよ。",
         "translation-en-natural": "Writing numbers—one, two—on the surface of a stream that flows away and never returns. Clearly a useless thing to do. But even more pointless than that is thinking about someone who doesn't think of me. And yet, here I am, doing just that.",
@@ -5622,7 +5621,7 @@
             "words": [
               {
                 "word": "え",
-                "gloss": "POT.NEG"
+                "gloss": "POT"
               },
               {
                 "word": "得まじう",
@@ -5769,7 +5768,7 @@
           }
         ],
         "abbreviations": {
-          "POT.NEG": "potential negative (可能否定)",
+          "POT": "negative potential prefix (不可能の接頭辞)",
           "REALIS": "realis (已然形)",
           "IRR": "irrealis (未然形)",
           "NEG": "negative (否定)",
@@ -5940,7 +5939,7 @@
               },
               {
                 "word": "ね",
-                "gloss": "NEG"
+                "gloss": "NEG.REALIS"
               },
               {
                 "word": "ども",
@@ -6048,7 +6047,7 @@
               },
               {
                 "word": "しれ",
-                "gloss": "know.POT.NEG"
+                "gloss": "know.IRR"
               },
               {
                 "word": "ぬ",
@@ -8687,7 +8686,7 @@
               },
               {
                 "word": "じ",
-                "gloss": "NEG.INTENT"
+                "gloss": "NEG.FUT"
               }
             ]
           }
@@ -8718,7 +8717,7 @@
           "IMP": "imperative (命令形)",
           "PUNCT": "punctuation mark (句読点)",
           "TOP": "topic (係助詞は)",
-          "NEG.INTENT": "negative intentional (否定の意志・推量)"
+          "NEG.FUT": "negative intentional (否定の意志・推量)"
         },
         "translation-ja-natural": "女の主人に杯を取らせろ。そうでなければ、俺は飲まないぞ。",
         "translation-en-natural": "Tell the woman in charge to hand me the cup—if not, I won't drink."
@@ -9387,7 +9386,7 @@
             "words": [
               {
                 "word": "染河",
-                "gloss": "Dyed River"
+                "gloss": "Dyed.River.PN"
               },
               {
                 "word": "を",
@@ -9401,11 +9400,11 @@
             "words": [
               {
                 "word": "渡ら",
-                "gloss": "cross-NEG.STEM"
+                "gloss": "cross.IRR"
               },
               {
                 "word": "む",
-                "gloss": "MOD.ATTR"
+                "gloss": "FUT.ATTR"
               },
               {
                 "word": "人",
@@ -9423,7 +9422,7 @@
             "words": [
               {
                 "word": "いかで",
-                "gloss": "how/in what way"
+                "gloss": "how"
               },
               {
                 "word": "か",
@@ -9431,7 +9430,7 @@
               },
               {
                 "word": "は",
-                "gloss": "EMPH/REFL"
+                "gloss": "EMPH"
               }
             ]
           },
@@ -9455,11 +9454,11 @@
           },
           {
             "phrase": "ことのなからむ",
-            "gloss": "such a thing would not exist",
+            "gloss": "thing GEN not exist",
             "words": [
               {
                 "word": "こと",
-                "gloss": "thing / event"
+                "gloss": "thing"
               },
               {
                 "word": "の",
@@ -9467,19 +9466,18 @@
               },
               {
                 "word": "なから",
-                "gloss": "not exist"
+                "gloss": "not-exist.IRR"
               },
               {
                 "word": "む",
-                "gloss": "MODAL (tentative)"
+                "gloss": "FUT"
               }
             ]
           }
         ],
         "abbreviations": {
           "ACC": "accusative（目的格）",
-          "NEG.STEM": "negative stem（未然形：否定接続）",
-          "MODAL": "modal auxiliary（推量・意志などの助動詞）",
+          "IRR": "irrealis（未然形）",
           "GEN": "genitive（連体格）",
           "Q": "question particle（疑問助詞）",
           "EMPH/REFL": "emphatic or reflexive（係助詞・反語）",
@@ -15341,7 +15339,7 @@
               },
               {
                 "word": "泣か",
-                "gloss": "cry.NEG.BASE"
+                "gloss": "cry.IRR"
               },
               {
                 "word": "め",
@@ -15951,7 +15949,7 @@
               },
               {
                 "word": "あは",
-                "gloss": "meet.NEG.BASE"
+                "gloss": "meet.IRR"
               },
               {
                 "word": "ば",
@@ -16140,7 +16138,7 @@
             "words": [
               {
                 "word": "いざなは",
-                "gloss": "lure.NEG.BASE"
+                "gloss": "lure.IRR"
               },
               {
                 "word": "れ",
@@ -16158,7 +16156,7 @@
           "TOP": "topic particle (〜は)",
           "CONJ": "conjunctive (〜て)",
           "PERF.REL": "perfective relative (〜ぬる)",
-          "NEG.BASE": "negative base (〜ない)",
+          "IRR": "irrealis (未然形)",
           "NMLZ": "nominalizer (名詞化)",
           "PASS": "passive (受身)",
           "CONJ.CONT": "conjunctive continuous (〜つつ)"
@@ -16967,7 +16965,7 @@
               },
               {
                 "word": "やま",
-                "gloss": "stop.NEG.BASE"
+                "gloss": "stop.IRR"
               },
               {
                 "word": "ず",
@@ -16983,7 +16981,8 @@
           "ACC": "accusative particle (〜を)",
           "ATTR": "attributive form (連体形)",
           "ADV.F": "adverbial form (連用形)",
-          "NEG.BASE": "negative base form (未然形)"
+          "IRR": "irrealis (未然形)",
+          "CONJ": "conjunctive particle (〜み)"
         },
         "translation-ja-natural": "河内の国の生駒山を見ると、曇ったり晴れたりして、立ちこめる雲はやむことがなかった。",
         "translation-en-natural": "Looking at Mount Ikoma in Kawachi Province, the clouds hovered without ceasing, sometimes clouding over, sometimes clearing."
@@ -17818,7 +17817,7 @@
               },
               {
                 "word": "詠ま",
-                "gloss": "compose.NEG.BASE"
+                "gloss": "compose.IRR"
               },
               {
                 "word": "ず",
@@ -17852,7 +17851,7 @@
           "ACC": "accusative（対格：〜を）",
           "ATTR": "attributive form (連体形)",
           "PERF": "perfective aspect (完了形)",
-          "NEG.BASE": "negative base form (未然形)",
+          "IRR": "irrealis (未然形)",
           "QUOT": "quotative（引用：〜と）"
         },
         "translation-ja-natural": "そう詠んだので、みんな詠むのをやめてしまった。",
@@ -18383,7 +18382,7 @@
             "words": [
               {
                 "word": "あは",
-                "gloss": "meet.NEG.BASE"
+                "gloss": "meet.IRR"
               },
               {
                 "word": "む",
@@ -18402,7 +18401,7 @@
         ],
         "abbreviations": {
           "QUOT": "quotative（引用：〜と）",
-          "NEG.BASE": "negative base form (未然形)",
+          "IRR": "irrealis (未然形)",
           "ADV.F": "adverbial form (連用形)",
           "CONJ": "conjunctive（接続：〜て）",
           "VOL": "volitional（意志形：〜む）"
@@ -18450,7 +18449,7 @@
               },
               {
                 "word": "逢は",
-                "gloss": "meet.NEG.BASE"
+                "gloss": "meet.IRR"
               },
               {
                 "word": "じ",
@@ -18476,7 +18475,7 @@
               },
               {
                 "word": "ら",
-                "gloss": "CONT.NEG.BASE"
+                "gloss": "CONT.IRR"
               },
               {
                 "word": "ず",
@@ -18488,9 +18487,8 @@
         "abbreviations": {
           "QUOT": "quotative（引用：〜と）",
           "REALIS.F": "realis form (已然形：〜へ)",
-          "CONT.NEG.BASE": "continuative negative base form (未然形：〜らず)",
+          "IRR": "irrealis (未然形)",
           "CONT": "a continuative auxiliary verb (expressing the continuation of a past action or resulting state: 〜ら)",
-          "NEG.BASE": "negative base form (未然形：〜は)",
           "VOL": "volitional（意志形：〜む）"
         },
         "translation-ja-natural": "女もまた、強く会うまいなどとは思っていなかった。",
@@ -18542,7 +18540,7 @@
             "words": [
               {
                 "word": "逢は",
-                "gloss": "meet-NEG.BASE"
+                "gloss": "meet.IRR"
               },
               {
                 "word": "ず",
@@ -18555,7 +18553,7 @@
           "QUOT": "quotative（引用：〜と）",
           "REALIS.F": "realis form (已然形：〜へ)",
           "COND": "conditional（条件：〜ば）",
-          "NEG.BASE": "negative base（未然形：〜ず）",
+          "IRR": "irrealis (未然形)",
           "NEG": "negative（否定：〜ず）"
         },
         "translation-ja-natural": "しかし、人目が多かったため、二人は会わなかった。",
@@ -18617,7 +18615,7 @@
               },
               {
                 "word": "宿さ",
-                "gloss": "stay-NEG.BASE"
+                "gloss": "stay.IRR"
               },
               {
                 "word": "ず",
@@ -18633,7 +18631,7 @@
           "PRED": "predicative（断定の助動詞：〜なり）",
           "COND": "conditional（条件：〜ば）",
           "FOC": "focus particle（係助詞：〜も）",
-          "NEG.BASE": "negative base（未然形：〜ず）",
+          "IRR": "irrealis (未然形)",
           "NEG": "negative（否定：〜ず）"
         },
         "translation-ja-natural": "正使という立場の人だから、遠い場所には泊まらなかった。",
@@ -18807,7 +18805,7 @@
               },
               {
                 "word": "寝ら",
-                "gloss": "sleep.NEG.BASE"
+                "gloss": "sleep.IRR"
               },
               {
                 "word": "ざり",
@@ -19049,7 +19047,7 @@
               },
               {
                 "word": "語らは",
-                "gloss": "speak.with-NEG.BASE"
+                "gloss": "speak.with-IRR"
               },
               {
                 "word": "ぬ",
@@ -19078,7 +19076,7 @@
           "CONJ": "conjunctive（接続：〜て）",
           "LOC": "locative（場所格：〜に）",
           "FOC": "focus particle（係助詞：〜も）",
-          "NEG.BASE": "negative base（未然形：〜ず）",
+          "IRR": "irrealis (未然形)",
           "NEG": "negative（否定：〜ぬ）",
           "PST": "past（過去：〜けり）",
           "EXCL": "exclamatory（詠嘆：〜けり）"
@@ -19822,7 +19820,7 @@
               },
               {
                 "word": "逢は",
-                "gloss": "meet.NEG.BASE"
+                "gloss": "meet.IRR"
               },
               {
                 "word": "む",
@@ -21401,7 +21399,7 @@
               },
               {
                 "word": "なら",
-                "gloss": "be.NEG.BASE"
+                "gloss": "be.IRR"
               },
               {
                 "word": "なく",
@@ -21417,7 +21415,7 @@
         "abbreviations": {
           "PREF": "pillow.word（枕詞）",
           "ADV.F": "adverbial form（連用形）",
-          "NEG.BASE": "negative base form（否定基本形）",
+          "IRR": "irrealis（未然形）",
           "GEN": "genitive（属格：〜の）",
           "CONJ": "conjunctive（接続：〜て）",
           "IMP": "imperative（命令形）",
@@ -21627,11 +21625,11 @@
               },
               {
                 "word": "あら",
-                "gloss": "be.NEG.BASE"
+                "gloss": "be.IRR"
               },
               {
                 "word": "なく",
-                "gloss": "not.ADV.F"
+                "gloss": "not.ADV"
               },
               {
                 "word": "に",
@@ -21681,7 +21679,8 @@
           }
         ],
         "abbreviations": {
-          "NEG.BASE": "negative base form（否定基本形）",
+          "IRR": "irrealis（未然形）",
+          "ADV": "adverbial form",
           "GEN": "genitive（属格：〜の）",
           "TOP": "topic（主題：〜は）",
           "CONJ": "conjunctive（接続：〜て）",
@@ -21777,7 +21776,7 @@
               },
               {
                 "word": "あら",
-                "gloss": "be.NEG.BASE"
+                "gloss": "be.IRR"
               },
               {
                 "word": "ぬ",
@@ -22098,11 +22097,11 @@
             "words": [
               {
                 "word": "あら",
-                "gloss": "be.NEG.BASE"
+                "gloss": "be.IRR"
               },
               {
                 "word": "ね",
-                "gloss": "NEG"
+                "gloss": "NEG.REALIS"
               },
               {
                 "word": "ども",
@@ -22152,7 +22151,7 @@
           }
         ],
         "abbreviations": {
-          "NEG.BASE": "negative base form（否定基本形）",
+          "IRR": "irrealis（未然形）",
           "LOC": "locative（場所格：〜に）",
           "NEG": "negative（否定：〜ぬ、〜ね）",
           "EXCL": "exclamatory（詠嘆：〜かな）"
@@ -22372,7 +22371,7 @@
             "words": [
               {
                 "word": "かたらは",
-                "gloss": "talk.NEG.F"
+                "gloss": "talk.IRR"
               },
               {
                 "word": "ね",
@@ -22563,7 +22562,7 @@
             "words": [
               {
                 "word": "やま",
-                "gloss": "end.NEG.BASE"
+                "gloss": "end.IRR"
               },
               {
                 "word": "ん",
@@ -24310,7 +24309,7 @@
               },
               {
                 "word": "奉ら",
-                "gloss": "offer.NEG.BASE"
+                "gloss": "offer.IRR"
               },
               {
                 "word": "せ",
@@ -24352,7 +24351,7 @@
           "ATTR": "attributive（連体形）",
           "PST.REP": "past reported（過去伝聞）",
           "CAUS": "causative（使役）",
-          "NEG.BASE": "negative base（否定基本形）",
+          "IRR": "irrealis（未然形）",
           "HON": "honorific（尊敬）"
         },
         "translation-ja-natural": "それを、右大将であった藤原常行という方が、講の終わる頃に、歌人たちをお呼び集め、今日の行事を題に、春の趣ある歌を詠ませてお捧げになった。",
@@ -24657,7 +24656,7 @@
               },
               {
                 "word": "あら",
-                "gloss": "be.NEG.BASE"
+                "gloss": "be.IRR"
               },
               {
                 "word": "ざり",
@@ -24687,7 +24686,7 @@
           "ACC": "accusative（対格）",
           "COND": "conditional（条件）",
           "ADV": "adverb（副詞）",
-          "NEG.BASE": "negative base（否定基本形）",
+          "IRR": "irrealis（未然形）",
           "NEG": "negative（否定）"
         },
         "translation-ja-natural": "と詠んだものを、今見てみるとあまり良くはなかった。",
@@ -25189,7 +25188,7 @@
               },
               {
                 "word": "走ら",
-                "gloss": "flow.NEG.BASE"
+                "gloss": "flow.IRR"
               },
               {
                 "word": "せ",
@@ -25219,7 +25218,7 @@
               },
               {
                 "word": "造ら",
-                "gloss": "construct.NEG.BASE"
+                "gloss": "construct.IRR"
               },
               {
                 "word": "れ",
@@ -25271,7 +25270,7 @@
         "abbreviations": {
           "CAUS": "causative（使役）",
           "PASS.PERF.ATTR": "passive perfect attributive（受身完了連体形）",
-          "NEG.BASE": "negative base（否定基本形）",
+          "IRR": "irrealis（未然形）",
           "PN": "proper noun（固有名詞）",
           "GEN": "genitive（属格）",
           "LOC": "locative（場所格）",
@@ -25345,7 +25344,7 @@
               },
               {
                 "word": "間つら",
-                "gloss": "space.NEG.BASE"
+                "gloss": "space.IRR"
               },
               {
                 "word": "ず",
@@ -25379,7 +25378,7 @@
           "HON": "honorific（尊敬）",
           "REALIS.F": "realis form（已然形）",
           "TOP": "topic（主題）",
-          "NEG.BASE": "negative base（否定基本形）",
+          "IRR": "irrealis（未然形）",
           "NEG": "negative（否定）"
         },
         "translation-ja-natural": "長年、遠方ではお仕えしてきたが、近くではまだお仕えする機会がなかった。",
@@ -25419,7 +25418,7 @@
               },
               {
                 "word": "さぶらは",
-                "gloss": "serve.HUM.NEG.BASE"
+                "gloss": "serve.HUM.IRR"
               },
               {
                 "word": "む",
@@ -25467,7 +25466,7 @@
           }
         ],
         "abbreviations": {
-          "NEG.BASE": "negative base（否定基本形）",
+          "IRR": "irrealis（未然形）",
           "TOP": "topic（主題）",
           "LOC": "locative（場所格）",
           "HUM": "humble（謙譲）",
@@ -26053,7 +26052,7 @@
               },
               {
                 "word": "奉ら",
-                "gloss": "offer.HON.NEG.BASE"
+                "gloss": "offer.HON.IRR"
               },
               {
                 "word": "む",
@@ -26244,7 +26243,7 @@
               },
               {
                 "word": "き",
-                "gloss": "PERF.NEG.BASE"
+                "gloss": "PERF.IRR"
               },
               {
                 "word": "ぬ",
@@ -26274,7 +26273,7 @@
           }
         ],
         "abbreviations": {
-          "NEG.BASE": "negative base form（否定基本形）",
+          "IRR": "irrealis（未然形）",
           "ADV.F": "adverbial form（連用形）",
           "CONJ": "conjunctive（接続）",
           "PERF": "perfect（完了）",
@@ -26403,7 +26402,7 @@
               },
               {
                 "word": "奉ら",
-                "gloss": "offer.HON.NEG.BASE"
+                "gloss": "offer.HON.IRR"
               },
               {
                 "word": "ば",
@@ -26455,7 +26454,7 @@
               },
               {
                 "word": "よま",
-                "gloss": "compose.NEG.BASE"
+                "gloss": "compose.IRR"
               },
               {
                 "word": "せ",
@@ -26688,11 +26687,11 @@
             "words": [
               {
                 "word": "あか",
-                "gloss": "tire.NEG.BASE"
+                "gloss": "tire.IRR"
               },
               {
                 "word": "ね",
-                "gloss": "NEG.REALIS.F"
+                "gloss": "NEG.REALIS"
               },
               {
                 "word": "ども",
@@ -26732,7 +26731,7 @@
               },
               {
                 "word": "見え",
-                "gloss": "appear.ADV.F"
+                "gloss": "appear.IRR"
               },
               {
                 "word": "ぬ",
@@ -27171,7 +27170,7 @@
             "words": [
               {
                 "word": "植ゑ",
-                "gloss": "plant.ADV.F"
+                "gloss": "plant.ADV"
               },
               {
                 "word": "つれ",
@@ -27207,11 +27206,11 @@
           },
           {
             "phrase": "隠れざるべき",
-            "gloss": "hide-NEG.ATTR should",
+            "gloss": "hide.IRR NEG.ATTR should",
             "words": [
               {
                 "word": "隠れ",
-                "gloss": "hide.NEG.BASE"
+                "gloss": "hide.IRR"
               },
               {
                 "word": "ざる",
@@ -27237,12 +27236,12 @@
           }
         ],
         "abbreviations": {
-          "NEG.BASE": "negative base form（否定基本形）",
+          "IRR": "irrealis form（未然形）",
           "GEN": "genitive（属格）",
           "LOC": "locative（場所格）",
           "ATTR": "attributive（連体形）",
           "ACC": "accusative（対格）",
-          "ADV.F": "adverbial form（連用形）",
+          "ADV": "adverbial form（連用形）",
           "PERF": "perfect（完了）",
           "COND": "conditional（条件）",
           "EMPH": "emphatic（強調）",
@@ -27692,7 +27691,7 @@
               },
               {
                 "word": "奉ら",
-                "gloss": "offer.NEG.BASE"
+                "gloss": "offer.IRR"
               },
               {
                 "word": "す",
@@ -27859,11 +27858,11 @@
             "words": [
               {
                 "word": "あら",
-                "gloss": "exist.NEG.BASE"
+                "gloss": "exist.IRR"
               },
               {
                 "word": "じ",
-                "gloss": "NEG.SUPPOS"
+                "gloss": "NEG.SUP"
               },
               {
                 "word": "と",
@@ -27871,7 +27870,7 @@
               },
               {
                 "word": "思へ",
-                "gloss": "think.ADV.F"
+                "gloss": "think.ADV"
               },
               {
                 "word": "ば",
@@ -27889,8 +27888,8 @@
           "ATTR": "attributive（連体形）",
           "GEN": "genitive（属格）",
           "LOC": "locative（場所格）",
-          "NEG.BASE": "negative base（未然形）",
-          "SUPPOS": "suppositional（推量）",
+          "IRR": "irrealis form（未然形）",
+          "SUP": "suppositional（推量）",
           "QUOT": "quotative（引用）",
           "COND": "conditional（条件）"
         },
@@ -28549,7 +28548,7 @@
               },
               {
                 "word": "よら",
-                "gloss": "approach.NEG.BASE"
+                "gloss": "approach.IRR"
               },
               {
                 "word": "なむ",
@@ -28810,15 +28809,15 @@
           },
           {
             "phrase": "なかりけり",
-            "gloss": "NEG.EXIST.PST.REP",
+            "gloss": "non-exist PST",
             "words": [
               {
                 "word": "なかり",
-                "gloss": "NEG.EXIST.ADV.F"
+                "gloss": "non-exist.ADV"
               },
               {
                 "word": "けり",
-                "gloss": "PST.REP"
+                "gloss": "PST"
               }
             ]
           }
@@ -29490,7 +29489,7 @@
               },
               {
                 "word": "せ",
-                "gloss": "do.NEG.BASE"
+                "gloss": "do.IRR"
               },
               {
                 "word": "で",
@@ -30843,7 +30842,7 @@
               },
               {
                 "word": "から",
-                "gloss": "borrow.NEG.BASE"
+                "gloss": "borrow.IRR"
               },
               {
                 "word": "む",
@@ -30984,7 +30983,7 @@
               },
               {
                 "word": "たまは",
-                "gloss": "HON.NEG.BASE"
+                "gloss": "HON.IRR"
               },
               {
                 "word": "ず",
@@ -39404,22 +39403,191 @@
     "romaji": "oshime domo",
     "paragraph": [
       {
-        "date": "20240908",
+        "date": [
+          20240908,
+          20251121
+        ],
         "id": 1,
         "text": "むかし、月日のゆくをさへ嘆く男、三月つごもりがたに、",
         "kana": "むかし、つきひのゆくをさへなけくおとこ、やよひつごもりがたに、",
         "honkoku": "むかし月日のゆくをさへなけくおとこ三/s103l/月つこもりかたに/",
         "translation-ja": "昔、月日の経過さえも嘆く男が、三月の末頃に、",
-        "translation-en": "Once upon a time, a man who lamented even the passage of time, in the late part of March,"
+        "translation-en": "Once upon a time, a man who lamented even the passage of time, in the late part of March,",
+        "phrase-gloss": [
+          {
+            "phrase": "昔、月日の行くをさへ歎く男、",
+            "gloss": "long.ago month.day GEN go.ACC even lament man",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.ago"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "月日",
+                "gloss": "month.day"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "行く",
+                "gloss": "go.ADV"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "さへ",
+                "gloss": "even"
+              },
+              {
+                "word": "歎く",
+                "gloss": "lament.ATTR"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              }
+            ]
+          },
+          {
+            "phrase": "三月つごもりがたに、",
+            "gloss": "in late March",
+            "words": [
+              {
+                "word": "三月",
+                "gloss": "March"
+              },
+              {
+                "word": "つごもりがた",
+                "gloss": "end.of.month.approaching"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "DAT": "dative particle",
+          "GEN": "genitive particle",
+          "ATTR": "attributive form",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "昔、月日の経過さえも嘆く男が、三月の末頃に、",
+        "translation-en-natural": "Once upon a time, a man who lamented even the passage of time, in the late part of March,"
       },
       {
-        "date": "20240908",
+        "date": [
+          20240908,
+          20251122
+        ],
         "id": 2,
         "poem": "をしめども/春のかぎりの/今日の日の/夕暮にさへ/なりにけるかな",
         "kana": "をしめども/はるのかぎりの/けふのひの/ゆふぐれにさへ/なりにけるかな",
         "honkoku": "おしめとも春のかきりのけふの日の/ゆふくれにさへなりにけるかな/s104r/",
         "translation-ja": "名残を惜しんでも、春の終わりの今日の日の、そのうえ、夕暮にまでなってしまったなあ。",
-        "translation-en": "Regretting the end of spring, even today, the day has turned into evening."
+        "translation-en": "Regretting the end of spring, even today, the day has turned into evening.",
+        "phrase-gloss": [
+          {
+            "phrase": "惜しめども春のかぎりの今日の日の",
+            "gloss": "regret.even.if spring GEN end GEN today GEN day GEN",
+            "words": [
+              {
+                "word": "をしめども",
+                "gloss": "regret.REALIS"
+              },
+              {
+                "word": "をしめども",
+                "gloss": "even.if"
+              },
+              {
+                "word": "春",
+                "gloss": "spring"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "かぎり",
+                "gloss": "end"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              }
+            ]
+          },
+          {
+            "phrase": "夕暮れにさへなりにけるかな",
+            "gloss": "evening DAT even become.PST Q",
+            "words": [
+              {
+                "word": "ゆうぐれ",
+                "gloss": "evening"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "さへ",
+                "gloss": "even"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "かな",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle",
+          "DAT": "dative particle",
+          "PST": "past tense",
+          "ATTR": "attributive form",
+          "ADV": "adverbial form",
+          "Q": "question particle"
+        },
+        "translation-ja-natural": "名残を惜しんでも、春の終わりの今日の日の、そのうえ、夕暮にまでなってしまったなあ。",
+        "translation-en-natural": "Regretting the end of spring, even today, the day has turned into evening."
       }
     ]
   },
