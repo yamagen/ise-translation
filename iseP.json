@@ -39597,22 +39597,210 @@
     "romaji": "tanashi obune",
     "paragraph": [
       {
-        "date": "20240909",
+        "date": [
+          20240909,
+          20251123
+        ],
         "id": 1,
         "text": "むかし、恋しさに来つつかへれど、女に消息をだにえせでよめる。",
         "kana": "むかし、こいしさにきつつかへれど、おんなにせうそこをだにえせでよめる。",
         "honkoku": "昔恋しさにきつつかへれと女にせう/そこをたにえせてよめる/",
-        "translation-ja": "昔、恋しさに来ては帰りして、女に手紙さえも渡すことができずに詠みました。",
-        "translation-en": "Once upon a time, though he came and went back repeatedly out of love, he was unable even to deliver a letter to the woman, and so he sang a poem."
+        "translation-ja": "昔、恋しさに来ては帰りして、女に手紙さえも渡すことができずに詠んだ。",
+        "translation-en": "Once upon a time, though he came and went back repeatedly out of love, he was unable even to deliver a letter to the woman, and so he sang a poem.",
+        "phrase-gloss": [
+          {
+            "phrase": "昔、恋しさに、来つつ帰れど、",
+            "gloss": "long.ago love.NOM come.ADV return.CONJ but",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.ago"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "恋しさ",
+                "gloss": "love.NOM"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "来",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "つつ",
+                "gloss": "continuously"
+              },
+              {
+                "word": "帰れ",
+                "gloss": "return.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "女に消息をだにえせで詠める、",
+            "gloss": "woman DAT letter ACC even deliver.NEG.SBJV sing.PST",
+            "words": [
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "消息",
+                "gloss": "letter"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "だに",
+                "gloss": "even"
+              },
+              {
+                "word": "え",
+                "gloss": "POT^1"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.IRR"
+              },
+              {
+                "word": "で",
+                "gloss": "NEG^2.ADV"
+              },
+              {
+                "word": "よめ",
+                "gloss": "sing.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF"
+              }
+            ],
+            "notes": "POT^1..NEG^2: The auxiliary 'え' indicates potential element, expressing the ability to do something, while 'で' is a negative auxiliary, and together they convey the meaning of being unable to do something."
+          }
+        ],
+        "abbreviations": {
+          "POT^1": "potential auxiliary",
+          "NEG^2": "negative auxiliary",
+          "REALIS": "realis auxiliary",
+          "NOM": "nominative particle",
+          "DAT": "dative particle",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "NEG": "negative auxiliary",
+          "PERF": "perfect auxiliary"
+        },
+        "translation-ja-natural": "昔、恋しさに来ては帰りして、女に手紙さえも渡すことができずに詠んだ。",
+        "translation-en-natural": "Once upon a time, though he came and went back repeatedly out of love, he was unable even to deliver a letter to the woman, and so he sang a poem."
       },
       {
-        "date": "20240908",
+        "date": [
+          20240908,
+          20251124
+        ],
         "id": 2,
         "poem": "あしべこぐ/棚なし小舟/いくそたび/ゆきかへるらむ/しる人もなみ",
         "kana": "あしべこぐ/たななしをぶね/いくそたび/ゆきかへるらん/しるひともなみ",
         "honkoku": "あしへこくたななし小舟いくそたひ/ゆきかへるらんしる人もなみ/s104r/",
         "translation-ja": "葦を漕ぐ、屋根のない小舟は、何度も行き来しているだろうか。それを知る人もいない。",
-        "translation-en": "A reed-paddling, roofless small boat, how many times must it have gone back and forth? No one knows of it."
+        "translation-en": "A reed-paddling, roofless small boat, how many times must it have gone back and forth? No one knows of it.",
+        "phrase-gloss": [
+          {
+            "phrase": "蘆(あし)べ漕ぐ棚(たな)なし小舟",
+            "gloss": "reed.field paddle shelfless small.boat",
+            "words": [
+              {
+                "word": "あしべ",
+                "gloss": "reed.field"
+              },
+              {
+                "word": "こぐ",
+                "gloss": "paddle"
+              },
+              {
+                "word": "たななし",
+                "gloss": "shelfless"
+              },
+              {
+                "word": "をぶね",
+                "gloss": "small.boat"
+              }
+            ]
+          },
+          {
+            "phrase": "いくそたび行き帰るらん",
+            "gloss": "how.many.times go.ADV return.FUT.Q",
+            "words": [
+              {
+                "word": "いくそたび",
+                "gloss": "how.many.times"
+              },
+              {
+                "word": "ゆき",
+                "gloss": "go.ADV"
+              },
+              {
+                "word": "かへる",
+                "gloss": "return.END"
+              },
+              {
+                "word": "らん",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "知る人もなみ",
+            "gloss": "know person also not.exist since",
+            "words": [
+              {
+                "word": "しる",
+                "gloss": "know.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "な",
+                "gloss": "not.exist"
+              },
+              {
+                "word": "み",
+                "gloss": "since"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "FUT": "future auxiliary",
+          "Q": "question particle",
+          "ATTR": "attributive form",
+          "not.exist": "negative existential"
+        },
+        "translation-ja-natural": "葦を漕ぐ、屋根のない小舟は、何度も行き来しているだろうか。それを知る人もいない。",
+        "translation-en-natural": "A reed-paddling, roofless small boat, how many times must it have gone back and forth? No one knows of it."
       }
     ]
   },
@@ -39622,21 +39810,120 @@
     "romaji": "takaki iyashiki",
     "paragraph": [
       {
-        "date": "20240909",
+        "date": [
+          20240909,
+          20251125
+        ],
         "id": 1,
         "text": "むかし、男、身はいやしくて、いとになき人を思ひかけたりけり。",
         "kana": "むかし、をとこ、みはいやしくて、いとになきひとをおもひかけたりけり。",
         "honkoku": "昔おとこ身はいやしくていとになき/人をおもひかけたりけり",
-        "translation-ja": "昔、身分が低くて、とてもくらべものにならないほどの身分の高い人を慕っていました。",
-        "translation-en": "Once upon a time, a man of low status yearned for a person of such high status that he could not compare."
+        "translation-ja": "昔、身分が低くて、とてもくらべものにならないほどの身分の高い人を慕っていた。",
+        "translation-en": "Once upon a time, a man of low status yearned for a person of such high status that he could not compare.",
+        "phrase-gloss": [
+          {
+            "phrase": "昔、男、身は賤しくて、",
+            "gloss": "long.ago man body TOP low.status.ADV and",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.ago"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "をとこ",
+                "gloss": "man"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "み",
+                "gloss": "body"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "いやしく",
+                "gloss": "low.status.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": ""
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              }
+            ]
+          },
+          {
+            "phrase": "いとになき人を思ひかけたりけり。",
+            "gloss": "very incomparable person ACC think.about.PST",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "になき",
+                "gloss": "incomparable.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.about.ADV"
+              },
+              {
+                "word": "かけ",
+                "gloss": "put.on.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "PERF": "perfect auxiliary",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary",
+          "ATTR": "attributive form",
+          "TOP": "topic particle",
+          "ACC": "accusative particle"
+        },
+        "translation-ja-natural": "昔、身分が低くて、とてもくらべものにならないほどの身分の高い人を慕っていた。",
+        "translation-en-natural": "Once upon a time, a man of low status yearned for a person of such high status that he could not compare."
       },
       {
-        "date": "20240909",
+        "date": [
+          20240909,
+          20251126
+        ],
         "id": 2,
         "text": "すこし頼みぬべきさまにやありけむ、ふして思ひ、おきて思ひ、思ひわびてよめる。",
         "kana": "すこしたのみぬべきさまにやありけむ、ふしておもひ、おきておもひ、おもひわびてよめる。",
         "honkoku": "すこしたのみ/s104r/ぬへきさまにやありけんふしておも/ひおきておもひ思ひわひてよめる/",
-        "translation-ja": "少しは期待できそうな様子だったのでしょうか。寝ても思い、覚めても思い、思い悩んで詠んだ歌。",
+        "translation-ja": "少しは期待できそうな様子だったのでしょうか。寝ても思い、覚めても思い、思い悩んで詠んだ。",
         "translation-en": "Was there perhaps a glimmer of hope? He thought of it while lying down, thought of it while awake, and in his distress, he sang a song."
       },
       {
