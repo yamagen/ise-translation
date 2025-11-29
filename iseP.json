@@ -6948,7 +6948,7 @@
               },
               {
                 "word": "けむ",
-                "gloss": "PAST.SUPPOSAL"
+                "gloss": "PST.SUP.ATTR"
               },
               {
                 "word": "人",
@@ -10996,7 +10996,7 @@
               },
               {
                 "word": "けむ",
-                "gloss": "PST.SUPP"
+                "gloss": "PST.SUP"
               },
               {
                 "word": "子",
@@ -12404,7 +12404,7 @@
               },
               {
                 "word": "けむ",
-                "gloss": "PST.COND"
+                "gloss": "PST.SUP"
               }
             ]
           },
@@ -19391,7 +19391,7 @@
               },
               {
                 "word": "けむ",
-                "gloss": "PST.SUPP"
+                "gloss": "PST.SUP"
               }
             ]
           },
@@ -23419,7 +23419,7 @@
               },
               {
                 "word": "けむ",
-                "gloss": "PST.SUPPOS"
+                "gloss": "PST.SUP"
               }
             ]
           },
@@ -23437,7 +23437,7 @@
               },
               {
                 "word": "けむ",
-                "gloss": "PST.SUPPOS"
+                "gloss": "PST.SUP"
               }
             ]
           },
@@ -28921,7 +28921,7 @@
               },
               {
                 "word": "けむ",
-                "gloss": "MOD.PST.SUP"
+                "gloss": "PST.SUP"
               }
             ]
           },
@@ -40128,13 +40128,88 @@
         "translation-en-natural": "Should I meet or should I not? I should ponder it. For no particular reason, the connection between the high and the low has proven to be painful."
       },
       {
-        "date": "20240909",
+        "date": [
+          20240909,
+          20251129
+        ],
         "id": 4,
         "text": "むかしもかかることは、世のことわりにやありけむ。",
         "kana": "むかしもかかることは、よのことわりにやありけむ。",
         "honkoku": "むかしもかかることは世のことはりに/やありけむ/s104l/",
-        "translation-ja": "昔もこのようなことが、世の道理としてあったのでしょうか。",
-        "translation-en": "Did such things also happen in the past, as part of the way of the world?"
+        "translation-ja": "昔もこのようなことが、世の道理としてあったのだろうか。",
+        "translation-en": "Did such things also happen in the past, as part of the way of the world?",
+        "phrase-gloss": [
+          {
+            "phrase": "昔もかかることは、",
+            "gloss": "long.ago also such thing TOP",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.ago"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "かかる",
+                "gloss": "such"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "世のことはりにやありけむ。",
+            "gloss": "world GEN thing.reason DAT Q exist.FUT",
+            "words": [
+              {
+                "word": "よ",
+                "gloss": "world"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ことはり",
+                "gloss": "thing.reason"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けむ",
+                "gloss": "PST.SUP"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "SUP": "suppositional auxiliary",
+          "PST": "past tense",
+          "GEN": "genitive particle",
+          "DAT": "dative particle",
+          "TOP": "topic particle",
+          "Q": "question particle"
+        },
+        "translation-ja-natural": "昔もこのようなことが、世の道理としてあったのだろうか。",
+        "translation-en-natural": "Did such things also happen in the past, as part of the way of the world?"
       }
     ]
   },
@@ -40144,13 +40219,50 @@
     "romaji": "momiji mo hana mo",
     "paragraph": [
       {
-        "date": "20240909",
+        "date": [
+          20240909,
+          20251130
+        ],
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
         "honkoku": "昔おとこありけり",
         "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-en": "Once upon a time, there was a man.",
+        "phrase-gloss": [
+          {
+            "phrase": "昔、男ありけり。",
+            "gloss": "long.ago man exist.PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.ago"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "をとこ",
+                "gloss": "man"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "昔、男がいた。",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
         "date": "20240909",
@@ -41792,7 +41904,7 @@
               },
               {
                 "word": "けむ",
-                "gloss": "SUPP"
+                "gloss": "PST.SUP"
               }
             ]
           },
