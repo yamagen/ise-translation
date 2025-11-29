@@ -8409,7 +8409,7 @@
         "phrase-gloss": [
           {
             "phrase": "人の国へいにけり。",
-            "gloss": "She went to that person’s province.",
+            "gloss": "person GEN province ALL go PERF PST",
             "words": [
               {
                 "word": "人",
@@ -8433,15 +8433,11 @@
               },
               {
                 "word": "に",
-                "gloss": "PFV"
+                "gloss": "PERF"
               },
               {
                 "word": "けり",
-                "gloss": "PST.EXCL"
-              },
-              {
-                "word": "。",
-                "gloss": "PUNCT"
+                "gloss": "PST"
               }
             ]
           }
@@ -14043,11 +14039,11 @@
               },
               {
                 "word": "ぬ",
-                "gloss": "PFV"
+                "gloss": "PERF"
               },
               {
                 "word": "べし",
-                "gloss": "MOD.SUP"
+                "gloss": "should"
               }
             ]
           },
@@ -16205,11 +16201,11 @@
               },
               {
                 "word": "なる",
-                "gloss": "be.ATTR"
+                "gloss": "be.END"
               },
               {
                 "word": "べし",
-                "gloss": "(SUP)"
+                "gloss": "should"
               }
             ]
           }
@@ -16833,7 +16829,7 @@
               },
               {
                 "word": "へ",
-                "gloss": "LOC (to)"
+                "gloss": "ALL"
               },
               {
                 "word": "如月",
@@ -19996,7 +19992,7 @@
               },
               {
                 "word": "へ",
-                "gloss": "to"
+                "gloss": "ALL"
               },
               {
                 "word": "たち",
@@ -21235,7 +21231,7 @@
               },
               {
                 "word": "べし",
-                "gloss": "MODAL"
+                "gloss": "should"
               }
             ]
           },
@@ -29212,7 +29208,7 @@
               },
               {
                 "word": "へ",
-                "gloss": "LOC"
+                "gloss": "ALL"
               },
               {
                 "word": "なむ",
@@ -39382,7 +39378,7 @@
               },
               {
                 "word": "べし",
-                "gloss": "FUT"
+                "gloss": "should"
               }
             ]
           }
@@ -40044,13 +40040,92 @@
         "translation-en-natural": "Was there perhaps a glimmer of hope? He thought of it while lying down, thought of it while awake, and in his distress, he sang a song."
       },
       {
-        "date": "20240909",
+        "date": [
+          20240909,
+          20251128
+        ],
         "id": 3,
         "poem": "あふなあふな/思ひはすべし/なぞへなく/たかきいやしき/苦しかりけり",
         "kana": "あふなあふな/おもひはすべし/なぞへなく/たかきいやしき/くるしかりけり",
         "honkoku": "あふなあふな思ひはすへしなそへなく/たかきいやしきくるしかりけり/",
         "translation-ja": "逢うべきか逢わぬべきか、悩むべきでしょうか。わけもなく、身分の高い者と低い者が関わることは、やはり苦しかった。",
-        "translation-en": "Should I meet or should I not? I should ponder it. For no particular reason, the connection between the high and the low has proven to be painful."
+        "translation-en": "Should I meet or should I not? I should ponder it. For no particular reason, the connection between the high and the low has proven to be painful.",
+        "phrase-gloss": [
+          {
+            "phrase": "あふなあふな思ひはすべし",
+            "gloss": "not.meet.not.meet think.about TOP do should",
+            "words": [
+              {
+                "word": "あふな",
+                "gloss": "not.meet"
+              },
+              {
+                "word": "あふな",
+                "gloss": "not.meet"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.about.ADV"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "す",
+                "gloss": "do"
+              },
+              {
+                "word": "べし",
+                "gloss": "should"
+              }
+            ]
+          },
+          {
+            "phrase": "なぞへなく高き賤しき苦しかりけり",
+            "gloss": "reason DAT not.exist.ADV high.status.ADV low.status.ADV painful.ADV PST",
+            "words": [
+              {
+                "word": "なぞ",
+                "gloss": "reason"
+              },
+              {
+                "word": "へ",
+                "gloss": "ALL"
+              },
+              {
+                "word": "なく",
+                "gloss": "not.exist.ADV"
+              },
+              {
+                "word": "たかき",
+                "gloss": "high.status.ADV"
+              },
+              {
+                "word": "いやしき",
+                "gloss": "low.status.ADV"
+              },
+              {
+                "word": "苦しかり",
+                "gloss": "painful.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ALL": "allative particle",
+          "ADV": "adverbial form",
+          "PST": "past tense",
+          "TOP": "topic particle",
+          "should": "advisive auxiliary",
+          "not.exist": "negative existential"
+        },
+        "translation-ja-natural": "逢うべきか逢わぬべきか、悩むべきでしょうか。わけもなく、身分の高い者と低い者が関わることは、やはり苦しかった。",
+        "translation-en-natural": "Should I meet or should I not? I should ponder it. For no particular reason, the connection between the high and the low has proven to be painful."
       },
       {
         "date": "20240909",
