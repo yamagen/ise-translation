@@ -39924,7 +39924,124 @@
         "kana": "すこしたのみぬべきさまにやありけむ、ふしておもひ、おきておもひ、おもひわびてよめる。",
         "honkoku": "すこしたのみ/s104r/ぬへきさまにやありけんふしておも/ひおきておもひ思ひわひてよめる/",
         "translation-ja": "少しは期待できそうな様子だったのでしょうか。寝ても思い、覚めても思い、思い悩んで詠んだ。",
-        "translation-en": "Was there perhaps a glimmer of hope? He thought of it while lying down, thought of it while awake, and in his distress, he sang a song."
+        "translation-en": "Was there perhaps a glimmer of hope? He thought of it while lying down, thought of it while awake, and in his distress, he sang a song.",
+        "phrase-gloss": [
+          {
+            "phrase": "少し頼みぬべきさまにやありけん、",
+            "gloss": "a.little rely.NEG.SBJV should.approach manner DAT Q exist.FUT",
+            "words": [
+              {
+                "word": "すこし",
+                "gloss": "a.little"
+              },
+              {
+                "word": "頼み",
+                "gloss": "rely.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF.END"
+              },
+              {
+                "word": "べき",
+                "gloss": "should"
+              },
+              {
+                "word": "さま",
+                "gloss": "manner"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けん",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "臥して思ひ",
+            "gloss": "lie.down.ADV think.about.ADV",
+            "words": [
+              {
+                "word": "臥し",
+                "gloss": "lie.down.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.about.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "起きて思ひ",
+            "gloss": "wake.up.ADV think.about.ADV",
+            "words": [
+              {
+                "word": "起き",
+                "gloss": "wake.up.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.about.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "思ひわびて詠める、",
+            "gloss": "think.about.ADV distress.ADV sing.PST",
+            "words": [
+              {
+                "word": "思ひ",
+                "gloss": "think.about.ADV"
+              },
+              {
+                "word": "わび",
+                "gloss": "distress.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "よめ",
+                "gloss": "sing.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "NEG.SBJV": "negative subjunctive auxiliary",
+          "FUT": "future auxiliary",
+          "ADV": "adverbial form",
+          "REALIS": "realis auxiliary",
+          "PERF": "perfect auxiliary",
+          "DAT": "dative particle",
+          "Q": "question particle"
+        },
+        "translation-ja-natural": "少しは期待できそうな様子だったのか。寝ても思い、覚めても思い、思い悩んで詠んだ。",
+        "translation-en-natural": "Was there perhaps a glimmer of hope? He thought of it while lying down, thought of it while awake, and in his distress, he sang a song."
       },
       {
         "date": "20240909",
