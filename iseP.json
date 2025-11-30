@@ -40265,13 +40265,93 @@
         "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240909",
+        "date": [
+          20240909,
+          20251201
+        ],
         "id": 2,
         "text": "いかがありけむ、その男すまずなりにけり。",
         "kana": "いかがありけむ、そのをとこすまずなりにけり。",
         "honkoku": "いかか有けんそのおと/こすますなりにけり",
-        "translation-ja": "どうしたのでしょうか、その男は通わなくなってしまいました。",
-        "translation-en": "What happened, I wonder? The man stopped visiting (her)."
+        "translation-ja": "どうだったのだろうか、その男は住まなくなってしまった。",
+        "translation-en": "What happened, the man stopped living there.",
+        "phrase-gloss": [
+          {
+            "phrase": "いかがありけん、",
+            "gloss": "how exist.FUT",
+            "words": [
+              {
+                "word": "いかが",
+                "gloss": "how"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けん",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "その男、住まずなりにけり。",
+            "gloss": "that man live NOT PERF PST",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "をとこ",
+                "gloss": "man"
+              },
+              {
+                "word": "すま",
+                "gloss": "live.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis auxiliary",
+          "NEG": "negative auxiliary",
+          "PERF": "perfect auxiliary",
+          "FUT": "future auxiliary",
+          "PST": "past tense",
+          "ADV": "adverbial form",
+          "END": "end form"
+        },
+        "translation-ja-natural": "どういうわけだったか、その男はそこに住まなくなってしまった。",
+        "translation-en-natural": "I wonder what happened, the man stopped living there.",
+        "notes-ja": [
+          {
+            "title": "住まず",
+            "note": "「住まず」は物理的な居住を指す中立的な語であり、この段の冒頭では男女関係の存在を一切示唆しない語として用いられている。語り手は恋愛の気配を意図的に隠し、読者に『何があったのか』という疑問だけを残すために、関係性を含意する「かよふ」ではなく、意味範囲の広い「すむ」を選択している。この語選択により、物語の導入部に“理由不明の不在”という読解上の空白が生じ、後段で明かされる恋愛事情との間に叙述の遅延構造が形成される。そのため、「住まず」を恋愛的文脈で先取りした意訳（例：『通わなくなった』）は、この遅延構造と語り手の意図を破壊しうる。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Sumazu ('did not reside')",
+            "note": "The expression 'sumazu' is a neutral verb meaning 'not to reside' and does not, at this stage of the narrative, imply any romantic relationship. The narrator deliberately chooses 'sumu' rather than 'kayu(u)', a verb that would immediately trigger the connotation of a man visiting a woman's residence, to withhold information about the nature of the situation. By using a term that suggests only a physical change of residence, the narrative creates an intentional gap in which the reader wonders why the man no longer lives there. This withholding produces a delayed-disclosure structure: the reader's initial question ('What happened?') is left unresolved until later in the episode when the romantic circumstances are revealed. Consequently, interpretive translations that presuppose a romantic context (e.g., 'he stopped visiting her') risk disrupting this narrative design by exposing information that the original text intentionally withholds."
+          }
+        ]
       },
       {
         "date": "20240909",
