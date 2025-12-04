@@ -40500,7 +40500,7 @@
         "translation-en": "At the woman's place, there were people who drew pictures, so he sent a letter to her. However, she did not reply for one or two days, saying that she is working on for the current man.",
         "phrase-gloss": [
           {
-            "phrase": "女がたに絵描く人なりければ、",
+            "phrase": "女がたに絵かく人なりければ、",
             "gloss": "woman DAT draw.pictures.ADV person exist.ADV because",
             "words": [
               {
@@ -40509,10 +40509,10 @@
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "LOC"
               },
               {
-                "word": "え",
+                "word": "絵",
                 "gloss": "pictures"
               },
               {
@@ -40538,28 +40538,32 @@
             ]
           },
           {
-            "phrase": "描きにやれりけるを、",
-            "gloss": "draw.REALIS send.PST OBJ",
+            "phrase": "かきにやれりけるを、",
+            "gloss": "fence LOC send PERF PST CONJ",
             "words": [
               {
                 "word": "かき",
-                "gloss": "draw.REALIS"
+                "gloss": "fence"
               },
               {
                 "word": "に",
-                "gloss": "DAT"
+                "gloss": "LOC"
               },
               {
-                "word": "やれり",
-                "gloss": "send.PST"
+                "word": "やれ",
+                "gloss": "send.REALIS"
               },
               {
-                "word": "ける",
+                "word": "り",
                 "gloss": "PERF"
               },
               {
+                "word": "ける",
+                "gloss": "PST"
+              },
+              {
                 "word": "を",
-                "gloss": "OBJ"
+                "gloss": "CONJ"
               }
             ]
           },
@@ -40602,7 +40606,7 @@
             ]
           },
           {
-            "phrase": "一日二日(ひとひふつか)おこせざりけり。",
+            "phrase": "ひとひふつかおこせざりけり。",
             "gloss": "one.day two.days reply NEG PST",
             "words": [
               {
@@ -40629,11 +40633,11 @@
           }
         ],
         "abbreviations": {
+          "LOC": "locative particle",
           "PERF": "perfect auxiliary",
           "PST": "past tense",
           "REALIS": "realis auxiliary",
           "NEG": "negative auxiliary",
-          "DAT": "dative particle",
           "GEN": "genitive particle",
           "QUOT": "quotative particle",
           "END": "end form",
