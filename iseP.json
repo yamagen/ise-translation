@@ -40659,13 +40659,226 @@
         ]
       },
       {
-        "date": "20240910",
+        "date": [
+          20240910,
+          20251205
+        ],
         "id": 5,
         "text": "かの男、いとつらく、「おのが聞ゆることをば、いままでたまはねば、ことわりと思へど、なほ人をば恨みつべきものになむありける」とて、ろうじて よみてやれりける。",
-        "kana": "かのをとこ、いとつらく、「おのがきこゆることをば、いままでたまはねば、ことわりとおもへど、なほだをば飩みつべきものになむありける」とて、ろうじて よみてやれりける。",
+        "kana": "かのをとこ、いとつらく、「おのがきこゆることをば、いままでたまはねば、ことわりとおもへど、なほひとをばうらみつべきものになむありける」とて、ろうじて よみてやれりける。",
         "honkoku": "かの/おとこいとつらくをのかきこゆることをは/いままてたまはねはことはりとおもへと/s105l/なを人をはうらみつへき物になむあり/けるとてろうしてよみてやれりける",
-        "translation-ja": "その男は非常に辛辣に、『自分のことが聞こえないのは今まで当然のことであると思うが、それでもなお、人を恨むのは当然だ』と言って、やっとのことで詠んで送ってきた。",
-        "translation-en": "The man was very harsh, saying, \"Although it is natural that I have not heard anything until now, it is still understandable to hold a grudge against others.\" He then reluctantly sang and sent a song."
+        "translation-ja": "その男、たいへんつらく、「私が申すことを、いままで賜わってないので、、その通りだと思うが、なほ人を恨んでしまうものになった」といって、嘆いて詠んで送った。",
+        "translation-en": "The man was very harsh, saying, \"Although it is natural that I have not heard anything until now, it is still understandable to hold a grudge against others.\" He then reluctantly sang and sent a song.",
+        "phrase-gloss": [
+          {
+            "phrase": "かの男、いとつらく、",
+            "gloss": "that man very.harshly",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that"
+              },
+              {
+                "word": "おとこ",
+                "gloss": "man"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "つらく",
+                "gloss": "harshly.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "「おのが聞こゆることをば、",
+            "gloss": "self GEN say thing TOP",
+            "words": [
+              {
+                "word": "おの",
+                "gloss": "I, myself"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "きこゆ",
+                "gloss": "say.HUM.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "ば",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "今まで給はねば、",
+            "gloss": "now until give NEG PERF because",
+            "words": [
+              {
+                "word": "いま",
+                "gloss": "now"
+              },
+              {
+                "word": "まで",
+                "gloss": "until"
+              },
+              {
+                "word": "たまは",
+                "gloss": "give.HON.IRR"
+              },
+              {
+                "word": "ね",
+                "gloss": "NEG.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "because"
+              }
+            ]
+          },
+          {
+            "phrase": "ことわりと思へど、",
+            "gloss": "reason QUOT think but",
+            "words": [
+              {
+                "word": "ことわり",
+                "gloss": "reason"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "おもえ",
+                "gloss": "think.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "なほ人をば恨みつべきものになむありける」とて、",
+            "gloss": "still person TOP grudge should thing DAT EMPH be PST QUOT CONJ",
+            "words": [
+              {
+                "word": "なほ",
+                "gloss": "still"
+              },
+              {
+                "word": "ひと",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "TOP"
+              },
+              {
+                "word": "うらみ",
+                "gloss": "grudge.ADV"
+              },
+              {
+                "word": "つ",
+                "gloss": "PERF.END"
+              },
+              {
+                "word": "べき",
+                "gloss": "should"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ろうじて詠みてやれりける。",
+            "gloss": "reluctantly sing PERF PST",
+            "words": [
+              {
+                "word": "ろうじ",
+                "gloss": "lament.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "よみ",
+                "gloss": "send.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "やれ",
+                "gloss": "give.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "ADV": "adverbial form",
+          "PST": "past tense",
+          "PERF": "perfect auxiliary",
+          "REALIS": "realis auxiliary",
+          "TOP": "topic particle",
+          "QUOT": "quotative particle",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "男はひどくつらかったのだろう。「これまでお願いしてきたことを聞き入れていただけないのは、道理だとは思います。それでも、人というものは恨まずにいられないものでございますよ」と、悩みに悩んで歌を詠み、送った。",
+        "translation-en-natural": "The man was deeply distressed. 'I know it is only natural that my request has not been granted,' he lamented, 'and yet a person cannot help but feel resentful.' Struggling with his feelings, he composed a poem and sent it off."
       },
       {
         "date": "20240910",
