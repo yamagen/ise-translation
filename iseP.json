@@ -40881,13 +40881,61 @@
         "translation-en-natural": "The man was deeply distressed. 'I know it is only natural that my request has not been granted,' he lamented, 'and yet a person cannot help but feel resentful.' Struggling with his feelings, he composed a poem and sent it off."
       },
       {
-        "date": "20240910",
+        "date": [
+          20240910,
+          20251208
+        ],
         "id": 6,
         "text": "時は秋になむありける。",
         "kana": "ときはあきになむありける。",
         "honkoku": "時は/あきになんありける/",
-        "translation-ja": "時は秋になっていました。",
-        "translation-en": "The time had become autumn."
+        "translation-ja": "時は秋であった。",
+        "translation-en": "The time was autumn.",
+        "phrase-gloss": [
+          {
+            "phrase": "時は秋になんありける。",
+            "gloss": "time TOP autumn become EMPH be PST",
+            "words": [
+              {
+                "word": "とき",
+                "gloss": "time"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "あき",
+                "gloss": "autumn"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "ADV": "adverbial form",
+          "DAT": "dative particle",
+          "PST": "past tense",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "時は秋であった。",
+        "translation-en-natural": "The time was autumn."
       },
       {
         "date": "20240911",
