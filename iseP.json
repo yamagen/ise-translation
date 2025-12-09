@@ -41039,13 +41039,54 @@
         "translation-en-natural": "Does the autumn night make one forget the spring days? Or does it, like a mist, accumulate and become a thousand times more?"
       },
       {
-        "date": "20240911",
+        "date": [
+          20240911,
+          20251210
+        ],
         "id": 8,
         "text": "となむよめりける。",
         "kana": "となむよめりける。",
         "honkoku": "となむよめりける",
-        "translation-ja": "と詠みました。",
-        "translation-en": "as the man sang."
+        "translation-ja": "と詠んた。",
+        "translation-en": "as the man sang.",
+        "phrase-gloss": [
+          {
+            "phrase": "となむ詠めりける。",
+            "gloss": "QUOT EMPH sing.PERF PST",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "よめ",
+                "gloss": "sing.PERF"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "ADV": "adverbial form",
+          "PST": "past tense",
+          "PERF": "perfect auxiliary",
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "と詠んだのだった。",
+        "translation-en-natural": "as the man sang."
       },
       {
         "date": "20240912",
