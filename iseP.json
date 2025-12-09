@@ -40938,13 +40938,105 @@
         "translation-en-natural": "The time was autumn."
       },
       {
-        "date": "20240911",
+        "date": [
+          20240911,
+          20251209
+        ],
         "id": 7,
         "poem": "秋の夜は/春日わするる/ものなれや/かすみにきりや/千重まさるらむ",
         "kana": "あきのよは/はるひわするる/ものなれや/かすみにきりや/ちへまさるらん",
         "honkoku": "秋の夜は春日わするるものなれや/かすみにきりやちへまさるらん/",
         "translation-ja": "秋の夜は、春の日を忘れさせるものでしょうか。それとも、霧のように重なって、千重に増すのでしょうか。",
-        "translation-en": "Does the autumn night make one forget the spring days? Or does it, like a mist, accumulate and become a thousand times more?"
+        "translation-en": "Does the autumn night make one forget the spring days? Or does it, like a mist, accumulate and become a thousand times more?",
+        "phrase-gloss": [
+          {
+            "phrase": "秋の夜は春日忘るるものなれや",
+            "gloss": "autumn GEN night TOP spring.day forget.ADV thing be EMPH",
+            "words": [
+              {
+                "word": "あき",
+                "gloss": "autumn"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よ",
+                "gloss": "night"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "はるひ",
+                "gloss": "spring.day"
+              },
+              {
+                "word": "わするる",
+                "gloss": "forget.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "なれ",
+                "gloss": "be.REALIS"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          },
+          {
+            "phrase": "霞に霧や千重まさるらん",
+            "gloss": "mist DAT fog EMPH thousand.layers surpass FUT",
+            "words": [
+              {
+                "word": "かすみ",
+                "gloss": "mist"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "きり",
+                "gloss": "fog"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "ちへ",
+                "gloss": "thousand.layers"
+              },
+              {
+                "word": "まさる",
+                "gloss": "surpass.END"
+              },
+              {
+                "word": "らん",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "END": "end form",
+          "FUT": "future auxiliary",
+          "GEN": "genitive particle",
+          "DAT": "dative particle",
+          "TOP": "topic particle",
+          "Q": "question particle"
+        },
+        "translation-ja-natural": "秋の夜は、春の日を忘れさせるものでしょうか。それとも、霧のように重なって、千重に増すのでしょうか。",
+        "translation-en-natural": "Does the autumn night make one forget the spring days? Or does it, like a mist, accumulate and become a thousand times more?"
       },
       {
         "date": "20240911",
