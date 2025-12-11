@@ -41089,22 +41089,156 @@
         "translation-en-natural": "as the man sang."
       },
       {
-        "date": "20240912",
+        "date": [
+          20240912,
+          20251211
+        ],
         "id": 9,
         "poem": "女、返し、",
         "kana": "おんな、かえし、",
         "honkoku": "女返し/",
         "translation-ja": "女の返歌、",
-        "translation-en": "The woman responds,"
+        "translation-en": "The woman responds,",
+        "phrase-gloss": [
+          {
+            "phrase": "女、返し、",
+            "gloss": "woman reply",
+            "words": [
+              {
+                "word": "おんな",
+                "gloss": "woman"
+              },
+              {
+                "word": "かえし",
+                "gloss": "reply.ADV"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "女の返歌、",
+        "translation-en-natural": "The response from the woman,"
       },
       {
-        "date": "20240912",
+        "date": [
+          20240912,
+          20251212
+        ],
         "id": 10,
         "poem": "千々の秋/ひとつの春に/むかはめや/紅葉も花も/ともにこそ散れ",
         "kana": "ちぢのあき/ひとつのはるに/むかはめや/もみぢもはなも/ともにこそちれ",
         "honkoku": "ちちのあきひとつの春にむかはめや/もみちも花もともにこそちれ/s106r/",
-        "translation-ja": "いくつもの秋、一つの春に出会うことがあるのでしょうか。紅葉も花も一緒に散ってしまいます",
-        "translation-en": "Will the many autumn things meet in a single spring? Both the red leaves and flowers scatter together."
+        "translation-ja": "いくつもの秋、一つの春に向うのでしょうか。紅葉も花も一緒に散ってしまいます",
+        "translation-en": "Will the many autumn things meet in a single spring? Both the red leaves and flowers scatter together.",
+        "phrase-gloss": [
+          {
+            "phrase": "千々の秋一つの春にむかはめや",
+            "gloss": "many GEN autumn one GEN spring DAT meet FUT Q",
+            "words": [
+              {
+                "word": "ちぢ",
+                "gloss": "many"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "あき",
+                "gloss": "autumn"
+              },
+              {
+                "word": "ひとつ",
+                "gloss": "one"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "はる",
+                "gloss": "spring"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "むかは",
+                "gloss": "meet.IRR"
+              },
+              {
+                "word": "め",
+                "gloss": "FUT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          },
+          {
+            "phrase": "紅葉も花もともにこそ散れ",
+            "gloss": "red.leaves ALSO flowers ALSO together EMPH scatter.IMPER",
+            "words": [
+              {
+                "word": "もみぢ",
+                "gloss": "red.leaves"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "はな",
+                "gloss": "flowers"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "ともに",
+                "gloss": "together"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "ちれ",
+                "gloss": "scatter.REALIS"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle",
+          "DAT": "dative particle",
+          "FUT": "future auxiliary",
+          "Q": "question particle",
+          "END": "end form",
+          "EMPH": "emphatic particle",
+          "REALIS": "realis auxiliary"
+        },
+        "translation-ja-natural": "いくつもの秋が、一つの春に向かうのでしょうか。紅葉も花も一緒に散ってしまいます。",
+        "translation-en-natural": "Will the many autumn things meet in a single spring? Both the red leaves and flowers scatter together.",
+        "notes-ja": [
+          {
+            "title": "添付資料attachment",
+            "note": "CV_20240911_2014300079.pdf"
+          },
+          {
+            "title": "福井先生による注釈, p.197",
+            "note": "真名本 は「千々の秋ひとつの春にむかはめや紅葉も花もともにこそ散れ」の本文による。「千々の秋」は多くの秋の意であろうが、『古今和歌集』巻八・秋歌下にある紀貫之の歌「千々の秋を思ひつつひとつになりぬべきかな君がために」は、貫之が秋の季節を思いながら、恋人と一つになりたいという意味で詠んだものであるから、この歌もまた、恋の情念を秋の季節にたとえたものと考えられる。"
+          },
+          {
+            "title": "comment",
+            "": "この歌もなんだか意味がわからない。春と秋が大島本では入れ替わっているとのこと。"
+          }
+        ]
       }
     ]
   },
