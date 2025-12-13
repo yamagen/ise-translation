@@ -41248,13 +41248,74 @@
     "romaji": "hikoboshi",
     "paragraph": [
       {
-        "date": "20240913",
+        "date": [
+          20240913,
+          20251213
+        ],
         "id": 1,
         "text": "むかし、二条の后に仕うまつる男ありけり。",
         "kana": "むかし、にじょうのきさきにつかまつるをとこありけり。",
         "honkoku": "むかし二条のきさきにつかうまつる男/s106r/ありけり",
-        "translation-ja": "昔、二条の后に仕える男がいました。",
-        "translation-en": "Once upon a time, there was a man who served Empress Nijo."
+        "translation-ja": "昔、二条の后に仕える男がいた。",
+        "translation-en": "Once upon a time, there was a man who served Empress Nijo.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、二条の后に仕うまつる男ありけり。",
+            "gloss": "long.ago two.lines.PN GEN empress DAT serve.HUM.PERF exist PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.ago"
+              },
+              {
+                "word": "にじょう",
+                "gloss": "two.lines.LIT.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "きさき",
+                "gloss": "empress"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "つかう",
+                "gloss": "serve.ADV"
+              },
+              {
+                "word": "まつる",
+                "gloss": "HUM.ATTR"
+              },
+              {
+                "word": "おとこ",
+                "gloss": "man"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "HUM": "humble form",
+          "ATTR": "attributive form",
+          "PST": "past tense",
+          "ADV": "adverbial form",
+          "DAT": "dative particle",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "昔、二条の后に仕える男がいた。",
+        "translation-en-natural": "Once upon a time, there was a man who served Empress Nijo."
       },
       {
         "date": "20240913",
