@@ -41318,13 +41318,93 @@
         "translation-en-natural": "Once upon a time, there was a man who served Empress Nijo."
       },
       {
-        "date": "20240913",
+        "date": [
+          20240913,
+          20251214
+        ],
         "id": 2,
         "text": "女の仕うまつるを、つねに見かはして、よばひわたりけり。",
         "kana": "をんなのつかうまつるを、つねにみかはして、よばひわたりけり。",
         "honkoku": "女のつかうまつるをつねに見/かはしてよはひわたりけり",
         "translation-ja": "女性が仕えているのを常に見守って、呼び続けていた。",
-        "translation-en": "He constantly kept an eye on the woman he was serving, and kept calling on her."
+        "translation-en": "He constantly kept an eye on the woman he was serving, and kept calling on her.",
+        "phrase-gloss": [
+          {
+            "phrase": "女のつかうまつるを、",
+            "gloss": "woman GEN serve.HUM.PERF ACC",
+            "words": [
+              {
+                "word": "をんな",
+                "gloss": "woman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "つかう",
+                "gloss": "serve.ADV"
+              },
+              {
+                "word": "まつる",
+                "gloss": "HUM.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "常に見かはして、",
+            "gloss": "always look.exchange.ADV",
+            "words": [
+              {
+                "word": "つねに",
+                "gloss": "always"
+              },
+              {
+                "word": "みかはし",
+                "gloss": "look.exchange.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "よばひわたりけり。",
+            "gloss": "call.on.CONT.PERF PST",
+            "words": [
+              {
+                "word": "よばひ",
+                "gloss": "call.on.ADV"
+              },
+              {
+                "word": "わたり",
+                "gloss": "CONT.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "HUM": "humble form",
+          "ATTR": "attributive form",
+          "PST": "past tense",
+          "PERF": "perfect auxiliary",
+          "ADV": "adverbial form",
+          "CONT": "continuative form",
+          "GEN": "genitive particle",
+          "ACC": "accusative particle",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "女性が仕えているのを常に見守って、呼び続けていた。",
+        "translation-en-natural": "He constantly kept an eye on the woman he was serving, and kept calling on her."
       },
       {
         "date": "20240913",
