@@ -41435,7 +41435,7 @@
                 "gloss": "DAT"
               },
               {
-                "word": "たいめん",
+                "word": "対面",
                 "gloss": "face.to.face"
               },
               {
@@ -41562,13 +41562,50 @@
         "translation-en-natural": "When he said, \"By any means, if I could see your face, and ease my troubled heart a little,\" the woman very secretly came to meet him."
       },
       {
-        "date": "20240913",
+        "date": [
+          20240913,
+          20251216
+        ],
         "id": 4,
         "text": "物語などして、男、",
         "kana": "ものがたりなどして、をとこ、",
         "honkoku": "ものかたりなとしておとこ/",
-        "translation-ja": "物語などをしていると、男が、",
-        "translation-en": "While telling a story, the man sang,"
+        "translation-ja": "物語などをして、男、",
+        "translation-en": "after telling stories, the man...,",
+        "phrase-gloss": [
+          {
+            "phrase": "物語などして、男、",
+            "gloss": "story ETC do.ADV man",
+            "words": [
+              {
+                "word": "ものがたり",
+                "gloss": "story"
+              },
+              {
+                "word": "など",
+                "gloss": "ETC"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "をとこ",
+                "gloss": "man"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ETC": "etcetera"
+        },
+        "translation-ja-natural": "少し、話したのち、男は、",
+        "translation-en-natural": "after telling stories, the man...,"
       },
       {
         "date": "20240913",
