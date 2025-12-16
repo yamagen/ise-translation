@@ -41407,13 +41407,159 @@
         "translation-en-natural": "He constantly kept an eye on the woman he was serving, and kept calling on her."
       },
       {
-        "date": "20240913",
+        "date": [
+          20240913,
+          20251215
+        ],
         "id": 3,
         "text": "「いかでものごしに対面して、おぼつかなく思ひつめたること、すこしはるかさむ」といひければ、女、いと忍びて、ものごしにあひにけり。",
         "kana": "「いかでものごしにたいめんして、おぼつかなくおもひつめたること、すこしはるかさむ」といひければ、をんな、いとしのびて、ものごしにあひにけり。",
         "honkoku": "いかて物こし/にたいめんしておほつかなくおもひ/つめたることすこしはるかさむといひ/けれは女いとしのひてものこしに/あひにけり",
-        "translation-ja": "どうしても物越しにでも対面して、はっきりしない気持ちを少しでも晴らしたいと言ったところ、女は非常にこっそりと、物越しに会いにきました。",
-        "translation-en": "When he said, \"By any means, if I could see your face, and ease my troubled heart a little,\" the woman very secretly came to meet him."
+        "translation-ja": "どうしても物越しにでも対面して、はっきりしない気持ちを少しでも晴らしたいと言ったところ、女は非常にこっそりと、物越しに会いにきた。",
+        "translation-en": "When he said, \"By any means, if I could see your face, and ease my troubled heart a little,\" the woman very secretly came to meet him.",
+        "phrase-gloss": [
+          {
+            "phrase": "「いかでものごしに対面して、",
+            "gloss": "by.any.means over.fence DAT face.to.face do.CONJ",
+            "words": [
+              {
+                "word": "いかで",
+                "gloss": "by.any.means"
+              },
+              {
+                "word": "ものごし",
+                "gloss": "over.fence"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "たいめん",
+                "gloss": "face.to.face"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADJ"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "おぼつかなく思ひつめたること、",
+            "gloss": "uncertainly think.heavily.PERF thing",
+            "words": [
+              {
+                "word": "おぼつかなく",
+                "gloss": "uncertainly"
+              },
+              {
+                "word": "おもひつめ",
+                "gloss": "think.heavily.ADV"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              }
+            ]
+          },
+          {
+            "phrase": "少しはるかさむ」と言ひければ、",
+            "gloss": "a.little clear FUT QUOT say PST CONJ",
+            "words": [
+              {
+                "word": "すこし",
+                "gloss": "a.little"
+              },
+              {
+                "word": "はるかさ",
+                "gloss": "clear.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "女、いと忍びて、ものごしに逢ひにけり。",
+            "gloss": "woman, very secretly over.fence DAT meet PERF PST",
+            "words": [
+              {
+                "word": "をんな",
+                "gloss": "woman"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "しのび",
+                "gloss": "secretly.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ものごし",
+                "gloss": "over.fence"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "あひ",
+                "gloss": "meet.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis auxiliary",
+          "REALIS": "realis auxiliary",
+          "ATTR": "attributive form",
+          "PST": "past tense",
+          "PERF": "perfect auxiliary",
+          "ADV": "adverbial form",
+          "DAT": "dative particle",
+          "CONJ": "conjunctive particle",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "どうしても物越しにでも対面して、はっきりしない気持ちを少しでも晴らしたいと言ったところ、女は非常にこっそりと、物越しに会いにきた。",
+        "translation-en-natural": "When he said, \"By any means, if I could see your face, and ease my troubled heart a little,\" the woman very secretly came to meet him."
       },
       {
         "date": "20240913",
