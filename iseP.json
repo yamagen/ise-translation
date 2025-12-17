@@ -41608,13 +41608,114 @@
         "translation-en-natural": "after telling stories, the man...,"
       },
       {
-        "date": "20240913",
+        "date": [
+          20240913,
+          20251217
+        ],
         "id": 5,
         "poem": "ひこ星に/恋はまさりぬ/天の河/へだつる関を/いまはやめてよ",
         "kana": "ひこほしに/こひはまさりぬ/あまのかわ/へたつるせきを/いまはやめてよ",
         "honkoku": "ひこほしにこひはまさりぬあまの河/へたつるせきをいまはやめてよ/",
         "translation-ja": "彦星に対する恋がますます深まっています。天の川で隔てた関は、今だけはやめてください。",
-        "translation-en": "My love for Hikoboshi has deepened more and more. Please, let the separation caused by the Milky Way end, at least for now."
+        "translation-en": "My love for Hikoboshi has deepened more and more. Please, let the separation caused by the Milky Way end, at least for now.",
+        "phrase-gloss": [
+          {
+            "phrase": "彦星に恋はまさりぬ",
+            "gloss": "Hikoboshi DAT love TOP surpass.PST",
+            "words": [
+              {
+                "word": "ひこほし",
+                "gloss": "Hikoboshi.PN"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "こひ",
+                "gloss": "love"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "まさり",
+                "gloss": "surpass.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PST"
+              }
+            ]
+          },
+          {
+            "phrase": "天の川隔つる関をいまはやめてよ",
+            "gloss": "heaven GEN river separating barrier ACC now EMPH stop please",
+            "words": [
+              {
+                "word": "あま",
+                "gloss": "heaven"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "かわ",
+                "gloss": "river"
+              },
+              {
+                "word": "へだつる",
+                "gloss": "separate.ATTR"
+              },
+              {
+                "word": "せき",
+                "gloss": "barrier"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "いま",
+                "gloss": "now"
+              },
+              {
+                "word": "は",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "やめ",
+                "gloss": "stop.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "よ",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PN": "proper noun",
+          "REL": "relative form",
+          "PST": "past tense",
+          "ADV": "adverbial form",
+          "DAT": "dative particle",
+          "GEN": "genitive particle",
+          "TOP": "topic particle",
+          "ACC": "accusative particle",
+          "ATTR": "attributive form",
+          "EMPH": "emphatic particle",
+          "CONJ": "conjunctive particle",
+          "Q": "question particle"
+        },
+        "translation-ja-natural": "彦星に対する恋がますます深まっています。天の川で隔てた関は、今だけはやめてください。",
+        "translation-en-natural": "My love for Hikoboshi has deepened more and more. Please, let the separation caused by the Milky Way end, at least for now."
       },
       {
         "date": "20240913",
