@@ -41718,13 +41718,64 @@
         "translation-en-natural": "My love for Hikoboshi has deepened more and more. Please, let the separation caused by the Milky Way end, at least for now."
       },
       {
-        "date": "20240913",
+        "date": [
+          20240913,
+          20251218
+        ],
         "id": 6,
         "text": "この歌にめでてあひにけり。",
         "kana": "このうたにめでてあひにけり。",
         "honkoku": "このうたにめててあひにけり/s106l/",
-        "translation-ja": "この歌に感動して、逢うようになりました。",
-        "translation-en": "Moved by this poem, they started to meet."
+        "translation-ja": "この歌に感動して、逢うようになった。",
+        "translation-en": "Moved by this poem, they started to meet.",
+        "phrase-gloss": [
+          {
+            "phrase": "このうたにめでて、逢ひにけり。",
+            "gloss": "this poem DAT admire CONJ meet PERF PST",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "うた",
+                "gloss": "poem"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "めで",
+                "gloss": "admire.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "あひ",
+                "gloss": "meet.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfect auxiliary",
+          "ADV": "adverbial form",
+          "DAT": "dative particle",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "この歌に感動して、逢うようになった。",
+        "translation-en-natural": "Moved by this poem, they started to meet."
       }
     ]
   },
