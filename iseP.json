@@ -41785,40 +41785,344 @@
     "romaji": "ama no sakate",
     "paragraph": [
       {
-        "date": "20240914",
+        "date": [
+          20240914,
+          20251219
+        ],
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
         "honkoku": "昔おとこ有けり",
-        "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja": "昔、男がいた。",
+        "translation-en": "Once upon a time, there was a man.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、男ありけり。",
+            "gloss": "long.time.ago, man exist PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long.time.ago"
+              },
+              {
+                "word": "をとこ",
+                "gloss": "man"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "昔、男がいた。",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240914",
+        "date": [
+          20240914,
+          20251220
+        ],
         "id": 2,
         "text": "女をとかくいふこと月日経にけり。",
         "kana": "をんなをとかくいふことつきひけにけり。",
         "honkoku": "女をとかくいふこと月日/へにけり",
-        "translation-ja": "女についてどうこう言っているうちに、月日がたちました。",
-        "translation-en": "While talking about women in various ways, time has passed."
+        "translation-ja": "女をどうこう言い、月日がたった。",
+        "translation-en": "While talking about women in various ways, time has passed.",
+        "phrase-gloss": [
+          {
+            "phrase": "女をとかく言ふこと月日経にけり。",
+            "gloss": "woman ACC various.say thing time pass PST",
+            "words": [
+              {
+                "word": "をんな",
+                "gloss": "woman"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "とかく",
+                "gloss": "various"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ADJ"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "つきひ",
+                "gloss": "time"
+              },
+              {
+                "word": "けに",
+                "gloss": "pass.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "ADV": "adverbial form",
+          "ACC": "accusative particle",
+          "ADJ": "adjective form"
+        },
+        "translation-ja-natural": "女をどうこう言っているうちに、月日がたった。",
+        "translation-en-natural": "While talking about women in various ways, time has passed."
       },
       {
-        "date": "20240915",
+        "date": [
+          20240915,
+          20251221
+        ],
         "id": 3,
         "text": "岩木にしあらねば、心苦しとや思ひけむ、やうやうあはれと思ひけり。",
         "kana": "いはきにしあらねば、こころくるしとやおもひけむ、やうやうあはれとおもひけり。",
         "honkoku": "いは木にしあらねは心くるしとや/思けむやうやうあはれと思ひけり",
-        "translation-ja": "石や木ではないので、心が苦しく思っていましたが、やがて、やさしい気持ちになってきました。",
-        "translation-en": "If she was not for the rocks and trees, I might have felt troubled in my heart, but gradually, I began to feel a sense of compassion."
+        "translation-ja": "石や木ではないので、心が苦しく思ったのだろうか、やがて、あわれに思った。",
+        "translation-en": "Since she was not made of rocks or trees, she must have felt pain in her heart, one would suppose; and gradually, she came to feel a sense of compassion.",
+        "phrase-gloss": [
+          {
+            "phrase": "岩木にしあらねば、",
+            "gloss": "rock.tree COP.NEG.BEN",
+            "words": [
+              {
+                "word": "いはき",
+                "gloss": "rock.tree"
+              },
+              {
+                "word": "に",
+                "gloss": "COP"
+              },
+              {
+                "word": "し",
+                "gloss": "NEG.BEN"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "ねば",
+                "gloss": "if.NOT"
+              }
+            ]
+          },
+          {
+            "phrase": "心苦しとや思ひけむ、",
+            "gloss": "heart.painful QUOT think PST.MAY",
+            "words": [
+              {
+                "word": "こころ",
+                "gloss": "heart"
+              },
+              {
+                "word": "くるし",
+                "gloss": "painful"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "おもひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "けむ",
+                "gloss": "PST.MAY"
+              }
+            ]
+          },
+          {
+            "phrase": "やうやうあはれと思ひけり。",
+            "gloss": "gradually pity QUOT think PST",
+            "words": [
+              {
+                "word": "やうやう",
+                "gloss": "gradually"
+              },
+              {
+                "word": "あはれ",
+                "gloss": "pity"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "おもひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "MAY": "may auxiliary",
+          "ADV": "adverbial form",
+          "NEG": "negative auxiliary",
+          "BEN": "benefactive auxiliary",
+          "COP": "copula",
+          "QUOT": "quotative particle",
+          "Q": "question particle"
+        },
+        "translation-ja-natural": "石や木ではないので、心が苦しく思ったのだろうか、やがて、あわれに思った。",
+        "translation-en-natural": "Since she was not made of rocks or trees, she must have felt pain in her heart, one would suppose; and gradually, she came to feel a sense of compassion.",
+        "notes-ja": [
+          {
+            "title": "comment",
+            "note": "岩木(いわき)＝岩や木。無情のもののたとえ。"
+          },
+          {
+            "title": "心苦しとや思ひけむ",
+            "note": "即時的な推量。語り手による女の心情を推測したもの。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "comment",
+            "note": "岩木(いわき)＝rocks and trees. A metaphor for inanimate things."
+          },
+          {
+            "title": "心苦しとや思ひけむ",
+            "note": "Immediate conjecture. It is a supposition by the narrator about the woman's feelings."
+          }
+        ]
       },
       {
-        "date": "20240915",
+        "date": [
+          20240915,
+          20251222
+        ],
         "id": 4,
         "text": "そのころ、六月の望ばかりなりければ、女、身にかさ一つ二ついできにけり。",
         "kana": "そのころ、みなづきのもちばかりなりければ、をんな、みにかさひとつふたついできにけり。",
         "honkoku": "そのころ/みな月のもちはかりなりけれは女身にかさ/ひとつふたついてきにけり",
-        "translation-ja": "そのころ、六月の満月の頃だったので、女は体に瘡蓋が一つ二つできてしまいました。",
-        "translation-en": "At that time, around the full moon in June, the woman had developed one or two scabs on her body."
+        "translation-ja": "そのころ、六月の満月の頃だったので、女は体に瘡蓋が一つ二つできてしまっていた。",
+        "translation-en": "At that time, around the full moon in June, the woman had developed one or two scabs on her body.",
+        "phrase-gloss": [
+          {
+            "phrase": "そのころ六月の望ばかりなりければ、",
+            "gloss": "that.time June GEN full.moon only be.PST CONJ",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "ころ",
+                "gloss": "time"
+              },
+              {
+                "word": "六月",
+                "gloss": "June"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "望",
+                "gloss": "full.moon"
+              },
+              {
+                "word": "ばかり",
+                "gloss": "only"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "女、身に瘡一つ二つ出で来にけり。",
+            "gloss": "woman, body DAT scab one two come.out PERF",
+            "words": [
+              {
+                "word": "をんな",
+                "gloss": "woman"
+              },
+              {
+                "word": "み",
+                "gloss": "body"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "かさ",
+                "gloss": "scab"
+              },
+              {
+                "word": "ひとつ",
+                "gloss": "one"
+              },
+              {
+                "word": "ふたつ",
+                "gloss": "two"
+              },
+              {
+                "word": "いで",
+                "gloss": "out.ADV"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "PERF": "perfect auxiliary",
+          "BEN": "benefactive auxiliary",
+          "REALIS": "realis auxiliary",
+          "ADV": "adverbial form",
+          "DAT": "dative particle",
+          "GEN": "genitive particle",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "そのころ、六月の満月の頃だったので、女は体に瘡蓋が一つ二つできてしまっていた。",
+        "translation-en-natural": "At that time, around the full moon in June, the woman had developed one or two scabs on her body."
       },
       {
         "date": "20240917",
