@@ -42125,13 +42125,47 @@
         "translation-en-natural": "At that time, around the full moon in June, the woman had developed one or two scabs on her body."
       },
       {
-        "date": "20240917",
+        "date": [
+          20240917,
+          20251223
+        ],
         "id": 5,
         "text": "女いひおこせたる。",
         "kana": "をんないひおこせたる。",
         "honkoku": "女いひをこせ/たる",
-        "translation-ja": "女が言い出しました。",
-        "translation-en": "The woman started to speak."
+        "translation-ja": "女が言ってよこした。",
+        "translation-en": "The woman sent a message.",
+        "phrase-gloss": [
+          {
+            "phrase": "女、言ひおこせたる、",
+            "gloss": "woman, say.send PERF",
+            "words": [
+              {
+                "word": "をんな",
+                "gloss": "woman"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "おこせ",
+                "gloss": "send.ADV"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfect auxiliary",
+          "ATTR": "attributive form",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "女が言ってよこしたのは、",
+        "translation-en-natural": "A message from the woman said is as follows:"
       },
       {
         "date": null,
