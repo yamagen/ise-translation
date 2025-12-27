@@ -42174,34 +42174,220 @@
         "kana": "「いまはなにのこころもなし。",
         "honkoku": "いまはなにの心もなし",
         "translation-ja": "「今は何も思っていません。",
-        "translation-en": "I have no feelings now."
+        "translation-en": "I have no feelings now.",
+        "phrase-gloss": [
+          {
+            "phrase": "「今は何の心もなし。",
+            "gloss": "now TOP nothing GEN heart also not.exist",
+            "words": [
+              {
+                "word": "いま",
+                "gloss": "now"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "なに",
+                "gloss": "nothing"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "こころ",
+                "gloss": "heart"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "なし",
+                "gloss": "not.exist"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "TOP": "topic particle",
+          "GEN": "genitive particle",
+          "also": "also particle",
+          "not.exist": "negative existential"
+        },
+        "translation-ja-natural": "「今は何も思っていません。",
+        "translation-en-natural": "I have no feelings now.",
+        "notes-ja": [
+          {
+            "title": "福井訳との違い",
+            "note": "福井訳は、全く心がない、という意味ではなく、あなた以外には何も考えていない、という意味であると解釈した。全く反対の解釈も可能である。"
+          }
+        ]
       },
       {
-        "date": "20240917",
+        "date": [
+          20240917,
+          20251225
+        ],
         "id": 7,
         "text": "身にかさも一つ二ついでたり。",
         "kana": "みにかさもひとつふたついでたり。",
         "honkoku": "身にかさも/ひとつふたついてたり",
-        "translation-ja": "体に瘡蓋が一つ二つできてしまいました。",
-        "translation-en": "I have developed one or two scabs on my body."
+        "translation-ja": "体に瘡蓋が一つ二つでてきてしまいました。",
+        "translation-en": "I have developed one or two scabs on my body.",
+        "phrase-gloss": [
+          {
+            "phrase": "身に瘡も一つ二つ出でたり。",
+            "gloss": "body DAT scab also one two come.out PERF",
+            "words": [
+              {
+                "word": "み",
+                "gloss": "body"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "かさ",
+                "gloss": "scab"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "ひとつ",
+                "gloss": "one"
+              },
+              {
+                "word": "ふたつ",
+                "gloss": "two"
+              },
+              {
+                "word": "いで",
+                "gloss": "out.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfect auxiliary",
+          "ADV": "adverbial form",
+          "DAT": "dative particle"
+        },
+        "translation-ja-natural": "体に瘡蓋が一つ二つでてきてしまいました。",
+        "translation-en-natural": "I have developed one or two scabs on my body."
       },
       {
-        "date": "20240917",
+        "date": [
+          20240917,
+          20251226
+        ],
         "id": 8,
         "text": "時もいと暑し。",
         "kana": "ときもいとあつし。",
         "honkoku": "ときもいとあつし/",
-        "translation-ja": "その時は、非常に暑うございました。",
-        "translation-en": "It was very hot at that time."
+        "translation-ja": "その時は、非常に暑かった。",
+        "translation-en": "It was very hot at that time.",
+        "phrase-gloss": [
+          {
+            "phrase": "時いと暑し。",
+            "gloss": "time very hot",
+            "words": [
+              {
+                "word": "とき",
+                "gloss": "time"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "あつし",
+                "gloss": "hot"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {},
+        "translation-ja-natural": "その時は、非常に暑かった。",
+        "translation-en-natural": "It was very hot at that time."
       },
       {
-        "date": "20240917",
+        "date": [
+          20240917,
+          20251227
+        ],
         "id": 9,
         "text": "少し秋風吹きたちなむ時、かならずあはむ」",
         "kana": "すこしあきかぜふきたちなむとき、かならずあはむ」",
         "honkoku": "すこしあき風ふきたちなん時かならす/あはん",
         "translation-ja": "少し秋風が吹いた時、必ず逢いましょう",
-        "translation-en": "When the autumn wind blows a little, we will meet for sure."
+        "translation-en": "When the autumn wind blows a little, we will meet for sure.",
+        "phrase-gloss": [
+          {
+            "phrase": "少し秋風吹き立ちなん時、必ず逢はん」",
+            "gloss": "a.little autumn.wind blow.rise FUT time certainly meet FUT",
+            "words": [
+              {
+                "word": "すこし",
+                "gloss": "a.little"
+              },
+              {
+                "word": "あき",
+                "gloss": "autumn"
+              },
+              {
+                "word": "かぜ",
+                "gloss": "wind"
+              },
+              {
+                "word": "ふきたち",
+                "gloss": "blow.rise.ADV"
+              },
+              {
+                "word": "な",
+                "gloss": "PERF.IRR"
+              },
+              {
+                "word": "ん",
+                "gloss": "FUT.ATTR"
+              },
+              {
+                "word": "とき",
+                "gloss": "time"
+              },
+              {
+                "word": "かならず",
+                "gloss": "certainly"
+              },
+              {
+                "word": "あは",
+                "gloss": "meet.IRR"
+              },
+              {
+                "word": "ん",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfect auxiliary",
+          "ATTR": "attributive form",
+          "ADV": "adverbial form",
+          "IRR": "irrealis auxiliary",
+          "FUT": "future tense"
+        },
+        "translation-ja-natural": "少し秋風が吹いた時、必ず逢いましょう",
+        "translation-en-natural": "When the autumn wind blows a little, we will meet for sure."
       },
       {
         "date": "20240917",
