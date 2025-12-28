@@ -42390,13 +42390,46 @@
         "translation-en-natural": "When the autumn wind blows a little, we will meet for sure."
       },
       {
-        "date": "20240917",
+        "date": [
+          20240917,
+          20251228
+        ],
         "id": 10,
         "text": "といへりけり。",
         "kana": "といへりけり。",
         "honkoku": "といへりけり",
-        "translation-ja": "と言いました。",
-        "translation-en": "that she said."
+        "translation-ja": "と言った。",
+        "translation-en": "that she said.",
+        "phrase-gloss": [
+          {
+            "phrase": "と言へりけり。",
+            "gloss": "QUOTE say.PST",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOTE"
+              },
+              {
+                "word": "いへ",
+                "gloss": "say.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "QUOTE": "quotative particle"
+        },
+        "translation-ja-natural": "と言った。",
+        "translation-en-natural": "that she said."
       },
       {
         "date": "20240917",
