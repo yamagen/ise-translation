@@ -42432,13 +42432,145 @@
         "translation-en-natural": "that she said."
       },
       {
-        "date": "20240917",
+        "date": [
+          20240917,
+          20251229
+        ],
         "id": 11,
         "text": "秋まつころほひに、ここかしこより、その人のもとへいなむずなりとて、口舌いできにけり。",
         "kana": "あきまつころほひに、ここかしこより、そのひとのもとへいなむずなりとて、くせちいできにけり。",
         "honkoku": "秋まつころをひに/s107l/ここかしこよりその人のもとへいなむす/なりとてくせちいてきにけり",
-        "translation-ja": "秋を待つ頃に、あちらこちらから、その人のもとへ行こうとして、揉め事が出てきてしまいました。",
-        "translation-en": "At the time when autumn was awaited, people from various places began to go to that person, and a dispute arose."
+        "translation-ja": "秋を待つ頃に、あちらこちらから、その人のもとへ行こうとして、揉め事が出てきてしまった。",
+        "translation-en": "At the time when autumn was awaited, people from various places began to go to that person, and a dispute arose.",
+        "phrase-gloss": [
+          {
+            "phrase": "秋待つころほひに、",
+            "gloss": "autumn wait time DAT",
+            "words": [
+              {
+                "word": "あき",
+                "gloss": "autumn"
+              },
+              {
+                "word": "まつ",
+                "gloss": "wait.ATTR"
+              },
+              {
+                "word": "ころほひ",
+                "gloss": "time"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "ここかしこより、",
+            "gloss": "here there from",
+            "words": [
+              {
+                "word": "ここ",
+                "gloss": "here"
+              },
+              {
+                "word": "かしこ",
+                "gloss": "there"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              }
+            ]
+          },
+          {
+            "phrase": "「その人のもとへ、いなむずなり」とて、",
+            "gloss": "that.person GEN place to leave will EVID QUOT CONJ",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "ひと",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "もと",
+                "gloss": "place"
+              },
+              {
+                "word": "へ",
+                "gloss": "to"
+              },
+              {
+                "word": "いな",
+                "gloss": "go.IRR"
+              },
+              {
+                "word": "むず",
+                "gloss": "FUT"
+              },
+              {
+                "word": "なり",
+                "gloss": "EVID"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "口舌出で来にけり。",
+            "gloss": "dispute come.out PERF",
+            "words": [
+              {
+                "word": "くぜち",
+                "gloss": "dispute"
+              },
+              {
+                "word": "いで",
+                "gloss": "out.ADV"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfect auxiliary",
+          "ADV": "adverbial form",
+          "DAT": "dative particle",
+          "GEN": "genitive particle",
+          "ATTR": "attributive form",
+          "IRR": "irrealis auxiliary",
+          "FUT": "future tense",
+          "EVID": "evidential auxiliary",
+          "PST": "past tense",
+          "CONJ": "conjunctive particle",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "秋を待つ頃に、あちらこちらから、その人のもとへ行こうという話が聞こえ、揉め事になってしまった。",
+        "translation-en-natural": "At the time when autumn was awaited, rumors spread from various places that caused disputes to arise."
       },
       {
         "date": "20240918",
