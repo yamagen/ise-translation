@@ -42573,13 +42573,85 @@
         "translation-en-natural": "At the time when autumn was awaited, rumors spread from various places that caused disputes to arise."
       },
       {
-        "date": "20240918",
+        "date": [
+          20240918,
+          20251230
+        ],
         "id": 12,
         "text": "さりければ、女の兄、にはかに迎へに来たり。",
         "kana": "さりければ、をんなのせうと、にはかにむかへにきたり。",
         "honkoku": "さりけれは/女のせうとにはかにむかへにきたり",
         "translation-ja": "そういうわけで、女性の兄が突然迎えに来た。",
-        "translation-en": "Therefore, the woman's brother suddenly came to pick her up."
+        "translation-en": "Therefore, the woman's brother suddenly came to pick her up.",
+        "phrase-gloss": [
+          {
+            "phrase": "さりければ、",
+            "gloss": "so CONJ",
+            "words": [
+              {
+                "word": "さり",
+                "gloss": "so"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "女の兄、にはかに迎へに来たり。",
+            "gloss": "woman GEN older.brother suddenly welcome DAT come PERF",
+            "words": [
+              {
+                "word": "をんな",
+                "gloss": "woman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "せうと",
+                "gloss": "older.brother"
+              },
+              {
+                "word": "にはかに",
+                "gloss": "suddenly"
+              },
+              {
+                "word": "むかへ",
+                "gloss": "welcome"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfect auxiliary",
+          "ADV": "adverbial form",
+          "DAT": "dative particle",
+          "GEN": "genitive particle",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "そういうわけで、女性の兄が突然迎えに来た。",
+        "translation-en-natural": "Therefore, the brother of the woman suddenly came to pick her up."
       },
       {
         "date": "20240918",
