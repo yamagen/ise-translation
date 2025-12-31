@@ -42654,13 +42654,113 @@
         "translation-en-natural": "Therefore, the brother of the woman suddenly came to pick her up."
       },
       {
-        "date": "20240918",
+        "date": [
+          20240918,
+          20251231
+        ],
         "id": 13,
         "text": "さればこの女、かへでの初紅葉をひろはせて、歌をよみて、書きつけておこせたり。",
         "kana": "さればこのをんな、かへでのはつもみちをひろはせて、うたをよみて、かきつけておこせたり。",
         "honkoku": "さ/れはこの女かえてのはつもみちをひろは/せてうたをよみてかきつけてをこせたり/",
         "translation-ja": "だからこの女は、楓の初紅葉を拾わせて、歌を詠み、それを書き記して送った。",
-        "translation-en": "Therefore, this woman spread out the first autumn leaves of the maple tree, composed a poem, and sent it written down."
+        "translation-en": "Therefore, this woman spread out the first autumn leaves of the maple tree, composed a poem, and sent it written down.",
+        "phrase-gloss": [
+          {
+            "phrase": "されば、この女、かへでの初紅葉を拾はせて、",
+            "gloss": "therefore, this woman maple GEN first.autumn.leaf ACC pick.CAUS",
+            "words": [
+              {
+                "word": "されば",
+                "gloss": "therefore"
+              },
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "かへで",
+                "gloss": "maple"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "初紅葉",
+                "gloss": "first.autumn.leaf"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "拾は",
+                "gloss": "pick.IRR"
+              },
+              {
+                "word": "せ",
+                "gloss": "CAUS"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "歌をよみて、書きつけておこせたり。",
+            "gloss": "poem ACC compose.ADV write.down.ADV send PERF",
+            "words": [
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "よみ",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "かきつけ",
+                "gloss": "write.down.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "をこせ",
+                "gloss": "send.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis auxiliary",
+          "PERF": "perfect auxiliary",
+          "ADV": "adverbial form",
+          "CAUS": "causative auxiliary",
+          "ACC": "accusative particle",
+          "GEN": "genitive particle",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "だからこの女は、楓の初紅葉を拾わせて、歌を詠み、それを書き記して送った。",
+        "translation-en-natural": "Therefore, this woman spread out the first autumn leaves of the maple tree, composed a poem, and sent it written down."
       },
       {
         "date": "20240918",
