@@ -42878,13 +42878,99 @@
         "translation-en-natural": "Though I say that autumn has come, it is not truly autumn; the leaves are falling and indeed flowing into the river."
       },
       {
-        "date": "20240918",
+        "date": [
+          20240918,
+          20260102
+        ],
         "id": 15,
         "text": "と書きおきて、「かしこより人おこせば、これをやれ」とていぬ。",
         "kana": "とかきをきてかしこよりひとをこせはこれをやれとていぬ。",
         "honkoku": "とかきをきてかしこより人をこせはこれ/をやれとていぬ",
         "translation-ja": "とかく言いながら、あちらから人を呼び寄せて、これを持って行けと言って去ってしまった。",
-        "translation-en": "While saying various things, they called someone from over there and said, \"Take this and go,\" and then left."
+        "translation-en": "While saying various things, they called someone from over there and said, \"Take this and go,\" and then left.",
+        "phrase-gloss": [
+          {
+            "phrase": "と書きおきて、",
+            "gloss": "QUOTE write.leave CONJ",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOTE"
+              },
+              {
+                "word": "書き",
+                "gloss": "write.ADV"
+              },
+              {
+                "word": "おき",
+                "gloss": "leave.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "「かしこより人おこせば、これをやれ」とて去ぬ。",
+            "gloss": "there.from person send.IF this ACC give.IMPER QUOT CONJ leave",
+            "words": [
+              {
+                "word": "かしこ",
+                "gloss": "there"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "ひと",
+                "gloss": "person"
+              },
+              {
+                "word": "おこせ",
+                "gloss": "send.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "やれ",
+                "gloss": "give.IMPER"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "いぬ",
+                "gloss": "leave"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IF": "conditional auxiliary",
+          "IMPER": "imperative form",
+          "ACC": "accusative particle",
+          "QUOTE": "quotative particle",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "とかく言いながら、あちらから人を呼び寄せて、これを持って行けと言って去ってしまった。",
+        "translation-en-natural": "While saying various things, they called someone from over there and left saying, \"Take this and go.\""
       },
       {
         "date": "20240918",
