@@ -42763,13 +42763,119 @@
         "translation-en-natural": "Therefore, this woman spread out the first autumn leaves of the maple tree, composed a poem, and sent it written down."
       },
       {
-        "date": "20240918",
+        "date": [
+          20240918,
+          20260101
+        ],
         "id": 14,
         "poem": "秋かけて/いひしながらも/あらなくに/木の葉ふりしく/えにこそありけれ",
         "kana": "あきかけて/いひしながらも/あらなくに/このはふりしく/えにこそありけれ",
         "honkoku": "あきかけていひしなからもあらなくに/木葉ふりしくえにこそありけれ/",
         "translation-ja": "秋が来たと言いながらも、実際には秋ではないのに、木の葉が降り敷いて、確かに江に流れている。",
-        "translation-en": "Though I say that autumn has come, it is not truly autumn; the leaves are falling and indeed flowing into the river."
+        "translation-en": "Though I say that autumn has come, it is not truly autumn; the leaves are falling and indeed flowing into the river.",
+        "phrase-gloss": [
+          {
+            "phrase": "秋かけていひしながらもあらなくに",
+            "gloss": "autumn approach CONJ say PST while exist NEG CONJ",
+            "words": [
+              {
+                "word": "あき",
+                "gloss": "autumn"
+              },
+              {
+                "word": "かけ",
+                "gloss": "approach.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST"
+              },
+              {
+                "word": "ながらも",
+                "gloss": "while"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "なく",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "木の葉降りしくえにこそありけれ",
+            "gloss": "tree GEN leaf fall lay river DAT EMPH exist PST",
+            "words": [
+              {
+                "word": "木",
+                "gloss": "tree"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "は",
+                "gloss": "leaf"
+              },
+              {
+                "word": "ふり",
+                "gloss": "fall.ADV"
+              },
+              {
+                "word": "しく",
+                "gloss": "lay"
+              },
+              {
+                "word": "え",
+                "gloss": "river"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "NEG": "negative auxiliary",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary",
+          "ADV": "adverbial form",
+          "IRR": "irrealis auxiliary",
+          "DAT": "dative particle",
+          "GEN": "genitive particle",
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "秋が来たと言いながらも、実際には秋ではないのに、木の葉が降り敷いて、確かに江に流れている。",
+        "translation-en-natural": "Though I say that autumn has come, it is not truly autumn; the leaves are falling and indeed flowing into the river."
       },
       {
         "date": "20240918",
