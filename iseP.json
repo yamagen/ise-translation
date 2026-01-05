@@ -9477,7 +9477,7 @@
           "GEN": "genitive（連体格）",
           "Q": "question particle（疑問助詞）",
           "EMPH/REFL": "emphatic or reflexive（係助詞・反語）",
-          "QUOT": "quotative（引用・伝聞）"
+          "QUOT": "quotative（引用）"
         },
         "translation-ja-natural": "染川を渡ろうとする人が、恋に染まらずにいられるなんて、どうしてあるでしょうか。",
         "translation-en-natural": "How could anyone who tries to cross the Dyed River not end up stained with love?",
@@ -11621,7 +11621,7 @@
               },
               {
                 "word": "らし",
-                "gloss": "evidential (seems)"
+                "gloss": "EVID"
               }
             ]
           },
@@ -17827,7 +17827,7 @@
             "words": [
               {
                 "word": "なり",
-                "gloss": "become.ADV.F"
+                "gloss": "become.ADV"
               },
               {
                 "word": "に",
@@ -18005,7 +18005,7 @@
               },
               {
                 "word": "なり",
-                "gloss": "be.ADV.F"
+                "gloss": "be.ADV"
               },
               {
                 "word": "ける",
@@ -18105,11 +18105,11 @@
               },
               {
                 "word": "なり",
-                "gloss": "be.ADV.F"
+                "gloss": "be.ADV"
               },
               {
                 "word": "けれ",
-                "gloss": "EXCL.REALIS.F"
+                "gloss": "EXCL.REALIS"
               },
               {
                 "word": "ば",
@@ -21471,7 +21471,7 @@
               },
               {
                 "word": "なり",
-                "gloss": "be.ADV.F"
+                "gloss": "be.ADV"
               },
               {
                 "word": "ける",
@@ -24383,7 +24383,7 @@
               },
               {
                 "word": "なり",
-                "gloss": "be.ADV.F"
+                "gloss": "be.ADV"
               },
               {
                 "word": "ける",
@@ -26521,7 +26521,7 @@
               },
               {
                 "word": "なり",
-                "gloss": "be.ADV.F"
+                "gloss": "be.ADV"
               },
               {
                 "word": "ける",
@@ -27052,7 +27052,7 @@
               },
               {
                 "word": "なり",
-                "gloss": "be.ADV.F"
+                "gloss": "be.ADV"
               },
               {
                 "word": "ける",
@@ -29389,11 +29389,11 @@
               },
               {
                 "word": "なり",
-                "gloss": "become.ADV.F"
+                "gloss": "become.ADV"
               },
               {
                 "word": "に",
-                "gloss": "PERF.ADV.F"
+                "gloss": "PERF.ADV"
               },
               {
                 "word": "けれ",
@@ -29819,7 +29819,7 @@
               },
               {
                 "word": "なり",
-                "gloss": "COP.ADV.F"
+                "gloss": "COP.ADV"
               },
               {
                 "word": "ける",
@@ -30262,7 +30262,7 @@
               },
               {
                 "word": "なり",
-                "gloss": "become.ADV.F"
+                "gloss": "become.ADV"
               },
               {
                 "word": "ぬ",
@@ -32214,7 +32214,7 @@
           "NEG": "Negative",
           "REALIS": "Realis form (已然形)",
           "CAUS": "Causative",
-          "PST": "Past evidential (けり)"
+          "PST": "Past tense auxiliary"
         },
         "translation-ja-natural": "お見送りをして、すぐに帰ろうと思ったが、大御酒を賜り、褒美をやろうと言われて、すぐには帰してもらえなかった。",
         "translation-en-natural": "He intended to send them off and return quickly, but he was offered sacred sake and promised a reward, so they didn’t let him leave right away."
@@ -32494,7 +32494,7 @@
           },
           {
             "phrase": "なりけり",
-            "gloss": "was (evidential)",
+            "gloss": "be PST",
             "words": [
               {
                 "word": "なり",
@@ -32511,8 +32511,8 @@
           "TOP": "topic",
           "GEN": "genitive",
           "COP": "copula",
-          "ADV": "adverbial form（連用形）",
-          "PST": "past tense auxiliary（過去助動詞）"
+          "ADV": "adverbial form",
+          "PST": "past tense auxiliary"
         },
         "translation-ja-natural": "その時は三月の末でした。",
         "translation-en-natural": "It was the last day of the third month."
@@ -32559,7 +32559,7 @@
             "words": [
               {
                 "word": "明かし",
-                "gloss": "pass.the.night.ADV"
+                "gloss": "stay.up.ADV"
               },
               {
                 "word": "たまう",
@@ -42973,31 +42973,248 @@
         "translation-en-natural": "While saying various things, they called someone from over there and left saying, \"Take this and go.\""
       },
       {
-        "date": "20240918",
+        "date": [
+          20240918,
+          20260103
+        ],
         "id": 16,
         "text": "さてやがてのち、つひに今日までしらず。",
         "kana": "さてやがてのち、つひにけふまでしらず。",
         "honkoku": "さてやかてのちつゐに/s108r/けふまてしらす",
         "translation-ja": "そして、その後、とうとう今日までかわからない。",
-        "translation-en": "And so, after that, I don't know what happened."
+        "translation-en": "And so, after that, I don't know what happened.",
+        "phrase-gloss": [
+          {
+            "phrase": "さて、やがてのち、",
+            "gloss": "well soon after",
+            "words": [
+              {
+                "word": "さて",
+                "gloss": "well"
+              },
+              {
+                "word": "やがて",
+                "gloss": "soon"
+              },
+              {
+                "word": "のち",
+                "gloss": "after"
+              }
+            ]
+          },
+          {
+            "phrase": "つひに今日まで知らず。",
+            "gloss": "finally today until not.know",
+            "words": [
+              {
+                "word": "つひに",
+                "gloss": "finally"
+              },
+              {
+                "word": "けふ",
+                "gloss": "today"
+              },
+              {
+                "word": "まで",
+                "gloss": "until"
+              },
+              {
+                "word": "しら",
+                "gloss": "not.know.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis auxiliary",
+          "NEG": "negative auxiliary"
+        },
+        "translation-ja-natural": "そして、その後、とうとう今日までかわからない。",
+        "translation-en-natural": "And so, after that, I don't know what happened."
       },
       {
-        "date": "20240918",
+        "date": [
+          20240918,
+          20260104
+        ],
         "id": 17,
         "text": "よくてやあらむ、あしくてやあらむ、いにし所もしらず。",
         "kana": "よくてやあらむ、あしくてやあらむ、いにしところもしらず。",
         "honkoku": "よくてやあらんあし/くてやあらむいにし所もしらす",
         "translation-ja": "うまくいくのだろうか、悪くなるのだろうか、昔のことは知らない。",
-        "translation-en": "Will it go well, or will it turn bad? I do not know of the past."
+        "translation-en": "Will it go well, or will it turn bad? I do not know of the past.",
+        "phrase-gloss": [
+          {
+            "phrase": "よくてやあらん、あしくてやあらむ。",
+            "gloss": "well CONJ EMPH exist FUT bad CONJ EMPH exist FUT",
+            "words": [
+              {
+                "word": "よく",
+                "gloss": "well"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "や",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "ん",
+                "gloss": "FUT"
+              },
+              {
+                "word": "あしく",
+                "gloss": "bad.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "や",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "いにし所も知らず。",
+            "gloss": "past place also not.know",
+            "words": [
+              {
+                "word": "いにし",
+                "gloss": "past"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "FUT": "future tense",
+          "NEG": "negative auxiliary",
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle",
+          "IRR": "irrealis auxiliary"
+        },
+        "translation-ja-natural": "うまくいくのだろうか、悪くなるのだろうか、昔のことは知らない。",
+        "translation-en-natural": "Will it go well, or will it turn bad? I do not know of the past."
       },
       {
-        "date": "20240918",
+        "date": [
+          20240918,
+          20260105
+        ],
         "id": 18,
         "text": "かの男は、天の逆手を打ちてなむのろひをるなる。",
         "kana": "かのをとこは、あまのさかてをうちてなむのろひをるなる。",
         "honkoku": "かの/おとこはあまのさかてをうちてなんの/ろひをるなる",
         "translation-ja": "その男は、天の逆手を使って呪いをかけているようだ。",
-        "translation-en": "That man seems to be casting a curse using the reverse hand of heaven."
+        "translation-en": "That man seems to be casting a curse using the reverse hand of heaven.",
+        "phrase-gloss": [
+          {
+            "phrase": "かの男は、天の逆手を打ちてなむのろひをるなる。",
+            "gloss": "that man TOP heaven GEN reverse.hand ACC strike.ADV EMPH curse be QUOT",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that"
+              },
+              {
+                "word": "をとこ",
+                "gloss": "man"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "あま",
+                "gloss": "heaven"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "さかて",
+                "gloss": "reverse.hand"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "うち",
+                "gloss": "strike.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "な",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "のろひ",
+                "gloss": "curse"
+              },
+              {
+                "word": "をる",
+                "gloss": "be"
+              },
+              {
+                "word": "なる",
+                "gloss": "EVID"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "TOP": "topic particle",
+          "GEN": "genitive particle",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "EMPH": "emphatic particle",
+          "PROG": "progressive auxiliary",
+          "QUOT": "quotative particle",
+          "EVID": "evidential auxiliary",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "その男は、天の逆手を使って呪いをかけているようだ。",
+        "translation-en-natural": "That man seems to be casting a curse using the reverse hand of heaven."
       },
       {
         "date": "20240918",
