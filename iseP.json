@@ -43217,13 +43217,37 @@
         "translation-en-natural": "That man seems to be casting a curse using the reverse hand of heaven."
       },
       {
-        "date": "20240918",
+        "date": [
+          20240918,
+          20260106
+        ],
         "id": 19,
         "text": "むくつけきこと。",
         "kana": "むくつけきこと。",
         "honkoku": "むくつけきこと",
         "translation-ja": "気味の悪いことだ。",
-        "translation-en": "It's a creepy thing."
+        "translation-en": "It's a creepy thing.",
+        "phrase-gloss": [
+          {
+            "phrase": "むくつけきこと。",
+            "gloss": "creepy thing",
+            "words": [
+              {
+                "word": "むくつけき",
+                "gloss": "creepy.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form"
+        },
+        "translation-ja-natural": "気味の悪いことだ。",
+        "translation-en-natural": "It's a creepy thing."
       },
       {
         "date": "20240918",
