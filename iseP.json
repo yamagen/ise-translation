@@ -43369,13 +43369,71 @@
         ]
       },
       {
-        "date": "20240918",
+        "date": [
+          20240918,
+          20260108
+        ],
         "id": 21,
         "text": "「いまこそは見め」とぞいふなる。",
         "kana": "「いまこそはみめ」とぞいふなる。",
         "honkoku": "いまこそはみめとそ/いふなる/s108l/",
         "translation-ja": "「今こそ見よ」と言っている。",
-        "translation-en": "He says, \"Now is the time to see.\""
+        "translation-en": "He says, \"Now is the time to see.\"",
+        "phrase-gloss": [
+          {
+            "phrase": "「いまこそは見め」とぞいふなる。",
+            "gloss": "now EMPH TOP see MOD QUOT EMPH say EVID",
+            "words": [
+              {
+                "word": "いま",
+                "gloss": "now"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "見",
+                "gloss": "see.IRR"
+              },
+              {
+                "word": "め",
+                "gloss": "MOD.REALIS"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              },
+              {
+                "word": "なる",
+                "gloss": "EVID"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "MOD": "modal auxiliary",
+          "REALIS": "realis auxiliary",
+          "IMPER": "imperative form",
+          "EVID": "evidential auxiliary",
+          "QUOT": "quotative particle",
+          "TOP": "topic particle",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "「今こそ見るだろう」と言っている。",
+        "translation-en-natural": "He says, \"Now is the time to see.\""
       }
     ]
   },
