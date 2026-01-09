@@ -43443,13 +43443,67 @@
     "romaji": "shijuu no ga",
     "paragraph": [
       {
-        "date": "20240919",
+        "date": [
+          20240919,
+          20260109
+        ],
         "id": 1,
         "text": "むかし、堀河のおほきおほいまうちぎみと聞ゆる、おはしけり。",
         "kana": "むかし、ほりかわのおほきおほいまうちぎみとききゆる、おはしけり。",
         "honkoku": "昔ほりかはのおほいまうちきみと申い/まそかりけり",
         "translation-ja": "昔、堀河の大臣という方がいらっしゃった。",
-        "translation-en": "Once upon a time, there was a minister of Horikawa."
+        "translation-en": "Once upon a time, there was a minister of Horikawa.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、堀河のおほきおほいまうちぎみと申す、いまそかりけり。",
+            "gloss": "once.upon.a.time Horikawa GEN great minister QUOT say POL.PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once.upon.a.time"
+              },
+              {
+                "word": "ほりかわ",
+                "gloss": "Horikawa.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "おほきおほいまうちぎみ",
+                "gloss": "great.minister"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "申す",
+                "gloss": "say.HON"
+              },
+              {
+                "word": "いまそかり",
+                "gloss": "be.POL.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "HON": "honorific auxiliary",
+          "ADV": "adverbial form",
+          "POL": "polite auxiliary",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary",
+          "QUOT": "quotative particle",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "昔、堀河の大臣という方がいらっしゃった。",
+        "translation-en-natural": "Once upon a time, there was a minister of Horikawa."
       },
       {
         "date": "20240919",
