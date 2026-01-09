@@ -43250,13 +43250,123 @@
         "translation-en-natural": "It's a creepy thing."
       },
       {
-        "date": "20240918",
+        "date": [
+          20240918,
+          20260107
+        ],
         "id": 20,
         "text": "人ののろひごとは、おふものにやあらむ、おはぬものにやあらむ。",
         "kana": "ひとののろひごとは、おふものにやあらむ、おはぬものにやあらむ。",
         "honkoku": "ひとののろ/ひことはおふ物にやあらんおはぬ/ものにやあらん",
-        "translation-ja": "人の呪いごとは、そのとおりになって、ふりかかってくるものなのだろうか、なんでもないものなのだろうか。",
-        "translation-en": "Will the curse of a person come true for those who are negative, or for those who are not negative?"
+        "translation-ja": "人の呪いごとは、負うものであろうか、負わぬものであろうか。",
+        "translation-en": "Are people's curses something one bears, or something one does not bear?",
+        "phrase-gloss": [
+          {
+            "phrase": "人の呪ひごとは、",
+            "gloss": "person GEN curse.word TOP",
+            "words": [
+              {
+                "word": "ひと",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "のろひごと",
+                "gloss": "curse.word"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "負ふものにやあらん、負はぬものにやあらん。",
+            "gloss": "bear thing DAT EMPH be FUT not.bear thing DAT EMPH be FUT",
+            "words": [
+              {
+                "word": "おふ",
+                "gloss": "bear.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "ん",
+                "gloss": "FUT"
+              },
+              {
+                "word": "おは",
+                "gloss": "not.bear.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "ん",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "Q": "question particle",
+          "ATTR": "attributive form",
+          "DAT": "dative particle",
+          "EMPH": "emphatic particle",
+          "FUT": "future tense",
+          "IRR": "irrealis auxiliary",
+          "NEG": "negative auxiliary",
+          "TOP": "topic particle",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "人の呪いごとは、負うものであろうか、負わぬものであろうか。",
+        "translation-en-natural": "Will a person’s curse be borne, or will it not be borne?",
+        "notes-ja": [
+          {
+            "title": "bear の意味について",
+            "body": "「負う」はここでは「呪いを受ける」という意味で使われている。\n\n| No. | 中心イメージ | 用法 | 例 | 難易度 |\n| --- | ------------ | ---- | -- | ------ |\n| 1 | 物理的に支える | carry/support | bear a load | ★ |\n| 2 | 精神的に耐える | endure | bear the pain | ★★ |\n| 3 | 結果を引き受ける | accept consequence | bear responsibility | ★★★ |\n| 4 | 不可避に被る | suffer | bear a curse | ★★★ |\n| 5 | 産み出す | give birth | bear a child | ★★ |\n| 6 | 付随して持つ | have/show | bear a mark | ★★ |"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Meanings of 'bear'",
+            "body": "'Bear' in this context means 'to receive a curse.'\n\n| No. | Core Image | Usage | Example | Difficulty |\n| --- | ---------- | ----- | ------- | ---------- |\n| 1 | Physically support | carry/support | bear a load | ★ |\n| 2 | Mentally endure | endure | bear the pain | ★★ |\n| 3 | Accept consequences | accept consequence | bear responsibility | ★★★ |\n| 4 | Inevitably suffer | suffer | bear a curse | ★★★ |\n| 5 | Give birth | give birth to | bear a child | ★★ |\n| 6 | Possess/show | have/show | bear a mark | ★★ |"
+          }
+        ]
       },
       {
         "date": "20240918",
