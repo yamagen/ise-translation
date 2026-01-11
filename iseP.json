@@ -43506,13 +43506,99 @@
         "translation-en-natural": "Once upon a time, there was a minister of Horikawa."
       },
       {
-        "date": "20240919",
+        "date": [
+          20240919,
+          20260110
+        ],
         "id": 2,
         "text": "四十の賀、九条の家にてせられける日、中将なりけるおきな、",
         "kana": "しじゅうのが、くじやうのいへにてせられけるひ、ちやうじやうなりけるおきな、",
         "honkoku": "四十の賀九条の家にてせら/s108l/れける日中将なりけるおきな/",
-        "translation-ja": "四十歳の祝いが九条の家で行われた日、中将であった老翁が、",
-        "translation-en": "On the day when the fortieth birthday celebration was held at the Kujo residence, there was an old man who was a middle counselor who sang,"
+        "translation-ja": "四十歳のお祝いが九条の家で行われた日、中将であった老翁が、",
+        "translation-en": "On the day when the fortieth birthday celebration was held at the Kujo residence, there was an old man who was a middle counselor who sang,",
+        "phrase-gloss": [
+          {
+            "phrase": "四十の賀、九条の家にてせられける日、",
+            "gloss": "forty GEN celebration Kujo GEN house LOC do.POL.PST day",
+            "words": [
+              {
+                "word": "四十",
+                "gloss": "forty"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "賀",
+                "gloss": "celebration"
+              },
+              {
+                "word": "九条",
+                "gloss": "Kujo.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "家",
+                "gloss": "house"
+              },
+              {
+                "word": "にて",
+                "gloss": "LOC"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "られ",
+                "gloss": "POL.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              }
+            ]
+          },
+          {
+            "phrase": "中将なりける翁、",
+            "gloss": "middle.counselor be.POL.PST old.man",
+            "words": [
+              {
+                "word": "中将",
+                "gloss": "middle.counselor"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              },
+              {
+                "word": "翁",
+                "gloss": "old.man"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "POL": "polite auxiliary",
+          "PST": "past tense",
+          "ADV": "adverbial form",
+          "LOC": "locative particle",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "四十歳のお祝いが九条の家で行われた日、中将であった老翁が、",
+        "translation-en-natural": "On the day when the fortieth birthday celebration was held at the Kujo residence, there was an old man who was a middle counselor who sang,"
       },
       {
         "date": "20240919",
