@@ -43601,13 +43601,82 @@
         "translation-en-natural": "On the day when the fortieth birthday celebration was held at the Kujo residence, there was an old man who was a middle counselor who sang,"
       },
       {
-        "date": "20240919",
+        "date": [
+          20240919,
+          20260111
+        ],
         "id": 3,
         "poem": "桜花/散りかひ曇れ/老いらくの/来むといふなる/道まがふがに",
         "kana": "さくらばな/ちりかひくもれ/おいらくの/こむといふなる/みちまかふがに",
         "honkoku": "さくら花ちりかひくもれ老らくの/こむといふなる道まかふかに/s109r/",
         "translation-ja": "桜花よ、散りかって曇らせよ、老いがやってくる道がわからなくなるほどに。",
-        "translation-en": "Let the cherry blossoms begin to fall and cloud the sky, so that the path of old age becomes unclear."
+        "translation-en": "Let the cherry blossoms begin to fall and cloud the sky, so that the path of old age becomes unclear.",
+        "phrase-gloss": [
+          {
+            "phrase": "桜花散りかひ曇れ老いらくの来むといふなる道まがふがに",
+            "gloss": "cherry.blossom fall.scatter cloud old.age GEN come QUOT say EVID path lose.way CONJ",
+            "words": [
+              {
+                "word": "桜花",
+                "gloss": "cherry.blossom"
+              },
+              {
+                "word": "散りかひ",
+                "gloss": "fall.scatter.ADV"
+              },
+              {
+                "word": "曇れ",
+                "gloss": "cloud.IMPER"
+              },
+              {
+                "word": "老いらく",
+                "gloss": "old.age"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "来む",
+                "gloss": "come.IRR"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              },
+              {
+                "word": "なる",
+                "gloss": "EVID.ATTR"
+              },
+              {
+                "word": "道",
+                "gloss": "path"
+              },
+              {
+                "word": "まがふ",
+                "gloss": "lose.way.ATTR"
+              },
+              {
+                "word": "がに",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis auxiliary",
+          "IMPER": "imperative form",
+          "ADV": "adverbial form",
+          "EVID": "evidential auxiliary",
+          "QUOT": "quotative particle",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "桜花よ、散りかって曇らせよ、老いがやってくる道がわからなくなるほどに。",
+        "translation-en-natural": "Let the cherry blossoms begin to fall and cloud the sky, so that the path of old age becomes unclear."
       }
     ]
   },
