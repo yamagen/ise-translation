@@ -43686,13 +43686,58 @@
     "romaji": "ume no tsukurie",
     "paragraph": [
       {
-        "date": "20240919",
+        "date": [
+          20240919,
+          20260112
+        ],
         "id": 1,
         "text": "むかし、おほきおほいまうちぎみと聞ゆる、おはしけり。",
         "kana": "むかし、おほきおほいまうちぎみときこゆる、おはしけり。",
         "honkoku": "むかしおほきおほいまうち君ときこゆる/おはしけり",
-        "translation-ja": "昔、太政大臣という方がいらっしゃいました。",
-        "translation-en": "Once upon a time, there was a minister of the highest rank."
+        "translation-ja": "昔、太政大臣とおっしゃる方がいらっしゃった。",
+        "translation-en": "Once upon a time, there was a minister of the highest rank.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、おほきおほいまうちぎみと聞こゆる、おはしけり。",
+            "gloss": "once.upon.a.time great minister QUOT hear.HON POL.PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once.upon.a.time"
+              },
+              {
+                "word": "おほきおほいまうちぎみ",
+                "gloss": "great.minister"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "きこゆる",
+                "gloss": "hear.HON"
+              },
+              {
+                "word": "おはし",
+                "gloss": "be.POL.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "HON": "honorific auxiliary",
+          "ADV": "adverbial form",
+          "POL": "polite auxiliary",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "昔、太政大臣とおっしゃる方がいらっしゃった。",
+        "translation-en-natural": "Once upon a time, there was a minister of the highest rank."
       },
       {
         "date": "20240919",
