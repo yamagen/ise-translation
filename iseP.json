@@ -43740,13 +43740,104 @@
         "translation-en-natural": "Once upon a time, there was a minister of the highest rank."
       },
       {
-        "date": "20240919",
+        "date": [
+          20240919,
+          20260113
+        ],
         "id": 2,
         "text": "仕うまつる男、九月ばかりに、梅の造り枝に雉をつけて奉るとて、",
         "kana": "つかうまつるをとこ、くがつばかりに、うめのつくりえにきじをつけてたてまつるとて、",
         "honkoku": "つかうまつるおとこ長月はかり/に梅のつくりえたにきしをつけて/たてまつるとて/",
         "translation-ja": "仕えている男が、九月ごろに、梅の造り枝に雉をつけて奉るといって、",
-        "translation-en": "A man who serves, in September, attaches a pheasant to a plum tree branch and offers it, and sang, "
+        "translation-en": "A man who serves, in September, attaches a pheasant to a plum tree branch and offers it, and sang, ",
+        "phrase-gloss": [
+          {
+            "phrase": "仕うまつる男、九月ばかりに、梅のつくり枝に雉をつけて奉るとて、",
+            "gloss": "serve HON man September about LOC plum GEN artificial.branch DAT pheasant ACC attach.ADV offer.HON QUOT",
+            "words": [
+              {
+                "word": "仕う",
+                "gloss": "serve.ADV"
+              },
+              {
+                "word": "まつる",
+                "gloss": "HON.ATTR"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "九月",
+                "gloss": "September"
+              },
+              {
+                "word": "ばかり",
+                "gloss": "about"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "梅",
+                "gloss": "plum"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "つくり枝",
+                "gloss": "artificial.branch"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "雉",
+                "gloss": "pheasant"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "つけ",
+                "gloss": "attach.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "奉る",
+                "gloss": "offer.HON"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "HON": "honorific auxiliary",
+          "ADV": "adverbial form",
+          "ACC": "accusative particle",
+          "DAT": "dative particle",
+          "LOC": "locative particle",
+          "QUOT": "quotative particle",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "仕えている男が、九月ごろに、梅の造り枝に雉をつけて奉るといって、",
+        "translation-en-natural": "A man who serves, in September, attaches a pheasant to a plum tree branch and offers it, and sang, "
       },
       {
         "date": "20240919",
