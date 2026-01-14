@@ -43840,13 +43840,119 @@
         "translation-en-natural": "A man who serves, in September, attaches a pheasant to a plum tree branch and offers it, and sang, "
       },
       {
-        "date": "20240919",
+        "date": [
+          20240919,
+          20260114
+        ],
         "id": 3,
         "poem": "わが頼む/君がためにと/折る花は/ときしもわかぬ/ものにぞありける",
         "kana": "わがたのむ/きみがためにと/をるはなは/ときしもわかぬものにぞありける",
         "honkoku": "わかたのむ君かためにとおる花は/ときしもわかぬものにそ有ける/s109r/",
         "translation-ja": "私が信頼しているあなたのために折った花は、花の時期もわからないものだったようです。",
-        "translation-en": "The flowers I picked for you, whom I rely on, seem to be those that do not recognize their season."
+        "translation-en": "The flowers I picked for you, whom I rely on, seem to be those that do not recognize their season.",
+        "phrase-gloss": [
+          {
+            "phrase": "わが頼む君がためにと",
+            "gloss": "my rely.on lord GEN sake DAT QUOT",
+            "words": [
+              {
+                "word": "わが",
+                "gloss": "my"
+              },
+              {
+                "word": "頼む",
+                "gloss": "rely.on.ATTR"
+              },
+              {
+                "word": "君",
+                "gloss": "you"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ため",
+                "gloss": "sake"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              }
+            ]
+          },
+          {
+            "phrase": "折る花はときしもわかぬものにぞありける",
+            "gloss": "pick.IRR flower TOP time EMPH not.know thing DAT EMPH be.PST",
+            "words": [
+              {
+                "word": "折る",
+                "gloss": "pick.ATTR"
+              },
+              {
+                "word": "花",
+                "gloss": "flower"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "とき",
+                "gloss": "time"
+              },
+              {
+                "word": "しも",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "わか",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "NEG": "negative auxiliary",
+          "IRR": "irrealis auxiliary",
+          "ATTR": "attributive form",
+          "TOP": "topic particle",
+          "DAT": "dative particle",
+          "EMPH": "emphatic particle",
+          "PST": "past tense",
+          "QUOT": "quotative particle",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "私が信頼しているあなたのために折った花は、花の時期もわからないものだったようです。",
+        "translation-en-natural": "The flowers I picked for you, whom I rely on, seem to be those that do not recognize their season."
       },
       {
         "date": "20240920",
