@@ -43955,13 +43955,115 @@
         "translation-en-natural": "The flowers I picked for you, whom I rely on, seem to be those that do not recognize their season."
       },
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260115
+        ],
         "id": 4,
         "text": "とよみて奉りたりければ、いとかしこくをかしがりたまひて、使に禄たまへりけり。",
         "kana": "とよみてたてまつりたりければ、いとかしこくをかしがりたまひて、つかひにろくたまへりけり。",
         "honkoku": "とよみてたてまつりたりけれはいとかしこ/くをかしかり給ひてつかひにろくた/まへりけり/s109l/",
-        "translation-ja": "と詠んで差し上げたところ、たいそう感心なさって、お使いにご褒美をお与えになりました。",
-        "translation-en": "After singing this poem and presenting it, he was greatly pleased and rewarded the messenger."
+        "translation-ja": "と詠んで差し上げたところ、たいそう感心なさって、お使いにご褒美をお与えになった。",
+        "translation-en": "After singing this poem and presenting it, he was greatly pleased and rewarded the messenger.",
+        "phrase-gloss": [
+          {
+            "phrase": "と詠みて奉りたりければ、",
+            "gloss": "QUOT sing.ADV offer PERF PST because",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "詠み",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "奉り",
+                "gloss": "offer.HON.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST"
+              },
+              {
+                "word": "ば",
+                "gloss": "because"
+              }
+            ]
+          },
+          {
+            "phrase": "いとかしこくをかしがり給ひて、使に禄賜へりけり。",
+            "gloss": "very deeply show.interest HON CONJ messenger DAT reward give.POL PERF PST",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "かしこく",
+                "gloss": "deeply"
+              },
+              {
+                "word": "をかしがり",
+                "gloss": "show.interest.ADV"
+              },
+              {
+                "word": "給ひ",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "使",
+                "gloss": "messenger"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "禄",
+                "gloss": "reward"
+              },
+              {
+                "word": "賜へ",
+                "gloss": "give.POL.ADV"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": " PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "HON": "honorific auxiliary",
+          "ADV": "adverbial form",
+          "PERF": "perfect auxiliary",
+          "CONJ": "conjunctive particle",
+          "PST": "past tense",
+          "POL": "polite auxiliary",
+          "DAT": "dative particle",
+          "ACC": "accusative particle",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "と詠んで差し上げたところ、たいそう感心なさって、お使いにご褒美をお与えになった。",
+        "translation-en-natural": "After singing this poem and presenting it, he was greatly pleased and rewarded the messenger."
       }
     ]
   },
