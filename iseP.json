@@ -44073,49 +44073,484 @@
     "romaji": "hiori no hi",
     "paragraph": [
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260116
+        ],
         "id": 1,
         "text": "むかし、右近の馬場のひをりの日、むかひに立てたりける車に、女の顔の、下簾よりほのかに見えければ、中将なりける男のよみてやりける。",
         "kana": "むかし、うこんのばばのひをりのひ、むかひにたてたりけるくるまに、をんなのかほの、したすだれよりほのかにみえければ、ちゆうじやうなりけるをとこのよみてやりける。",
         "honkoku": "むかしおとこ右近の馬場のひをりの日む/かひにたてたりける車に女のかほの/したすたれよりほのかにみえけれは中将/なりけるおとこのよみてやりける/",
         "translation-ja": "昔、右近の馬場で火を囲む集まりがあった日、向かいに止まっていた車の中から女性の顔が、下簾越しにほのかに見えたので、中将であった男が歌を詠んで送った。",
-        "translation-en": "Once upon a time, on the day of the fire gathering at Ukon no Baba, the face of a woman could be faintly seen through the lower curtain of a carriage that was parked across. Thus, a man who was a Middle captain sang a song and sent it to her."
+        "translation-en": "Once upon a time, on the day of the fire gathering at Ukon no Baba, the face of a woman could be faintly seen through the lower curtain of a carriage that was parked across. Thus, a man who was a Middle captain sang a song and sent it to her.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、右近の馬場のひをりの日、",
+            "gloss": "once.upon.a.time Ukon GEN horse.riding.ground GEN fire.gathering GEN day",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once.upon.a.time"
+              },
+              {
+                "word": "右近",
+                "gloss": "Ukon.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "馬場",
+                "gloss": "horse.riding.ground"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ひをり",
+                "gloss": "fire.gathering"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              }
+            ]
+          },
+          {
+            "phrase": "向かひに立てたりける車に、女の顔の下簾よりほのかに見えければ、",
+            "gloss": "across LOC stand PERF PST carriage DAT woman GEN face GEN lower.curtain from faintly see PST because",
+            "words": [
+              {
+                "word": "向かひ",
+                "gloss": "across"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "立て",
+                "gloss": "stand.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              },
+              {
+                "word": "車",
+                "gloss": "carriage"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "顔",
+                "gloss": "face"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "下簾",
+                "gloss": "lower.curtain"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "ほのかに",
+                "gloss": "faintly"
+              },
+              {
+                "word": "見え",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST"
+              },
+              {
+                "word": "ば",
+                "gloss": "because"
+              }
+            ]
+          },
+          {
+            "phrase": "中将なりける男の詠みてやりける、",
+            "gloss": "middle.captain be.PST man GEN sing ADV give PST",
+            "words": [
+              {
+                "word": "中将",
+                "gloss": "middle.captain"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "詠み",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "やり",
+                "gloss": "give.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "LOC": "locative particle",
+          "GEN": "genitive particle",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "昔、右近の馬場で火を囲む集まりがあった日、向かいに止まっていた車の中から女性の顔が、下簾越しにほのかに見えたので、中将であった男が歌を詠んで送った。",
+        "translation-en-natural": "Once upon a time, on the day of the fire gathering at Ukon no Baba, the face of a woman could be faintly seen through the lower curtain of a carriage that was parked across. Thus, a man who was a Middle captain sang a song and sent it to her."
       },
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260117
+        ],
         "id": 2,
         "poem": "見ずもあらず/見もせぬ人の/恋しくは/あやなく今日や/ながめ暮さむ",
         "kana": "みずもあらず/みもせぬひとの/こひしくは/あやなくけふや/ながめくらさむ",
         "honkoku": "みすもあらす見もせぬ人の恋しくは/あやなくけふやなかめくらさむ/",
-        "translation-ja": "見ないわけではない、見もしない人を恋しく思うのは、わけもなく今日一日を物思いにふけって暮すのでしょうか。",
-        "translation-en": "It is not that I don't see her, but longing for someone I don't see at all..will I spend the entire day today brooding over her without reason?"
+        "translation-ja": "見ずでもなく、見もしない人が恋しくて。わけもなく今日一日、眺め暮すのでしょうか。",
+        "translation-en": "Not unseen, not seen; longing for the one, for no reason, shall I spend this day gazing?",
+        "phrase-gloss": [
+          {
+            "phrase": "見ずもあらず見もせぬ人の恋ひしくは",
+            "gloss": "see NEG also be NEG see even do NEG person GEN longing TOP",
+            "words": [
+              {
+                "word": "見",
+                "gloss": "see.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "恋ひしく",
+                "gloss": "longing.KU"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "あやなく今日やながめ暮さむ",
+            "gloss": "without.reason today Q gaze spend FUT",
+            "words": [
+              {
+                "word": "あやなく",
+                "gloss": "without.reason"
+              },
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "ながめ",
+                "gloss": "gaze.ADV"
+              },
+              {
+                "word": "暮さ",
+                "gloss": "spend.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis auxiliary",
+          "KU": "ku-form adjective, 'kugoho'",
+          "FUT": "future auxiliary",
+          "Q": "question particle",
+          "NEG": "negative auxiliary",
+          "ATTR": "attributive form",
+          "TOP": "topic particle",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "見ないとも見たとも言えない人が恋しくてわけもなく今日一日眺め暮すのでしょうか。",
+        "translation-en-natural": "Not unseen, not seen; longing for the one, for no reason, will I spend today gazing."
       },
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260118
+        ],
         "id": 3,
         "text": "返し、",
         "kana": "かへし、",
         "honkoku": "返し",
         "translation-ja": "返し、",
-        "translation-en": "Return,"
+        "translation-en": "Return,",
+        "phrase-gloss": [
+          {
+            "phrase": "返し、",
+            "gloss": "return",
+            "words": [
+              {
+                "word": "返し",
+                "gloss": "return.ADV"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "返し、",
+        "translation-en-natural": "Return,"
       },
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260118
+        ],
         "id": 4,
         "poem": "しるしらぬ/何かあやなく/わきていはむ/思ひのみこそ/しるべなりけれ",
         "kana": "しるしらぬ/なにかあやなく/わきていはむ/おもひのみこそ/しるべなりけれ",
         "honkoku": "しるしらぬなにかあやなくわきていはむ/おもひのみこそしるへなりけれ/s110r/",
-        "translation-ja": "知っていることも知らないことも、どうして無意味に分けて言おうか。ただ思い悩むことだけが、道しるべであったのだ。",
-        "translation-en": "Knowing or not knowing, why would I speak meaninglessly? Only my thoughts have been the guide."
+        "translation-ja": "知るか知らぬか、何かむだに、分けて言おうか。思いだけこそ、しるべであった。",
+        "translation-en": "Know or not know; why, for no reason, should I say it apart, distinguishing it? Only feeling, indeed, was the guide.",
+        "phrase-gloss": [
+          {
+            "phrase": "知る知らぬ何かあやなくわきて言はむ",
+            "gloss": "know.IRR not.know NEG what without.reason separate.CONJ say FUT",
+            "words": [
+              {
+                "word": "知る",
+                "gloss": "know"
+              },
+              {
+                "word": "知ら",
+                "gloss": "not.know.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "何",
+                "gloss": "what"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              },
+              {
+                "word": "あやなく",
+                "gloss": "without.reason.ADV"
+              },
+              {
+                "word": "わき",
+                "gloss": "separate.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "言は",
+                "gloss": "say.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "思ひのみこそしるべなりけれ",
+            "gloss": "feeling only EMPH guide be PST",
+            "words": [
+              {
+                "word": "思ひ",
+                "gloss": "feeling"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "しるべ",
+                "gloss": "guide"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis auxiliary",
+          "NEG": "negative auxiliary",
+          "CONJ": "conjunctive particle",
+          "FUT": "future auxiliary",
+          "EMPH": "emphatic particle",
+          "PST": "past tense",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "知るか知らぬか、なんでわざわざそのように、分けて言いましょうか。思いだけこそ、しるべでございます。",
+        "translation-en-natural": "Know or not know; why, for no reason, should I trouble to set it apart and say it? Only feeling, indeed, was the guide."
       },
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260119
+        ],
         "id": 5,
         "text": "のちはたれとしりにけり。",
         "kana": "のちはたれとしりにけり。",
         "honkoku": "のちはたれとしりにけり/s111r/",
-        "translation-ja": "のちには、だれであるか、わかりました。",
-        "translation-en": "After that, I came to know who the person was."
+        "translation-ja": "のちに、だれと、知ったのだった。",
+        "translation-en": "After that, came to know who it was.",
+        "phrase-gloss": [
+          {
+            "phrase": "後は誰と知りにけり。",
+            "gloss": "after TOP who QUOT know PST",
+            "words": [
+              {
+                "word": "後",
+                "gloss": "after"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "誰",
+                "gloss": "who"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "知り",
+                "gloss": "know.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "PST": "past tense",
+          "DAT": "dative particle",
+          "TOP": "topic particle",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "のちに、それが誰なのかが、わかった。",
+        "translation-en-natural": "After that, came to know who it was."
       }
     ]
   },
