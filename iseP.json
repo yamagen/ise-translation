@@ -44498,7 +44498,7 @@
       {
         "date": [
           20240920,
-          20260119
+          20260118
         ],
         "id": 5,
         "text": "のちはたれとしりにけり。",
@@ -44560,13 +44560,200 @@
     "romaji": "wasuregusa",
     "paragraph": [
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260119
+        ],
         "id": 1,
-        "text": "むかし、男、後涼殿のはさまを渡りければ、あるやむごとなき人の御局より、「忘れ草を忍ぶ草とやいか」とて、いださせたまへりければ、たまはりて、",
-        "kana": "むかし、をとこ、こうらうでんのはさまをわたりければ、あるやむごとなきひとのおつぼねより、「わすれぐさをしのぶくさとやいか」とて、いださせたまへりければ、たまはりて、",
+        "text": "むかし、男、後涼殿のはさまを渡りければ、あるやむごとなき人の御局より、「忘れ草を忍ぶ草とやいふ」とて、いださせたまへりければ、たまはりて、",
+        "kana": "むかし、をとこ、こうらうでんのはさまをわたりければ、あるやむごとなきひとのおつぼねより、「わすれぐさをしのぶくさとやいふ」とて、いださせたまへりければ、たまはりて、",
         "honkoku": "昔おとこ後凉殿のはさまをわたりけれは/あるやむことなきひとの御つほねよりわ/すれくさをしのふ草とやいふとていた/させ給へりけれはたまはりて/",
-        "translation-ja": "昔、男が後涼殿の廊下を通っていたところ、ある高貴な方の御部屋から「忘れ草を忍ぶ草というのでしょうか」と言って、差し出してくださったので、受け取って、",
-        "translation-en": "Once upon a time, when a man was passing through the corridor of the Kōryōden, a noble lady from her chamber presented him with something, saying, \"Is this plant called wasuregusa (forget-me-not) actually shinobugusa (a plant that symbolizes longing)?\" and he received it."
+        "translation-ja": "昔、男が、後涼殿のはさまを渡ったところ、ある高貴な方の御局より、「忘れ草を忍ぶ草と言うのか」と言って、出させなさったので、いただいて、",
+        "translation-en": "Once upon a time, as a man crossed the passageway by the Koryoden, from the chamber of a certain noble lady, she said, \"Is this called wasuregusa, or shinobugusa?\" and had someone bring it out to him. Thus he received it, and ...",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、男、後凉殿のはさまを渡りければ、",
+            "gloss": "once.upon.a.time man Koryoden GEN passageway ACC cross PST when",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once.upon.a.time"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "後凉殿",
+                "gloss": "Koryoden.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "はさま",
+                "gloss": "passageway"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "渡り",
+                "gloss": "cross.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "when"
+              }
+            ]
+          },
+          {
+            "phrase": "あるやむごとなき人の御局より、",
+            "gloss": "certain noble person GEN honorable.chamber from",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "やむごと",
+                "gloss": "noble"
+              },
+              {
+                "word": "なき",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "御局",
+                "gloss": "honorable.chamber"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              }
+            ]
+          },
+          {
+            "phrase": "忘れ草を、「忍ぶ草とやいふ」とて、出ださせ給へりければ、",
+            "gloss": "forgetting-grass ACC shinobugusa QUOT say CONJ bring.out CAUS HON PST when",
+            "words": [
+              {
+                "word": "忘れ草",
+                "gloss": "forgetting-grass"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "忍ぶ草",
+                "gloss": "shinobugusa"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "出だ",
+                "gloss": "bring.out.IRR"
+              },
+              {
+                "word": "させ",
+                "gloss": "CAUS.ADV"
+              },
+              {
+                "word": "給へ",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "when"
+              }
+            ]
+          },
+          {
+            "phrase": "賜はりて、",
+            "gloss": "receive HON CONJ",
+            "words": [
+              {
+                "word": "賜はり",
+                "gloss": "receive.HON.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "GEN": "genitive particle",
+          "Q": "question particle",
+          "REALIS": "realis auxiliary",
+          "IRR": "irrealis auxiliary",
+          "CAUS": "causative auxiliary",
+          "HON": "honorific auxiliary",
+          "PST": "past tense",
+          "CONJ": "conjunctive particle",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "昔、男が後涼殿からの廊下を渡っているときに、あるやむごとなき人の御局より、「忘れ草を忍ぶ草とやいか」と言って出させなさったので、それを受け取って、",
+        "translation-en-natural": "Once upon a time, as a man was crossing the corridor from the Koryoden, a certain noble lady in her chamber said, \"Is this called forgetting-grass (wasuregusa), or remembering-grass (shinobugusa)?\" and had someone bring it out to him. Thus he received it, and ...",
+        "notes-ja": [
+          {
+            "title": "させ",
+            "note": "「させ」は使役の助動詞で、「出した」のではなく、誰かに「出させた」ことを示す。この助動詞により、やりとりが二人だけで完結しておらず、第三者（使いの者）を介して行われていることがわかる。"
+          },
+          {
+            "title": "ければ（連鎖）",
+            "note": "この文では「ければ」が同一文内で二回用いられている。これは重複ではなく、起きたことを起きた順に、同じ接続（已然形＋ば）で次々につないでいく連鎖的な語りである。すなわち、男が渡る（渡りければ）→御局から言葉が来る（…とて）→草を出させる（いださせたまへりければ）→男が受け取る（たまはりて）という出来事の連携を、そのまま読者に運ぶ語り口になっている。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "sase",
+            "note": "The auxiliary verb \"sase\" is a causative auxiliary. It indicates that she did not bring it out herself, but had someone else bring it out. This shows that the exchange is not confined to the two of them, but is mediated by a third party."
+          },
+          {
+            "title": "\"-kereba\" (event chaining)",
+            "note": "In this sentence, \"-kereba\" appears twice within the same sentence. This is not redundancy. It is a chaining narrative style in which events are presented in the order they occur, repeatedly linked by the same connector. The sequence is: the man crosses the corridor (watari-kereba) -> words come from her chamber (\"...\" tote) -> she has someone bring the plant out (idasase-tamaeri-kereba) -> the man receives it (tamawarite). This chaining style directly carries the unfolding scene to the reader."
+          }
+        ]
       },
       {
         "date": "20240920",
@@ -44574,8 +44761,95 @@
         "poem": "忘れ草/おふる野辺とは/見るらめど/こはしのぶなり/のちも頼まむ",
         "kana": "わすれぐさ/おふるのべとは/みるらめど/こはしのぶなり/のちもたのまむ",
         "honkoku": "わすれ草おふる野へとは見るらめと/こはしのふなり後もたのまん/s111r/",
-        "translation-ja": "忘れ草が茂る野原だと見えるでしょうが、これは忍ぶ草です。後々もお誓いします。",
-        "translation-en": "It may appear to be a field where wasuregusa (forget-me-not) grows, but this is actually shinobugusa (a plant symbolizing longing). I pledge to continue longing for you even in the future."
+        "translation-ja": "忘れ草、生える野辺だとは見るのだろうけれど、これは忍ぶである。のちも頼みにしよう。",
+        "translation-en": "Forget-grass, it would seem to be the field where it grows, but this is what I pine for. Later too, I shall rely on this.",
+        "phrase-gloss": [
+          {
+            "phrase": "忘れ草生ふる野べとは見るらめど",
+            "gloss": "forget.me.not grow.ADV field TOP see FUT Q but",
+            "words": [
+              {
+                "word": "忘れ草",
+                "gloss": "forgetting-grass"
+              },
+              {
+                "word": "生ふる",
+                "gloss": "grow.ATTR"
+              },
+              {
+                "word": "野べ",
+                "gloss": "field"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "見る",
+                "gloss": "see.END"
+              },
+              {
+                "word": "らめ",
+                "gloss": "FUT.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "but"
+              }
+            ]
+          },
+          {
+            "phrase": "こはしのぶなり後も頼まん",
+            "gloss": "this TOP pine be later also rely FUT",
+            "words": [
+              {
+                "word": "こ",
+                "gloss": "this"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "しのぶ",
+                "gloss": "pine"
+              },
+              {
+                "word": "なり",
+                "gloss": "be"
+              },
+              {
+                "word": "後",
+                "gloss": "later"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "頼ま",
+                "gloss": "rely.IRR"
+              },
+              {
+                "word": "ん",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "FUT": "future auxiliary",
+          "Q": "question particle",
+          "TOP": "topic particle",
+          "IRR": "irrealis auxiliary"
+        },
+        "translation-ja-natural": "忘れ草が生える野辺だとご覧でしょうが、これは忍ぶ草です。これからも頼りにいたしましょう。",
+        "translation-en-natural": "Forgetting-grass, you may think it is the field where it grows, but this is remembering-grass (shinobugusa). From now on, I shall continue to rely on it."
       }
     ]
   },
