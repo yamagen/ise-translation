@@ -44756,7 +44756,10 @@
         ]
       },
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260119
+        ],
         "id": 2,
         "poem": "忘れ草/おふる野辺とは/見るらめど/こはしのぶなり/のちも頼まむ",
         "kana": "わすれぐさ/おふるのべとは/みるらめど/こはしのぶなり/のちもたのまむ",
@@ -44859,13 +44862,68 @@
     "romaji": "ayashiki fuji no hana",
     "paragraph": [
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260120
+        ],
         "id": 1,
         "text": "むかし、左兵衛の督なりける在原の行平といふありけり。",
         "kana": "むかし、さひやうえのかみなりけるありはらのゆきひらといふありけり。",
         "honkoku": "むかし左兵衛督なりけるありはらのゆき/ひらといふありけり",
-        "translation-ja": "昔、左兵衛の督であった在原行平という人がいました。",
-        "translation-en": "Once upon a time, there was a person named Arihara Yukihira, who was a left guard."
+        "translation-ja": "昔、左兵衛の督であった在原行平という人がいた。",
+        "translation-en": "Once upon a time, there was a person named Arihara Yukihira, who was a left guard.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、左兵衛督なりける在原行平といふありけり。",
+            "gloss": "once.upon.a.time left.guard be PST Arihara Yukihira QUOT say be PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once.upon.a.time"
+              },
+              {
+                "word": "左兵衛督",
+                "gloss": "left.guard.PN"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "在原行平",
+                "gloss": "Arihara Yukihira.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "ADV": "adverbial form",
+          "IRR": "irrealis auxiliary",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "昔、左兵衛の督であった在原行平という人がいた。",
+        "translation-en-natural": "Once upon a time, there was a person named Arihara Yukihira, who was a left guard."
       },
       {
         "date": "20240920",
