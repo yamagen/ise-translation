@@ -44926,13 +44926,184 @@
         "translation-en-natural": "Once upon a time, there was a person named Arihara Yukihira, who was a left guard."
       },
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260124
+        ],
         "id": 2,
         "text": "その人の家によき酒ありと聞きて、上にありける左中弁藤原の良近といふをなむ、まらうどざねにて、その日はあるじまうけしたりける。",
         "kana": "そのひとのいへによきさけありとききて、うへにありけるさちゆうべんふぢはらのまさちかといふをなむ、まらうどざねにて、そのひはあるしまうけしたりける。",
         "honkoku": "その人の家によき/s111r/さけありとききてうへにありける左中弁/ふちはらのまさちかといふをなむまらう/とさねにてその日はあるしまうけした/りける",
-        "translation-ja": "その人の家に良いお酒があると聞いて、上位の位にいた左中弁の藤原良近という人を主賓として、その日は宴の準備をした。",
-        "translation-en": "Hearing that there was good sake at that person's house, they prepared a feast for that day with Fujiwara no Masachika, the Sadaiben, who held a high position, as the guest of honor."
+        "translation-ja": "その人の家に良いお酒があると聞いて、上にいた左中弁の藤原良近という人をなんと、客寝にて、その日は主人、設けてあったのだった。",
+        "translation-en": "Hearing that there was good sake at that person's house, they prepared a feast for that day with Fujiwara no Masachika, the Sadaiben, who held a high position, as the guest of honor.",
+        "phrase-gloss": [
+          {
+            "phrase": "その人の家に良き酒ありと聞きて、",
+            "gloss": "that person GEN house LOC good sake be QUOT hear ADV",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "家",
+                "gloss": "house"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "良き",
+                "gloss": "good.ATTR"
+              },
+              {
+                "word": "酒",
+                "gloss": "sake"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.END"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "聞き",
+                "gloss": "hear.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "上にありける左中弁藤原良近といふをなむ、まらうどざねにて、",
+            "gloss": "high.position LOC be PST Sadaiben Fujiwara Masachika QUOT EMPH guest.bed HON CONJ",
+            "words": [
+              {
+                "word": "上",
+                "gloss": "high.position"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "左中弁藤原良近",
+                "gloss": "Sadaiben Fujiwara Masachika.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "まらうどざね",
+                "gloss": "guest.bed"
+              },
+              {
+                "word": "に",
+                "gloss": "as"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "その日はあるじまうけしたりける。",
+            "gloss": "that day TOP host prepare PST",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "あるじ",
+                "gloss": "host"
+              },
+              {
+                "word": "まうけ",
+                "gloss": "prepare"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "LOC": "locative particle",
+          "ACC": "accusative particle",
+          "PST": "past tense",
+          "ADV": "adverbial form",
+          "EMPH": "emphatic particle",
+          "HON": "honorific auxiliary",
+          "TOP": "topic particle",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "その人の家に良い酒があると聞いたので、宮中に仕えていた左中弁の藤原良近を、客として泊めるつもりで、その日は主人としてもてなしの支度を整えておいたのだった。",
+        "translation-en-natural": "Hearing that there was good sake at his house, the host had made preparations that day to receive Fujiwara no Masachika, the Sadaiben serving at court, as an overnight guest.",
+        "notes-ja": [
+          {
+            "title": "即時文法（設けしたりける）",
+            "note": "この文の中心は「良い酒がある」という情報が入った瞬間に、主人側の対応が即座に連鎖して立ち上がる点にある。すなわち、聞く（聞きて）→客を定める（良近をなむ）→客として迎える構えを取る（客寝にて）→もてなしの準備が整った状態になる（あるじまうけしたりける）という順で出来事が進む。「したりける」の「たり」は単なる完了ではなく、準備が完了して『整えて待っている』存続状態を示すため、語彙として「歓迎する」と言わなくても歓迎（迎える構え・期待）が文法的に表現されている。したがってこの箇所は、語義の説明ではなく、場面がそのまま進行する運動として読まれるべきであり、即時文法の典型となっている。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "immediate grammar (mouke shitari keru)",
+            "note": "The focus of this sentence is on how the host's response immediately unfolds in a chain the moment the information about the good sake arrives. That is, the sequence of events progresses as follows: hearing (kikite) -> deciding on the guest (ryouchika o namu) -> preparing to receive him as a guest (maroudozane nite) -> reaching a state where the preparations for hospitality are complete (arujimouke shitari keru). The 'tari' in 'shitari keru' does not merely indicate completion; it signifies a sustained state of 'having prepared and waiting,' thus expressing the act of welcoming (the readiness to receive and expect) grammatically without explicitly stating it in vocabulary. Therefore, this passage should be read as a scene unfolding in motion rather than as an explanation of word meanings, making it a typical example of immediate grammar."
+          }
+        ]
       },
       {
         "date": "20240920",
