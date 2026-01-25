@@ -45106,13 +45106,85 @@
         ]
       },
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260124
+        ],
         "id": 3,
         "text": "なさけある人にて、かめに花をさせり。",
         "kana": "なさけあるひとにて、かめにはなをさせり。",
         "honkoku": "なさけある人にてかめにはなを/させり",
-        "translation-ja": "風情のある人で、花瓶に花を挿していました。",
-        "translation-en": "He was a person of refined taste, and he arranged flowers in a vase."
+        "translation-ja": "風情のある人で、瓶に花を挿した。",
+        "translation-en": "He was a person of refined taste, and he arranged flowers in a vase.",
+        "phrase-gloss": [
+          {
+            "phrase": "情けある人にて、",
+            "gloss": "compassionate person DAT CONJ",
+            "words": [
+              {
+                "word": "情け",
+                "gloss": "compassionate"
+              },
+              {
+                "word": "ある",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "瓶に花を挿せり。",
+            "gloss": "vase LOC flower ACC insert PERF",
+            "words": [
+              {
+                "word": "瓶",
+                "gloss": "vase"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "花",
+                "gloss": "flower"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "挿せ",
+                "gloss": "insert.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "DAT": "dative particle",
+          "LOC": "locative particle",
+          "ATTR": "attributive form",
+          "ACC": "accusative particle",
+          "REALIS": "realis auxiliary",
+          "PERF": "perfective auxiliary",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "風情のある人で、花瓶に花を挿していた。",
+        "translation-en-natural": "He was a person of refined taste, and he had arranged flowers in a vase."
       },
       {
         "date": "20240920",
