@@ -45108,7 +45108,7 @@
       {
         "date": [
           20240920,
-          20260124
+          20260125
         ],
         "id": 3,
         "text": "なさけある人にて、かめに花をさせり。",
@@ -45187,13 +45187,83 @@
         "translation-en-natural": "He was a person of refined taste, and he had arranged flowers in a vase."
       },
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260126
+        ],
         "id": 4,
         "text": "その花の中に、あやしき藤の花ありけり。",
         "kana": "そのはなのなかに、あやしきふじのはなありけり。",
         "honkoku": "その花のなかにあやしきふちの花/ありけり",
-        "translation-ja": "その花の中に、奇妙な藤の花がありました。",
-        "translation-en": "In the midst of those flowers, there was a mysterious wisteria flower. "
+        "translation-ja": "その花の中に、奇妙な藤の花があった。",
+        "translation-en": "In the midst of those flowers, there was a mysterious wisteria flower. ",
+        "phrase-gloss": [
+          {
+            "phrase": "その花の中に、",
+            "gloss": "that flower GEN inside LOC",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "花",
+                "gloss": "flower"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "中",
+                "gloss": "inside"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "あやしき藤の花ありけり。",
+            "gloss": "mysterious wisteria GEN flower be PST",
+            "words": [
+              {
+                "word": "あやしき",
+                "gloss": "mysterious.ATTR"
+              },
+              {
+                "word": "藤",
+                "gloss": "wisteria"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "花",
+                "gloss": "flower"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle",
+          "LOC": "locative particle",
+          "ATTR": "attributive form",
+          "PST": "past tense",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "その花の中に、奇妙な藤の花があった。",
+        "translation-en-natural": "In the midst of those flowers, there was a mysterious wisteria flower."
       },
       {
         "date": "20240920",
