@@ -45377,13 +45377,147 @@
         "translation-en-natural": "He composed a poem on that theme."
       },
       {
-        "date": "20240921",
+        "date": [
+          20240921,
+          20260129
+        ],
         "id": 7,
         "text": "よみはてがたに、あるじのはらからなる、あるじしたまふと聞きて来たりければ、とらへてよませける。",
         "kana": "よみはてがたに、あるじのはらからなる、あるじしたまふとききてきたりければ、とらへてよませける。",
         "honkoku": "よみはてか/たにあるしのはらからなるあるしし/たまふとききてきたりけれはとらへてよ/s111l/ませける",
-        "translation-ja": "詠み終わるころに、主人の兄弟が、饗宴を催していると聞いて来ていたので、捕まえて歌を詠ませました。",
-        "translation-en": "Around the time they finished singing, since he who had heard that the master's sibling was hosting a banquet and had come, they captured him and made him sang a song."
+        "translation-ja": "詠み終わるころに、主人の兄弟が、饗宴を催していると聞いて来ていたので、捕まえて歌を詠ませた。",
+        "translation-en": "Around the time they finished singing, since he who had heard that the master's sibling was hosting a banquet and had come, they captured him and made him sang a song.",
+        "phrase-gloss": [
+          {
+            "phrase": "詠み果てがたに、",
+            "gloss": "sing finish time LOC",
+            "words": [
+              {
+                "word": "詠み",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "果て",
+                "gloss": "finish.ADV"
+              },
+              {
+                "word": "がた",
+                "gloss": "time"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "主人の兄弟である、あるじし給うと聞きて来たりければ、",
+            "gloss": "master GEN sibling COP master party do QUOT hear ADV come PST because",
+            "words": [
+              {
+                "word": "主人",
+                "gloss": "master"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "兄弟",
+                "gloss": "sibling"
+              },
+              {
+                "word": "で",
+                "gloss": "COP"
+              },
+              {
+                "word": "ある",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "あるじ",
+                "gloss": "hospitality"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "給う",
+                "gloss": "HON"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "聞き",
+                "gloss": "hear.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "来",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "because"
+              }
+            ]
+          },
+          {
+            "phrase": "捕らへて詠ませける。",
+            "gloss": "capture.CONJ sing.CAUS.PST",
+            "words": [
+              {
+                "word": "捕らへ",
+                "gloss": "capture.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "詠ま",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "せ",
+                "gloss": "CAUS.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "LOC": "locative particle",
+          "COP": "copula",
+          "HON": "honorific auxiliary",
+          "QUOT": "quotative particle",
+          "ADV": "adverbial form",
+          "PST": "past tense",
+          "CONJ": "conjunctive particle",
+          "CAUS": "causative auxiliary",
+          "PERF": "perfective auxiliary",
+          "IRR": "irrealis auxiliary",
+          "REALIS": "realis auxiliary"
+        },
+        "translation-ja-natural": "詠み終わるころに、主人の兄弟が、饗宴を催していると聞いて来ていたので、捕まえて歌を詠ませた。",
+        "translation-en-natural": "Around the time they finished singing, since he who had heard that the master's sibling was hosting a banquet and had come, they captured him and made him sing a song."
       },
       {
         "date": "20240921",
