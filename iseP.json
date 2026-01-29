@@ -45326,13 +45326,55 @@
         "translation-en-natural": "The drooping part of the flower was about three shaku and six sun long."
       },
       {
-        "date": "20240920",
+        "date": [
+          20240920,
+          20260128
+        ],
         "id": 6,
         "text": "それを題にて詠む。",
         "kana": "それをだいにてよむ。",
         "honkoku": "それをたいにてよむ",
-        "translation-ja": "それを題にして詠んだ。",
-        "translation-en": "He composed a poem on that theme."
+        "translation-ja": "それを題にして詠む。",
+        "translation-en": "He composed a poem on that theme.",
+        "phrase-gloss": [
+          {
+            "phrase": "それを題にて詠む。",
+            "gloss": "that ACC theme LOC sing",
+            "words": [
+              {
+                "word": "それ",
+                "gloss": "that"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "題",
+                "gloss": "theme"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "詠む",
+                "gloss": "sing"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "LOC": "locative particle",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "それを題にして詠む。",
+        "translation-en-natural": "He composed a poem on that theme."
       },
       {
         "date": "20240921",
