@@ -45428,15 +45428,15 @@
               },
               {
                 "word": "で",
-                "gloss": "COP"
+                "gloss": "COP.CONJ"
               },
               {
                 "word": "ある",
-                "gloss": "be.ATTR"
+                "gloss": "exist.ATTR"
               },
               {
                 "word": "あるじ",
-                "gloss": "hospitality"
+                "gloss": "master"
               },
               {
                 "word": "し",
@@ -45520,13 +45520,128 @@
         "translation-en-natural": "Around the time they finished singing, since he who had heard that the master's sibling was hosting a banquet and had come, they captured him and made him sing a song."
       },
       {
-        "date": "20240921",
+        "date": [
+          20240921,
+          20260131
+        ],
         "id": 8,
         "text": "もとより歌のことはしらざりければ、すまひけれど、しひてよませければかくなむ、",
         "kana": "もとよりうたのことはしらざりければ、すまひけれど、しひてよませければかくなむ、",
         "honkoku": "もとよりうたのことはしらさり/けれはすまひけれとしゐてよませけれは/かくなむ/",
-        "translation-ja": "もともと和歌のことは知らなかったので、断っていましたが、無理やり詠ませたので、このように詠みました。",
-        "translation-en": "He originally had no knowledge of poetry, so he refused, but since he was forced to sing, he sang as follows."
+        "translation-ja": "もとより和歌のことは知らなかったので、断ったが、しいて詠ませたので、このように詠んだ。",
+        "translation-en": "He originally had no knowledge of poetry, so he refused, but since he was forced to sing, he sang as follows.",
+        "phrase-gloss": [
+          {
+            "phrase": "もとより歌のことは知らざりければ、",
+            "gloss": "originally poem GEN matter TOP know NEG PST REALIS because",
+            "words": [
+              {
+                "word": "もとより",
+                "gloss": "originally"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "こと",
+                "gloss": "matter"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "ざり",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "because"
+              }
+            ]
+          },
+          {
+            "phrase": "辞退したけれど、",
+            "gloss": "refuse PST but",
+            "words": [
+              {
+                "word": "すまひ",
+                "gloss": "refuse.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "but"
+              }
+            ]
+          },
+          {
+            "phrase": "しひて詠ませければ、かくなむ、",
+            "gloss": "force CONJ sing CAUS PST CONJ thus EMPH",
+            "words": [
+              {
+                "word": "しひ",
+                "gloss": "force.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "詠ま",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "せ",
+                "gloss": "CAUS.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis auxiliary",
+          "TOP": "topic particle",
+          "NEG": "negative auxiliary",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary",
+          "CONJ": "conjunctive particle",
+          "CAUS": "causative auxiliary",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "もとより和歌のことは知らなかったので、断ったが、しいて詠ませたので、このように詠んだ。",
+        "translation-en-natural": "He originally had no knowledge of poetry, so he refused, but since he was forced to sing, he sang as follows."
       },
       {
         "date": "20240921",
