@@ -45644,13 +45644,117 @@
         "translation-en-natural": "He originally had no knowledge of poetry, so he refused, but since he was forced to sing, he sang as follows."
       },
       {
-        "date": "20240921",
+        "date": [
+          20240921,
+          20260201
+        ],
         "id": 9,
         "poem": "咲く花の/下にかくるる/人を多み/ありしにまさる/藤のかげかも",
         "kana": "さくはなの/したにかくるる/ひとをおほみ/ありしにまさる/ふじのかげかも",
         "honkoku": "さくはなのしたにかくるる人をほみ/ありしにまさるふちのかけかも/",
         "translation-ja": "咲く花の下に隠れる人が多いので、以前にも増して藤の陰のようだ。",
-        "translation-en": "Because there are many people hiding under the blooming flowers, it seems like the shade of the wisteria is greater than before."
+        "translation-en": "Because there are many people hiding under the blooming flowers, it seems like the shade of the wisteria is greater than before.",
+        "phrase-gloss": [
+          {
+            "phrase": "咲く花の下に隠るる人多み",
+            "gloss": "blooming flower GEN below LOC hide PERF person many",
+            "words": [
+              {
+                "word": "咲く",
+                "gloss": "blooming.ATTR"
+              },
+              {
+                "word": "花",
+                "gloss": "flower"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "下",
+                "gloss": "below"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "隠る",
+                "gloss": "hide.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "多",
+                "gloss": "many.ADV"
+              },
+              {
+                "word": "み",
+                "gloss": "because"
+              }
+            ]
+          },
+          {
+            "phrase": "ありしにまさる藤のかげかも",
+            "gloss": "exist.PST CONJ surpass wisteria GEN shade EMPH",
+            "words": [
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.END"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "まさる",
+                "gloss": "surpass.ATTR"
+              },
+              {
+                "word": "藤",
+                "gloss": "wisteria"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "かげ",
+                "gloss": "shade"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              },
+              {
+                "word": "も",
+                "gloss": "EMPH"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "LOC": "locative particle",
+          "PERF": "perfective auxiliary",
+          "PST": "past tense",
+          "CONJ": "conjunctive particle",
+          "Q": "question particle",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "咲く花の下に隠れる人が多いので、以前にも増して藤の陰のようだ。",
+        "translation-en-natural": "Because there are many people hiding under the blooming flowers, it seems like the shade of the wisteria is greater than before."
       },
       {
         "date": "20240921",
