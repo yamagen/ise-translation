@@ -45757,13 +45757,167 @@
         "translation-en-natural": "Because there are many people hiding under the blooming flowers, it seems like the shade of the wisteria is greater than before."
       },
       {
-        "date": "20240921",
+        "date": [
+          20240921,
+          260202
+        ],
         "id": 10,
         "text": "「などかくしもよむ」といひければ、「おほきおとどの栄花のさかりにみまそがりて、藤氏の、ことに栄ゆるを思ひてよめる」となむいひける。",
         "kana": "「なとかくしもよむ」といひければ、「おほきおとどのえいかのさかりにみまそかりて、とうしの、ことにさかゆるをおもひてよめる」となむいひける。",
         "honkoku": "なとかくしもよむといひけれはおほき/おととのゑい花のさかりにみまそかりて/藤氏のことにさかゆるを思ひてよめると/なむいひける",
-        "translation-ja": "「どうしてこのように詠んだのですか」と聞いたところ、「大臣（おおきおとど）の栄華が盛んな時期にお仕えして、藤原氏が特に栄えているのを思って詠んだのです」と言ったそうです。",
-        "translation-en": "When asked, \"Why did you sing it in this way?\" he replied, \"I sang it thinking of the flourishing of the Fujiwara clan while serving during the height of the great minister's glory.\""
+        "translation-ja": "「どうしてこのように詠むのか」と聞いたところ、「大臣（おおきおとど）の栄華が盛んな時期にお仕えして、藤原氏が特に栄えているのを思って詠んだ」と言ったのだった。",
+        "translation-en": "When asked, \"Why did you sing it in this way?\" he replied, \"I sang it thinking of the flourishing of the Fujiwara clan while serving during the height of the great minister's glory.\"",
+        "phrase-gloss": [
+          {
+            "phrase": "「など、かくしも詠む」と言ひければ、",
+            "gloss": "why thus EMPH sing QUOT say PST because",
+            "words": [
+              {
+                "word": "なと",
+                "gloss": "why"
+              },
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "しも",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "詠む",
+                "gloss": "sing"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "言い",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "because"
+              }
+            ]
+          },
+          {
+            "phrase": "「大き大殿の栄華の盛りに仕えかかりて、藤氏のことに栄ゆるを思ひて詠める」となむ言ひける。",
+            "gloss": "great minister GEN glory GEN peak LOC serve ADV Fujiwara clan GEN especially flourish ACC think ADV sing PST QUOT EMPH say PST",
+            "words": [
+              {
+                "word": "おほき",
+                "gloss": "great.ATTR"
+              },
+              {
+                "word": "おとど",
+                "gloss": "minister"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "栄華",
+                "gloss": "glory"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "盛り",
+                "gloss": "peak"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "みまそかり",
+                "gloss": "serve.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "藤氏",
+                "gloss": "Fujiwara.PN clan"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ことに",
+                "gloss": "especially"
+              },
+              {
+                "word": "栄ゆ",
+                "gloss": "flourish.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "詠め",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "言い",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "EMPH": "emphatic particle",
+          "QUOT": "quotative particle",
+          "PERF": "perfective auxiliary",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary",
+          "LOC": "locative particle",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "「どうしてこのように詠むのか」と聞いたところ、「大臣（おおきおとど）の栄華が盛んな時期にお仕えして、藤原氏が特に栄えているのを思って詠んだ」と言ったのだった。",
+        "translation-en-natural": "When asked, \"Why did you sing it in this way?\" he replied, \"I sang it thinking of the flourishing of the Fujiwara clan while serving during the height of the great minister's glory.\""
       },
       {
         "date": "20240921",
