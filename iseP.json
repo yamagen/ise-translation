@@ -45920,13 +45920,67 @@
         "translation-en-natural": "When asked, \"Why did you sing it in this way?\" he replied, \"I sang it thinking of the flourishing of the Fujiwara clan while serving during the height of the great minister's glory.\""
       },
       {
-        "date": "20240921",
+        "date": [
+          20240921,
+          20260203
+        ],
         "id": 11,
         "text": "みな人、そしらずなりにけり。",
         "kana": "みなひと、そしらずなりにけり。",
         "honkoku": "みな人そしらすなりにけり/s112r/",
         "translation-ja": "みんな、非難しなくなった。",
-        "translation-en": "Everyone stopped criticizing."
+        "translation-en": "Everyone stopped criticizing.",
+        "phrase-gloss": [
+          {
+            "phrase": "みな人、",
+            "gloss": "all person",
+            "words": [
+              {
+                "word": "みな",
+                "gloss": "all"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              }
+            ]
+          },
+          {
+            "phrase": "そしらずなりにけり。",
+            "gloss": "criticize NEG become PST",
+            "words": [
+              {
+                "word": "そしら",
+                "gloss": "criticize.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "NEG": "negative auxiliary",
+          "PST": "past tense",
+          "IRR": "irrealis auxiliary",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "みんな、非難しなくなった。",
+        "translation-en-natural": "Everyone stopped criticizing."
       }
     ]
   },
