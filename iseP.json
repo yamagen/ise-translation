@@ -45990,13 +45990,46 @@
     "romaji": "yo no uki koto",
     "paragraph": [
       {
-        "date": "20240921",
+        "date": [
+          20240921,
+          20260204
+        ],
         "id": 1,
         "text": "むかし、男ありけり。",
         "kana": "むかし、をとこありけり。",
         "honkoku": "昔おとこありけり",
-        "translation-ja": "昔、男がいました。",
-        "translation-en": "Once upon a time, there was a man."
+        "translation-ja": "昔、男がいた。",
+        "translation-en": "Once upon a time, there was a man.",
+        "phrase-gloss": [
+          {
+            "phrase": "昔、男ありけり。",
+            "gloss": "long ago",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long ago"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "昔、男がいた。",
+        "translation-en-natural": "Once upon a time, there was a man."
       },
       {
         "date": "20240921",
