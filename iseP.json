@@ -46032,13 +46032,90 @@
         "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240921",
+        "date": [
+          20240921,
+          20260205
+        ],
         "id": 2,
         "text": "歌はよまざりけれど、世の中を思ひしりたりけり。",
         "kana": "うたはよまざりけれど、よのなかをおもひしりたりけり。",
         "honkoku": "哥はよまさりけれと世/のなかを思ひしりたりけり",
         "translation-ja": "歌を詠むことはなかったが、世の中を思い知っていた。",
-        "translation-en": "He did not sing songs, but he knew the world."
+        "translation-en": "He did not sing songs, but he knew the world.",
+        "phrase-gloss": [
+          {
+            "phrase": "歌は詠まざりけれど、",
+            "gloss": "poem TOP sing NEG PST REALIS but",
+            "words": [
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "詠ま",
+                "gloss": "sing.IRR"
+              },
+              {
+                "word": "ざり",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "but"
+              }
+            ]
+          },
+          {
+            "phrase": "世の中を思ひ知りたりけり。",
+            "gloss": "world ACC think know PERF PST",
+            "words": [
+              {
+                "word": "世の中",
+                "gloss": "world"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "知り",
+                "gloss": "know.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "TOP": "topic particle",
+          "IRR": "irrealis auxiliary",
+          "NEG": "negative auxiliary",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary",
+          "ACC": "accusative particle",
+          "PERF": "perfective auxiliary",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "歌を詠むことはなかったが、世の中を思い知っていた。",
+        "translation-en-natural": "He did not sing songs, but he knew the world."
       },
       {
         "date": "20240921",
