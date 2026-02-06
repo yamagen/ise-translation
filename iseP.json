@@ -46118,13 +46118,137 @@
         "translation-en-natural": "He did not sing songs, but he knew the world."
       },
       {
-        "date": "20240921",
+        "date": [
+          20240921,
+          20260206
+        ],
         "id": 3,
         "text": "あてなる女の、尼になりて、世の中を思ひうんじて、京にもあらず、はるかなる山里にすみけり。",
         "kana": "あてなるをんなの、あまになりて、よのなかをおもひうんじて、けうにもあらす、はるかなるやまさとにすみけり。",
         "honkoku": "あてなる女の/あまになりて世中をおもひうむして京/にもあらすはるかなる山さとにすみけり/",
-        "translation-ja": "身分の高い女性が、尼になって、世の中を嫌になり、都にさえいない、遠く離れた山里に住んでいました。",
-        "translation-en": "A noble woman became a nun, grew weary of the world, and lived not even in the capital Kyoto, but in a remote mountain village far away."
+        "translation-ja": "身分の高い女性が、尼になって、世の中を嫌になり、都にさえいない、遠く離れた山里に住んでいた。",
+        "translation-en": "A noble woman became a nun, grew weary of the world, and lived not even in the capital Kyoto, but in a remote mountain village far away.",
+        "phrase-gloss": [
+          {
+            "phrase": "あてなる女の尼になりて、",
+            "gloss": "noble woman GEN nun become CONJ",
+            "words": [
+              {
+                "word": "あてなる",
+                "gloss": "noble.ATTR"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "尼",
+                "gloss": "nun"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "世の中を思ひ倦んじて、",
+            "gloss": "world ACC think weary CONJ",
+            "words": [
+              {
+                "word": "世の中",
+                "gloss": "world"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "倦んじ",
+                "gloss": "weary.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "京にもあらず、はるかなる山里に住みけり。",
+            "gloss": "Kyoto also NEG exist far mountain village LOC live PST",
+            "words": [
+              {
+                "word": "京",
+                "gloss": "Kyoto"
+              },
+              {
+                "word": "に",
+                "gloss": "also"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "はるかなる",
+                "gloss": "far.ATTR"
+              },
+              {
+                "word": "山里",
+                "gloss": "mountain.village"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "住み",
+                "gloss": "live.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "GEN": "genitive particle",
+          "CONJ": "conjunctive particle",
+          "ACC": "accusative particle",
+          "NEG": "negative auxiliary",
+          "PST": "past tense",
+          "LOC": "locative particle",
+          "IRR": "irrealis auxiliary",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "身分の高い女性が、尼になって、世の中を嫌になり、都にさえいない、遠く離れた山里に住んでいた。",
+        "translation-en-natural": "A noble woman became a nun, grew weary of the world, and lived not even in the capital Kyoto, but in a remote mountain village far away."
       },
       {
         "date": "20240921",
