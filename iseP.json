@@ -46251,13 +46251,77 @@
         "translation-en-natural": "A noble woman became a nun, grew weary of the world, and lived not even in the capital Kyoto, but in a remote mountain village far away."
       },
       {
-        "date": "20240921",
+        "date": [
+          20240921,
+          20260207
+        ],
         "id": 4,
         "text": "もとしぞくなりければ、よみてやりける。",
         "kana": "もとしぞくなりければ、よみてやりける。",
         "honkoku": "もとしそくなりけれはよみてやりける/",
-        "translation-ja": "もと親族であったので、歌を詠んで送りました。",
-        "translation-en": "Because she was originally of noble status, he sang and sent a poem."
+        "translation-ja": "もと親族であったので、歌を詠んでやった。それは、",
+        "translation-en": "Because she was originally of noble status, he sang a poem for her. It was,",
+        "phrase-gloss": [
+          {
+            "phrase": "もと親族なりければ、",
+            "gloss": "originally noble.status DECL PST because",
+            "words": [
+              {
+                "word": "もと",
+                "gloss": "originally"
+              },
+              {
+                "word": "親族",
+                "gloss": "noble.status"
+              },
+              {
+                "word": "なり",
+                "gloss": "DECL.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "because"
+              }
+            ]
+          },
+          {
+            "phrase": "詠みてやりける、",
+            "gloss": "sing CONJ give PST",
+            "words": [
+              {
+                "word": "詠み",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "やり",
+                "gloss": "give.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "DECL": "declarative auxiliary",
+          "GEN": "genitive particle",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary"
+        },
+        "translation-ja-natural": "もと親族であったので、歌を詠んでやった。それは、",
+        "translation-en-natural": "Because she was originally of noble status, he sang a poem for her. It was,"
       },
       {
         "date": "20240921",
