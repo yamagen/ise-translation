@@ -46324,13 +46324,125 @@
         "translation-en-natural": "Because she was originally of noble status, he sang a poem for her. It was,"
       },
       {
-        "date": "20240921",
+        "date": [
+          20240921,
+          20260208
+        ],
         "id": 5,
         "poem": "そむくとて/雲には乗らぬ/ものなれど/世のうきことぞ/よそになるてふ",
         "kana": "そむくとて/くもにはのらぬ/ものなれど/よのうきことそ/よそになるてふ",
         "honkoku": "そむくとて雲にはのらぬものなれと/よのうきことそよそになるてふ/",
-        "translation-ja": "出家したとしても、雲に乗るように天に昇るわけではありませんが、世の中の嫌なことからは遠ざかると言いますね。",
-        "translation-en": "Though I renounce the world, I do not ascend to the clouds; yet it is said that I will be free from the sorrows of this world."
+        "translation-ja": "そむくと言っても、雲に乗らないものだけど、世の憂きことは余所になるという。",
+        "translation-en": "Although one may say to turn away from the world, it does not mean riding on clouds; rather, it is said that the world's troubles will become distant.",
+        "phrase-gloss": [
+          {
+            "phrase": "そむくとて雲には乗らぬものなれど",
+            "gloss": "turn.away QUOT CONJ cloud LOC ride NEG thing DECL but",
+            "words": [
+              {
+                "word": "そむく",
+                "gloss": "turn.away"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "雲",
+                "gloss": "cloud"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "乗ら",
+                "gloss": "ride.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "なれ",
+                "gloss": "DECL.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "but"
+              }
+            ]
+          },
+          {
+            "phrase": "世の憂きことぞ余所になるてふ",
+            "gloss": "world GEN fleeting thing EMPH distant become QUOT say",
+            "words": [
+              {
+                "word": "世",
+                "gloss": "world"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "憂き",
+                "gloss": "fleeting.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "余所",
+                "gloss": "other.place"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "なる",
+                "gloss": "become"
+              },
+              {
+                "word": "て",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ふ",
+                "gloss": "say"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "DECL": "declarative auxiliary",
+          "EMPH": "emphatic particle",
+          "LOC": "locative particle",
+          "NEG": "negative auxiliary",
+          "QUOT": "quotative particle",
+          "REALIS": "realis auxiliary"
+        },
+        "translation-ja-natural": "そむくと言っても、雲に乗らないものだけど、世の憂きことは余所になるという。",
+        "translation-en-natural": "Although one may say to turn away from the world, it does not mean riding on clouds; rather, it is said that the world's troubles will become distant."
       },
       {
         "date": "20240921",
