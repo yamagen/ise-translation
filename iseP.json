@@ -46494,13 +46494,47 @@
         "translation-en-natural": "Thus, he sang and sent her it."
       },
       {
-        "date": "20240921",
+        "date": [
+          20240921,
+          20260210
+        ],
         "id": 7,
         "text": "斎宮の宮なり。",
         "kana": "いつきのみやなり。",
         "honkoku": "斎宮のみやなり/s113r/",
-        "translation-ja": "斎宮の皇女でした。",
-        "translation-en": "She was a princess who served as a Saigu."
+        "translation-ja": "斎宮の皇女である。",
+        "translation-en": "She was a princess who served as a Saigu.",
+        "phrase-gloss": [
+          {
+            "phrase": "斎宮の宮なり。",
+            "gloss": "Saigu GEN princess DECL",
+            "words": [
+              {
+                "word": "斎宮",
+                "gloss": "Saigu.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "宮",
+                "gloss": "princess"
+              },
+              {
+                "word": "なり",
+                "gloss": "DECL.ADV"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle",
+          "DECL": "declarative auxiliary",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "斎宮の皇女である。",
+        "translation-en-natural": "She was a princess who served as a Saigu."
       }
     ]
   },
