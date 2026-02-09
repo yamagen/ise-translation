@@ -46445,13 +46445,53 @@
         "translation-en-natural": "Although one may say to turn away from the world, it does not mean riding on clouds; rather, it is said that the world's troubles will become distant."
       },
       {
-        "date": "20240921",
+        "date": [
+          20240921,
+          20260209
+        ],
         "id": 6,
         "text": "となむいひやりける。",
         "kana": "となむいひやりける。",
         "honkoku": "となんいひやりける",
-        "translation-ja": "と詠んでやりました。",
-        "translation-en": "Thus, he sang and sent her it."
+        "translation-ja": "と詠んでやった。",
+        "translation-en": "Thus, he sang and sent her it.",
+        "phrase-gloss": [
+          {
+            "phrase": "となん言ひやりける。",
+            "gloss": "QUOT EMPH say give PST",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "言い",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "やり",
+                "gloss": "give.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "EMPH": "emphatic particle",
+          "QUOT": "quotative particle",
+          "PST": "past tense",
+          "ATTR": "attributive form",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "と詠んでやった。",
+        "translation-en-natural": "Thus, he sang and sent her it."
       },
       {
         "date": "20240921",
