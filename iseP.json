@@ -46586,13 +46586,96 @@
         "translation-en-natural": "Once upon a time, there was a man."
       },
       {
-        "date": "20240923",
+        "date": [
+          20240923,
+          20260212
+        ],
         "id": 2,
         "text": "いとまめにじちようにて、あだなる心なかりけり。",
         "kana": "いとまめにじちようにて、あだなるこころなかりけり。",
         "honkoku": "いとまめにしち/s113r/ようにてあたなる心なかりけり",
-        "translation-ja": "たいそうまじめで、実直であって、浮かれた心はありませんでした。",
-        "translation-en": "He was very diligent and honest, and he had no frivolous thoughts."
+        "translation-ja": "とても誠実で慎重で、浮ついた心はなかった。",
+        "translation-en": "He is very sincere and prudent, and indeed had no frivolous heart.",
+        "phrase-gloss": [
+          {
+            "phrase": "いとまめにしちようにて、",
+            "gloss": "very sincere prudence CONJ",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "まめに",
+                "gloss": "sincere.ADV"
+              },
+              {
+                "word": "しちよう",
+                "gloss": "prudence.PN"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "あだなる心なかりけり。",
+            "gloss": "frivolous DECL heart NEG PST",
+            "words": [
+              {
+                "word": "あだなる",
+                "gloss": "frivolous.ATTR"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "なかり",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "NEG": "negative auxiliary",
+          "PST": "past tense",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "LOC": "locative particle"
+        },
+        "translation-ja-natural": "とても誠実で慎重で、浮ついた心はなかった。",
+        "translation-en-natural": "He is very sincere and prudent, and indeed had no frivolous heart.",
+        "notes-ja": [
+          {
+            "title": "英訳時制の対応",
+            "note": "前半「いとまめにじちようにて」は人物の属性提示であり、時制標識を持たない性質記述なので英語では現在形で訳す。一方、後半「あだなる心なかりけり」は「けり」による認識確定を伴うため、英語では過去形で訳し分ける。"
+          },
+          {
+            "title": "語りの認知レベル",
+            "note": "前半は物語内容としての属性提示（story stream に属する性質記述）、後半は「けり」による語り手の認識確定を表す（story teller の認知）。したがって両者は認知レベルが異なる叙述層に属する。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Tense Correspondence in English Translation",
+            "note": "The first half, 'いとまめにじちようにて', presents the character's attributes and lacks tense markers, thus it is translated in the present tense in English. In contrast, the second half, 'あだなる心なかりけり', involves recognition certainty indicated by 'けり', and is therefore translated in the past tense in English."
+          },
+          {
+            "title": "Cognitive Levels of Narration",
+            "note": "The first half belongs to the story stream as a description of attributes, while the second half expresses the narrator's cognition through 'けり', belonging to the story teller's cognitive level. Thus, they belong to different narrative layers with different cognitive levels."
+          }
+        ]
       },
       {
         "date": "20240923",
