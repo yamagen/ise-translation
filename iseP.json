@@ -46678,13 +46678,63 @@
         ]
       },
       {
-        "date": "20240923",
+        "date": [
+          20240923,
+          20260213
+        ],
         "id": 3,
         "text": "深草の帝になむ仕うまつりける。",
         "kana": "ふかくさのみかとになむつかうまつりける。",
         "honkoku": "ふかくさ/のみかとになむつかうまつりける",
-        "translation-ja": "深草の帝にお仕えしていました。",
-        "translation-en": "He served the Emperor of Fukakusa."
+        "translation-ja": "深草の帝にお仕えしていた。",
+        "translation-en": "He served the Emperor of Fukakusa.",
+        "phrase-gloss": [
+          {
+            "phrase": "深草の帝になむ仕うまつりける。",
+            "gloss": "Fukakusa GEN Emperor DAT EMPH serve PST",
+            "words": [
+              {
+                "word": "深草",
+                "gloss": "Fukakusa.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "帝",
+                "gloss": "Emperor"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "仕うまつり",
+                "gloss": "serve.HUM.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle",
+          "DAT": "dative particle",
+          "HUM": "humble auxiliary",
+          "EMPH": "emphatic particle",
+          "PST": "past tense",
+          "ATTR": "attributive form",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "深草の帝にお仕えしていた。",
+        "translation-en-natural": "He served the Emperor of Fukakusa."
       },
       {
         "date": "20240923",
