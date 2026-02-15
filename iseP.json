@@ -46897,13 +46897,35 @@
         ]
       },
       {
-        "date": "20240923",
+        "date": [
+          20240923,
+          20260215
+        ],
         "id": 5,
         "text": "さて 、",
         "kana": "さて 、",
         "honkoku": "さて/",
         "translation-ja": "さて、",
-        "translation-en": "Now,"
+        "translation-en": "Now,",
+        "phrase-gloss": [
+          {
+            "phrase": "さて 、",
+            "gloss": "Now,",
+            "words": [
+              {
+                "word": "さて",
+                "gloss": "Now"
+              },
+              {
+                "word": "、",
+                "gloss": ""
+              }
+            ]
+          }
+        ],
+        "abbreviations": {},
+        "translation-ja-natural": "さて、",
+        "translation-en-natural": "Now,"
       },
       {
         "date": "20240923",
