@@ -46737,13 +46737,164 @@
         "translation-en-natural": "He served the Emperor of Fukakusa."
       },
       {
-        "date": "20240923",
+        "date": [
+          20240923,
+          20260214
+        ],
         "id": 4,
         "text": "心あやまりやしたりけむ、親王たちのつかひたまひける人をあひいへりけり。",
         "kana": "こころあやまりやしたりけむ、しんのうたちのつかひたまひけるひとをあひいへりけり。",
         "honkoku": "心あ/やまりやしたりけんみこたちのつかひ給/ける人をあひいへりけり",
-        "translation-ja": "心がどうかしてしまったのだろうか、親王たちのお使いをしていた人と逢って話してしまった。",
-        "translation-en": "Did my heart go astray? I ended up meeting and speaking with someone who served as a messenger for the princes."
+        "translation-ja": "心の迷いをしたのだろうか、親王たちの使いなさっていた人を思うようになってしまった。",
+        "translation-en": "Did he have a moment of confusion in his heart? He ended up becoming fond of someone who served as a messenger for the princes.",
+        "phrase-gloss": [
+          {
+            "phrase": "心あやまりやしたりけむ、",
+            "gloss": "heart ethical.deviation Q do PERF PST.SUP",
+            "words": [
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "あやまり",
+                "gloss": "ethical.deviation"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けむ",
+                "gloss": "PST.SUP"
+              }
+            ]
+          },
+          {
+            "phrase": "親王たちの使い給ひける人をあひいへりけり。",
+            "gloss": "princes GEN serve HUM PST person ACC meet speak PERF PST",
+            "words": [
+              {
+                "word": "親王たち",
+                "gloss": "princes"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "使い給ひ",
+                "gloss": "serve.HUM.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "あひいへ",
+                "gloss": "(meet and) speak.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "Q": "question particle",
+          "REALIS": "realis auxiliary",
+          "GEN": "genitive particle",
+          "HUM": "humble auxiliary",
+          "PST": "past tense",
+          "ATTR": "attributive form",
+          "QUOT": "quotative particle",
+          "PERF": "perfective auxiliary"
+        },
+        "translation-ja-natural": "心がどうかしてしまったのだろうか、親王たちにお使いをしていた人を思うようになってしまった。",
+        "translation-en-natural": "Did my heart go astray? I ended up meeting and speaking with someone who served as a messenger for the princes.",
+        "notes-ja": [
+          {
+            "title": "をの対格構文と「あふ」の関係志向的用法",
+            "note": "「人を」の「を」は対象化を示す対格であり、「あふ」がこの人物を対象として関係志向的に用いられていることを示す。ここを「と」「に」に読み替えると構文機能が変わる。"
+          },
+          {
+            "title": "中古語「あふ」の意味",
+            "note": "中古語「あふ」は「出会う」ではなく、男女が逢う・逢瀬を持つ意を取りうる用法である。特に対格「を」を取る場合、偶然遭遇ではなく関係志向が強い。"
+          },
+          {
+            "title": "「をあふ」は一方向的志向を示す",
+            "note": "「人をあふ」は対象を一方向に志向する構文であり、この段階では相互関係の成立を示さない。男側の指向のみが構文的に表現され、相互性を含意する「と」構文とは機能が異なる。"
+          },
+          {
+            "title": "「いへり」",
+            "note": "「いへり」は内容発話を表す動詞ではなく、出来事を直接述べることを避けるための婉曲的叙述標識として働いている。"
+          },
+          {
+            "title": "露骨に書かず",
+            "note": "原文は関係の成立を露骨に書かず、格助詞と動詞用法によって読者に含意を読み取らせる語りの設計になっている。"
+          },
+          {
+            "title": "現代語の「あふ」の行為性は記述できない",
+            "note": "現代語では「あふ」の行為性をそのまま対格構文で再現できないため、対象性と非明示性を優先し、心理動詞「思う」で機能対応させている。"
+          },
+          {
+            "title": "「心あやまり」",
+            "note": "「心あやまり」は倫理的逸脱・判断の揺らぎを示し、禁忌的関係への傾斜を語り手が婉曲に示す前置きである。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Object-marking 'wo' construction and the relational orientation usage of 'au'",
+            "note": "The 'wo' in '人を' indicates an accusative case marking for objectification, and 'au' is used in a relationally oriented manner with this person as the object. If we were to read this as 'to' or 'ni', the syntactic function would change."
+          },
+          {
+            "title": "Meaning of Middle Japanese 'au'",
+            "note": "The Middle Japanese 'au' can take on the meaning of a romantic encounter rather than just 'meeting'. Especially when taking the accusative 'wo', it implies a strong relational orientation rather than a chance encounter."
+          },
+          {
+            "title": "'wo au' indicates unidirectional orientation",
+            "note": "'人をあう' is a construction that indicates a unidirectional orientation towards the object, and at this stage does not indicate the establishment of a mutual relationship. The syntactic expression only shows the man's orientation, which is functionally different from the 'to' construction that implies mutuality."
+          },
+          {
+            "title": "'iheri'",
+            "note": "'iheri' does not function as a verb indicating speech but serves as an indirect narrative marker to avoid directly stating the event."
+          },
+          {
+            "title": "Not writing explicitly",
+            "note": "The original text is designed to let readers infer the establishment of the relationship through case particles and verb usage without explicitly writing it out."
+          },
+          {
+            "title": "The activeness of modern 'au' cannot be described",
+            "note": "In modern Japanese, we cannot directly reproduce the active use of 'au' in an accusative construction, so we prioritize objectivity and non-explicitness, using a psychological verb like '思う' for functional correspondence."
+          },
+          {
+            "title": "'kokoro ayamari'",
+            "note": "'kokoro ayamari' indicates ethical deviation or wavering judgment, serving as a prelude where the narrator subtly indicates a tendency towards a taboo relationship."
+          }
+        ]
       },
       {
         "date": "20240923",
