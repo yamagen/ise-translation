@@ -46928,13 +46928,95 @@
         "translation-en-natural": "Now,"
       },
       {
-        "date": "20240923",
+        "date": [
+          20240923,
+          20260216
+        ],
         "id": 6,
         "poem": "寝ぬる夜の/夢をはかなみ/まどろめば/いやはかなにも/なりまさるかな",
         "kana": "ねぬるよの/ゆめをはかなみ/まどろめば/いやはかなにも/なりまさるかな",
         "honkoku": "ねぬる夜の夢をはかなみまとろめは/いやはかなにもなりまさるかな/",
-        "translation-ja": "眠った夜の夢が儚いと感じて、まどろんでいると、ますますその儚さが増していくことだなあ。",
-        "translation-en": "Feeling the dream of the night I slept to be fleeting, I doze off again, and its transience only deepens even more."
+        "translation-ja": "寝た夜の夢がはかないので、まどろむと、いよいよはかなくなって増していくことだなあ。",
+        "translation-en": "Because the dream of the night I slept is fleeting, when I doze, it becomes even more fleeting, and its fleetingness increases all the more.",
+        "phrase-gloss": [
+          {
+            "phrase": "寝ぬる夜の夢をはかなみまどろめばいやはかなにもなりまさるかな",
+            "gloss": "sleep night GEN dream ACC fleeting reason doze CONJ even.more fleeting become EMPH",
+            "words": [
+              {
+                "word": "寝",
+                "gloss": "sleep.ADV"
+              },
+              {
+                "word": "ぬる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "夢",
+                "gloss": "dream"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "はかなみ",
+                "gloss": "fleeting.ADV"
+              },
+              {
+                "word": "まどろめ",
+                "gloss": "doze.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "いや",
+                "gloss": "even.more"
+              },
+              {
+                "word": "はかなに",
+                "gloss": "fleeting.ADV"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "まさる",
+                "gloss": "increase"
+              },
+              {
+                "word": "かな",
+                "gloss": "EMPH"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "EMPH": "emphatic particle",
+          "REALIS": "realis auxiliary"
+        },
+        "translation-ja-natural": "寝た夜の夢がはかないので、まどろむと、いよいよはかなくなって増していくことだなあ。",
+        "translation-en-natural": "Because the dream of the night I slept is fleeting, when I doze, it becomes even more fleeting, and its fleetingness increases all the more."
       },
       {
         "date": "20240923",
