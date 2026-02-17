@@ -47019,13 +47019,53 @@
         "translation-en-natural": "Because the dream of the night I slept is fleeting, when I doze, it becomes even more fleeting, and its fleetingness increases all the more."
       },
       {
-        "date": "20240923",
+        "date": [
+          20240923,
+          20260217
+        ],
         "id": 7,
         "text": "となむよみてやりける。",
         "kana": "となんよみてやりける。",
         "honkoku": "となんよみてやりける",
-        "translation-ja": "と詠んでやりました。",
-        "translation-en": "Thus, he sang and sent her it."
+        "translation-ja": "と詠んでやった。",
+        "translation-en": "Thus, he sang and sent her it.",
+        "phrase-gloss": [
+          {
+            "phrase": "となん詠みてやりける。",
+            "gloss": "QUOT EMPH say give PST",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "詠み",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "やり",
+                "gloss": "give.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "EMPH": "emphatic particle",
+          "QUOT": "quotative particle",
+          "PST": "past tense",
+          "ATTR": "attributive form",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "と詠んでやった。",
+        "translation-en-natural": "Thus, he sang and sent her it."
       },
       {
         "date": "20240923",
