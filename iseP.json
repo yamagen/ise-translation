@@ -47068,13 +47068,50 @@
         "translation-en-natural": "Thus, he sang and sent her it."
       },
       {
-        "date": "20240923",
+        "date": [
+          20240923,
+          20260218
+        ],
         "id": 8,
         "text": "さる歌のきたなげさよ。",
         "kana": "さるうたのきたなげさよ。",
         "honkoku": "さるうたのきた/なけさよ/s113l/",
         "translation-ja": "なんという歌の汚らしさよ。",
-        "translation-en": "What an unrefined (or distasteful) poem this is."
+        "translation-en": "What an unrefined (or distasteful) poem this is.",
+        "phrase-gloss": [
+          {
+            "phrase": "さる歌の汚なげさよ。",
+            "gloss": "such poem GEN unrefinedness EMPH",
+            "words": [
+              {
+                "word": "さる",
+                "gloss": "such"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "汚なげさ",
+                "gloss": "unrefinedness"
+              },
+              {
+                "word": "よ",
+                "gloss": "EMPH"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "なんという歌の汚らしさよ。",
+        "translation-en-natural": "What an unrefined (or distasteful) poem this is."
       }
     ]
   },
