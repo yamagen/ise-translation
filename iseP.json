@@ -47121,13 +47121,58 @@
     "romaji": "kamo no matsuri",
     "paragraph": [
       {
-        "date": "20240924",
+        "date": [
+          20240924,
+          20260219
+        ],
         "id": 1,
         "text": "むかし、ことなることなくて尼になれる人ありけり。",
         "kana": "むかし、ことなることなくてあまになれるひとありけり。",
         "honkoku": "むかしことなる事なくてあまになれる/s113l/人有けり",
-        "translation-ja": "昔、理由もなく尼になった人がいました。",
-        "translation-en": "Once upon a time, there was a person who became a nun for no particular reason."
+        "translation-ja": "昔、理由もなく尼になった人がいた。",
+        "translation-en": "Once upon a time, there was a person who became a nun for no particular reason.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、ことなることなくて尼になれる人ありけり。",
+            "gloss": "long ago, no particular reason become nun person exist.PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long ago"
+              },
+              {
+                "word": "ことなることなくて",
+                "gloss": "no particular reason"
+              },
+              {
+                "word": "尼",
+                "gloss": "nun"
+              },
+              {
+                "word": "になれる",
+                "gloss": "become"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "昔、理由もなく尼になった人がいた。",
+        "translation-en-natural": "Once upon a time, there was a person who became a nun for no particular reason."
       },
       {
         "date": "20240924",
