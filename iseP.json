@@ -24012,7 +24012,7 @@
               },
               {
                 "word": "たれ",
-                "gloss": "COND"
+                "gloss": "PST.REALIS"
               },
               {
                 "word": "ば",
@@ -47175,13 +47175,118 @@
         "translation-en-natural": "Once upon a time, there was a person who became a nun for no particular reason."
       },
       {
-        "date": "20240924",
+        "date": [
+          20240924,
+          20260220
+        ],
         "id": 2,
         "text": "かたちをやつしたれど、ものやゆかしかりけむ、加茂の祭見にいでたりけるを、男、歌よみてやる。",
         "kana": "かたちをやつしたれど、ものやゆかしかりけむ、かものまつりみにいでたりけるを、をとこ、うたよみてやる。",
         "honkoku": "かたちをやつしたれと物や/ゆかしかりけむかものまつり見にいてたり/けるをおとこうたよみてやる/",
-        "translation-ja": "姿は窶れているけれども、どこか魅力があったのだろうか、加茂の祭りを見に行っていた男性が、歌を詠んで送った。",
-        "translation-en": "Though her appearance was diminished, perhaps there was something alluring about her; the man who had gone to see the Kamo Festival composed a poem and sent it."
+        "translation-ja": "形をやつしていたが、なぜ見たく思ったのだろうか、加茂の祭を見に出かけていたところへ、男が歌を詠んで贈った。",
+        "translation-en": "She had disguised her appearance, yet perhaps she somehow felt drawn to see it; when she had gone out to view the Kamo Festival, a man composed a poem and sent it to her.",
+        "phrase-gloss": [
+          {
+            "phrase": "かたちをやつしたれど、ものやゆかしかりけむ、加茂の祭見にいでたりけるを、男、歌よみてやる。",
+            "gloss": "appearance ACC disguise PERF CONJ somehow desirable see Kamo GEN festival view go PST but man poem compose give",
+            "words": [
+              {
+                "word": "かたち",
+                "gloss": "appearance"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "やつし",
+                "gloss": "disguise.ADV"
+              },
+              {
+                "word": "たれ",
+                "gloss": "PERF.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ものや",
+                "gloss": "EXCL.Q"
+              },
+              {
+                "word": "ゆかしかり",
+                "gloss": "desirable.ADV"
+              },
+              {
+                "word": "けむ",
+                "gloss": "PST.MOD"
+              },
+              {
+                "word": "加茂の祭",
+                "gloss": "Kamo.Festival.PN"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "いで",
+                "gloss": "go.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "よみ",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "やる",
+                "gloss": "give"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "PERF": "perfective auxiliary",
+          "CONJ": "conjunctive particle",
+          "EXCL.Q": "exclamatory question particle",
+          "MOD": "modal auxiliary",
+          "GEN": "genitive particle",
+          "DAT": "dative particle",
+          "PST": "past tense",
+          "ATTR": "attributive form"
+        },
+        "translation-ja-natural": "身なりを地味にしていたが、どんな思いで見たかったのだろうか、加茂祭を見に出かけていたところへ、男が歌を詠んで贈った。",
+        "translation-en-natural": "She had disguised her appearance, yet what feeling had drawn her to go and see it? When she went out to view the Kamo Festival, a man composed a poem and sent it to her."
       },
       {
         "date": "20240924",
