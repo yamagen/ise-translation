@@ -47286,7 +47286,27 @@
           "ATTR": "attributive form"
         },
         "translation-ja-natural": "身なりを地味にしていたが、どんな思いで見たかったのだろうか、加茂祭を見に出かけていたところへ、男が歌を詠んで贈った。",
-        "translation-en-natural": "She had disguised her appearance, yet what feeling had drawn her to go and see it? When she went out to view the Kamo Festival, a man composed a poem and sent it to her."
+        "translation-en-natural": "She had disguised her appearance, yet what feeling had drawn her to go and see it? When she went out to view the Kamo Festival, a man composed a poem and sent it to her.",
+        "notes-ja": [
+          {
+            "title": "「けむ」の語りの位置",
+            "note": "けむ が出ると、語り手が一瞬語り手自身の想像の位置に立つことになる。ここでは、なぜ見たく思ったのだろうかという想像の位置に立っている。"
+          },
+          {
+            "title": "「ものやゆかしかりけむ」の解釈",
+            "note": "「ものや」は感嘆の疑問を表す副詞であり、「ゆかしかりけむ」は「見たいと思う気持ちがあったのだろう」という推量を表す。全体で「なぜ見たく思ったのだろうか」という意味になる。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Position of 'kemu' in the narration",
+            "note": "When 'kemu' appears, the narrator momentarily takes the position of their own imagination. Here, they are taking the position of imagining why she felt like wanting to see it."
+          },
+          {
+            "title": "Interpretation of 'mono ya yukashikari kemu'",
+            "note": "'mono ya' is an adverb expressing an exclamatory question, and 'yukashikari kemu' expresses a conjecture that there was a feeling of wanting to see. The whole phrase means 'I wonder why she felt like wanting to see it.'"
+          }
+        ]
       },
       {
         "date": "20240924",
