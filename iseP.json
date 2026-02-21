@@ -47322,7 +47322,7 @@
         "phrase-gloss": [
           {
             "phrase": "世をうみのあまとし人を見るからにめくはせよとも頼まるるかな",
-            "gloss": "world ACC sea.person become person see reason give.sign with.eyes also expect EMPH",
+            "gloss": "world ACC sea GEN diver QUOT do person ACC see from DAT eye distribute.IMP even expect POT EMPH",
             "words": [
               {
                 "word": "世",
@@ -47410,7 +47410,7 @@
           "ATTR": "attributive form",
           "EMPH": "emphatic particle"
         },
-        "translation-ja-natural": "世の中を疎み尼となった人を海の海士と見るからに、海松布を食わせよとも、目配せせよとも、期待してよいのかな。",
+        "translation-ja-natural": "世の中を疎み尼となった人を海の海士と見て、海松布を食わせよとも、目配せせよとも、期待してよいのかな。",
         "translation-en-natural": "When I see you, who have grown indifferent to the world and become a nun as a sea person, can I expect that you will feed them seaweed or give me a sign with your eyes?"
       },
       {
