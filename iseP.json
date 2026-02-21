@@ -47414,13 +47414,134 @@
         "translation-en-natural": "When I see you, who have grown indifferent to the world and become a nun as a sea person, can I expect that you will feed them seaweed or give me a sign with your eyes?"
       },
       {
-        "date": "20240924",
+        "date": [
+          20240924,
+          20260222
+        ],
         "id": 4,
         "text": "これは、斎宮の、もの見たまひける車に、かく聞えたりければ見さしてかへりたまひにけりとなむ。",
         "kana": "これは、さいぐうの、ものみたまひけるくるまに、かくきこえたりければ、みさしてかへりたまひにけりとなむ。",
         "honkoku": "これは斎宮のものみたまひける車に/かくきこえたりけれは見さしてかへり/たまひにけりとなむ/s114r/",
-        "translation-ja": "これは、斎宮が見物されていた車に、このように歌を差し上げたので、見物を途中で止めて、帰ってしまわれたということです。",
-        "translation-en": "This means that the Saigu was offering this poem to the carriage that was being viewed, and thus the spectators stopped midway and returned."
+        "translation-ja": "これは、斎宮が見物されていた車に、このように歌を差し上げたので、見物を途中で止めて、帰ってしまわれたということだ。",
+        "translation-en": "This means that the Saigu was offering this poem to the carriage that was being viewed, and thus the spectators stopped midway and returned.",
+        "phrase-gloss": [
+          {
+            "phrase": "これは、斎宮の、もの見たまひける車に、かく聞えたりければ見さしてかへりたまひにけりとなむ。",
+            "gloss": "this TOP Saigu GEN thing see HUM PST carriage DAT thus report.HUM.PERF CONJ see quit return HUM PERF PST QUOT EMPH",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "斎宮",
+                "gloss": "Saigu.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "み",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "たまひ",
+                "gloss": "HUM.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "車",
+                "gloss": "carriage"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "聞え",
+                "gloss": "report.HUM.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "さし",
+                "gloss": "quit.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "かへり",
+                "gloss": "return.ADV"
+              },
+              {
+                "word": "たまひ",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "TOP": "topic particle",
+          "GEN": "genitive particle",
+          "HUM": "humble form",
+          "PERF": "perfective auxiliary",
+          "DAT": "dative particle",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary",
+          "CONJ": "conjunctive particle",
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "これは、斎宮が見物されていた車に、このように歌を差し上げたので、見物を途中で止めて、帰ってしまわれたということだ。",
+        "translation-en-natural": "This means that the Saigu was offering this poem to the carriage that was being viewed, and thus the spectators stopped midway and returned."
       }
     ]
   },
