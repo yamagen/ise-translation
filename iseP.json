@@ -47309,13 +47309,109 @@
         ]
       },
       {
-        "date": "20240924",
+        "date": [
+          20240924,
+          20260221
+        ],
         "id": 3,
         "poem": "世をうみの/あまとし人を/見るからに/めくはせよとも/頼まるるかな",
         "kana": "よをうみのあまとし人をみるからにめくはせよともたのまるるかな",
         "honkoku": "よをうみのあまとし人をみるからに/めくはせよともたのまるるかな/",
         "translation-ja": "世の中を疎み尼となった人を海の海士と見るからに、海松布を食わせよとも、目配せせよとも、期待してよいのかな。",
-        "translation-en": "When I see you, who have grown indifferent to the world and become a nun as a sea person, can I expect that you will feed them seaweed or give me a sign with your eyes?"
+        "translation-en": "When I see you, who have grown indifferent to the world and become a nun as a sea person, can I expect that you will feed them seaweed or give me a sign with your eyes?",
+        "phrase-gloss": [
+          {
+            "phrase": "世をうみのあまとし人を見るからにめくはせよとも頼まるるかな",
+            "gloss": "world ACC sea.person become person see reason give.sign with.eyes also expect EMPH",
+            "words": [
+              {
+                "word": "世",
+                "gloss": "world"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "うみ",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "あま",
+                "gloss": "diver"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "し",
+                "gloss": "do"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見る",
+                "gloss": "see"
+              },
+              {
+                "word": "から",
+                "gloss": "from"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "め",
+                "gloss": "eye"
+              },
+              {
+                "word": "くはせよ",
+                "gloss": "distribute.IMP"
+              },
+              {
+                "word": "とも",
+                "gloss": "even"
+              },
+              {
+                "word": "頼ま",
+                "gloss": "expect.IRR"
+              },
+              {
+                "word": "るる",
+                "gloss": "POT.ATTR"
+              },
+              {
+                "word": "かな",
+                "gloss": "EMPH"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "GEN": "genitive particle",
+          "QUOT": "quotative particle",
+          "DAT": "dative particle",
+          "IMP": "imperative form",
+          "IRR": "irrealis auxiliary",
+          "POT": "potential auxiliary",
+          "ATTR": "attributive form",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "世の中を疎み尼となった人を海の海士と見るからに、海松布を食わせよとも、目配せせよとも、期待してよいのかな。",
+        "translation-en-natural": "When I see you, who have grown indifferent to the world and become a nun as a sea person, can I expect that you will feed them seaweed or give me a sign with your eyes?"
       },
       {
         "date": "20240924",
