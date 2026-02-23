@@ -47551,13 +47551,103 @@
     "romaji": "shiratsuyu",
     "paragraph": [
       {
-        "date": "20240925",
+        "date": [
+          20240925,
+          20260223
+        ],
         "id": 1,
         "text": "むかし、男、「かくては死ぬべし」といひやりたりければ、女、",
         "kana": "むかし、をとこ、「かくてはしぬべし」といひやりたりければ、をんな、",
         "honkoku": "むかしおとこかくてはしぬへしといひ/s114r/やりたりけれは女/",
-        "translation-ja": "昔、男が「こうしていては死んでしまう」と言ったので、女、",
-        "translation-en": "Once upon a time, a man said, \"This way, you will die,\" and a woman,"
+        "translation-ja": "昔、男が「こうでは死ぬだろう」と言ってやったので、女、",
+        "translation-en": "Once upon a time, a man said, \"If I stay like this, I will die,\" and the woman,",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、男、「かくては死ぬべし」といひやりたりければ、女、",
+            "gloss": "long ago, man thus TOP die EMPH QUOT say give PERF PST CONJ woman",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long ago"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "死ぬ",
+                "gloss": "die"
+              },
+              {
+                "word": "べし",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "やり",
+                "gloss": "give.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "EMPH": "emphatic particle",
+          "QUOT": "quotative particle",
+          "CONJ": "conjunctive particle",
+          "PERF": "perfective auxiliary",
+          "PST": "past tense",
+          "TOP": "topic particle",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "昔、男が「こうでは死ぬだろう」と言ってやったので、女、",
+        "translation-en-natural": "Once upon a time, a man said, \"If I stay like this, I will die,\" and the woman,",
+        "notes-ja": [
+          {
+            "title": "「かくては死ぬべし」の解釈",
+            "note": "「かくては死ぬべし」は、「こうしていては死ぬだろう」という意味で、男が自分の状態を表現している。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Interpretation of 'kakute wa shinu beshi'",
+            "note": "'kakute wa shinu beshi' means 'If I stay like this, I will die,' and it expresses the man's state of mind."
+          }
+        ]
       },
       {
         "date": "20240925",
