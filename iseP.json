@@ -20122,7 +20122,7 @@
               },
               {
                 "word": "明け",
-                "gloss": "dawn.REALIS.F"
+                "gloss": "dawn.REALIS"
               },
               {
                 "word": "なむ",
@@ -47650,13 +47650,113 @@
         ]
       },
       {
-        "date": "20240925",
+        "date": [
+          20240925,
+          20260224
+        ],
         "id": 2,
         "poem": "白露は/消なば消ななむ/消えずとて/玉にぬくべき/人もあらじを",
         "kana": "しらつゆは/けなばけななむ/きえずとて/たまにぬくべき/ひともあらじを",
         "honkoku": "しら露はけなはけななむきえすとて/玉にぬくへき人もあらしを/",
-        "translation-ja": "はかない白露は、消えるものなら消えてしまってほしい。たとえ消えなくても、飾り玉にして緒につらぬく人などいないでしょう。",
-        "translation-en": "The fleeting white dew, if it disappears, I wish it would disappear. Even if it doesn't disappear, there should be no one who would wear it as a decoration."
+        "translation-ja": "白露は、消えるなら消えてしまってほしい。消えなくても、玉にぬく人もいないでしょうに。",
+        "translation-en": "The fleeting white dew, if it disappears, I wish it would disappear. Even if it doesn't disappear, there should be no one who would wear it as a decoration.",
+        "phrase-gloss": [
+          {
+            "phrase": "白露は消なば消ななむ消えずとて玉にぬくべき人もあらじを",
+            "gloss": "white.dew TOP disappear NEG COND disappear EMPH disappear NEG QUOT CONJ jewel DAT wear should person also exist NEG.SUP EMPH",
+            "words": [
+              {
+                "word": "白露",
+                "gloss": "white.dew"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "消なば",
+                "gloss": "disappear.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "消な",
+                "gloss": "disappear.REALIS"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "消え",
+                "gloss": "disappear"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "玉",
+                "gloss": "jewel"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "ぬく",
+                "gloss": "wear.ADV"
+              },
+              {
+                "word": "べき",
+                "gloss": "should"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "あら",
+                "gloss": "exist"
+              },
+              {
+                "word": "じ",
+                "gloss": "NEG.SUP"
+              },
+              {
+                "word": "を",
+                "gloss": "EMPH"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "TOP": "topic particle",
+          "NEG": "negative auxiliary",
+          "SUP": "suppletive auxiliary",
+          "COND": "conditional form",
+          "EMPH": "emphatic particle",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "ADV": "adverbial form",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "はかない白露は、消えるものなら消えてしまってほしい。たとえ消えなくても、飾り玉にして緒につらぬく人などいないでしょう。",
+        "translation-en-natural": "The fleeting white dew, if it disappears, I wish it would disappear. Even if it doesn't disappear, there should be no one who would wear it as a decoration."
       },
       {
         "date": "20240925",
