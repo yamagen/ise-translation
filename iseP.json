@@ -47759,13 +47759,95 @@
         "translation-en-natural": "The fleeting white dew, if it disappears, I wish it would disappear. Even if it doesn't disappear, there should be no one who would wear it as a decoration."
       },
       {
-        "date": "20240925",
+        "date": [
+          20240925,
+          20260225
+        ],
         "id": 3,
         "text": "といへりければ、いとなめしと思ひけれど、心ざしはいやまさりけり。",
         "kana": "といへりければ、いとなめしとおもひけれど、こころざしはいやまさりけり。",
         "honkoku": "といへりけれはいとなめしと思ひけれと/心さしはいやまさりけり/s114l/",
-        "translation-ja": "と言ったので、ひどく失礼だと思ったが、執心はいよいよつのってきた。",
-        "translation-en": "She said it, and although he thought it was very rude, his obsession only grew stronger."
+        "translation-ja": "と言ったので、ひどく失礼だと思ったが、心ざしはいよいよつのった。",
+        "translation-en": "Said so - he thought it very rude, though - his feelings grew stronger.",
+        "phrase-gloss": [
+          {
+            "phrase": "といへりければ、いとなめしと思ひけれど、心ざしはいやまさりけり。",
+            "gloss": "QUOT say PERF PST CONJ very rude think PST CONJ feelings TOP even more grow PST",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いへり",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "なめし",
+                "gloss": "rude"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "おもひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "心ざし",
+                "gloss": "feelings"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "いや",
+                "gloss": "even more"
+              },
+              {
+                "word": "まさり",
+                "gloss": "grow.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "REALIS": "realis auxiliary",
+          "QUOT": "quotative particle",
+          "PERF": "perfective auxiliary",
+          "PST": "past tense",
+          "CONJ": "conjunctive particle",
+          "TOP": "topic particle",
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "と言ったので、ひどく失礼だと思ったが、心ざしはかえってつのった。",
+        "translation-en-natural": "Said so - he thought it very rude, though - his feelings grew even stronger."
       }
     ]
   },
