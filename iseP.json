@@ -5,7 +5,11 @@
     "romaji": "uikouburi",
     "paragraph": [
       {
-        "date": "20240516,20241012,20241112",
+        "date": [
+          20240516,
+          20241012,
+          20241112
+        ],
         "id": 1,
         "text": "むかし、男、初冠して、平城の京春日の里に、しるよしして、狩にいにけり。",
         "kana": "むかし、をとこ、うゐかうぶりして、ならのみやこかすがのさとに、しるよしして、かりにいにけり。",
@@ -47857,13 +47861,101 @@
     "romaji": "tatsutagawa",
     "paragraph": [
       {
-        "date": "20240925",
+        "date": [
+          20240925,
+          20260226
+        ],
         "id": 1,
         "text": "むかし、男、親王たちの逍遥したまふ所にまうでて、龍田河のほとりにて、",
         "kana": "むかし、をとこ、みこたちのせうえうしたまふところにまうでて、たつたがはのほとりにて、",
         "honkoku": "むかしおとこみこたちのせうえうし/給う所にまうてて立田川のほとりにて/",
-        "translation-ja": "昔、男が、親王たちがお遊びになっている場所に参上し、龍田川のほとりで、",
-        "translation-en": "Once upon a time, a man visited the place where the princes were strolling and by the banks of the Tatsuta River"
+        "translation-ja": "昔、男が、親王たちがに逍遥しておいでなっている所に参上し、龍田川のほとりで、",
+        "translation-en": "Once upon a time, a man visited the place where the princes were strolling around and by the banks of the Tatsuta River",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、男、親王たちの逍遥したまふ所にまうでて、龍田河のほとりにて、",
+            "gloss": "long.ago, man, princelPL GEN stroll HOM place DAT visit CONJ Tatsuta River GEN side LOC CONJ",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long ago"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "親王",
+                "gloss": "prince"
+              },
+              {
+                "word": "たち",
+                "gloss": "PL"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "逍遥",
+                "gloss": "stroll"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "たまふ",
+                "gloss": "HON.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "まうで",
+                "gloss": "visit.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "たつたがは",
+                "gloss": "Tatsuta.River.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ほとり",
+                "gloss": "side"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PL": "plural marker",
+          "GEN": "genitive particle",
+          "HUM": "humble form",
+          "DAT": "dative particle",
+          "LOC": "locative particle"
+        },
+        "translation-ja-natural": "昔、男が、親王たちがぶらぶら歩き回っていらっしゃるところに参上し、龍田川のほとりで、",
+        "translation-en-natural": "Once upon a time, a man visited the place where the princes were strolling around and by the banks of the Tatsuta River,"
       },
       {
         "date": "20240925",
