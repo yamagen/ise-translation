@@ -47958,13 +47958,82 @@
         "translation-en-natural": "Once upon a time, a man visited the place where the princes were strolling around and by the banks of the Tatsuta River,"
       },
       {
-        "date": "20240925",
+        "date": [
+          20240925,
+          20260227
+        ],
         "id": 2,
         "poem": "ちはやぶる/神代も聞かず/龍田河/からくれなゐに/水くくるとは",
         "kana": "ちはやぶる/かみよもきかす/たつたがは/からくれなゐに/みずくくるとは",
         "honkoku": "ちはやふる神代もきかすたつたかは/からくれなゐに水くるるとは/s114l/",
         "translation-ja": "神々の時代にも聞いたことがない。龍田河でから紅にくくり染めにするとは。",
-        "translation-en": "I have never heard of such a thing, even in the age of the mighty gods: the Tatsuta River swirling its waters in deep crimson."
+        "translation-en": "I have never heard of such a thing, even in the age of the mighty gods: the Tatsuta River swirling its waters in deep crimson.",
+        "phrase-gloss": [
+          {
+            "phrase": "ちはやぶる神代も聞かず竜田川からくれなゐに水くるるとは",
+            "gloss": "mighty gods also hear NEG Tatsuta River swirling water in deep.crimson QUOT EMPH",
+            "words": [
+              {
+                "word": "ちはやぶる",
+                "gloss": "mighty gods"
+              },
+              {
+                "word": "神代",
+                "gloss": "age of the gods"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "聞か",
+                "gloss": "hear.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "竜田川",
+                "gloss": "Tatsuta.River.PN"
+              },
+              {
+                "word": "からくれなゐ",
+                "gloss": "deep.crimson"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "水",
+                "gloss": "water"
+              },
+              {
+                "word": "くるる",
+                "gloss": "swirl"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "DAT": "dative particle",
+          "IRR": "irrealis auxiliary",
+          "NEG": "negative auxiliary",
+          "PN": "proper noun",
+          "QUOT": "quotative particle",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "神々の時代にも聞いたことがない。龍田河でから紅にくくり染めにするとは。",
+        "translation-en-natural": "I have never heard of such a thing, even in the age of the mighty gods: the Tatsuta River swirling its waters in deep crimson."
       }
     ]
   },
