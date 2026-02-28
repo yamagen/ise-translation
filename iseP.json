@@ -48043,13 +48043,61 @@
     "romaji": "mi wo shiru ame",
     "paragraph": [
       {
-        "date": "20240926",
+        "date": [
+          20240926,
+          20260228
+        ],
         "id": 1,
         "text": "むかし、あてなる男ありけり。",
         "kana": "むかし、あてなるをとこありけり。",
         "honkoku": "昔あてなるおとこありけり",
         "translation-ja": "昔、上品な男がいた。",
-        "translation-en": "Once upon a time, there was a refined man."
+        "translation-en": "Once upon a time, there was a refined man.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、あてなる男ありけり。",
+            "gloss": "long ago, refined man exist PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long ago"
+              },
+              {
+                "word": "あてなる",
+                "gloss": "refined"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "昔、上品な男がいた。",
+        "translation-en-natural": "Once upon a time, there was a refined man.",
+        "notes-ja": [
+          {
+            "title": "「あてなる」の解釈",
+            "note": "「あてなる」は、「上品な」や「高貴な」という意味で、男の身分や性格を表しています。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Interpretation of 'ate naru'",
+            "note": "'ate naru' means 'refined' or 'noble', describing the status or character of the man."
+          }
+        ]
       },
       {
         "date": "20240926",
