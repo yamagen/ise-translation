@@ -48218,13 +48218,175 @@
         "translation-en-natural": "A man named Fujiwara no Toshiyuki, who served as a naiki (secretary), courted the woman who lived with that man."
       },
       {
-        "date": "20240927",
+        "date": [
+          20240927,
+          20260302
+        ],
         "id": 3,
         "text": "されど若ければ、文もをさをさしからず、ことばもいひしらず、いはむや歌はよまざりければ、かのあるじなる人、案をかきて、書かせてやりけり。",
         "kana": "されどわかければ、ふみもをさをさしからず、ことばもいひしらず、いはむやうたはよまざりければ、かのあるじなるひと、あんをかきて、かかせてやりけり。",
         "honkoku": "されと/またわかけれはふみもおさおさし/からすこと葉もいひしらすいはんや哥は/よまさりけれはかのあるしなる人あむを/かきてかかせてやりけり",
-        "translation-ja": "しかし若いので、文もあまりよくなく、言葉も知らず、まして歌も詠んでいないので、その主人である人は、考えをめぐらせて、書かせて送りました。",
-        "translation-en": "However, being young, the writing was not very good, and the words were not known, let alone the fact that no poems had been composed; thus, the person who was the owner thought about it and had it written and sent."
+        "translation-ja": "しかし、若いので、文もあまりよくなく、言葉も知らず、まして歌も詠まないので、その主人である人は、案を書いて、書かせて送った。",
+        "translation-en": "However, she was young, so her writing was not very good, and she did not know words, nor did she compose poems; thus, the person who was the owner wrote a draft and had her write and send it.",
+        "phrase-gloss": [
+          {
+            "phrase": "されど若ければ、文もをさをさしからず、ことばもいひしらず、",
+            "gloss": "however young CONJ writing also very.good.at NEG words also say know NEG",
+            "words": [
+              {
+                "word": "されど",
+                "gloss": "however"
+              },
+              {
+                "word": "若けれ",
+                "gloss": "young.ADV"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "文",
+                "gloss": "writing"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "をさをさしから",
+                "gloss": "be.good.at.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "言葉",
+                "gloss": "words"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "しら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          },
+          {
+            "phrase": "いはむや歌はよまざりければ、",
+            "gloss": "more.than.that poem NEG compose NEG PST CONJ",
+            "words": [
+              {
+                "word": "いはむや",
+                "gloss": "more.than.that"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "よま",
+                "gloss": "compose.IRR"
+              },
+              {
+                "word": "ざり",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "かのあるじなる人、案をかきて、書かせてやりけり。",
+            "gloss": "that owner be person plan ACC write CONJ write CAU CONJ send PST",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that"
+              },
+              {
+                "word": "あるじ",
+                "gloss": "owner"
+              },
+              {
+                "word": "なる",
+                "gloss": "be"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "案",
+                "gloss": "plan"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "かき",
+                "gloss": "write.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "かか",
+                "gloss": "write.IRR"
+              },
+              {
+                "word": "せ",
+                "gloss": "CAU.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "やり",
+                "gloss": "send.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CAU": "causative auxiliary",
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis auxiliary",
+          "NEG": "negative auxiliary",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary"
+        },
+        "translation-ja-natural": "しかし、若いので、文もあまりよくなく、言葉も知らず、まして歌も詠まないので、その主人は、案を書いて、女に書かせて送らせた。",
+        "translation-en-natural": "However, she was young, so her writing was not very good, and she did not know words, nor did she compose poems; thus, the owner wrote a draft and had her write and send it."
       },
       {
         "date": "20240927",
