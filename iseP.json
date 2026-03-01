@@ -48100,13 +48100,122 @@
         ]
       },
       {
-        "date": "20240926",
+        "date": [
+          20240926,
+          20260301
+        ],
         "id": 2,
         "text": "その男のもとなりける人を、内記にありける藤原の敏行といふ人よばひけり。",
         "kana": "そのをとこのもとなりけるひとを、ないきにありけるふじわらのとしゆきといふひとよばひけり。",
         "honkoku": "その男のもと/なりける人を内記にありける藤はらの/としゆきといふ人よはひけり",
         "translation-ja": "その男のもとにいた女性に、内記の職についていた藤原敏行という人が求婚した。",
-        "translation-en": "A man named Fujiwara no Toshiyuki, who served as a naiki (secretary), courted the woman who lived with that man."
+        "translation-en": "To the woman who lived with that man, a man named Fujiwara no Toshiyuki, who served as a naiki (secretary), courted her.",
+        "phrase-gloss": [
+          {
+            "phrase": "その男のもとなりける人を、",
+            "gloss": "that man GEN under be PST person ACC",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "もと",
+                "gloss": "under"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "内記にありける藤原の敏行といふ人、よばひけり。",
+            "gloss": "naiki DAT exist PST Fujiwara GEN Toshiyuki QUOT person call PST",
+            "words": [
+              {
+                "word": "内記",
+                "gloss": "naiki"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "藤原",
+                "gloss": "Fujiwara.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "敏行",
+                "gloss": "Toshiyuki.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "よばひ",
+                "gloss": "court.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "DAT": "dative particle",
+          "GEN": "genitive particle",
+          "PERF": "perfective auxiliary",
+          "PST": "past tense",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "その男のもとにいた女性に、内記の職についていた藤原敏行という人が求婚した。",
+        "translation-en-natural": "A man named Fujiwara no Toshiyuki, who served as a naiki (secretary), courted the woman who lived with that man."
       },
       {
         "date": "20240927",
