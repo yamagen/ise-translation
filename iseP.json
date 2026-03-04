@@ -48389,22 +48389,87 @@
         "translation-en-natural": "However, she was young, so her writing was not very good, and she did not know words, nor did she compose poems; thus, the owner wrote a draft and had her write and send it."
       },
       {
-        "date": "20240927",
+        "date": [
+          20240927,
+          20260303
+        ],
         "id": 4,
         "text": "めでまどひにけり。",
         "kana": "めでまどひにけり。",
         "honkoku": "めてまとひに/けり",
-        "translation-ja": "相手はとても感心してしまいました。",
-        "translation-en": "She was very impressed."
+        "translation-ja": "愛でて夢中になってしまいました。",
+        "translation-en": "He was so delighted that she became infatuated.",
+        "phrase-gloss": [
+          {
+            "phrase": "めでまどひにけり。",
+            "gloss": "delighted infatuated PST",
+            "words": [
+              {
+                "word": "めで",
+                "gloss": "delighted"
+              },
+              {
+                "word": "まどひ",
+                "gloss": "infatuated"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "美しさに心を奪われてしまった。",
+        "translation-en-natural": "He became absorbed in it."
       },
       {
-        "date": "20240927",
+        "date": [
+          20240927,
+          20260304
+        ],
         "id": 5,
         "text": "さて男のよめる。",
         "kana": "さてをとこのよめる。",
         "honkoku": "さておとこのよめる/",
-        "translation-ja": "そこで、男が詠みました。",
-        "translation-en": "Then, the man sang."
+        "translation-ja": "そこで、男が詠んだ。",
+        "translation-en": "Then, the man sang.",
+        "phrase-gloss": [
+          {
+            "phrase": "さて男のよめる。",
+            "gloss": "then man GEN compose",
+            "words": [
+              {
+                "word": "さて",
+                "gloss": "then"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よめる",
+                "gloss": "compose"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "そこで、男が詠んだ。",
+        "translation-en-natural": "Then, the man sang."
       },
       {
         "date": "20240927",
