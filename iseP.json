@@ -48472,13 +48472,98 @@
         "translation-en-natural": "Then, the man sang."
       },
       {
-        "date": "20240927",
+        "date": [
+          20240927,
+          20260305
+        ],
         "id": 6,
         "poem": "つれづれの/ながめにまさる/涙河/袖のみひちて/あふよしもなし",
         "kana": "つれづれの/ながめにまさる/なみたかわ/そでのみひちて/あふよしもなし",
         "honkoku": "つれつれのなかめにまさるなみた川/s115l/袖のみひちてあふよしもなし/",
-        "translation-ja": "暇を持て余して眺めていると、涙の川が袖を濡らしてしまい、会うこともできません。",
-        "translation-en": "When I idly gaze, the river of tears surpasses all; my sleeves are soaked, and there is no way to meet."
+        "translation-ja": "ぼんやりと眺めているのにまさる、涙の川、袖のみ濡らして、会う方法もない。",
+        "translation-en": "Gazing absentmindedly, the river of tears that surpasses the long rain, only wetting my sleeves, with no way to meet you.",
+        "phrase-gloss": [
+          {
+            "phrase": "つれづれのながめにまさる涙川",
+            "gloss": "idle gazing surpass tears river",
+            "words": [
+              {
+                "word": "つれづれ",
+                "gloss": "idle"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ながめ",
+                "gloss": "gazing"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "まさる",
+                "gloss": "surpass"
+              },
+              {
+                "word": "涙",
+                "gloss": "tears"
+              },
+              {
+                "word": "川",
+                "gloss": "river"
+              }
+            ]
+          },
+          {
+            "phrase": "袖のみひちてあふよしもなし",
+            "gloss": "sleeve only wetting meet way NEG",
+            "words": [
+              {
+                "word": "袖",
+                "gloss": "sleeve"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "ひち",
+                "gloss": "wet.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "あふ",
+                "gloss": "meet.ATTR"
+              },
+              {
+                "word": "よし",
+                "gloss": "way"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "なし",
+                "gloss": "no.exist"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "ぼんやり眺めているよりも、涙は川のようにあふれ、袖ばかり濡れて、あなたに会うすべもない。",
+        "translation-en-natural": "My tears, surpassing idle gazing, flow like a river - soaking only my sleeves, with no way to meet you."
       },
       {
         "date": "20240927",
