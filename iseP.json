@@ -48566,13 +48566,71 @@
         "translation-en-natural": "My tears, surpassing idle gazing, flow like a river - soaking only my sleeves, with no way to meet you."
       },
       {
-        "date": "20240927",
+        "date": [
+          20240927,
+          20260306
+        ],
         "id": 7,
         "text": "返し、例の男、女にかはりて、",
         "kana": "かへし、れいのをとこ、をんなにかはりて、",
         "honkoku": "返しれいのおとこ女にかはりて/",
         "translation-ja": "返し、例の男が、女にかわって、",
-        "translation-en": "In response, , the same man as before, on behalf of the woman,"
+        "translation-en": "In response, , the same man as before, on behalf of the woman,",
+        "phrase-gloss": [
+          {
+            "phrase": "返し、例の男、女にかはりて、",
+            "gloss": "response, same man, woman on behalf of",
+            "words": [
+              {
+                "word": "返し",
+                "gloss": "response"
+              },
+              {
+                "word": "例の",
+                "gloss": "same"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "女",
+                "gloss": " woman"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "かはり",
+                "gloss": "substitute.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle"
+        },
+        "translation-ja-natural": "返し、例の男が、女にかわって、",
+        "translation-en-natural": "In response, the same man, on behalf of the woman,",
+        "notes-ja": [
+          {
+            "title": "「女にかはりて」",
+            "note": "「女にかはりて」は、挿入句である。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "'onna ni kawarite'",
+            "note": "'onna ni kawarite' is a parenthetical phrase."
+          }
+        ]
       },
       {
         "date": "20240928",
