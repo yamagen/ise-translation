@@ -48633,13 +48633,107 @@
         ]
       },
       {
-        "date": "20240928",
+        "date": [
+          20240928,
+          20260307
+        ],
         "id": 8,
         "poem": "あさみこそ/袖はひつらめ/涙河/身さへながると/聞かば頼まむ",
         "kana": "あさみこそ/そではひつらめ/なみだがは/みさへながると/きかばたのまむ",
         "honkoku": "あさみこそ袖はひつらめなみた河/身さへなかるときかはたのまむ/",
-        "translation-ja": "浅瀬であるからこそ、袖は濡れるでしょうが、涙の川に私の身まで流されると聞いたなら、お頼みもうします。",
-        "translation-en": "Because it is a shallow river, my sleeves will get wet, but if I hear that even my body is being swept away by the river of tears, I will humbly entrust myself to it."
+        "translation-ja": "浅いからこそ、袖は濡れるのでしょう。涙川。身さえ流れると聞くなら、頼みます。",
+        "translation-en": "Because it is shallow, sleeves get wet. River of tears, if even the body is said to be carried away, I rely on you",
+        "phrase-gloss": [
+          {
+            "phrase": "あさみこそ袖はひつらめ涙河",
+            "gloss": "shallow EMPH sleeve wet FUT tears.river.PN",
+            "words": [
+              {
+                "word": "あさみ",
+                "gloss": "shallow river"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "袖",
+                "gloss": "sleeve"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "ひつ",
+                "gloss": "wet.END"
+              },
+              {
+                "word": "らめ",
+                "gloss": "FUT.REALIS"
+              },
+              {
+                "word": "涙河",
+                "gloss": "tears.river.PN"
+              }
+            ]
+          },
+          {
+            "phrase": "身さへながると聞かば頼まむ",
+            "gloss": "body even carry.away.ADV QUOT hear CONJ entrust FUT",
+            "words": [
+              {
+                "word": "身",
+                "gloss": "body"
+              },
+              {
+                "word": "さえ",
+                "gloss": "even"
+              },
+              {
+                "word": "なが",
+                "gloss": "carry.away.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "聞か",
+                "gloss": "hear.IRR"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "頼ま",
+                "gloss": "entrust.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "EMPH": "emphatic particle",
+          "FUT": "future tense",
+          "IRR": "irrealis auxiliary",
+          "PERF": "perfective auxiliary",
+          "PN": "proper noun",
+          "CONJ": "conjunctive particle",
+          "QUOT": "quotative particle",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "浅いからこそ、袖は濡れるのでしょう。涙川。身までも流れてしまったととお聞きになったなら、どうぞお助けください。",
+        "translation-en-natural": "Because it is shallow, it may wet only the sleeves. But if you hear that, in this river of tears, even I have been swept away, please help me."
       },
       {
         "date": "20240928",
