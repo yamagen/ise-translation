@@ -48736,13 +48736,131 @@
         "translation-en-natural": "Because it is shallow, it may wet only the sleeves. But if you hear that, in this river of tears, even I have been swept away, please help me."
       },
       {
-        "date": "20240928",
+        "date": [
+          20240928,
+          20260308
+        ],
         "id": 9,
         "text": "といへりければ、男いといたうめでて、いままで、巻きて文箱に入れてありとなむいふなる。",
         "kana": "といへりければ、をとこいといたうめでて、いままで、まきてふばこにいれてありとなむいふなる。",
         "honkoku": "といへりけれはおとこいといたうめて/いままてまきてふはこにいれてありと/なむいふなる",
         "translation-ja": "と言ったところ、男はたいそう感嘆して、今でも、その文を巻いて文箱に入れているということでした。",
-        "translation-en": "After he sang, the man was very impressed, and it is said that he still has the letter rolled up and placed in a document box."
+        "translation-en": "After he sang, the man was very impressed, and it is said that he still has the letter rolled up and placed in a document box.",
+        "phrase-gloss": [
+          {
+            "phrase": "といへりければ、男いといたうめでて、",
+            "gloss": "when said that, man very intensely admire CONJ",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いへ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "いたう",
+                "gloss": "intensely"
+              },
+              {
+                "word": "めで",
+                "gloss": "admire.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "いままで、巻きて文箱に入れてありとなむいふなる。",
+            "gloss": "now until, roll CONJ document.box DAT put CONJ exist QUOT EMPH DECL.ATTR",
+            "words": [
+              {
+                "word": "いま",
+                "gloss": "now"
+              },
+              {
+                "word": "まで",
+                "gloss": "until"
+              },
+              {
+                "word": "巻き",
+                "gloss": "roll.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "文箱",
+                "gloss": "document.box"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "入れ",
+                "gloss": "put.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "なる",
+                "gloss": "DECL.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle",
+          "PERF": "perfective auxiliary",
+          "DECL": "declarative auxiliary",
+          "DAT": "dative particle",
+          "PST": "past tense",
+          "QUOT": "quotative particle",
+          "REALIS": "realis auxiliary"
+        },
+        "translation-ja-natural": "と言ったところ、男はたいそう感嘆して、今でも、その文を巻いて文箱に入れているということでした。",
+        "translation-en-natural": "After he sang, the man was very impressed, and it is said that he still has the letter rolled up and placed in a document box."
       },
       {
         "date": "20240928",
