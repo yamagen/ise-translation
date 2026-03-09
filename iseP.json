@@ -48905,13 +48905,59 @@
         "translation-en-natural": "The man sent a letter."
       },
       {
-        "date": "20240928",
+        "date": [
+          20240928,
+          20260310
+        ],
         "id": 11,
         "text": "得てのちのことなりけり。",
         "kana": "えてのちのことなりけり。",
         "honkoku": "えて/後のことなりけり",
-        "translation-ja": "得て後のことでした。",
-        "translation-en": "It was after he received her."
+        "translation-ja": "得て後のことであった。",
+        "translation-en": "It was an event after receiving.",
+        "phrase-gloss": [
+          {
+            "phrase": "得てのちのことなりけり。",
+            "gloss": "receive after GEN thing be PST",
+            "words": [
+              {
+                "word": "得",
+                "gloss": "receive.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "のち",
+                "gloss": "after"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "こと",
+                "gloss": "event"
+              },
+              {
+                "word": "なり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "GEN": "genitive particle",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "得て後のことであった。",
+        "translation-en-natural": "It was something that happened afterwards."
       },
       {
         "date": "20240928",
