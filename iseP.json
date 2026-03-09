@@ -48863,13 +48863,46 @@
         "translation-en-natural": "After he sang, the man was very impressed, and it is said that he still has the letter rolled up and placed in a document box."
       },
       {
-        "date": "20240928",
+        "date": [
+          20240928,
+          20260309
+        ],
         "id": 10,
         "text": "男、文おこせたり。",
         "kana": "をとこ、ふみをこせたり。",
         "honkoku": "おとこふみをこせたり",
-        "translation-ja": "男が手紙を書いた。",
-        "translation-en": "The man wrote a letter."
+        "translation-ja": "男が手紙をよこした。",
+        "translation-en": "The man sent a letter.",
+        "phrase-gloss": [
+          {
+            "phrase": "男、文おこせたり。",
+            "gloss": "man letter send PST",
+            "words": [
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "文",
+                "gloss": "letter"
+              },
+              {
+                "word": "おこせ",
+                "gloss": "send.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "男が手紙をよこした。",
+        "translation-en-natural": "The man sent a letter."
       },
       {
         "date": "20240928",
