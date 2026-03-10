@@ -7746,7 +7746,7 @@
               },
               {
                 "word": "べき",
-                "gloss": "should; suitable for"
+                "gloss": "should"
               }
             ]
           },
@@ -15678,7 +15678,7 @@
               },
               {
                 "word": "べき",
-                "gloss": "POT"
+                "gloss": "should"
               },
               {
                 "word": "に",
@@ -19204,7 +19204,7 @@
               },
               {
                 "word": "べき",
-                "gloss": "OBL"
+                "gloss": "should"
               },
               {
                 "word": "に",
@@ -30150,11 +30150,11 @@
               },
               {
                 "word": "かる",
-                "gloss": "be.ADV.F"
+                "gloss": "be.ADV"
               },
               {
                 "word": "べき",
-                "gloss": "should.MODAL"
+                "gloss": "should"
               }
             ]
           }
@@ -48960,13 +48960,74 @@
         "translation-en-natural": "It was something that happened afterwards."
       },
       {
-        "date": "20240928",
+        "date": [
+          20240928,
+          20260311
+        ],
         "id": 12,
         "text": "「雨のかりぬべきになむ見わづらひはべる。",
         "kana": "あめのかりぬべきになむみわづらひはべる。",
         "honkoku": "あめのふりぬへきに/なんみわつらひ侍る",
-        "translation-ja": "「雨がきっと降るに違いないと思い、どうしたものかと悩んでおります。",
-        "translation-en": "I am troubled because I believe it is certain that the rain will fall."
+        "translation-ja": "「雨が降りそうなので、見づらくございます。",
+        "translation-en": "\"As it seems about to rain, it is hard to see.",
+        "phrase-gloss": [
+          {
+            "phrase": "雨の降りぬべきになん、見わづらひ侍る。",
+            "gloss": "rain GEN fall PERF should DAT EMPH see difficult be",
+            "words": [
+              {
+                "word": "雨",
+                "gloss": "rain"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "降り",
+                "gloss": "fall.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              },
+              {
+                "word": "べき",
+                "gloss": "should"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "なん",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "わづらひ",
+                "gloss": "difficult.ADV"
+              },
+              {
+                "word": "侍る",
+                "gloss": "be.POL"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle",
+          "PERF": "perfective auxiliary",
+          "POL": "polite auxiliary",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "「雨が降りそうで、よく見えません。",
+        "translation-en-natural": "\"It looks like it's going to rain, so it's hard to see."
       },
       {
         "date": "20240928",
