@@ -49030,13 +49030,70 @@
         "translation-en-natural": "\"It looks like it's going to rain, so it's hard to see."
       },
       {
-        "date": "20240928",
+        "date": [
+          20240928,
+          20260312
+        ],
         "id": 13,
         "text": "身さいはひあらば、この雨はふらじ」",
         "kana": "みさいはひあらば、このあめはふらじ」",
         "honkoku": "身さいはひあらは/s116r/この雨はふらしと",
         "translation-ja": "わが身に幸せがあるならば、この雨は降りますまい」",
-        "translation-en": "If I am happy, then this rain will not fall.\""
+        "translation-en": "If I am happy, then this rain will not fall.\"",
+        "phrase-gloss": [
+          {
+            "phrase": "身さいはひあらば、この雨はふらじ」",
+            "gloss": "body happiness if this rain NEG fall FUT",
+            "words": [
+              {
+                "word": "身",
+                "gloss": "body"
+              },
+              {
+                "word": "さいはひ",
+                "gloss": "happiness"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "雨",
+                "gloss": "rain"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "ふら",
+                "gloss": "fall.IRR"
+              },
+              {
+                "word": "じ",
+                "gloss": "NEG.FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "NEG": "negative auxiliary",
+          "FUT": "future tense",
+          "IRR": "irrealis auxiliary",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "わが身に幸せがあるならば、この雨は降りますまい」",
+        "translation-en-natural": "If I am happy, then this rain will not fall.\""
       },
       {
         "date": "20240928",
