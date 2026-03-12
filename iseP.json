@@ -49096,13 +49096,101 @@
         "translation-en-natural": "If I am happy, then this rain will not fall.\""
       },
       {
-        "date": "20240928",
+        "date": [
+          20240928,
+          20260313
+        ],
         "id": 14,
         "text": "といへりければ、例の男、女にかはりてよみてやらす。",
         "kana": "といへりければ、れいのをとこ、をんなにかはりてよみてやらす。",
         "honkoku": "いへりけれはれいの男/女にかはりてよみてやらす/",
         "translation-ja": "と言ったので、例の男が女に代わって和歌を詠んで送ってきた。",
-        "translation-en": "When he said that, the same man as before, on behalf of the woman, sang a song and sent it to him."
+        "translation-en": "When he said that, the same man as before, on behalf of the woman, sang a song and sent it to him.",
+        "phrase-gloss": [
+          {
+            "phrase": "といへりければ、例の男、女にかはりてよみてやらす。",
+            "gloss": "when said that, same man, woman DAT substitute CONJ sing CONJ send CAU",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いへ",
+                "gloss": "say.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "例",
+                "gloss": "same"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "女",
+                "gloss": " woman"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "かはり",
+                "gloss": "substitute.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "よみ",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "やら",
+                "gloss": "send.IRR"
+              },
+              {
+                "word": "す",
+                "gloss": "CAU"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CAU": "causative auxiliary",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "IRR": "irrealis auxiliary",
+          "PERF": "perfective auxiliary",
+          "PST": "past tense",
+          "QUOT": "quotative particle",
+          "REALIS": "realis auxiliary"
+        },
+        "translation-ja-natural": "と言ったので、例の男が女に代わって和歌を詠んで送ってきた。",
+        "translation-en-natural": "When he said that, the same man as before, on behalf of the woman, sang a song and sent it to him."
       },
       {
         "date": "20240928",
