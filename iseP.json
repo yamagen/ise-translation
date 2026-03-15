@@ -6245,7 +6245,7 @@
               },
               {
                 "word": "くだき",
-                "gloss": "shatter"
+                "gloss": "shatter.ADV"
               },
               {
                 "word": "つる",
@@ -7287,7 +7287,7 @@
             "words": [
               {
                 "word": "いだし",
-                "gloss": "bring.forth"
+                "gloss": "bring.forth.ADV"
               },
               {
                 "word": "たり",
@@ -7782,7 +7782,7 @@
           "TOP": "topic (主題)",
           "QUOT": "quotative (引用)",
           "LOC": "locative (場所格)",
-          "PFV": "perfective (完了)",
+          "PFRF": "perfective (完了)",
           "CVB": "converb (連用形)",
           "IRR": "irrealis / volitional (意志・推量)"
         },
@@ -18075,15 +18075,15 @@
               },
               {
                 "word": "やれ",
-                "gloss": "send.REALIS.F"
+                "gloss": "send.REALIS"
               },
               {
                 "word": "り",
-                "gloss": "PERF"
+                "gloss": "PERF.ADV"
               },
               {
                 "word": "けれ",
-                "gloss": "EXCL.REALIS.F"
+                "gloss": "EXCL.REALIS"
               },
               {
                 "word": "ば",
@@ -28943,7 +28943,7 @@
               },
               {
                 "word": "り",
-                "gloss": "AUX"
+                "gloss": "PERF.ADV"
               },
               {
                 "word": "ける",
@@ -29541,7 +29541,7 @@
               },
               {
                 "word": "り",
-                "gloss": "PERF.ADV.F"
+                "gloss": "PERF.ADV"
               },
               {
                 "word": "けり",
@@ -35169,7 +35169,7 @@
           },
           {
             "phrase": "衣ぬぎてたまへりけり。",
-            "gloss": "robe脱ぐ-CONJ-give.HON-PST",
+            "gloss": "robe take.off CONJ give.HON PERF PST",
             "words": [
               {
                 "word": "衣",
@@ -49193,22 +49193,242 @@
         "translation-en-natural": "When he said that, the same man as before, on behalf of the woman, sang a song and sent it to him."
       },
       {
-        "date": "20240928",
+        "date": [
+          20240928,
+          20260314
+        ],
         "id": 15,
         "poem": "かずかずに/思ひ思はず/問ひがたみ/身をしる雨は/ふりぞまされる",
         "kana": "かずかずにおもひおもはずとひがたみみをしるあめはかりぞまされる",
         "honkoku": "かすかすに思ひおもはすとひかたみ/身をしる雨はふりそまされる/",
         "translation-ja": "あれこれと思い悩み、また思わないようにしても、尋ねにくくて、私の心を知っているかのように降る雨は、ますます強く降ってきています。",
-        "translation-en": "Worrying about this and that, trying not to think about it, I find it hard to ask. The rain, which seems to know my heart, is increasing in intensity."
+        "translation-en": "Worrying about this and that, trying not to think about it, I find it hard to ask. The rain, which seems to know my heart, is increasing in intensity.",
+        "phrase-gloss": [
+          {
+            "phrase": "かずかずに思ひ思はず問ひがたみ",
+            "gloss": "variously think think NEG ask difficult CONJ",
+            "words": [
+              {
+                "word": "かずかずに",
+                "gloss": "variously"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "思は",
+                "gloss": "think.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "問ひ",
+                "gloss": "ask.ADV"
+              },
+              {
+                "word": "がた",
+                "gloss": "difficult.ROOT"
+              },
+              {
+                "word": "み",
+                "gloss": "CONJ.REASON"
+              }
+            ]
+          },
+          {
+            "phrase": "身をしる雨はふりぞまされる",
+            "gloss": "body ACC know rain TOP fall EMPH increase SPONT PERF",
+            "words": [
+              {
+                "word": "身",
+                "gloss": "body"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "しる",
+                "gloss": "know.ADV"
+              },
+              {
+                "word": "雨",
+                "gloss": "rain"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "ふり",
+                "gloss": "(rain) fall.ADV"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "まさ",
+                "gloss": "increase.IRR"
+              },
+              {
+                "word": "れ",
+                "gloss": "SPONT.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ACC": "accusative particle",
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis auxiliary",
+          "EMPH": "emphatic particle",
+          "PERF": "perfective auxiliary",
+          "NEG": "negative auxiliary",
+          "ROOT": "root form",
+          "REASON": "conjunctive reason particle",
+          "PASS": "passive auxiliary",
+          "QUOT": "quotative particle",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "あれこれと思い悩み、また思わないようにしても、尋ねにくくて、私の心を知っているかのように降る雨は、ますます強く降ってきています。",
+        "translation-en-natural": "Worrying about this and that, trying not to think about it, I find it hard to ask. The rain, which seems to know my heart, is increasing in intensity."
       },
       {
-        "date": "20240928",
+        "date": [
+          20240928,
+          20260315
+        ],
         "id": 16,
         "text": "よみてやれりければ、みのもかさも取りあへで、しとどにぬれてまどひ来にけり。",
         "kana": "よみてやれりければ、みのもかさもとりあへで、しとどにぬれてまどひきにけり。",
         "honkoku": "とよみてやれりけれはみのもかさもとり/あへてしととにぬれてまとひきにけり/s116l/",
-        "translation-ja": "和歌を詠んでやったので、蓑も笠も用意する暇もなく、びしょ濡れになってあわてていきました。",
-        "translation-en": "Since he sent the song, without even having time to prepare a straw raincoat or hat, he hurriedly rushed over, completely drenched."
+        "translation-ja": "和歌を詠んでやったので、蓑も笠も用意する暇もなく、びしょ濡れになってあわててきた。",
+        "translation-en": "Since he sent the song, without even having time to prepare a straw raincoat or hat, he hurriedly rushed over, completely drenched.",
+        "phrase-gloss": [
+          {
+            "phrase": "よみてやれりければ、",
+            "gloss": "when sing CAU PST, ",
+            "words": [
+              {
+                "word": "よみ",
+                "gloss": "sing.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "やれ",
+                "gloss": "send.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "みのもかさも取りあへで、",
+            "gloss": "straw.raincoat also hat also prepare impossible CONJ",
+            "words": [
+              {
+                "word": "みの",
+                "gloss": "straw.raincoat"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "かさ",
+                "gloss": "hat"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "取り",
+                "gloss": "take.ADV"
+              },
+              {
+                "word": "あへ",
+                "gloss": "impossible.ADV"
+              },
+              {
+                "word": "で",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "しとどにぬれてまどひ来にけり。",
+            "gloss": "dripping.wet.ADV completely wet and rush come PERF PST",
+            "words": [
+              {
+                "word": "しとど",
+                "gloss": "dripping"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "ぬれ",
+                "gloss": "wet.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "まどひ",
+                "gloss": "rush.ADV"
+              },
+              {
+                "word": "来",
+                "gloss": "(come.ADV)"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CAU": "causative auxiliary",
+          "CONJ": "conjunctive particle",
+          "NEG": "negative auxiliary",
+          "PERF": "perfective auxiliary",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary",
+          "PN": "proper noun"
+        },
+        "translation-ja-natural": "和歌を詠んでやったので、蓑も笠も用意する暇もなく、びしょ濡れになってあわててきた。",
+        "translation-en-natural": "Since he sent the song, without even having time to prepare a straw raincoat or hat, he hurriedly rushed over, completely drenched."
       }
     ]
   },
