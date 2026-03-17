@@ -49438,13 +49438,63 @@
     "romaji": "namikosuiwa",
     "paragraph": [
       {
-        "date": "20240930",
+        "date": [
+          20240930,
+          20260316
+        ],
         "id": 1,
         "text": "むかし、女、人の心を恨みて、",
         "kana": "むかし、をんな、ひとのこころをうらみて、",
         "honkoku": "むかし女人の心をうらみて/",
         "translation-ja": "昔、女が、人の心を恨んで、",
-        "translation-en": "Once upon a time, a woman resented the heart of a person,"
+        "translation-en": "Once upon a time, a woman resented the heart of a person,",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、女、人の心を恨みて、",
+            "gloss": "once upon time, woman, person GEN heart ACC resent CONJ",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once upon a time"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "恨み",
+                "gloss": "resent.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "昔、女が、人の心を恨んで、",
+        "translation-en-natural": "Once upon a time, a woman resented the heart of a person,"
       },
       {
         "date": "20240930",
