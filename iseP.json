@@ -49497,13 +49497,106 @@
         "translation-en-natural": "Once upon a time, a woman resented the heart of a person,"
       },
       {
-        "date": "20240930",
+        "date": [
+          20240930,
+          20260317
+        ],
         "id": 2,
         "poem": "風吹けば/とはに浪こす/岩なれや/わが衣手の/かはくときなき",
         "kana": "かぜふけば/とはになみこす/いはなれや/わがころもでの/かはくときなき",
         "honkoku": "風ふけはとはになみこす岩なれや/わか衣手のかはくときなき/s116l/",
         "translation-ja": "風が吹くと、必ず波が寄せてくる岩のように、私の袖も乾くことがありません。",
-        "translation-en": "When the wind blows, like the rocks that the waves always crash upon, my sleeves are never dry."
+        "translation-en": "When the wind blows, like the rocks that the waves always crash upon, my sleeves are never dry.",
+        "phrase-gloss": [
+          {
+            "phrase": "風吹けば/とはに浪こす/岩なれや",
+            "gloss": "wind blow when, always wave crash rock be EMPH",
+            "words": [
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "吹け",
+                "gloss": "blow.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "とは",
+                "gloss": "eternal"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "浪",
+                "gloss": "wave"
+              },
+              {
+                "word": "こす",
+                "gloss": "crash.ATTR"
+              },
+              {
+                "word": "岩",
+                "gloss": "rock"
+              },
+              {
+                "word": "なれ",
+                "gloss": "be.REALIS"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          },
+          {
+            "phrase": "/わが衣手の/かはくときなき",
+            "gloss": "/my sleeves GEN dry time NEG exist",
+            "words": [
+              {
+                "word": "わが",
+                "gloss": "my"
+              },
+              {
+                "word": "衣手",
+                "gloss": "sleeves"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "かはく",
+                "gloss": "dry.ATTR"
+              },
+              {
+                "word": "とき",
+                "gloss": "time"
+              },
+              {
+                "word": "なき",
+                "gloss": "NEG.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "REALIS": "realis auxiliary",
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle",
+          "GEN": "genitive particle",
+          "NEG": "negative auxiliary",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "風が吹くと、必ず波が寄せてくる岩のように、私の袖も乾くことがありません。",
+        "translation-en-natural": "When the wind blows, like the rocks that the waves always crash upon"
       },
       {
         "date": "20240930",
