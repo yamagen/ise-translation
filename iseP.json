@@ -49676,13 +49676,116 @@
         "translation-en-natural": "And, as he said it as his usual phrase, a man who had heard it,"
       },
       {
-        "date": "20240930",
+        "date": [
+          20240930,
+          20260319
+        ],
         "id": 4,
         "poem": "宵ごとに/かはづのあまた/鳴く田には/水こそまされ/雨はふらねど",
         "kana": "よひごとに/かはづのあまた/なくたには/みづこそまされ/あめはふらねど",
         "honkoku": "よゐことにかはつのあまたなく田には/水こそまされあめはふらねと/s117r/",
-        "translation-ja": "毎晩、たくさんのカエルが鳴いている田んぼには、雨は降っていないけれど、水が増えている。",
-        "translation-en": "Every night, in the rice fields where many frogs croak, the water increases, even though no rain is falling."
+        "translation-ja": "宵ごとに蛙がたくさん鳴く田には水こそ増すが、雨は降らないけど。",
+        "translation-en": "Every evening, many frogs croak in the rice fields, where the water increases, even though it doesn't rain.",
+        "phrase-gloss": [
+          {
+            "phrase": "宵ごとに/かはづのあまた/鳴く田には",
+            "gloss": "evening every DAT, frog GEN many, croak rice.field LOC TOP",
+            "words": [
+              {
+                "word": "宵",
+                "gloss": "evening"
+              },
+              {
+                "word": "ごと",
+                "gloss": "every"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "かはづ",
+                "gloss": "frog"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "あまた",
+                "gloss": "many"
+              },
+              {
+                "word": "鳴く",
+                "gloss": "croak.ATTR"
+              },
+              {
+                "word": "田",
+                "gloss": "rice.field"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "/水こそまされ/雨はふらねど",
+            "gloss": "water EMPH increase EMPH rain TOP fall NEG even.though",
+            "words": [
+              {
+                "word": "水",
+                "gloss": "water"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "まされ",
+                "gloss": "increase.REALIS"
+              },
+              {
+                "word": "雨",
+                "gloss": "rain"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "ふら",
+                "gloss": "fall.IRR"
+              },
+              {
+                "word": "ね",
+                "gloss": "NEG.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "LOC": "locative particle",
+          "DAT": "dative particle",
+          "EMPH": "emphatic particle",
+          "GEN": "genitive particle",
+          "NEG": "negative auxiliary",
+          "REALIS": "realis auxiliary",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "宵ごとに蛙がたくさん鳴く田は水こそ増すばかりです。雨は降りませんけれども。",
+        "translation-en-natural": "Every evening, many frogs croak in the rice fields, where the water increases, even though it doesn't rain."
       }
     ]
   },
