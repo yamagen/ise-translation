@@ -49599,13 +49599,81 @@
         "translation-en-natural": "When the wind blows, like the rocks that the waves always crash upon"
       },
       {
-        "date": "20240930",
+        "date": [
+          20240930,
+          20260318
+        ],
         "id": 3,
         "text": "と、つねのことぐさにいひけるを、聞きおひける男、",
         "kana": "と、つねのことぐさにいひけるを、ききおひけるを、をとこ、",
         "honkoku": "とつねのことくさに言ひけるをきき/おひけるおとこ/",
-        "translation-ja": "と、いつもの口ぐせのように言ったのを、自分のこととして聞いた男が、",
-        "translation-en": "And, as he said it like his usual phrase, a man who took it personally listened."
+        "translation-ja": "と、いつもの口ぐせのように言ったのを、聞いてしまった男が、",
+        "translation-en": "And, as he said it as his usual phrase, a man who had heard it,",
+        "phrase-gloss": [
+          {
+            "phrase": "と、つねのことぐさにいひけるを、聞きおひける男、",
+            "gloss": "QUOT, usual GEN phrase DAT say PST CONJ listen follow PST man,",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "つね",
+                "gloss": "usual"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ことぐさ",
+                "gloss": "phrase"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              },
+              {
+                "word": "を",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "聞き",
+                "gloss": "listen.ADV"
+              },
+              {
+                "word": "おひ",
+                "gloss": "follow.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "PST": "past tense",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "と、いつもの口ぐせのように言ったのを、聞いてしまった男が、",
+        "translation-en-natural": "And, as he said it as his usual phrase, a man who had heard it,"
       },
       {
         "date": "20240930",
