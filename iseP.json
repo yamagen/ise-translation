@@ -12426,11 +12426,11 @@
               },
               {
                 "word": "よめ",
-                "gloss": "to compose"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "る",
-                "gloss": "PST"
+                "gloss": "PERF.ATTR"
               }
             ]
           }
@@ -15669,12 +15669,8 @@
                 "gloss": "mutually"
               },
               {
-                "word": "見",
+                "word": "見る",
                 "gloss": "see"
-              },
-              {
-                "word": "る",
-                "gloss": "ATTR"
               },
               {
                 "word": "べき",
@@ -19520,20 +19516,20 @@
               },
               {
                 "word": "よめ",
-                "gloss": "compose.ADV.F"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "る",
-                "gloss": "PERF"
+                "gloss": "PERF.ATTR"
               }
             ]
           }
         ],
         "abbreviations": {
-          "PERF": "perfective（完了：〜る）",
+          "PST": "past tense（過去：〜き）",
+          "ATTR": "attributive form（連体形：〜る）",
           "ADV.F": "adverbial form (連用形)",
-          "CONJ": "conjunctive（接続：〜て）",
-          "PFV": "perfective（完了：〜る）"
+          "CONJ": "conjunctive（接続：〜て）"
         },
         "translation-ja-natural": "男はひどく泣きながら詩を詠んだ。",
         "translation-en-natural": "The man, weeping deeply, composed a poem."
@@ -27078,11 +27074,11 @@
               },
               {
                 "word": "よめ",
-                "gloss": "compose.ADV.F"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "る",
-                "gloss": "PST.ATTR"
+                "gloss": "PERF.ATTR"
               }
             ]
           }
@@ -27709,11 +27705,11 @@
             "words": [
               {
                 "word": "よめ",
-                "gloss": "compose.ADV.F"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "る",
-                "gloss": "PST.ATTR"
+                "gloss": "PERF.ATTR"
               }
             ]
           }
@@ -28420,11 +28416,11 @@
             "words": [
               {
                 "word": "よめ",
-                "gloss": "compose.REALIS.F"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "る",
-                "gloss": "PERF"
+                "gloss": "PERF.ATTR"
               }
             ]
           }
@@ -29806,8 +29802,8 @@
         "translation-en": "The person who was the Captain of the Horse composed a poem.",
         "phrase-gloss": [
           {
-            "phrase": "馬の頭なりける人",
-            "gloss": "horse GEN Captain COP.PST.ATTR person",
+            "phrase": "馬の頭なりける人のよめる",
+            "gloss": "horse GEN Captain COP.PST.ATTR person GEN compose PST",
             "words": [
               {
                 "word": "馬",
@@ -29832,24 +29828,18 @@
               {
                 "word": "人",
                 "gloss": "person"
-              }
-            ]
-          },
-          {
-            "phrase": "のよめる",
-            "gloss": "GEN compose.PST.ATTR",
-            "words": [
+              },
               {
                 "word": "の",
                 "gloss": "GEN"
               },
               {
                 "word": "よめ",
-                "gloss": "compose.REALIS.F"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "る",
-                "gloss": "PST.ATTR"
+                "gloss": "PERF.ATTR"
               }
             ]
           }
@@ -31492,7 +31482,7 @@
               },
               {
                 "word": "よめ",
-                "gloss": "compose.ADV"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "る",
@@ -34093,8 +34083,8 @@
             ]
           },
           {
-            "phrase": "うち泣きて",
-            "gloss": "weeping,",
+            "phrase": "うち泣きてよめる。",
+            "gloss": "severely weep CONJ, compose PST",
             "words": [
               {
                 "word": "うち",
@@ -34107,20 +34097,14 @@
               {
                 "word": "て",
                 "gloss": "CONJ"
-              }
-            ]
-          },
-          {
-            "phrase": "よめる。",
-            "gloss": "composed (a poem).",
-            "words": [
+              },
               {
                 "word": "よめ",
-                "gloss": "compose.poem.REALIS"
+                "gloss": "compose.REALIS"
               },
               {
                 "word": "る",
-                "gloss": "PST.ATTR"
+                "gloss": "PERF.ATTR"
               }
             ]
           }
@@ -39688,7 +39672,7 @@
               },
               {
                 "word": "る",
-                "gloss": "PERF"
+                "gloss": "PERF.ATTR"
               }
             ],
             "notes": "POT^1..NEG^2: The auxiliary 'え' indicates potential element, expressing the ability to do something, while 'で' is a negative auxiliary, and together they convey the meaning of being unable to do something."
@@ -40026,7 +40010,7 @@
               },
               {
                 "word": "る",
-                "gloss": "PERF"
+                "gloss": "PERF.ATTR"
               }
             ]
           }
@@ -40710,7 +40694,7 @@
               },
               {
                 "word": "きこゆ",
-                "gloss": "say.HUM.ADV"
+                "gloss": "say.HUM.REALIS"
               },
               {
                 "word": "る",
@@ -45685,7 +45669,7 @@
               },
               {
                 "word": "隠る",
-                "gloss": "hide.ADV"
+                "gloss": "hide.REALIS"
               },
               {
                 "word": "る",
@@ -45863,12 +45847,8 @@
                 "gloss": "especially"
               },
               {
-                "word": "栄ゆ",
-                "gloss": "flourish.ADV"
-              },
-              {
-                "word": "る",
-                "gloss": "PERF.ATTR"
+                "word": "栄ゆる",
+                "gloss": "flourish.ATTR"
               },
               {
                 "word": "を",
@@ -45884,7 +45864,7 @@
               },
               {
                 "word": "詠め",
-                "gloss": "sing.ADV"
+                "gloss": "sing.REALIS"
               },
               {
                 "word": "る",
@@ -48680,7 +48660,7 @@
           },
           {
             "phrase": "身さへながると聞かば頼まむ",
-            "gloss": "body even carry.away.ADV QUOT hear CONJ entrust FUT",
+            "gloss": "body even carry.away QUOT hear CONJ entrust FUT",
             "words": [
               {
                 "word": "身",
@@ -48691,12 +48671,8 @@
                 "gloss": "even"
               },
               {
-                "word": "なが",
-                "gloss": "carry.away.ADV"
-              },
-              {
-                "word": "る",
-                "gloss": "PERF"
+                "word": "ながる",
+                "gloss": "carry.away"
               },
               {
                 "word": "と",
@@ -49276,7 +49252,7 @@
               },
               {
                 "word": "れ",
-                "gloss": "SPONT.ADV"
+                "gloss": "SPONT.REALIS"
               },
               {
                 "word": "る",
@@ -49795,13 +49771,85 @@
     "romaji": "hitokosoada ni",
     "paragraph": [
       {
-        "date": "20241001",
+        "date": [
+          20241001,
+          20260320
+        ],
         "id": 1,
         "text": "むかし、男、友だちの人を失へるがもとにやりける。",
         "kana": "むかし、をとこ、ともだちのひとをうしへるがもとにやりける。",
         "honkoku": "むかしおとこともたちの人をうしな/へるかもとにやりける/",
-        "translation-ja": "昔、男が、歌を人を失った友だちに贈りました。",
-        "translation-en": "Once upon a time, a man sent a song to a friend who had lost a loved one."
+        "translation-ja": "昔、男が、友だちの人を失った者のもとに贈った。",
+        "translation-en": "Once upon a time, a man sent it to one who had lost a person who was a friend.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、男、友だちの人を失へるがもとにやりける。",
+            "gloss": "once upon time, man, friend GEN person ACC lose PERF CONJ send PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once upon a time"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "友だち",
+                "gloss": "friend"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "失へ",
+                "gloss": "lose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "が",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "もと",
+                "gloss": "one"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "やり",
+                "gloss": "send.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "PST": "past tense",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "昔、男が、友だちの人を失った者のもとに贈った。",
+        "translation-en-natural": "Once upon a time, a man sent it to one who had lost a person who was a friend."
       },
       {
         "date": "20241001",
