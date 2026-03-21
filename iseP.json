@@ -49852,13 +49852,109 @@
         "translation-en-natural": "Once upon a time, a man sent it to one who had lost a person who was a friend."
       },
       {
-        "date": "20241001",
+        "date": [
+          20241001,
+          20260321
+        ],
         "id": 2,
         "poem": "花よりも/人こそあだに/なりにけれ/いづれをさきに/恋ひむとか見し",
         "kana": "はなよりも/ひとこそあだに/なりにけれ/いづれをさきに/こひむとかみし",
         "honkoku": "花よりも人こそあたになりにけれ/いつれをさきにこひんとかみし/s117r/",
         "translation-ja": "花よりも、人の心の方がはかなくなってしまいました。いったい、誰を先に恋い慕うべきかと見ていたのでしょうか。",
-        "translation-en": "More than the flowers, it is the human heart that has turned fickle. I wonder, who was I thinking of longing for first?"
+        "translation-en": "More than the flowers, it is the human heart that has turned fickle. I wonder, who was I thinking of longing for first?",
+        "phrase-gloss": [
+          {
+            "phrase": "花よりも/人こそあだに/なりにけれ",
+            "gloss": "flower than person EMPH fickle become PERF PST",
+            "words": [
+              {
+                "word": "花",
+                "gloss": "flower"
+              },
+              {
+                "word": "よりも",
+                "gloss": "than"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あだに",
+                "gloss": "fickle.ADV"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              }
+            ]
+          },
+          {
+            "phrase": "/いづれをさきに/恋ひむとか見し",
+            "gloss": "/which ACC first, love FUT QUOT Q see PST",
+            "words": [
+              {
+                "word": "いづれ",
+                "gloss": "which"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "さきに",
+                "gloss": "first"
+              },
+              {
+                "word": "恋ひ",
+                "gloss": "love.ADV"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "EMPH": "emphatic particle",
+          "FUT": "future auxiliary",
+          "PERF": "perfective auxiliary",
+          "PST": "past tense",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "花よりも、人の心の方がはかなくなってしまいました。いったい、誰を先に恋い慕うべきかと見ていたのでしょうか。",
+        "translation-en-natural": "More than the flowers, it is the human heart that has turned fickle. I wonder, who was I thinking of longing for first?"
       }
     ]
   },
