@@ -49964,13 +49964,58 @@
     "romaji": "tamamusubi",
     "paragraph": [
       {
-        "date": "20241002",
+        "date": [
+          20241002,
+          20260322
+        ],
         "id": 1,
         "text": "むかし、男、みそかに通ふ女ありけり。",
         "kana": "むかし、をとこ、みそかにかよふをんなありけり。",
         "honkoku": "昔おとこみそかにかよふ女ありけり",
         "translation-ja": "昔、男、密かに通う女がいた。",
-        "translation-en": "Once upon a time, there was a man who secretly had a relationship with a woman."
+        "translation-en": "Once upon a time, there was a man who secretly had a relationship with a woman.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、男、みそかに通ふ女ありけり。",
+            "gloss": "once upon time, man, secretly commute woman exist PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once upon a time"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "みそかに",
+                "gloss": "secretly"
+              },
+              {
+                "word": "通ふ",
+                "gloss": "commute"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "昔、男、密かに通う女がいた。",
+        "translation-en-natural": "Once upon a time, there was a man who secretly had a relationship witha woman."
       },
       {
         "date": "20241002",
