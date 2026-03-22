@@ -50018,13 +50018,104 @@
         "translation-en-natural": "Once upon a time, there was a man who secretly had a relationship witha woman."
       },
       {
-        "date": "20241002",
+        "date": [
+          20241002,
+          20260323
+        ],
         "id": 2,
         "text": "それがもとより、「今宵夢になむ見えたまひつる」といへりければ、男、",
         "kana": "そのをんなのところから、「こよいゆめになむみえたまひつる」といへりければ、をとこ、",
         "honkoku": "それ/s117r/かもとよりこよひ夢になん見え給ひ/つるといへりけれは男/",
-        "translation-ja": "その女が、「今宵、夢に見えました」と言ったので、男はこう詠みました。",
-        "translation-en": "The woman said, \"Tonight, you appeared in my dream,\" so the man sang,"
+        "translation-ja": "そのもとより、「今宵、夢に見えました」と言ったので、男は、",
+        "translation-en": "From its source, \"Tonight, I saw in my dream,\", so the message was conveyed, and the man, ...",
+        "phrase-gloss": [
+          {
+            "phrase": "それがもとより、「今宵夢になむ見えたまひつる」といへりければ、男、",
+            "gloss": "that GEN source from, tonight dream DAT EMPH see give PST QUOT say PERF PST CONJ,  man,",
+            "words": [
+              {
+                "word": "それ",
+                "gloss": "that"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "もと",
+                "gloss": "source"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "今宵",
+                "gloss": "tonight"
+              },
+              {
+                "word": "夢",
+                "gloss": "dream"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "見え",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "たまひ",
+                "gloss": "give.ADV"
+              },
+              {
+                "word": "つる",
+                "gloss": "PST"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いへ",
+                "gloss": "say.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "GEN": "genitive particle",
+          "PST": "past tense",
+          "QUOT": "quotative particle",
+          "REALIS": "realis auxiliary",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "そのもとより、「今宵、夢に見えました」と言ったので、男は、",
+        "translation-en-natural": "From the woman, \"Tonight, I saw you in my dream,\", so the message was conveyed, and the man, ..."
       },
       {
         "date": "20241002",
