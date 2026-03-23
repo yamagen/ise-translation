@@ -8794,7 +8794,7 @@
               },
               {
                 "word": "たり",
-                "gloss": "PRF"
+                "gloss": "PERF"
               },
               {
                 "word": "ける",
@@ -8812,7 +8812,7 @@
           }
         ],
         "abbreviations": {
-          "PRF": "perfect (完了)",
+          "PERF": "perfect (完了)",
           "PST": "past (過去)",
           "TEMP": "temporal conjunction (時を表す接続助詞)",
           "PUNCT": "punctuation mark (句読点)"
@@ -25264,18 +25264,17 @@
           }
         ],
         "abbreviations": {
-          "CAUS": "causative（使役）",
-          "PASS.PERF.ATTR": "passive perfect attributive（受身完了連体形）",
+          "CAUS": "causative voice",
+          "PASS": "passive（受身）",
+          "PERF": "perfect（完了）",
+          "ATTR": "attributive（連体形）",
           "IRR": "irrealis（未然形）",
           "PN": "proper noun（固有名詞）",
           "GEN": "genitive（属格）",
           "LOC": "locative（場所格）",
           "HON": "honorific（尊敬）",
           "ADV.F": "adverbial form（連用形）",
-          "CONJ": "conjunctive（接続）",
-          "PASS": "passive（受身）",
-          "PERF": "perfect（完了）",
-          "ATTR": "attributive（連体形）"
+          "CONJ": "conjunctive（接続）"
         },
         "translation-ja-natural": "その法要に参詣し、帰る途中で、山科の禅師の親王がおいでになり、その山科の宮に、滝を落とし、水を走らせるなどして、美しく造られた場所に参詣した。",
         "translation-en-natural": "After attending the memorial service, on the way back, Prince Zenji of Yamashina visited the Yamashina Palace, which had been beautifully constructed with features like waterfalls and flowing water."
@@ -50118,13 +50117,106 @@
         "translation-en-natural": "From the woman, \"Tonight, I saw you in my dream,\", so the message was conveyed, and the man, ..."
       },
       {
-        "date": "20241002",
+        "date": [
+          20241002,
+          20260324
+        ],
         "id": 3,
         "poem": "思ひあまり/いでにし魂の/あるならむ/夜ぶかく見えば/魂結びせよ",
         "kana": "おもひあまり/いでにしたまの/あるならむ/よふかくみえば/たまむすびせよ",
         "honkoku": "思ひあまり出にし玉のあるならん/夜ふかくみえはたまむすひせよ/s117l/",
-        "translation-ja": "思いが募りすぎて出ていった私の魂がまだ存在するならば、夜深くにそれが見えたら、魂を結び戻してください。",
-        "translation-en": "If the soul that left me due to overwhelming emotions still exists, and if it appears deep in the night, please bind it back to me."
+        "translation-ja": "思いが募りすぎて出ていった魂があるでしょう、夜深くに見えたら、魂結びしてください。",
+        "translation-en": "There would be a soul that has come out of me due to my overwhelming feelings. If you see it again in the deep night, please perform the soul-binding ritual.",
+        "phrase-gloss": [
+          {
+            "phrase": "思ひあまり/いでにし魂の/あるならむ",
+            "gloss": "thought too.much, come.out.PST soul GEN exist if",
+            "words": [
+              {
+                "word": "思ひ",
+                "gloss": "thought"
+              },
+              {
+                "word": "あまり",
+                "gloss": "too.much"
+              },
+              {
+                "word": "いで",
+                "gloss": "come.out.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "魂",
+                "gloss": "soul"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist"
+              },
+              {
+                "word": "なら",
+                "gloss": "exist.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "/夜ぶかく見えば/魂結びせよ",
+            "gloss": "/night deep see if, soul binding do IMP",
+            "words": [
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "ぶかく",
+                "gloss": "deep.ADV"
+              },
+              {
+                "word": "見え",
+                "gloss": "see.REALIS"
+              },
+              {
+                "word": "ば",
+                "glosss": "CONJ"
+              },
+              {
+                "word": "魂結び",
+                "gloss": "soul.binding"
+              },
+              {
+                "word": "せよ",
+                "gloss": "do.IMP"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "IMP": "imperative form",
+          "IRR": "irrelis form",
+          "PERF": "perfect aspect",
+          "PST": "past tense",
+          "REALIS": "realis form"
+        },
+        "translation-ja-natural": "思いが募りすぎて出ていった私の魂があるでしょう、夜深くに見えたら、魂結びしてください。",
+        "translation-en-natural": "There would be a soul that has come out of me due to my overwhelming feelings. If you see it again in the deep night, please perform the soul-binding ritual."
       }
     ]
   },
