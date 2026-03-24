@@ -8139,7 +8139,7 @@
               },
               {
                 "word": "出で",
-                "gloss": "come out"
+                "gloss": "come.out.REALIS"
               },
               {
                 "word": "たり",
@@ -9802,7 +9802,11 @@
         "translation-en-natural": "Once upon a time, a woman who hadn't been visited for many years, perhaps she wasn't very wise, followed the words of someone insignificant, went along with a man who had moved to another province, appeared before the man who had once seen her, and offered him food and such."
       },
       {
-        "date": "20240720,20250214,20250505",
+        "date": [
+          20240720,
+          20250214,
+          20250505
+        ],
         "id": 2,
         "text": "夜さり、",
         "kana": "よさり、",
@@ -9829,7 +9833,11 @@
         "translation-en-natural": "As night fell,"
       },
       {
-        "date": "20240720,20250214,20250505",
+        "date": [
+          20240720,
+          20250214,
+          20250505
+        ],
         "id": 3,
         "text": "「このありつる人たまへ」とあるじにいひければ、おこせたりけり。",
         "kana": "「このありつるひとたまへ」とあるじにいひければ、おこせたりけり。",
@@ -9899,11 +9907,11 @@
             "words": [
               {
                 "word": "おこせ",
-                "gloss": "send.HON"
+                "gloss": "send.hither.ADV"
               },
               {
                 "word": "たり",
-                "gloss": "PRF"
+                "gloss": "PERF.ADV"
               },
               {
                 "word": "けり",
@@ -9925,7 +9933,11 @@
         "translation-en-natural": "\"Could you send the person who was just here?\" he said to the master, and so she was sent over."
       },
       {
-        "date": "20240720,20250214,20250505",
+        "date": [
+          20240720,
+          20250214,
+          20250505
+        ],
         "id": 4,
         "text": "男、「われをばしらずや」とて、",
         "kana": "をとこ、「われをばしらずや」とて、",
@@ -13036,15 +13048,15 @@
               },
               {
                 "word": "あひ",
-                "gloss": "to meet"
+                "gloss": "meet.ADV"
               },
               {
                 "word": "しり",
-                "gloss": "to know"
+                "gloss": "know.ADV"
               },
               {
                 "word": "たり",
-                "gloss": "PERF"
+                "gloss": "PERF.ADV"
               },
               {
                 "word": "けり",
@@ -48863,7 +48875,7 @@
               },
               {
                 "word": "おこせ",
-                "gloss": "send.ADV"
+                "gloss": "send.REALIS"
               },
               {
                 "word": "たり",
@@ -50226,13 +50238,103 @@
     "romaji": "imadaminihito",
     "paragraph": [
       {
-        "date": "20241003",
+        "date": [
+          20241003,
+          20260325
+        ],
         "id": 1,
-        "text": "むかし、男、やむごとなき女のもとに、なくなりにけるをとぶらかやうにて、いびやりける。",
-        "kana": "むかし、をとこ、やむごとなきをんなのもとに、なくなりにけるをとぶらかやうにて、いびやりける。",
+        "text": "むかし、男、やむごとなき女のもとに、なくなりにけるをとぶらふやうにて、いひやりける。",
+        "kana": "むかし、をとこ、やむごとなきをんなのもとに、なくなりにけるをとぶらふやうにて、いひやりける。",
         "honkoku": "むかしおとこやむことなき女のもとに/なくなりにけるをとふらふやうにて/いひやりける/",
-        "translation-ja": "昔、男が身分の高い女性のもとに、亡くなった人を弔うために訪れ、こうして弔いの言葉を述べました。",
-        "translation-en": "Once upon a time, a man visited a noble woman to offer his condolences for someone who had passed away, and thus he expressed his mourning."
+        "translation-ja": "昔、男が高貴な女性のもとに、亡くなった人を弔うように、言って送った。",
+        "translation-en": "Once upon a time, a man, as if to mourn someone who had passed away, sent a poem to a noble woman.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、男、やむごとなき女のもとに、なくなりにけるをとぶらふやうにて、いひやりける。",
+            "gloss": "once upon time, man, noble woman GEN, pass.away PERF PST CONJ mourn like CONJ, say send PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once upon a time"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "やむごとなき",
+                "gloss": "noble.ATTR"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "もと",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "なくなり",
+                "gloss": "pass.away.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "とぶらふ",
+                "gloss": "mourn"
+              },
+              {
+                "word": "やうに",
+                "gloss": "like"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "やり",
+                "gloss": "send.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "LOC": "locative particle",
+          "PERF": "perfect aspect",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "昔、男が高貴な女性のもとに、亡くなった人を弔うように、言って送った。",
+        "translation-en-natural": "Once upon a time, a man, as if to mourn someone who had passed away, sent a poem to a noble woman."
       },
       {
         "date": "20241004",
