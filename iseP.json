@@ -50337,13 +50337,113 @@
         "translation-en-natural": "Once upon a time, a man, as if to mourn someone who had passed away, sent a poem to a noble woman."
       },
       {
-        "date": "20241004",
+        "date": [
+          20241004,
+          20260326
+        ],
         "id": 2,
         "poem": "いにしへは/ありもやしけむ/いまぞしる/まだ見ぬ人を/恋ふるものとは",
         "kana": "いにしへは/ありもやしけむ/いまぞしる/まだみぬひとを/こふるものとは",
         "honkoku": "いにしへは有もやしけん今そしる/またみぬ人をこふるものとは/s117l",
-        "translation-ja": "昔はあるかもしれませんが、今、まだ見ぬ人を恋うるものとは",
-        "translation-en": "In the past, it may have been so, but now, to love someone you have yet to meet,"
+        "translation-ja": "昔はあるかもしれません。今、まだ見ぬ人を恋するものとは",
+        "translation-en": "In the past, it may have been there. Now, I understand what it means to long for someone I have yet to meet.",
+        "phrase-gloss": [
+          {
+            "phrase": "いにしへは/ありもやしけむ/",
+            "gloss": "ancient.times TOP, exist also exist Q do PST,",
+            "words": [
+              {
+                "word": "いにしへ",
+                "gloss": "ancient.times"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "けむ",
+                "gloss": "PST.FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "いまぞしる/まだ見ぬ人を/恋ふるものとは",
+            "gloss": "nown EMPH know, yet see NEG person ACC, love thing QUOT TOP",
+            "words": [
+              {
+                "word": "まだ",
+                "gloss": "still"
+              },
+              {
+                "word": "いま",
+                "gloss": "now"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "しる",
+                "gloss": "know.ATTR"
+              },
+              {
+                "word": "見ぬ",
+                "gloss": "not see.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "恋ふる",
+                "gloss": "love.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "EMPH": "emphatic particle",
+          "FUT": "future auxiliary",
+          "PST": "past tense",
+          "QUOT": "quotative particle",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "昔はあったかもしれませんが、今でも、まだ見ぬ人を恋するものとは",
+        "translation-en-natural": "In the past, it would have been there though, but even now, to long for someone I have yet to meet,"
       },
       {
         "date": "20241004",
