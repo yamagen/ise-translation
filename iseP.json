@@ -25277,16 +25277,16 @@
         ],
         "abbreviations": {
           "CAUS": "causative voice",
-          "PASS": "passive（受身）",
-          "PERF": "perfect（完了）",
-          "ATTR": "attributive（連体形）",
           "IRR": "irrealis（未然形）",
           "PN": "proper noun（固有名詞）",
           "GEN": "genitive（属格）",
           "LOC": "locative（場所格）",
           "HON": "honorific（尊敬）",
           "ADV.F": "adverbial form（連用形）",
-          "CONJ": "conjunctive（接続）"
+          "CONJ": "conjunctive（接続）",
+          "PASS": "passive（受身）",
+          "PERF": "perfect（完了）",
+          "ATTR": "attributive（連体形）"
         },
         "translation-ja-natural": "その法要に参詣し、帰る途中で、山科の禅師の親王がおいでになり、その山科の宮に、滝を落とし、水を走らせるなどして、美しく造られた場所に参詣した。",
         "translation-en-natural": "After attending the memorial service, on the way back, Prince Zenji of Yamashina visited the Yamashina Palace, which had been beautifully constructed with features like waterfalls and flowing water."
@@ -50446,13 +50446,30 @@
         "translation-en-natural": "In the past, it would have been there though, but even now, to long for someone I have yet to meet,"
       },
       {
-        "date": "20241004",
+        "date": [
+          20241004,
+          20260327
+        ],
         "id": 3,
         "text": "返し、",
         "kana": "かへし、",
         "honkoku": "返し/",
         "translation-ja": "返し、",
-        "translation-en": "Response,"
+        "translation-en": "Response,",
+        "phrase-gloss": [
+          {
+            "phrase": "返し、",
+            "gloss": "response,",
+            "words": [
+              {
+                "word": "返し",
+                "gloss": "response"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "返し、",
+        "translation-en-natural": "Response,"
       },
       {
         "date": "20241004",
