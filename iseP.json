@@ -50472,13 +50472,114 @@
         "translation-en-natural": "Response,"
       },
       {
-        "date": "20241004",
+        "date": [
+          20241004,
+          20260328
+        ],
         "id": 4,
         "poem": "下紐の/しるしとするも/解けなくに/語るがごとは/恋ひずぞあるべき",
         "kana": "したひもの/しるしとするも/とけなくに/かたるがごとは/こひずぞあるべき",
         "honkoku": "したひものしるしとするもとけなくに/かたるかことはこひすそあるへき/",
-        "translation-ja": "下紐が解けないことを目印にしているのに、あたかもそれを語るように恋い慕わないなんて、ありえないことだ。",
-        "translation-en": "Even though the lower sash remains untied as a sign, how could I not long for you, as if I were to speak of it?"
+        "translation-ja": "下紐をしるしとするも、解けないのに、語るがごとくには、恋していないのだろう。",
+        "translation-en": "Though the lower sash-cord is taken as a sign, it does not come undone; one would not be in love as words would suggest.",
+        "phrase-gloss": [
+          {
+            "phrase": "下紐の/しるしとするも/解けなくに",
+            "gloss": "lower.sash.cord GEN, sign QUOT take.as CONC, come.undone NEG.ADV CONC",
+            "words": [
+              {
+                "word": "下紐",
+                "gloss": "lower.sash.cord"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "しるし",
+                "gloss": "sign"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "する",
+                "gloss": "take.as"
+              },
+              {
+                "word": "も",
+                "gloss": "CONC"
+              },
+              {
+                "word": "解け",
+                "gloss": "loose.IRR"
+              },
+              {
+                "word": "なく",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "CONC"
+              }
+            ]
+          },
+          {
+            "phrase": "語るがごとは/恋ひずぞあるべき",
+            "gloss": "say GEN like TOP, love.IRR NEG EMPH be should",
+            "words": [
+              {
+                "word": "語る",
+                "gloss": "say"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ごと",
+                "gloss": "like"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "恋ひ",
+                "gloss": "love.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "ある",
+                "gloss": "be"
+              },
+              {
+                "word": "べき",
+                "gloss": "should"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONC": "concessive particle",
+          "EMPH": "emphatic particle",
+          "GEN": "genitive particle",
+          "IRR": "irrealis form",
+          "NEG": "negation auxiliary",
+          "ADV": "adverbial form",
+          "QUOT": "quotative particle",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "下紐を恋のしるしと見るのに、それも解けないのだから、言うほどには恋していないのでしょう",
+        "translation-en-natural": "Since the lower sash-cord is taken as a sign of love, and yet it does not come undone, the love cannot be as much as the words suggest."
       },
       {
         "date": "20241004",
