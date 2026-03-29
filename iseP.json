@@ -50612,13 +50612,115 @@
         "translation-en-natural": "More response,"
       },
       {
-        "date": "20241004",
+        "date": [
+          20241004,
+          20260330
+        ],
         "id": 6,
         "poem": "恋しとは/さらにもいはじ/下紐の/解けむを人は/それとしらなむ",
         "kana": "こひしとはさらにもいはじしたひもの/とけむをひとはそれとしらなむ",
         "honkoku": "恋しとはさらにもいはししたひもの/とけむを人はそれとしらなん/s118r/",
         "translation-ja": "恋しいとはもう言いません。下紐が解けるのを、人はそれと知るでしょう。",
-        "translation-en": "I won't say that I miss you anymore. People will understand when they see my sash come undone."
+        "translation-en": "I won't say that I miss you anymore. People will understand when they see my sash come undone.",
+        "phrase-gloss": [
+          {
+            "phrase": "恋しとは/さらにもいはじ",
+            "gloss": "miss QUOT, at.all also say NEG",
+            "words": [
+              {
+                "word": "恋し",
+                "gloss": "miss"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "さらに",
+                "gloss": "at.all"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "いは",
+                "gloss": "say.IRR"
+              },
+              {
+                "word": "じ",
+                "gloss": "NEG.FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "/下紐の/解けむを人は/それとしらなむ",
+            "gloss": "/lower.sash.cord GEN, come.undone FUT ACC people TOP, that QUOT know FUT",
+            "words": [
+              {
+                "word": "下紐",
+                "gloss": "lower.sash.cord"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "解け",
+                "gloss": "come.undone.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "人",
+                "gloss": "people"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "それ",
+                "gloss": "that"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "しら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "なむ",
+                "gloss": "OPT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ATTR": "attributive form",
+          "IRR": "irrealis form",
+          "CONJ": "conjunctive particle",
+          "FUT": "future auxiliary",
+          "NEG": "negation auxiliary",
+          "QUOT": "quotative particle",
+          "OPT": "optative auxiliary",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "恋しいとはもう言いません。下紐が解けるのを、人はそれと知るでしょう。",
+        "translation-en-natural": "I won't say that I miss you anymore. People will understand when they see my sash come undone."
       }
     ]
   },
