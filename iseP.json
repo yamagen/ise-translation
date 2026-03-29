@@ -50582,13 +50582,34 @@
         "translation-en-natural": "Since the lower sash-cord is taken as a sign of love, and yet it does not come undone, the love cannot be as much as the words suggest."
       },
       {
-        "date": "20241004",
+        "date": [
+          20241004,
+          20260329
+        ],
         "id": 5,
         "text": "また、返し、",
         "kana": "また、かへし、",
         "honkoku": "又返し/",
         "translation-ja": "また、返し、",
-        "translation-en": "More response,"
+        "translation-en": "More response,",
+        "phrase-gloss": [
+          {
+            "phrase": "また、返し、",
+            "gloss": "more, response,",
+            "words": [
+              {
+                "word": "また",
+                "gloss": "more"
+              },
+              {
+                "word": "返し",
+                "gloss": "response"
+              }
+            ]
+          }
+        ],
+        "translation-ja-natural": "また、返し、",
+        "translation-en-natural": "More response,"
       },
       {
         "date": "20241004",
