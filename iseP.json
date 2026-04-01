@@ -50730,13 +50730,85 @@
     "romaji": "sumanoama",
     "paragraph": [
       {
-        "date": "20241005",
+        "date": [
+          20241005,
+          20260331
+        ],
         "id": 1,
         "text": "むかし、男、ねむごろにいひちぎりける女の、ことざまになりにければ、",
         "kana": "むかし、をとこ、ねむごろにいひちぎりけるをんなの、ことざまになりにければ、",
         "honkoku": "むかしおとこねんころにいひちきり/ける女のことさまになりにけれは/",
         "translation-ja": "昔、男が親しく契りを交わした女が、事情が変わってしまったので、",
-        "translation-en": "Once upon a time, the woman with whom a man had deeply pledged his love experienced a change in circumstances,"
+        "translation-en": "Once upon a time, the woman with whom a man had deeply pledged his love experienced a change in circumstances,",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、男、ねむごろにいひちぎりける女の、ことざまになりにければ、",
+            "gloss": "once upon time, man, deeply say pledge PST woman GEN, situation become PST CONJ,",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once upon a time"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "ねむごろに",
+                "gloss": "deeply"
+              },
+              {
+                "word": "いひちぎり",
+                "gloss": "say.pledge.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ことざま",
+                "gloss": "situation"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "なり",
+                "gloss": "become"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "PST": "past tense",
+          "REALIS": "realis auxiliary"
+        },
+        "translation-ja-natural": "昔、男が親しく契りを交わした女が、事情が変わってしまったので、",
+        "translation-en-natural": "Once upon a time, a man had deeply pledged his love to a woman, but the situation changed, and she drifted away to another man,"
       },
       {
         "date": "20241005",
