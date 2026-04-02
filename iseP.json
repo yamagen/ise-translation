@@ -50811,13 +50811,125 @@
         "translation-en-natural": "Once upon a time, a man had deeply pledged his love to a woman, but the situation changed, and she drifted away to another man,"
       },
       {
-        "date": "20241005",
+        "date": [
+          20241005,
+          20260401
+        ],
         "id": 2,
-        "poem": "須磨のあまの/塩焼くけがり/風をいたみ/思はぬかたに/たなびきにけり",
-        "kana": "すまのあまのしおやくけがりかぜをいたみおもはぬかたにたなびきにけり",
+        "poem": "須磨のあまの/塩焼くけぶり/風をいたみ/思はぬかたに/たなびきにけり",
+        "kana": "すまのあまのしおやくけぶりかぜをいたみおもはぬかたにたなびきにけり",
         "honkoku": "すまのあまのしほやく煙風をいたみ/s118r/おもはぬかたにたなひきにけり/s118l/",
         "translation-ja": "須磨の海女が塩を焼く煙が、風が強いので、思いがけない方向にたなびいてしまった。",
-        "translation-en": "The smoke from the salt-burning fires of the Suma divers, driven by the strong wind, drifted in an unexpected direction."
+        "translation-en": "The smoke from the salt-burning fires of the Suma divers, driven by the strong wind, drifted in an unexpected direction.",
+        "phrase-gloss": [
+          {
+            "phrase": "須磨のあまの/塩焼くけぶり/風をいたみ/",
+            "gloss": "Suma GEN diver GEN, salt burn smoke, wind OBJ strong REASON,",
+            "words": [
+              {
+                "word": "須磨",
+                "gloss": "Suma"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "あま",
+                "gloss": "diver"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "塩焼く",
+                "gloss": "salt burn"
+              },
+              {
+                "word": "けぶり",
+                "gloss": "smoke"
+              },
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "を",
+                "gloss": "OBJ"
+              },
+              {
+                "word": "いた",
+                "gloss": "strong.STEM"
+              },
+              {
+                "word": "み",
+                "gloss": "SUF.REASON"
+              }
+            ]
+          },
+          {
+            "phrase": "思はぬかたに/たなびきにけり",
+            "gloss": "think NEG direction LOC, drift PERF PST",
+            "words": [
+              {
+                "word": "思は",
+                "gloss": "think.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "かた",
+                "gloss": "direction"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "たなびき",
+                "gloss": "drift.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "GEN": "genitive particle",
+          "LOC": "locative particle",
+          "REASON": "reason auxiliary",
+          "SUF": "suffix",
+          "STEM": "stem form",
+          "NEG": "negation auxiliary",
+          "IRR": "irrealis form",
+          "PST": "past tense",
+          "OBJ": "object particle"
+        },
+        "translation-ja-natural": "須磨の海女が塩を焼く煙が、風が強いので、思いがけない方向にたなびいてしまった。",
+        "translation-en-natural": "The smoke from the salt-burning fires of the Suma divers drifted in an unexpected direction, driven by the strong wind.",
+        "notes-ja": [
+          {
+            "title": "「を...み」構文",
+            "note": "名詞に「を」を伴わせ、その後に形容詞語幹と「み」を続けることによって、全体として「...が...ので」「...が...ために」に近い理由を表す古典日本語の構文。「を...み」構文では、「を」は OBJ、「形容詞部分」は ...STEM、「み」は SUF.REASON とし、phrase-gloss line では REASON を出して句全体の理由機能を示す。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "「を...み」 construction",
+            "note": "A classical Japanese construction where a noun is followed by the particle \"を\", then an adjective stem and \"み\", together expressing a reason similar to \"because...\" or \"due to...\". In the \"を...み\" construction, \"を\" is marked as OBJ, the adjective part is marked as ...STEM, and \"み\" is marked as SUF.REASON. In the phrase-gloss line, REASON is used to indicate the reason function of the entire phrase."
+          }
+        ]
       }
     ]
   },
