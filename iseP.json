@@ -50939,13 +50939,66 @@
     "romaji": "mijikakikokoro",
     "paragraph": [
       {
-        "date": "20241006",
+        "date": [
+          20241006,
+          20260402
+        ],
         "id": 1,
         "text": "むかし、男、やもめにてゐて、",
         "kana": "むかし、をとこ、やもめにてゐて、",
         "honkoku": "むかしおとこやもめにてゐて/",
         "translation-ja": "昔、男が、やもめとなっていて、",
-        "translation-en": "Once upon a man who had become a widower,"
+        "translation-en": "Once upon a man who had become a widower,",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、男、やもめにてゐて、",
+            "gloss": "once upon time, man, widower LOC be CONJ,",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once upon a time"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "やもめ",
+                "gloss": "widower"
+              },
+              {
+                "word": "にて",
+                "gloss": "LOC"
+              },
+              {
+                "word": "ゐ",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "LOC": "locative particle"
+        },
+        "translation-ja-natural": "昔、男が、やもめとなっていて、",
+        "translation-en-natural": "Once upon a man who had become a widower,",
+        "notes-ja": [
+          {
+            "title": "やもめ",
+            "note": "「やもめ」は、配偶者を亡くした人を指す名詞で、男性の場合は「男やもめ」、女性の場合は「女やもめ」と呼ばれることが多い。ここでは、単に「やもめ」と表記されている。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "yamome",
+            "note": "\"Yamome\" refers to a person who has lost their spouse and can be used for either a man or a woman. In English, \"widow\" refers to a woman, while \"widower\" refers to a man. When gender is specified in Japanese, \"otoko yamome\" and \"onna yamome\" may be used. Here, it appears simply as \"yamome\"."
+          }
+        ]
       },
       {
         "date": "20241006",
