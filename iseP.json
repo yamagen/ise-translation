@@ -10532,11 +10532,11 @@
               },
               {
                 "word": "けれ",
-                "gloss": "PST"
+                "gloss": "PST.REALIS"
               },
               {
                 "word": "ど",
-                "gloss": "COND"
+                "gloss": "CONJ"
               }
             ]
           },
@@ -13184,11 +13184,11 @@
               },
               {
                 "word": "けれ",
-                "gloss": "PST.ATTR"
+                "gloss": "PST.REALIS"
               },
               {
                 "word": "ば",
-                "gloss": "COND"
+                "gloss": "CONJ"
               }
             ]
           }
@@ -19770,7 +19770,7 @@
               },
               {
                 "word": "ど",
-                "gloss": "although"
+                "gloss": "CONC"
               },
               {
                 "word": "心",
@@ -51001,7 +51001,10 @@
         ]
       },
       {
-        "date": "20241006",
+        "date": [
+          20241006,
+          20260403
+        ],
         "id": 2,
         "poem": "長からぬ/いのちのほどに/忘るるは/いかに短き/心なるらむ",
         "kana": "ながからぬいのちのほどにわするるはいかにみぢかきこころなるらん",
@@ -51017,13 +51020,204 @@
     "romaji": "serikakawagyaukafu",
     "paragraph": [
       {
-        "date": "20241005",
+        "date": [
+          20241005,
+          20260403
+        ],
         "id": 1,
         "text": "むかし、仁和の帝、芹河に行幸したまひける時、いまはさること、にげなく思ひけれど、もとつきにけることなれば、大鷹の鷹飼にてさぶらはせたまひける。",
         "kana": "むかし、にんなのみかど、せりかはにぎやうかふしたまひけるとき、いまはさること、にげなくおもひけれど、もとつきにけることなれば、おほたかのたかがひにてさぶらはせたまひける。",
         "honkoku": "昔仁和のみかとせり川に行かうし/給ける時いまはさることにけなく思けれ/ともとつきにけることなれはおほたかの/たかかひにてさふらはせたまひける",
-        "translation-ja": "昔、仁和天皇が芹河に行幸された時、今ではそうしたことは似つかわしくないと感じられたが、以前からの習慣であったので、大鷹の鷹狩りをなさっていた。",
-        "translation-en": "Once upon a time, when Emperor Ninna visited Seri River, although such a thing felt unfitting at the time, since it had been a long-standing tradition, he engaged in falconry with a large hawk."
+        "translation-ja": "昔、仁和の帝が芹河に行幸なさった時、今ではそのようなことは不似合いだと思ったけれど、以前からその役に付いていたことなので、大鷹の鷹飼としてお仕えになった。",
+        "translation-en": "Once upon a time, when the Emperor made a visit to Serikawa, although he felt that such a role no longer suited him, since he had long been attached to it, he served as the falconer of a large hawk.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし、仁和の帝、芹河に行幸したまひける時、",
+            "gloss": "once upon time Ninna GEN emperor Seri River LOC visit do HON PST when",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once upon a time"
+              },
+              {
+                "word": "仁和",
+                "gloss": "Ninna.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "帝",
+                "gloss": "emperor"
+              },
+              {
+                "word": "芹河",
+                "gloss": "Serikawa.PN"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "行幸",
+                "gloss": "visit"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "たまひ",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "時",
+                "gloss": "when"
+              }
+            ]
+          },
+          {
+            "phrase": "いまはさること、にげなく思ひけれど、",
+            "gloss": "now TOP such thing resemble SUF NEG think PST CONJ",
+            "words": [
+              {
+                "word": "いま",
+                "gloss": "now"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "さる",
+                "gloss": "such"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "似",
+                "gloss": "resemble.STEM"
+              },
+              {
+                "word": "げ",
+                "gloss": "SUF.APP"
+              },
+              {
+                "word": "なく",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "もとつきにけることなれば、",
+            "gloss": "previously attach PERF PST thing DECL CONJ",
+            "words": [
+              {
+                "word": "もと",
+                "gloss": "previously"
+              },
+              {
+                "word": "つき",
+                "gloss": "attach.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "なれ",
+                "gloss": "DECL.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "大鷹の鷹飼にてさぶらはせたまひける。",
+            "gloss": "large.hawk GEN falconer LOC CONJ serve CAUS HON PST",
+            "words": [
+              {
+                "word": "大鷹",
+                "gloss": "large.hawk"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "鷹飼",
+                "gloss": "falconer"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "さぶらは",
+                "gloss": "serve.IRR"
+              },
+              {
+                "word": "せ",
+                "gloss": "CAUS.ADV"
+              },
+              {
+                "word": "たまひ",
+                "gloss": "HON.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CAUS": "causative auxiliary",
+          "CONJ": "conjunctive particle/form",
+          "DECL": "declarative copula",
+          "GEN": "genitive particle",
+          "HON": "honorific auxiliary",
+          "LOC": "locative particle",
+          "NEG": "negative",
+          "PERF": "perfect",
+          "PST": "past tense",
+          "SUF": "suffix"
+        },
+        "translation-ja-natural": "昔、仁和の帝が芹河に行幸なさった時、今ではそのような役目は自分にはふさわしくないとお思いになったけれど、以前からその役に関わってきたことでもあるので、大鷹の鷹飼としてお仕えになった。",
+        "translation-en-natural": "Once upon a time, when the Emperor visited Serikawa, although he felt that such a role no longer suited him, since it was something with which he had long been involved, he served as the falconer of a large hawk."
       },
       {
         "date": "20241005",
