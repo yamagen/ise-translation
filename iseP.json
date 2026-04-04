@@ -51010,7 +51010,84 @@
         "kana": "ながからぬいのちのほどにわするるはいかにみぢかきこころなるらん",
         "honkoku": "なかからぬいのちのほとに忘るるは/いかにみしかき心なるらん/s118l/",
         "translation-ja": "長くはない命の間に、忘れるというのは、どれほど短い心なのだろうか。",
-        "translation-en": "During this not long life, to forget—what a fleeting heart it must be."
+        "translation-en": "During this not long life, to forget—what a fleeting heart it must be.",
+        "phrase-gloss": [
+          {
+            "phrase": "長から ぬ いのち の ほど に 忘るる は",
+            "gloss": "long NEG life GEN span LOC forget TOP",
+            "words": [
+              {
+                "word": "長から",
+                "gloss": "long.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "いのち",
+                "gloss": "life"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ほど",
+                "gloss": "span"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "忘るる",
+                "gloss": "forget.ATTR"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "いかに 短き 心 なる らむ",
+            "gloss": "how short heart DECL FUT",
+            "words": [
+              {
+                "word": "いかに",
+                "gloss": "how"
+              },
+              {
+                "word": "短き",
+                "gloss": "short.ATTR"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "なる",
+                "gloss": "DECL"
+              },
+              {
+                "word": "らむ",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "DECL": "declarative auxiliary",
+          "FUT": "future auxiliary",
+          "GEN": "genitive particle",
+          "LOC": "locative particle",
+          "NEG": "negation auxiliary",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "長くはない命の間に忘れてしまうとは、なんと情の短い心なのだろう。",
+        "translation-en-natural": "Within a life that is not long, to forget - what a short heart that must be."
       }
     ]
   },
@@ -51022,7 +51099,7 @@
       {
         "date": [
           20241005,
-          20260403
+          20260404
         ],
         "id": 1,
         "text": "むかし、仁和の帝、芹河に行幸したまひける時、いまはさること、にげなく思ひけれど、もとつきにけることなれば、大鷹の鷹飼にてさぶらはせたまひける。",
@@ -51032,7 +51109,7 @@
         "translation-en": "Once upon a time, when the Emperor made a visit to Serikawa, although he felt that such a role no longer suited him, since he had long been attached to it, he served as the falconer of a large hawk.",
         "phrase-gloss": [
           {
-            "phrase": "むかし、仁和の帝、芹河に行幸したまひける時、",
+            "phrase": "むかし 仁和 の 帝 芹河 に 行幸 し たまひ ける 時",
             "gloss": "once upon time Ninna GEN emperor Seri River LOC visit do HON PST when",
             "words": [
               {
@@ -51082,7 +51159,7 @@
             ]
           },
           {
-            "phrase": "いまはさること、にげなく思ひけれど、",
+            "phrase": "いま は さる こと 似 げ なく 思ひ けれ ど",
             "gloss": "now TOP such thing resemble SUF NEG think PST CONJ",
             "words": [
               {
@@ -51128,7 +51205,7 @@
             ]
           },
           {
-            "phrase": "もとつきにけることなれば、",
+            "phrase": "もと つき に ける こと なれ ば",
             "gloss": "previously attach PERF PST thing DECL CONJ",
             "words": [
               {
@@ -51162,7 +51239,7 @@
             ]
           },
           {
-            "phrase": "大鷹の鷹飼にてさぶらはせたまひける。",
+            "phrase": "大鷹 の 鷹飼 に て さぶらは せ たまひ ける",
             "gloss": "large.hawk GEN falconer LOC CONJ serve CAUS HON PST",
             "words": [
               {
