@@ -51297,13 +51297,65 @@
         "translation-en-natural": "Once upon a time, when the Emperor visited Serikawa, although he felt that such a role no longer suited him, since it was something with which he had long been involved, he served as the falconer of a large hawk."
       },
       {
-        "date": "20241005",
+        "date": [
+          20241005,
+          20260405
+        ],
         "id": 2,
         "text": "すり狩衣のたもとに書きつけける。",
         "kana": "すりかりごろものたもとにかきつけける。",
         "honkoku": "すり/かりきぬのたもとにかきつけける/s118l/",
-        "translation-ja": "摺狩衣の袂に歌を書きつけました。",
-        "translation-en": "He wrote a poem on the sleeve of his hunting robe."
+        "translation-ja": "摺狩衣の袂に歌を書きつけた。",
+        "translation-en": "He wrote a poem on the sleeve of his hunting robe.",
+        "phrase-gloss": [
+          {
+            "phrase": "すり 狩衣 の たもと に 書き つけ ける",
+            "gloss": "print hunting.robe GEN sleeve LOC write attach PST",
+            "words": [
+              {
+                "word": "すり",
+                "gloss": "print"
+              },
+              {
+                "word": "狩衣",
+                "gloss": "hunting.robe"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "たもと",
+                "gloss": "sleeve"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "書き",
+                "gloss": "write.ADV"
+              },
+              {
+                "word": "つけ",
+                "gloss": "attach.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "GEN": "genitive particle",
+          "LOC": "locative particle",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "摺狩衣の袂に歌を書きつけた。",
+        "translation-en-natural": "He wrote a poem on the sleeve of his hunting robe."
       },
       {
         "date": "20241005",
