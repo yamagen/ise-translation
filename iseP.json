@@ -13272,23 +13272,23 @@
           },
           {
             "phrase": "かくなせそ",
-            "gloss": "do not do such a thing",
+            "gloss": "thus PROH CAUS PROH ",
             "words": [
               {
                 "word": "かく",
-                "gloss": "like this"
+                "gloss": "thus"
               },
               {
                 "word": "な",
-                "gloss": "NEG.PROH"
+                "gloss": "PROH.PRE"
               },
               {
                 "word": "せ",
-                "gloss": "do (imperative)"
+                "gloss": "CAUS"
               },
               {
                 "word": "そ",
-                "gloss": "NEG.PART"
+                "gloss": "PROH.POST"
               }
             ]
           },
@@ -51364,7 +51364,92 @@
         "kana": "おきなさびひとなとがめそかりごろもきょうばかりとぞたづもなくなる",
         "honkoku": "おきなさひ人なとかめそかりころも/けふはかりとそたつもなくなる/",
         "translation-ja": "老いぼれてしまった私を、人々が咎めないでください。狩衣（かりごろも）を身にまとい、今日限りだと、鶴も鳴いているようです。",
-        "translation-en": "Do not criticize me for my old age. Wearing my hunting robes, the cranes seem to be crying as if this is the last day."
+        "translation-en": "Do not criticize me for my old age. Wearing my hunting robes, the cranes seem to be crying as if this is the last day.",
+        "phrase-gloss": [
+          {
+            "phrase": "おきな さび 人 な 咎め そ",
+            "gloss": "old man lonely person PROH blame PROH",
+            "words": [
+              {
+                "word": "おきな",
+                "gloss": "old man"
+              },
+              {
+                "word": "さび",
+                "gloss": "lonely"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "な",
+                "gloss": "PROH.PRE"
+              },
+              {
+                "word": "咎め",
+                "gloss": "blame.ADV"
+              },
+              {
+                "word": "そ",
+                "gloss": "PROH.POST"
+              }
+            ]
+          },
+          {
+            "phrase": "かりごろも 今日 ばかり と ぞ たづ も 鳴く なる",
+            "gloss": "hunting.robe today only EMPH crane also cry DECL",
+            "words": [
+              {
+                "word": "かりごろも",
+                "gloss": "hunting.robe"
+              },
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "ばかり",
+                "gloss": "only"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "たづ",
+                "gloss": "crane"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "鳴く",
+                "gloss": "cry.ATTR"
+              },
+              {
+                "word": "なる",
+                "gloss": "DECL"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "DECL": "declarative auxiliary",
+          "EMPH": "emphatic particle",
+          "POST": "postposed element",
+          "PRE": "preposed element",
+          "PROH": "prohibitive particle",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "老いぼれてしまった私を、人々が咎めないでください。狩衣を身にまとい、今日限りだと、鶴も鳴いているようです。",
+        "translation-en-natural": "Do not criticize me for my old age. Wearing my hunting robes, the cranes seem to be crying as if this is the last day."
       },
       {
         "date": "20241005",
