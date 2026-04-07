@@ -48904,8 +48904,8 @@
         "translation-en": "It was an event after receiving.",
         "phrase-gloss": [
           {
-            "phrase": "得てのちのことなりけり。",
-            "gloss": "receive after GEN thing be PST",
+            "phrase": "得 て のち の こと なり けり",
+            "gloss": "receive CONJ after GEN thing DECL PST",
             "words": [
               {
                 "word": "得",
@@ -48929,7 +48929,7 @@
               },
               {
                 "word": "なり",
-                "gloss": "be.ADV"
+                "gloss": "DECL.ADV"
               },
               {
                 "word": "けり",
@@ -48959,7 +48959,7 @@
         "translation-en": "\"As it seems about to rain, it is hard to see.",
         "phrase-gloss": [
           {
-            "phrase": "雨の降りぬべきになん、見わづらひ侍る。",
+            "phrase": "雨の降りぬ べき に なん、見 わづらひ 侍る",
             "gloss": "rain GEN fall PERF should DAT EMPH see difficult be",
             "words": [
               {
@@ -49095,7 +49095,7 @@
         "translation-en": "When he said that, the same man as before, on behalf of the woman, sang a song and sent it to him.",
         "phrase-gloss": [
           {
-            "phrase": "といへりければ、例の男、女にかはりてよみてやらす。",
+            "phrase": "と いへ り けれ ば、例 の 男 、 女 に かはり て よみ て やら す",
             "gloss": "when said that, same man, woman DAT substitute CONJ sing CONJ send CAU",
             "words": [
               {
@@ -51358,7 +51358,10 @@
         "translation-en-natural": "He wrote a poem on the sleeve of his hunting robe."
       },
       {
-        "date": "20241005",
+        "date": [
+          20241005,
+          20260406
+        ],
         "id": 3,
         "poem": "おきなさび/人なとがめそ/かりごろも/今日ばかりとぞ/鶴も鳴くなる",
         "kana": "おきなさびひとなとがめそかりごろもきょうばかりとぞたづもなくなる",
@@ -51440,6 +51443,7 @@
           }
         ],
         "abbreviations": {
+          "ADV": "adverbial form",
           "ATTR": "attributive form",
           "DECL": "declarative auxiliary",
           "EMPH": "emphatic particle",
@@ -51452,13 +51456,51 @@
         "translation-en-natural": "Do not criticize me for my old age. Wearing my hunting robes, the cranes seem to be crying as if this is the last day."
       },
       {
-        "date": "20241005",
+        "date": [
+          20241005,
+          20260407
+        ],
         "id": 4,
         "text": "おほやけの御けしきあしかりけり。",
         "kana": "おほやけのみけしきあしかりけり。",
         "honkoku": "おほやけの御けしきあしかりけり",
         "translation-ja": "帝のご機嫌は悪かった。",
-        "translation-en": "The emperor was in a bad mood."
+        "translation-en": "The emperor was in a bad mood.",
+        "phrase-gloss": [
+          {
+            "phrase": "おほやけ の 御けしき あしかり けり",
+            "gloss": "emperor GEN HON.mood bad PST",
+            "words": [
+              {
+                "word": "おほやけ",
+                "gloss": "emperor"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "御けしき",
+                "gloss": "HON.mood"
+              },
+              {
+                "word": "あしかり",
+                "gloss": "bad.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle",
+          "HON": "honorific auxiliary",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "帝のご機嫌は悪かった。",
+        "translation-en-natural": "The emperor was in a bad mood."
       },
       {
         "date": "20241005",
