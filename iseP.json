@@ -51503,13 +51503,118 @@
         "translation-en-natural": "The emperor was in a bad mood."
       },
       {
-        "date": "20241005",
+        "date": [
+          20241005,
+          20260408
+        ],
         "id": 5,
         "text": "おのがよはひを思ひけれど、若からぬ人は聞きおひけりとや。",
         "kana": "おのがよはひをおもひけれど、わかからぬひとはききおひけりとや。",
         "honkoku": "をの/かよはひをおもひけれとわかからぬ人は/ききおひけりとや/s119r/",
-        "translation-ja": "自分の年齢を気にしていたが、年を取った人はその話を自分のこととして考えたのでしょうか。",
-        "translation-en": "Though he was mindful of his own age, did the older person take the story personally and reflect on it?"
+        "translation-ja": "己れの年齢を思ったが、若くない人は聞き置いたのだろうか。",
+        "translation-en": "I thought about my own age, but did the older one listen and take it to oneself?",
+        "phrase-gloss": [
+          {
+            "phrase": "おの が よはひ を 思ひ けれ ど",
+            "gloss": "one's own age OBJ think PST CONJ",
+            "words": [
+              {
+                "word": "おの",
+                "gloss": "one's own"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よはひ",
+                "gloss": "age"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "若から ぬ 人 は 聞き おひ けり と や",
+            "gloss": "young NEG person TOP listen take PST QUOT Q",
+            "words": [
+              {
+                "word": "若から",
+                "gloss": "young.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "聞き",
+                "gloss": "listen.ADV"
+              },
+              {
+                "word": "おひ",
+                "gloss": "take.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle",
+          "NEG": "negation auxiliary",
+          "OBJ": "object particle",
+          "PERF": "perfect",
+          "QUOT": "quotative particle",
+          "REALIS": "realis auxiliary",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "私も自分自身の年齢を思いはしたが、若くない人は聞いて、自分のことだと考えていただけたのだろうか。",
+        "translation-en-natural": "I thought about my own age, but did the older person listen and take it to oneself, I wonder?",
+        "notes-ja": [
+          {
+            "title": "聞きおひけりとや",
+            "note": "「聞きおひけりとや」は、「聞き老ひ」と「聞き老ひ」かけているということらしい。「けりとや」年を取った人がその話を自分のこととして考えたのかどうかを疑問視する表現。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "聞きおひけりとや",
+            "note": "\"聞きおひけりとや\" seems to be a play on words with \"聞き老い\" (kiki-oi), which can mean both \"hearing about old age\" and \"hearing about getting old.\" The phrase \"けりとや\" is an expression that questions whether the older person took the story personally and reflected on it."
+          }
+        ]
       }
     ]
   },
