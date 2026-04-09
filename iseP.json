@@ -51624,13 +51624,63 @@
     "romaji": "miyakoshima",
     "paragraph": [
       {
-        "date": "20241006",
+        "date": [
+          20241006,
+          20260409
+        ],
         "id": 1,
         "text": "むかし、陸奥の国にて、男女すみけり。",
         "kana": "むかし、みちのくにて、をとこをんなすみけり。",
         "honkoku": "むかしみちのくににておとこ女すみけり/",
-        "translation-ja": "昔、陸奥の国に、男女が住んでいました。",
-        "translation-en": "Once upon a time, in the land of Michinoku, a man and a woman lived together."
+        "translation-ja": "昔、陸奥の国に、男女が住んでいた。",
+        "translation-en": "Once upon a time, in the land of Michinoku, a man and a woman lived together.",
+        "phrase-gloss": [
+          {
+            "phrase": "むかし みちのく にて をとこ 女 すみ けり",
+            "gloss": "once upon time Michinoku LOC CONJ man woman live PST",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "once upon a time"
+              },
+              {
+                "word": "みちのく",
+                "gloss": "Michinoku.PN"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "をとこ",
+                "gloss": "man"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "すみ",
+                "gloss": "live.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "LOC": "locative particle",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "昔、陸奥の国に、男女が住んでいた。",
+        "translation-en-natural": "Once upon a time, in the land of Michinoku, a man and a woman lived together."
       },
       {
         "date": "20241006",
