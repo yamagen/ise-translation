@@ -11,18 +11,14 @@ jq '[.[] | select(.paragraph != null) |
       + (if .poem != null then {poem: .poem} else {} end)
       + (if .kana != null then {kana: .kana} else {} end)
       + (if ."honkoku" != null then {"honkoku": ."honkoku"} else {} end)
-      + (if ."translation-ja" != null then {"translation-ja": ."translation-ja"} else {} end)
-      + (if ."translation-en" != null then {"translation-en": ."translation-en"} else {} end)
-      + (if ."phrase-gloss" != null then {"phrase-gloss": ."phrase-gloss"} else {} end)
-      + (if ."gloss-notes-ja" != null then {"gloss-notes-ja": ."gloss-notes-ja"} else {} end)
-      + (if ."gloss-notes-en" != null then {"gloss-notes-en": ."gloss-notes-en"} else {} end)
-      + (if ."abbreviations" != null then {"abbreviations": ."abbreviations"} else {} end)
+      + (if ."translation-ja-literal" != null then {"translation-ja-literal": ."translation-ja-literal"} else {} end)
       + (if ."translation-ja-natural" != null then {"translation-ja-natural": ."translation-ja-natural"} else {} end)
+      + (if ."translation-ja-reading" != null then {"translation-ja-reading": ."translation-ja-reading"} else {} end)
+      + (if ."translation-en-literal" != null then {"translation-en-literal": ."translation-en-literal"} else {} end)
       + (if ."translation-en-natural" != null then {"translation-en-natural": ."translation-en-natural"} else {} end)
-      + (if ."notes-ja" != null then {"notes-ja": ."notes-ja"} else {} end)
-      + (if ."notes-en" != null then {"notes-en": ."notes-en"} else {} end)
-#      + (if ."commentary-ja" != null then {"commentary-ja": ."commentary-ja"} else {} end)
-#      + (if ."commentary-en" != null then {"commentary-en": ."commentary-en"} else {} end)
+      + (if ."translation-en-reading" != null then {"translation-en-reading": ."translation-en-reading"} else {} end)
+      + (if ."word-gloss" != null then {"word-gloss": ."word-gloss"} else {} end)
+      + (if ."abbreviations" != null then {"abbreviations": ."abbreviations"} else {} end)
     ]
   }
-]' $1
+]' "$1"
