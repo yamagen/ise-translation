@@ -2,7 +2,7 @@
 
 ## The Tales of Ise translation dataset
 
-[![DOI](https://zenodo.org/badge/878207767.svg)](https://doi.org/10.5281/zenodo.13994482)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24493529.svg)](https://doi.org/10.5281/zenodo.24493529)
 ![Static Badge](https://img.shields.io/badge/json-passing-brightgreen)
 ![Static Badge](https://img.shields.io/badge/github-repository-blue?logo=github)
 
